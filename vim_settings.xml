@@ -14,16 +14,23 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/CreateOrderDialog.js" timestamp="1543930262023">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="112" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/CreateOrderDialog.js" timestamp="1543935861681">
+        <mark key="[" line="18" column="91" />
+        <mark key="]" line="18" column="91" />
+        <mark key="." line="18" column="91" />
+        <mark key="^" line="18" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CreateOrderForm.js" timestamp="1543929353350">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/test/CreateOrderDialog.spec.js" timestamp="1543937162336">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CreateOrderForm.js" timestamp="1543936017039">
         <mark key="'" line="87" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="120" column="18" />
+        <mark key="]" line="120" column="19" />
+        <mark key="." line="120" column="19" />
+        <mark key="^" line="120" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/textLineStyles.js" timestamp="1543845752846">
         <mark key="[" line="7" column="12" />
@@ -35,43 +42,44 @@
     </filemarks>
     <jumps>
       <jump line="88" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CreateOrderForm.js" />
+      <jump line="40" column="43" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/test/CreateOrderDialog.spec.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
+        <text encoding="base64">CiAgICAgICAgaXQoJ2NvbnRhaW5zIGEgTG9hZGluZ0JhcicsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGV4cGVjdChtb2RhbERpYWxvZykudG8uaGF2ZS5kZXNjZW5kYW50cyhMaW5lYXJQcm9ncmVzcykKICAgICAgICB9KQoKICAgICAgICBkZXNjcmliZSgndGhlIExvYWRpbmdCYXInLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBsZXQgbG9hZGluZ0JhcgoKICAgICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgICBsb2FkaW5nQmFyID0gY29tcG9uZW50LmZpbmQoTGluZWFyUHJvZ3Jlc3MpCiAgICAgICAgICB9KQoKICAgICAgICB9KQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
+        <text encoding="base64">CiAgICAgICAgaXQoJ2NvbnRhaW5zIGEgTG9hZGluZ0JhcicsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGV4cGVjdChtb2RhbERpYWxvZykudG8uaGF2ZS5kZXNjZW5kYW50cyhMaW5lYXJQcm9ncmVzcykKICAgICAgICB9KQoKICAgICAgICBkZXNjcmliZSgndGhlIExvYWRpbmdCYXInLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBsZXQgbG9hZGluZ0JhcgoKICAgICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgICBsb2FkaW5nQmFyID0gY29tcG9uZW50LmZpbmQoTGluZWFyUHJvZ3Jlc3MpCiAgICAgICAgICB9KQoKICAgICAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
+        <text encoding="base64">CiAgICAgICAgaXQoJ2NvbnRhaW5zIGEgTG9hZGluZ0JhcicsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGV4cGVjdChtb2RhbERpYWxvZykudG8uaGF2ZS5kZXNjZW5kYW50cyhMaW5lYXJQcm9ncmVzcykKICAgICAgICB9KQoKICAgICAgICBkZXNjcmliZSgndGhlIExvYWRpbmdCYXInLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBsZXQgbG9hZGluZ0JhcgoKICAgICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgICBsb2FkaW5nQmFyID0gY29tcG9uZW50LmZpbmQoTGluZWFyUHJvZ3Jlc3MpCiAgICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
+        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzL0xpbmVhclByb2dyZXNzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlKCdnaXZlbiBhICJyZXF1ZXN0T25nb2luZyIgcHJvcCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzL0xpbmVhclByb2dyZXNzJwo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogNDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gIkBtYXRlcmlhbC11aS9jb3JlL2VzL0xpbmVhclByb2dyZXNzL0xpbmVhclByb2dyZXNzIjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluZWFyUHJvZ3Jlc3MvPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPExpbmVhclByb2dyZXNzLz4K</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluZWFyUHJvZ3Jlc3MvPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>modalDialog</text>
       </register>
     </registers>
     <search>
