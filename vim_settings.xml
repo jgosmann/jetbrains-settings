@@ -1,0 +1,419 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/Workbench/Source/Modules/ClientConfiguration/ClientConfiguration.csproj" timestamp="1543583760383">
+        <mark key="'" line="23" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderUpdateServiceTest.cs" timestamp="1543593234816">
+        <mark key="'" line="150" column="12" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="151" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/IOrderUpdateService.cs" timestamp="1543582828905">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers.Tests/Controller/V2/ProductionOrdersControllerTest.cs" timestamp="1543591176903">
+        <mark key="[" line="59" column="44" />
+        <mark key="]" line="59" column="75" />
+        <mark key="." line="59" column="75" />
+        <mark key="^" line="59" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Repository/Krones.Lms.Core.Repository.LmsFramework/ProductionOrderRepository.cs" timestamp="1543593195019">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="126" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping/ToDto/ProductionOrderDtoMapping.cs" timestamp="1543590418261">
+        <mark key="'" line="60" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.Abstractions/ProductionOrder/IProductionOrderManager.cs" timestamp="1543588434233">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/DataMapping/NHibernate/HibernateDataMapper.cs" timestamp="1543833455806">
+        <mark key="'" line="151" column="35" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1543842853718">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/OrderUpdateValidationService.cs" timestamp="1543830715815">
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="57" column="24" />
+        <mark key="^" line="57" column="24" />
+        <mark key="." line="57" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Abstractions/Krones.Lms.Core.Abstractions/Service/Command/IProductionOrderCommandService.cs" timestamp="1543587027712">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/OrderUpdateValidationServiceTest.cs" timestamp="1543831289425">
+        <mark key="[" line="143" column="37" />
+        <mark key="]" line="143" column="52" />
+        <mark key="." line="143" column="52" />
+        <mark key="^" line="143" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/OrderUpdateValidationTestHelper.cs" timestamp="1543829583131">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="42" />
+        <mark key="^" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Channel/Krones.Lms.LiveData.Channel.SignalR/SignalRClientAbstract.cs" timestamp="1543867628639">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1543919164994">
+        <mark key="'" line="238" column="15" />
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="41" />
+        <mark key="^" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Process/Krones.Lms.LiveData.Process/Configuration/SignalR/SignalRConfiguration.json" timestamp="1543842823780">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.ProductionOrder.Tests/Manager/ProductionOrderManagerTest.cs" timestamp="1543593404801">
+        <mark key="'" line="181" column="41" />
+        <mark key="[" line="194" column="42" />
+        <mark key="]" line="195" column="84" />
+        <mark key="." line="195" column="84" />
+        <mark key="^" line="195" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/AttributeValidationService.cs" timestamp="1543830784526">
+        <mark key="[" line="72" column="41" />
+        <mark key="]" line="72" column="57" />
+        <mark key="." line="72" column="57" />
+        <mark key="^" line="72" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/OrderManagement/ProductionResponseGenerator/ProductionResponseGenerator/ProductionResponseGenerator/ProductionResponseGenerator.cs" timestamp="1543925657947" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Abstractions/Krones.Lms.Core.Abstractions/Repository/LmsFw/IProductionOrderRepository.cs" timestamp="1543587332611">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/IAttributeValidationService.cs" timestamp="1543830744145">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="77" />
+        <mark key="." line="12" column="77" />
+        <mark key="^" line="12" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/Service/ServiceLocator.cs" timestamp="1543919291003">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="14" />
+        <mark key="^" line="42" column="14" />
+        <mark key="." line="42" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" timestamp="1543593319735">
+        <mark key="'" line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderUpdateService.cs" timestamp="1543585191581">
+        <mark key="'" line="51" column="26" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="29" />
+        <mark key="." line="66" column="29" />
+        <mark key="^" line="66" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" timestamp="1543831994507">
+        <mark key="'" line="206" column="14" />
+        <mark key="[" line="433" column="0" />
+        <mark key="]" line="433" column="0" />
+        <mark key="." line="433" column="0" />
+        <mark key="^" line="326" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/ProductionOrderCommandTest.cs" timestamp="1543593215972">
+        <mark key="'" line="144" column="74" />
+        <mark key="[" line="144" column="74" />
+        <mark key="]" line="144" column="74" />
+        <mark key="." line="144" column="74" />
+        <mark key="^" line="144" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/ProductionOrdering/ProductionOrder.cs" timestamp="1543512206055">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/RouteValidator.cs" timestamp="1543830629966">
+        <mark key="'" line="42" column="20" />
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="31" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" timestamp="1543831757876">
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="348" column="0" />
+        <mark key="." line="348" column="0" />
+        <mark key="^" line="345" column="95" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" timestamp="1543832125758">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="168" column="58" />
+        <mark key="]" line="168" column="69" />
+        <mark key="^" line="168" column="69" />
+        <mark key="." line="168" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.ProductionOrder/Manager/ProductionOrderManager.cs" timestamp="1543588415582">
+        <mark key="[" line="81" column="101" />
+        <mark key="]" line="81" column="101" />
+        <mark key="." line="81" column="101" />
+        <mark key="^" line="81" column="101" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="25" column="18" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/OrderUpdateValidationServiceTest.cs" />
+      <jump line="24" column="18" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="10" column="4" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/EquatableValidationResult.cs" />
+      <jump line="68" column="68" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/OrderUpdateValidationService.cs" />
+      <jump line="102" column="112" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/UpdateableFieldsValidationServiceTest.cs" />
+      <jump line="234" column="25" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="37" column="17" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="82" column="33" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="83" column="33" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="84" column="33" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="131" column="31" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="139" column="85" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="157" column="32" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="165" column="64" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="163" column="14" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="19" column="24" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="843" column="16" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/ProductionOrdering/ProductionOrder.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/ProductionOrdering/ProductionOrder.cs" />
+      <jump line="70" column="4" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/ProductionOrdering/ProductionOrder.hbm.xml" />
+      <jump line="51" column="26" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderUpdateService.cs" />
+      <jump line="23" column="17" filename="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/Workbench/Source/Modules/ClientConfiguration/ClientConfiguration.csproj" />
+      <jump line="12" column="49" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" />
+      <jump line="81" column="39" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" />
+      <jump line="60" column="44" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping/ToDto/ProductionOrderDtoMapping.cs" />
+      <jump line="174" column="71" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.ProductionOrder.Tests/Manager/ProductionOrderManagerTest.cs" />
+      <jump line="209" column="20" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.ProductionOrder.Tests/Manager/ProductionOrderManagerTest.cs" />
+      <jump line="37" column="42" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.ProductionOrder.Tests/Manager/ProductionOrderManagerTest.cs" />
+      <jump line="51" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.ProductionOrder.Tests/Manager/ProductionOrderManagerTest.cs" />
+      <jump line="55" column="155" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.ProductionOrder.Tests/Manager/ProductionOrderManagerTest.cs" />
+      <jump line="144" column="74" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/ProductionOrderCommandTest.cs" />
+      <jump line="150" column="12" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderUpdateServiceTest.cs" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="141" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="147" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="175" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" />
+      <jump line="12" column="15" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" />
+      <jump line="54" column="39" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" />
+      <jump line="119" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V1/ProductionOrderController.cs" />
+      <jump line="181" column="41" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.ProductionOrder.Tests/Manager/ProductionOrderManagerTest.cs" />
+      <jump line="43" column="18" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="345" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="309" column="104" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="333" column="42" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="355" column="13" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="484" column="5" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="153" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="34" column="17" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="29" column="46" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="49" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="64" column="52" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="34" column="81" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/RouteValidator.cs" />
+      <jump line="22" column="26" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" />
+      <jump line="36" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" />
+      <jump line="37" column="52" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" />
+      <jump line="54" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" />
+      <jump line="70" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" />
+      <jump line="121" column="48" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/Validation/RouteValidatorTest.cs" />
+      <jump line="27" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/RouteValidator.cs" />
+      <jump line="42" column="20" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/Validation/RouteValidator.cs" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="552" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="325" column="14" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="29" column="49" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="206" column="14" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="317" column="81" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="343" column="10" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="205" column="14" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices.Tests/OrderCreationServiceTest.cs" />
+      <jump line="57" column="8" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="35" column="28" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="36" column="30" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="37" column="17" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="38" column="17" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="39" column="23" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="40" column="35" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="41" column="35" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="42" column="36" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="348" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/Extensions/Krones.Lms.Framework.Extensions.OrderManagementServices/OrderCreationService.cs" />
+      <jump line="151" column="35" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/DataMapping/NHibernate/HibernateDataMapper.cs" />
+      <jump line="238" column="15" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>80</text>
+      </register>
+      <register name="-" type="4">
+        <text>80</text>
+      </register>
+      <register name="/" type="4">
+        <text>Kda</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdG9UZXN0ID0gbmV3IFJvdXRlVmFsaWRhdG9yKGdpdmVuUm91dGVJZCwgZ2l2ZW5Qcm9kT3JkZXIuRXF1aXBtZW50LklELCBnaXZlbk1hdGVyaWFsLCBzZXJ2aWNlQ29udGV4dCk7CiAgICAgIHRvVGVzdC5WYWxpZGF0ZSgpLlNob3VsZEJlRXF1aXZhbGVudFRvKG5ldyBGYWlsZWRWYWxpZGF0aW9uUmVzdWx0KCJlcnJvciBtZXNzYWdlIikpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgb3JkZXJDcmVhdGlvblNlcnZpY2UuSW52b2tpbmcocG9tID0+IHBvbS5DcmVhdGVPcmRlcihkdG8pKQogICAgICAgICAgICAgIC5TaG91bGRUaHJvdzxFeGNlcHRpb24+KCkKICAgICAgICAgICAgICAuV2hlcmUoZSA9PiBlLk1lc3NhZ2UuQ29udGFpbnMoIk5vIGxpbmUgZm91bmQiKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIE9yZGVyQ3JlYXRpb25GYWlsc0lmTGluZUlzTm90SW5jbHVkZWRJblBvc3NpYmxlTGluZXMoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgT3JkZXJDcmVhdGlvbkZhaWxzSWZMaW5lSXNOb3RJbmNsdWRlZEluUG9zc2libGVMaW5lcygpCiAgICB7CiAgICAgIExpbmUgb3RoZXJMaW5lID0gbmV3IExpbmUge0lEID0gOTk5fTsKICAgICAgcHJvZHVjdFJvdXRlU2VydmljZU1vY2sKICAgICAgICAgICAgICAuU2V0dXAocyA9PiBzLkdldFBvc3NpYmxlTGluZXNGcm9tUHJvZHVjdChJdC5Jc0FueTxNYXRlcmlhbD4oKSkpCiAgICAgICAgICAgICAgLlJldHVybnMobmV3W10ge290aGVyTGluZX0pOwogICAgICBvcmRlckNyZWF0aW9uU2VydmljZS5JbnZva2luZyhwb20gPT4gcG9tLkNyZWF0ZU9yZGVyKGR0bykpCiAgICAgICAgICAgICAgLlNob3VsZFRocm93PEV4Y2VwdGlvbj4oKQogICAgICAgICAgICAgIC5XaGVyZShlID0+IGUuTWVzc2FnZS5Db250YWlucygiTm8gbGluZSBmb3VuZCIpKTsKICAgIH0KCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgRG9Qb3NzaWJsZUxpbmVzQ2hlY2socHJvZHVjdCwgbGluZUlkKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBEb1Bvc3NpYmxlTGluZXNDaGVjayhNYXRlcmlhbCBtYXRlcmlhbCwgaW50IGxpbmVJZCkKICAgIHsKICAgICAgdmFyIGxpbmVzID0gcm91dGVTdmMuR2V0UG9zc2libGVMaW5lc0Zyb21Qcm9kdWN0KG1hdGVyaWFsKTsKICAgICAgaWYgKCFsaW5lcy5BbnkobCA9PiBsLklEID09IGxpbmVJZCkpCiAgICAgIHsKICAgICAgICB0aHJvdyBuZXcgT3JkZXJDcmVhdGlvbkV4Y2VwdGlvbihTdHJpbmcuRm9ybWF0KCJ7MH0iLCB0cmFuc2xhdGlvblN2Yy5HZXRUcmFuc2xhdGlvblZhbHVlKCI0MDM0IiwgIk5vIGxpbmUgZm91bmQiKSkpOwogICAgICB9CiAgICB9Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFsaWRhdGlvbkV2YWx1YXRpb25TZXJ2aWNlLkV2YWx1YXRlVmFsaWRhdGlvblJlc3VsdHMobmV3IExpc3Q8SVZhbGlkYXRpb25SZXN1bHQ+CiAgICAgIHsKICAgICAgICAgICAgICBhdHRyaWJ1dGVWYWxpZGF0aW9uU2VydmljZS5WYWxpZGF0ZVF1YW50aXR5KGFtb3VudFBhcmFtKSwKICAgICAgICAgICAgICBhdHRyaWJ1dGVWYWxpZGF0aW9uU2VydmljZS5WYWxpZGF0ZUNvbW1lbnRMZW5ndGgoY29tbWVudCksCiAgICAgICAgICAgICAgYXR0cmlidXRlVmFsaWRhdGlvblNlcnZpY2UuVmFsaWRhdGVPcmRlck5hbWVMZW5ndGgoZXJwSWQpCiAgICAgIH0pOwoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgQ3JlYXRlUHJvZHVjdGlvbk9yZGVyV2l0aE1hdGVyaWFsKCA9ICkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBbVGVzdF0KICAgIHB1YmxpYyB2b2lkIE9yZGVyQ3JlYXRpb25WYWxpZGF0ZXNUaGF0Um91dGVBcHBsaWVzVG9MaW5lKCkKICAgIHsKICAgICAgdmFyIGR0byA9IG5ldyBPcmRlckNyZWF0aW9uRHRvKCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgSVJvdQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Kda</last-search>
+      <last-offset />
+      <last-pattern>Kda</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>production</entry>
+        <entry encoding="base64">XDxfcHJvZHVjdGlvbk9yZGVyTWFwcGluZ1w+</entry>
+        <entry>line</entry>
+        <entry encoding="base64">XDxyb3V0ZUlkUGFyYW1cPg==</entry>
+        <entry encoding="base64">XDxJc1JvdXRlVmFsaWRcPg==</entry>
+        <entry encoding="base64">XDxsaW5lXD4=</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVWYWxpZGF0aW9uU2VydmljZU1vY2tcPg==</entry>
+        <entry encoding="base64">XDxyb3V0ZUlkXD4=</entry>
+        <entry encoding="base64">XDxyb3V0aW5nU2VydmljZU1vY2tcPg==</entry>
+        <entry>Production</entry>
+        <entry encoding="base64">XDxwcm9kdWN0Um91dGVTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVWYWxpZGF0aW9uU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxMaW5lSWRcPg==</entry>
+        <entry encoding="base64">XDxQcm9kdWN0SWRcPg==</entry>
+        <entry encoding="base64">XDxDaGVja0FuZEluaXRpYWxpemVEYXRhXD4=</entry>
+        <entry encoding="base64">XDxzZXJ2aWNlQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDxEb1Bvc3NpYmxlTGluZXNDaGVja1w+</entry>
+        <entry>SaveOrUpdate</entry>
+        <entry>kda</entry>
+        <entry>Kda</entry>
+      </history-search>
+      <history-cmd>
+        <entry>let mapleader = 'ü'</entry>
+        <entry encoding="base64">bm9yZW1hcCD8WzxTcGFjZT4gPEMt/D4=</entry>
+        <entry>noremap</entry>
+        <entry>set timeoutlen=500</entry>
+        <entry>set timeoutlen=1000</entry>
+        <entry encoding="base64">bm1hcCD8WyA8Qy38Pg==</entry>
+        <entry>e!</entry>
+        <entry>e</entry>
+        <entry>W</entry>
+        <entry>ow</entry>
+        <entry>set shiftwidth</entry>
+        <entry>cw</entry>
+        <entry>wk</entry>
+        <entry>wo</entry>
+        <entry>wc</entry>
+        <entry>.,.+8w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>h omap</entry>
+        <entry>omap t l</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

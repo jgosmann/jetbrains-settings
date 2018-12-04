@@ -1,0 +1,22 @@
+<keymap version="1" name="Rider copy" parent="Rider">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl #10000d6" />
+  </action>
+  <action id="RiderUnitTestRunContextAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="r" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="VimInsertNewLineAbove">
+    <keyboard-shortcut first-keystroke="ctrl #10000fc" />
+  </action>
+  <action id="VimInsertNewLineBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000fc" />
+  </action>
+</keymap>
