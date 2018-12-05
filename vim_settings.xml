@@ -9,6 +9,15 @@
         <mark key="^" line="58" column="18" />
         <mark key="." line="58" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/TextInput/TextInput.js" timestamp="1544022635219" />
+      <file name="/Dummy.txt" timestamp="1544023021019">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/test/CreateOrderDialog.spec.js" timestamp="1544022841605">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CreateOrderForm.js" timestamp="1544006043782">
         <mark key="'" line="82" column="23" />
         <mark key="[" line="4" column="42" />
@@ -16,12 +25,12 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1544018133877">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="115" column="18" />
-        <mark key="]" line="115" column="19" />
-        <mark key="^" line="115" column="19" />
-        <mark key="." line="115" column="19" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1544022818574">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/test/CreateOrderForm.spec.js" timestamp="1544006290824">
         <mark key="'" line="46" column="30" />
@@ -48,6 +57,12 @@
         <mark key="]" line="13" column="15" />
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/AbstractStringInput/AbstractStringInput.js" timestamp="1544022526813">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="18" />
+        <mark key="." line="116" column="18" />
+        <mark key="^" line="116" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/ShrinkingLabel/ShrinkingLabel.js" timestamp="1544016918072">
         <mark key="[" line="56" column="30" />
@@ -91,46 +106,51 @@
       <jump line="73" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
       <jump line="74" column="35" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
       <jump line="72" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="37" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="167" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="52" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="7" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/test/CreateOrderDialog.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZGVzY3JpYmUoJ3RoZSBMb2FkaW5nQmFyJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgbGV0IGxvYWRpbmdCYXIKCiAgICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgbG9hZGluZ0JhciA9IGNvbXBvbmVudC5maW5kKExpbmVhclByb2dyZXNzKQogICAgICAgICAgfSkKICAgICAgICB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>click</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>focus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgnZm9jdXNlcyB0aGUgdGV4dGFyZWEgd2hlbiBjbGlja2VkJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgc2hyaW5raW5nTGFiZWwuc2ltdWxhdGUoJ2NsaWNrJykKICAgICAgICAgIGxldCB0ZXh0YXJlYSA9IGNvbXBvbmVudC5maW5kKCd0ZXh0YXJlYScpCiAgICAgICAgICBleHBlY3QoZG9jdW1lbnQuYWN0aXZlRWxlbWVudCkuZXF1YWxzKHRleHRhcmVhLmluc3RhbmNlKCkpCiAgICAgICAgfSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnLi4vLi4vdXRpbC9zdHlsZScKaW1wb3J0IHsgaXNOaWwsIHVuaXF1ZUlkIH0gZnJvbSAnbG9kYXNoJwppbXBvcnQgUmVhY3QsIHsgUHVyZUNvbXBvbmVudCB9IGZyb20gJ3JlYWN0JwppbXBvcnQgZm9udHMgZnJvbSAnLi4vLi4vc3R5bGUvZm9udHMnCmltcG9ydCB7IGdsb2JhbENvbG9yU3R5bGVzIH0gZnJvbSAnLi4vLi4vc3R5bGUvY29sb3JzJwppbXBvcnQgbGFiZWxlZENvbnRyb2xTdHlsZXMgZnJvbSAnLi4vLi4vc3R5bGUvbGFiZWxkQ29udHJvbFN0eWxlcycKaW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwppbXBvcnQgU2hyaW5raW5nTGFiZWwgZnJvbSAnLi4vU2hyaW5raW5nTGFiZWwvU2hyaW5raW5nTGFiZWwnCgovKioKICogQHR5cGVkZWYge2Z1bmN0aW9ufSBPblZhbHVlQ2hhbmdlQ2FsbGJhY2sKICogQHBhcmFtIHtzdHJpbmd9IHZhbHVlIC0gVGhlIG5ldyB2YWx1ZSBvZiB0aGUgdGV4dGFyZWEKICoKICogQHR5cGVkZWYge09iamVjdH0gQWRvcm5tZW50UGFyYW1ldGVycwogKiBAcHJvcGVydHkgeyhudW1iZXJ8c3RyaW5nKX0gbWF4V2lkdGggLSBUaGUgbWF4aW1hbCB3aWR0aCBvZiB0aGUgYWRvcm5tZW50LCBnaXZlbiBpbiBwaXhlbHMgKG51bWJlcikKICogb3IgaW4gYW5vdGhlciB1bml0IChzdHJpbmcpCiAqIEBwcm9wZXJ0eSB7c3RyaW5nfSB2YWx1ZSAtIFRoZSBhZG9ybm1lbnQgdGV4dAogKgogKiBUZXh0YXJlYSBjb21wb25lbnQgLSBBIHRleHRhcmVhIChpLmUuIG11bHRpLWxpbmUgdGV4dCBpbnB1dCkgY29tYmluZWQgd2l0aCBhbiBhbmltYXRlZCBsYWJlbAogKiBAcHJvcCB7QWRvcm5tZW50UGFyYW1ldGVyc30gYWRvcm5tZW50IC0gVGhlIHBhcmFtZXRlcnMgZGVzY3JpYmluZyB0aGUgYWRvcm5tZW50CiAqIEBwcm9wIHtzdHJpbmd9IGxhYmVsIC0gQSBsYWJlbAogKiBAcHJvcCB7bnVtYmVyfSBtYXhMZW5ndGggLSBUaGUgbWF4aW1hbCBudW1iZXIgb2YgaW5wdXQgY2hhcmFjdGVycwogKiBAcHJvcCB7ZnVuY3Rpb259IG9uQmx1ciAtIENhbGxiYWNrIHRvIGJlIGludm9rZWQgd2hlbiB0aGUgVGV4dGFyZWEgbG9zZXMgaXRzIGZvY3VzCiAqIEBwcm9wIHtPblZhbHVlQ2hhbmdlQ2FsbGJhY2t9IG9uVmFsdWVDaGFuZ2UgLSBDYWxsYmFjayB0byBiZSBpbnZva2VkIHdoZW4gdGhlIHZhbHVlIG9mIHRoZSB0ZXh0YXJlYSBnZXRzIGNoYW5nZWQKICogQHByb3Age3N0cmluZ30gdmFsdWUgLSBUaGUgdmFsdWUgb2YgdGhlIHRleHRhcmVhCiAqIEBwcm9wIHtvYmplY3R9IHN0eWxlIC0gQW4gQXBocm9kaXRlIHN0eWxlIG9iamVjdCB0byBiZSBpbmplY3RlZCB0byB0aGUgb3V0ZXJtb3N0IGRpdgogKi8KY2xhc3MgVGV4dGFyZWEgZXh0ZW5kcyBQdXJlQ29tcG9uZW50IHsKICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpCgogICAgdGhpcy5pZCA9IHVuaXF1ZUlkKCdsYWJlbGVkLWlucHV0LScpCgogICAgdGhpcy50ZXh0YXJlYSA9IFJlYWN0LmNyZWF0ZVJlZigpCgogICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgZm9jdXNlZDogZmFsc2UsCiAgICAgIGlucHV0SGFzSW50ZXJuYWxWYWx1ZTogZmFsc2UKICAgIH0KICB9CgogIF9pc0ZvY3VzZWQoKSB7CiAgICByZXR1cm4gdGhpcy5zdGF0ZS5mb2N1c2VkCiAgfQoKICBfaGFzSW5wdXRWYWx1ZSgpIHsKICAgIHJldHVybiB0aGlzLnN0YXRlLmlucHV0SGFzSW50ZXJuYWxWYWx1ZSB8fCAhIXRoaXMucHJvcHMudmFsdWUKICB9CgogIF9pc0xhYmVsU2hydW5rKCkgewogICAgcmV0dXJuIHRoaXMuX2lzRm9jdXNlZCgpIHx8IHRoaXMuX2hhc0lucHV0VmFsdWUoKQogIH0KCiAgX3JlbmRlckxhYmVsKCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9e2NzcyhsYWJlbGVkQ29udHJvbFN0eWxlcy50ZXh0YXJlYUxhYmVsT2Zmc2V0KX0+CiAgICAgICAgPFNocmlua2luZ0xhYmVsIGZvY3VzZWQ9e3RoaXMuX2lzRm9jdXNlZCgpfSBzaHJ1bms9e3RoaXMuX2lzTGFiZWxTaHJ1bmsoKX0gdGV4dD17dGhpcy5wcm9wcy5sYWJlbH0KICAgICAgICAgICAgICAgICAgICAgICAgaHRtbEZvcj17dGhpcy5pZH0gLz4KICAgICAgPC9kaXY+CiAgICApCiAgfQoKICBfaGFuZGxlVmFsdWVDaGFuZ2UodmFsdWUpIHsKICAgIGNvbnN0IHByb3BzVmFsdWUgPSB0aGlzLnByb3BzLnZhbHVlCgogICAgdGhpcy5zZXRTdGF0ZSh7IGlucHV0SGFzSW50ZXJuYWxWYWx1ZTogaXNOaWwocHJvcHNWYWx1ZSkgJiYgISF2YWx1ZSB9KQoKICAgIHRoaXMucHJvcHMub25WYWx1ZUNoYW5nZSh2YWx1ZSkKICB9CgogIF9oYW5kbGVCbHVyKCkgewogICAgdGhpcy5wcm9wcy5vbkJsdXIoKQogICAgdGhpcy5zZXRTdGF0ZSh7IGZvY3VzZWQ6IGZhbHNlIH0pCiAgfQoKICBfcmVuZGVySW5wdXQoKSB7CiAgICBjb25zdCB7IG1heExlbmd0aCwgdmFsdWUgfSA9IHRoaXMucHJvcHMKCiAgICByZXR1cm4gKAogICAgICA8dGV4dGFyZWEgaWQ9e3RoaXMuaWR9CiAgICAgICAgICAgICBjbGFzc05hbWU9e2NzcyhsYWJlbGVkQ29udHJvbFN0eWxlcy50ZXh0YXJlYSl9CiAgICAgICAgICAgICBvbkZvY3VzPXsoKSA9PiB0aGlzLnNldFN0YXRlKHsgZm9jdXNlZDogdHJ1ZSB9KX0KICAgICAgICAgICAgIG9uQmx1cj17KCkgPT4gdGhpcy5faGFuZGxlQmx1cigpfQogICAgICAgICAgICAgb25DaGFuZ2U9e2V2ZW50ID0+IHRoaXMuX2hhbmRsZVZhbHVlQ2hhbmdlKGV2ZW50LnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICBtYXhMZW5ndGg9e21heExlbmd0aCA/IG1heExlbmd0aCA6IHVuZGVmaW5lZH0KICAgICAgICAgICAgIHZhbHVlPXt2YWx1ZX0KICAgICAgICAgICAgIHJlZj17dGhpcy50ZXh0YXJlYX0KICAgICAgLz4KICAgICkKICB9CgogIF9yZW5kZXJBZG9ybm1lbnQoKSB7CiAgICBjb25zdCB7IGFkb3JubWVudCB9ID0gdGhpcy5wcm9wcwoKICAgIGlmICghYWRvcm5tZW50IHx8ICF0aGlzLl9pc0xhYmVsU2hydW5rKCkpIHsKICAgICAgcmV0dXJuIG51bGwKICAgIH0KCiAgICBjb25zdCB7IG1heFdpZHRoLCB2YWx1ZSB9ID0gYWRvcm5tZW50CgogICAgcmV0dXJuICgKICAgICAgPGxhYmVsIHRpdGxlPXt2YWx1ZX0gaHRtbEZvcj17dGhpcy5pZH0gc3R5bGU9e3sgbWF4V2lkdGggfX0KICAgICAgICAgICAgIG9uTW91c2VEb3duPXtlID0+IGUucHJldmVudERlZmF1bHQoKX0KICAgICAgICAgICAgIGNsYXNzTmFtZT17Y3NzKHN0eWxlcy5hZG9ybm1lbnQpfT4KICAgICAgICB7dmFsdWV9CiAgICAgIDwvbGFiZWw+CiAgICApCiAgfQoKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT17Y3NzKAogICAgICAgIHRoaXMucHJvcHMuc3R5bGUsIGxhYmVsZWRDb250cm9sU3R5bGVzLndyYXBwZXIsCiAgICAgICAgbGFiZWxlZENvbnRyb2xTdHlsZXMud3JhcHBlclRleHRhcmVhLAogICAgICAgIHRoaXMuX2lzRm9jdXNlZCgpICYmIGxhYmVsZWRDb250cm9sU3R5bGVzLndyYXBwZXJGb2N1c2VkCiAgICAgICl9IG9uQ2xpY2s9eygpID0+IHRoaXMudGV4dGFyZWEuY3VycmVudC5mb2N1cygpfQogICAgICBvbk1vdXNlRG93bj17ZSA9PiBlLnByZXZlbnREZWZhdWx0KCl9PgogICAgICAgIHt0aGlzLl9yZW5kZXJMYWJlbCgpfQogICAgICAgIHt0aGlzLl9yZW5kZXJJbnB1dCgpfQogICAgICAgIHt0aGlzLl9yZW5kZXJBZG9ybm1lbnQoKX0KICAgICAgPC9kaXY+CiAgICApCiAgfQoKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzKSB7CiAgICBpZiAoaXNOaWwocHJldlByb3BzLnZhbHVlKSAmJiAhaXNOaWwodGhpcy5wcm9wcy52YWx1ZSkpIHsKICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlucHV0SGFzSW50ZXJuYWxWYWx1ZTogZmFsc2UgfSkKICAgIH0KICAgIGlmIChwcmV2UHJvcHMudmFsdWUgJiYgaXNOaWwodGhpcy5wcm9wcy52YWx1ZSkpIHsKICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlucHV0SGFzSW50ZXJuYWxWYWx1ZTogdHJ1ZSB9KQogICAgfQogIH0KfQoKY29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGFkb3JubWVudDogewogICAgLi4uZm9udHMuc21hbGwsCiAgICAuLi5nbG9iYWxDb2xvclN0eWxlcy50ZXh0SW5wdXRBZG9ybm1lbnQsCiAgICBsaW5lSGVpZ2h0OiAnMTdweCcsCiAgICBtYXJnaW46IDAsCiAgICBwYWRkaW5nOiAnMTFweCA2cHggMHB4IDBweCcsCiAgICB1c2VyU2VsZWN0OiAnbm9uZScsCiAgICBjdXJzb3I6ICd0ZXh0JywKICAgIHdoaXRlU3BhY2U6ICdub3dyYXAnLAogICAgb3ZlcmZsb3c6ICdoaWRkZW4nLAogICAgdGV4dE92ZXJmbG93OiAnZWxsaXBzaXMnCiAgfQp9KQoKVGV4dGFyZWEucHJvcFR5cGVzID0gewogIGFkb3JubWVudDogUHJvcFR5cGVzLnNoYXBlKHsKICAgIHZhbHVlOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgICBtYXhXaWR0aDogUHJvcFR5cGVzLm9uZU9mVHlwZShbUHJvcFR5cGVzLm51bWJlciwgUHJvcFR5cGVzLnN0cmluZ10pCiAgfSksCiAgbWF4TGVuZ3RoOiBQcm9wVHlwZXMubnVtYmVyLAogIHZhbHVlOiBQcm9wVHlwZXMuc3RyaW5nLAogIGxhYmVsOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgb25CbHVyOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIG9uVmFsdWVDaGFuZ2U6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsCiAgc3R5bGU6IFByb3BUeXBlcy5vYmplY3QKfQoKVGV4dGFyZWEuZGVmYXVsdFByb3BzID0gewogIG9uVmFsdWVDaGFuZ2U6ICgpID0+IHVuZGVmaW5lZCwKICBvbkJsdXI6ICgpID0+IHVuZGVmaW5lZAp9CgpleHBvcnQgZGVmYXVsdCBUZXh0YXJlYQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZGVzY3JpYmUoJ3RoZSBMb2FkaW5nQmFyJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgbGV0IGxvYWRpbmdCYXIKCiAgICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgbG9hZGluZ0JhciA9IGNvbXBvbmVudC5maW5kKExpbmVhclByb2dyZXNzKQogICAgICAgICAgfSkKICAgICAgICB9KQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0ZXh0YXJlYSA9IGNvbXBvbmVudC5maW5kKCd0ZXh0YXJlYScpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IFRleHRhcmVh</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IGxhYmVsZWRDb250cm9sU3R5bGVzIGZyb20gJy4uLy4uL3N0eWxlL2xhYmVsZENvbnRyb2xTdHlsZXMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3NzIH0gZnJvbSAnLi4vLi4vdXRpbC9zdHlsZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgnd2hlbiBtb3VzZSBkb3duJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIAogICAgICAgICAgICBzaHJpbmtpbmdMYWJlbC5zaW11bGF0ZSgnbW91c2Vkb3duJykKICAgICAgICAgIH0pCiAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IEFic3RyYWN0U3RyaW5nSW5wdXQgZnJvbSAnLi4vQWJzdHJhY3RTdHJpbmdJbnB1dC9BYnN0cmFjdFN0cmluZ0lucHV0Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IFNocmlua2luZ0xhYmVsIGZyb20gJy4uL1Nocmlua2luZ0xhYmVsL1Nocmlua2luZ0xhYmVsJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgnd2hlbiBjbGlja2VkJywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgfSkKICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi9zdHlsZS9jb2xvcnMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hyaW5raW5nTGFiZWwuc2ltdWxhdGUoJ2NsaWNrJykK</text>
+        <text encoding="base64">aW1wb3J0IGZvbnRzIGZyb20gJy4uLy4uL3N0eWxlL2ZvbnRzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -173,6 +193,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
