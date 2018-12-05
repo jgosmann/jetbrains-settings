@@ -3,98 +3,143 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/style/measurements.js" timestamp="1543847208466">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/positionStyles.js" timestamp="1544008444639">
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="58" column="24" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="58" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/OrderHeader.js" timestamp="1543846678242">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="17" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CreateOrderForm.js" timestamp="1544006043782">
+        <mark key="'" line="82" column="23" />
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/CreateOrderDialog.js" timestamp="1543935861681">
-        <mark key="[" line="18" column="91" />
-        <mark key="]" line="18" column="91" />
-        <mark key="." line="18" column="91" />
-        <mark key="^" line="18" column="66" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1544007972256">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="76" column="56" />
+        <mark key="." line="76" column="56" />
+        <mark key="^" line="76" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/test/CreateOrderDialog.spec.js" timestamp="1543939920476">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/test/CreateOrderForm.spec.js" timestamp="1544006290824">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="131" column="43" />
+        <mark key="]" line="131" column="46" />
+        <mark key="." line="131" column="46" />
+        <mark key="^" line="131" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CreateOrderForm.js" timestamp="1543936017039">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="120" column="18" />
-        <mark key="]" line="120" column="19" />
-        <mark key="." line="120" column="19" />
-        <mark key="^" line="120" column="19" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" timestamp="1544005790332">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="167" column="37" />
+        <mark key="]" line="167" column="41" />
+        <mark key="." line="167" column="41" />
+        <mark key="^" line="167" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1543939180989" />
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/textLineStyles.js" timestamp="1543845752846">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="13" />
-        <mark key="n" line="4" column="2" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/labeldControlStyles.js" timestamp="1544008343236">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Button/test/Button.spec.js" timestamp="1543938394249" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CommentTextarea.js" timestamp="1544007658253">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CreateOrderForm.js" />
-      <jump line="40" column="43" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderDialog/test/CreateOrderDialog.spec.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="6" column="66" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="9" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="33" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="63" column="34" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="97" column="36" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="163" column="21" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="5" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="19" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="76" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="107" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="137" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
+      <jump line="154" column="7" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="48" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="71" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="110" column="21" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="129" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="43" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="82" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/CreateOrderForm.js" />
+      <jump line="3" column="46" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/test/CreateOrderForm.spec.js" />
+      <jump line="131" column="46" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/test/CreateOrderForm.spec.js" />
+      <jump line="6" column="44" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/test/CreateOrderForm.spec.js" />
+      <jump line="46" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CreateOrderForm/test/CreateOrderForm.spec.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICBkZXNjcmliZShnaXZlKQo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICBkZXNjcmliZShnaXZlKQo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMzIsCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>input</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxsYWJlbGVkQ29udHJvbFN0eWxlc1w+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC4uLmZvbnRzLmxhcmdlLAogICAgLi4uZ2xvYmFsQ29sb3JTdHlsZXMudGV4dElucHV0SW5wdXQsCiAgICBsaW5lSGVpZ2h0OiAnMjBweCcsCiAgICBwYWRkaW5nOiAnOHB4IDZweCAwcHggNnB4JywKICAgIG1pbldpZHRoOiAwLAogICAgbWFyZ2luOiAwLAogICAgaGVpZ2h0OiAyOCwKICAgIHdpZHRoOiAwLAogICAgYm9yZGVyOiAnbm9uZScsCiAgICBiYWNrZ3JvdW5kOiAnbm9uZScsCiAgICBib3hTaGFkb3c6ICdub25lJywKICAgIHRyYW5zaXRpb246ICdpbml0aWFsJywKICAgICc6Oi1tcy1jbGVhcic6IHsKICAgICAgZGlzcGxheTogJ25vbmUnCiAgICB9LAogICAgJzpmb2N1cyc6IHsKICAgICAgb3V0bGluZTogMAogICAgfSwKICAgIGZsZXhHcm93OiAxCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogMzIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMzIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgaXQoJ2NvbnRhaW5zIGEgTG9hZGluZ0JhcicsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGV4cGVjdChtb2RhbERpYWxvZykudG8uaGF2ZS5kZXNjZW5kYW50cyhMaW5lYXJQcm9ncmVzcykKICAgICAgICB9KQoKICAgICAgICBkZXNjcmliZSgndGhlIExvYWRpbmdCYXInLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBsZXQgbG9hZGluZ0JhcgoKICAgICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgICBsb2FkaW5nQmFyID0gY29tcG9uZW50LmZpbmQoTGluZWFyUHJvZ3Jlc3MpCiAgICAgICAgICB9KQoKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMjgsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgaXQoJ2NvbnRhaW5zIGEgTG9hZGluZ0JhcicsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGV4cGVjdChtb2RhbERpYWxvZykudG8uaGF2ZS5kZXNjZW5kYW50cyhMaW5lYXJQcm9ncmVzcykKICAgICAgICB9KQoKICAgICAgICBkZXNjcmliZSgndGhlIExvYWRpbmdCYXInLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBsZXQgbG9hZGluZ0JhcgoKICAgICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgICBsb2FkaW5nQmFyID0gY29tcG9uZW50LmZpbmQoTGluZWFyUHJvZ3Jlc3MpCiAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIC4uLmlucHV0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzL0xpbmVhclByb2dyZXNzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaWJlKCdnaXZlbiBhICJyZXF1ZXN0T25nb2luZyIgcHJvcCcpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIC4uLmZvbnRzLmZvbnRzLmxhcmdlLAogICAgLi5nbG9iYWxDb2xvclN0eWxlcy50ZXh0SW5wdXRJbnB1dCw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogNDAK</text>
+        <text encoding="base64">aW1wb3J0IFRleHRhcmVhIGZyb20gIkBtYXRlcmlhbC11aS9jb3JlL0lucHV0L1RleHRhcmVhIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
+        <text encoding="base64">aW1wb3J0IFRleHRhcmVhIGZyb20gJy4uLy4uLy4uLy4uLy4uL2NvbW1vbi9qcy9jb21wb25lbnRzL1RleHRhcmVhL1RleHRhcmVhJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nLCBnZXRPcmRlckZvcm1BY3RpdmUgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbG1zT3JkZXJNYW5hZ2VtZW50U2VsZWN0b3JzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHZhbHVlPXt2YWx1ZX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>modalDialog</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxsYWJlbGVkQ29udHJvbFN0eWxlc1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxsYWJlbGVkQ29udHJvbFN0eWxlc1w+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>input</entry>
+        <entry encoding="base64">XDxUZXh0YXJlYVw+</entry>
+        <entry>Input</entry>
+        <entry>TextInput</entry>
+        <entry>CommentTextInput</entry>
+        <entry encoding="base64">XDxsYWJlbGVkQ29udHJvbFN0eWxlc1w+</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -103,11 +148,8 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
