@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544109544120">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="46" />
-        <mark key="." line="12" column="18" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544117648911">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" timestamp="1544116462642">
         <mark key="'" line="94" column="53" />
@@ -16,10 +17,10 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CustomScrollbar/CustomScrollbar.js" timestamp="1544110066305">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="26" />
-        <mark key="^" line="32" column="64" />
-        <mark key="." line="32" column="26" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="26" />
+        <mark key="^" line="35" column="64" />
+        <mark key="." line="35" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1544090558761">
         <mark key="'" line="52" column="8" />
@@ -28,29 +29,23 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" timestamp="1544114706369">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="132" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544115152129">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="26" />
-        <mark key="^" line="37" column="26" />
-        <mark key="." line="37" column="26" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544117667738">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="36" column="26" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1544111726534">
-        <mark key="'" line="132" column="2" />
-        <mark key="[" line="94" column="18" />
-        <mark key="]" line="94" column="17" />
-        <mark key="^" line="94" column="17" />
-        <mark key="." line="94" column="17" />
+        <mark key="'" line="135" column="2" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/test/OrderOverview.spec.js" timestamp="1544114975588">
-        <mark key="[" line="81" column="53" />
-        <mark key="]" line="81" column="53" />
-        <mark key="." line="81" column="53" />
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="53" />
+        <mark key="." line="1" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" timestamp="1544114847890">
         <mark key="'" line="45" column="4" />
@@ -116,13 +111,14 @@
       <jump line="46" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
       <jump line="81" column="1" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="94" column="53" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlKCd3aGVuICcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>height</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.showGripper</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text>drag handle</text>
@@ -131,31 +127,31 @@
         <text>this._getTopHeight()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlKCd3aGVuICcpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL3V0aWwvc3R5bGUnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL3V0aWwvc3R5bGUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCd3aGVuICcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGl0KCdyZW5kZXJzIGFuIGVsZW1lbnQgd2l0aCB0aGUgZ2l2ZW4gaGVpZ2h0JywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoY29tcG9uZW50LnByb3BzKCkpLnRvLmhhdmUubmVzdGVkLnByb3BlcnR5KCdzdHlsZS5oZWlnaHQnLCBoZWlnaHQpCiAgICB9KQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYW5pbUZyYW1lJywgdGhpcy5fZ2V0VG9wSGVpZ2h0KCkpCg==</text>
+        <text encoding="base64">ICAgIGl0KCdyZW5kZXJzIGFuIGVsZW1lbnQgd2l0aCB0aGUgZ2l2ZW4gaGVpZ2h0JywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoY29tcG9uZW50LnByb3BzKCkpLnRvLmhhdmUubmVzdGVkLnByb3BlcnR5KCdzdHlsZS5oZWlnaHQnLCBoZWlnaHQpCiAgICB9KQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3VwZGF0ZVRvcEhlaWdodEZyb21SZXNpemVNb2RlKCkK</text>
+        <text encoding="base64">ICBoZWlnaHQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB0b3BIZWlnaHQgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYW5pbUZyYW1lJywgdGhpcy5fZ2V0VG9wSGVpZ2h0KCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX3VwZGF0ZVRvcEhlaWdodEZyb21SZXNpemVNb2RlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
