@@ -22,14 +22,17 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" timestamp="1544112829151">
-        <mark key="[" line="132" column="48" />
-        <mark key="]" line="132" column="62" />
-        <mark key="." line="132" column="62" />
-        <mark key="^" line="132" column="62" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" timestamp="1544114706369">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="132" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544109607812">
-        <mark key="^" line="14" column="78" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544115152129">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="26" />
+        <mark key="^" line="37" column="26" />
+        <mark key="." line="37" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1544111726534">
         <mark key="'" line="132" column="2" />
@@ -38,14 +41,27 @@
         <mark key="^" line="94" column="17" />
         <mark key="." line="94" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" timestamp="1544109588887">
-        <mark key="'" line="46" column="4" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/test/OrderOverview.spec.js" timestamp="1544114975588">
+        <mark key="[" line="81" column="53" />
+        <mark key="]" line="81" column="53" />
+        <mark key="." line="81" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" timestamp="1544114847890">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/AbstractStringInput/AbstractStringInput.js" timestamp="1544090601145">
         <mark key="'" line="131" column="1" />
         <mark key="[" line="53" column="6" />
         <mark key="]" line="53" column="6" />
         <mark key="." line="53" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/test/OrderDetails.spec.js" timestamp="1544114886288">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -88,58 +104,59 @@
       <jump line="78" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" />
       <jump line="126" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" />
       <jump line="13" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
+      <jump line="116" column="36" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
+      <jump line="11" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
       <jump line="36" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
       <jump line="46" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
-      <jump line="116" column="36" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_topCompartment</text>
+        <text>this.props.showGripper</text>
       </register>
       <register name="-" type="4">
-        <text>_topCompartment</text>
+        <text>this.props.showGripper</text>
       </register>
       <register name="/" type="4">
-        <text>overflow</text>
+        <text>height</text>
       </register>
       <register name="0" type="4">
-        <text>renderTop(topHeight)</text>
+        <text>this._getTopHeight()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RpZCB1cGRhdGUnLCB0b3BIZWlnaHQsIHRoaXMuX3RvcENvbXBhcnRtZW50KQo=</text>
+        <text encoding="base64">ICAgIGl0KCdyZW5kZXJzIGFuIGVsZW1lbnQgd2l0aCB0aGUgZ2l2ZW4gaGVpZ2h0JywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoY29tcG9uZW50LnByb3BzKCkpLnRvLmhhdmUubmVzdGVkLnByb3BlcnR5KCdzdHlsZS5oZWlnaHQnLCBoZWlnaHQpCiAgICB9KQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBoZWlnaHQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHN3aXRjaCAocmVzaXplTW9kZSkgewogICAgICBjYXNlICdhbGxvd1Jlc2l6ZSc6CiAgICAgICAgYnJlYWsKICAgICAgY2FzZSAnY29udCcKICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYW5pbUZyYW1lJywgdGhpcy5fZ2V0VG9wSGVpZ2h0KCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxpc3RIZWlnaHQgPSB0aGlzLnByb3BzLmhlaWdodCAtIG1lYXN1cmVtZW50cy5vcmRlckxpc3RUb3BQYWRkaW5nCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX3VwZGF0ZVRvcEhlaWdodEZyb21SZXNpemVNb2RlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB0b3BIZWlnaHQgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaGVpZ2h0IH0gPSB0aGlzLnByb3BzCg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OiAnaGlkZGVuJwo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wYXJ0bWVudDogewogICAgb3ZlcmZsb3c6ICdoaWRkZW4nCiAgfSwKCg==</text>
+        <text encoding="base64">ICAgIGxldCB0b3BIZWlnaHQgPSB0aGlzLnN0YXRlLnRvcEhlaWdodAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBXZSBuZWVkIHRvIHdhaXQgdW50aWwgdGhlIGJyb3dzZXIgaXMgcmVhZHkgdG8gcGFpbnQgdG8gZ2V0IHRoZSBmaW5hbAogICAgICAgIC8vIGhlaWdodC4KICAgICAgICB3aW5kb3cucmVxdWVzdEFuaW1hdGlvbkZyYW1lKHRoaXMuX3VwZGF0ZVRvcEhlaWdodEZyb21SZXNpemVNb2RlLmJpbmQodGhpcykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>overflow</last-search>
+      <last-search>height</last-search>
       <last-offset />
-      <last-pattern>overflow</last-pattern>
+      <last-pattern>height</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -148,9 +165,9 @@
         <entry encoding="base64">XDx0b3BIZWlnaHRcPg==</entry>
         <entry encoding="base64">XDxzZXRTdGF0ZVw+</entry>
         <entry encoding="base64">XDxhZGp1c3RIZWlnaHRzXD4=</entry>
-        <entry>height</entry>
         <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
         <entry>overflow</entry>
+        <entry>height</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
