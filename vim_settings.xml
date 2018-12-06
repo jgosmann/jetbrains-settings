@@ -3,12 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544097227018">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="13" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1544090558761">
         <mark key="'" line="52" column="8" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="14" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" timestamp="1544096827649">
+        <mark key="[" line="111" column="95" />
+        <mark key="]" line="111" column="95" />
+        <mark key="." line="111" column="95" />
+        <mark key="^" line="111" column="95" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544096618958">
+        <mark key="'" line="28" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1544096936903">
+        <mark key="'" line="65" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" timestamp="1544097032837">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/AbstractStringInput/AbstractStringInput.js" timestamp="1544090601145">
         <mark key="'" line="131" column="1" />
@@ -21,36 +44,62 @@
       <jump line="55" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/AbstractStringInput/AbstractStringInput.js" />
       <jump line="132" column="1" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/AbstractStringInput/AbstractStringInput.js" />
       <jump line="52" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="28" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
+      <jump line="24" column="34" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" />
+      <jump line="65" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxhYmVsZWRDb250cm9sU3R5bGVzIGZyb20gJy4uLy4uL3N0eWxlL2xhYmVsZENvbnRyb2xTdHlsZXMnCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PC9kaXY+</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PC9kaXY+</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxoZWlnaHRcPg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICAgICAgb3JkZXJGb3JtOiB7CiAgICAgICAgaGVpZ2h0OiB0aGlzLnByb3BzLmhlaWdodAogICAgICB9CiAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NzcyhsYWJlbGVkQ29udHJvbFN0eWxlcy50ZXh0YXJlYUxhYmVsT2Zmc2V0KX0+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICAgICAgb3JkZXJGb3JtOiB7CiAgICAgICAgaGVpZ2h0OiB0aGlzLnByb3BzLmhlaWdodAogICAgICB9CiAgICB9KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvcmRlckRldGFpbHM6IHsKICAgIG92ZXJmbG93OiAnaGlkZGVuJwogIH0sCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NzcyhzdHlsZXMub3JkZXJEZXRhaWxzKX0gc3R5bGU9e3sgaGVpZ2h0IH19Pgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICAgICAgb3JkZXJGb3JtOiB7CiAgICAgICAgaGVpZ2h0OiB0aGlzLnByb3BzLmhlaWdodAogICAgICB9CiAgICB9KQoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxoZWlnaHRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxoZWlnaHRcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
