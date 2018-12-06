@@ -9,6 +9,12 @@
         <mark key="^" line="12" column="46" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" timestamp="1544116462642">
+        <mark key="'" line="94" column="53" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CustomScrollbar/CustomScrollbar.js" timestamp="1544110066305">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="32" column="26" />
@@ -108,55 +114,57 @@
       <jump line="11" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
       <jump line="36" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
       <jump line="46" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
+      <jump line="81" column="1" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="94" column="53" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.props.showGripper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCd3aGVuICcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>this.props.showGripper</text>
       </register>
       <register name="/" type="4">
-        <text>height</text>
+        <text>drag handle</text>
       </register>
       <register name="0" type="4">
         <text>this._getTopHeight()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0KCdyZW5kZXJzIGFuIGVsZW1lbnQgd2l0aCB0aGUgZ2l2ZW4gaGVpZ2h0JywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoY29tcG9uZW50LnByb3BzKCkpLnRvLmhhdmUubmVzdGVkLnByb3BlcnR5KCdzdHlsZS5oZWlnaHQnLCBoZWlnaHQpCiAgICB9KQoK</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCd3aGVuICcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYW5pbUZyYW1lJywgdGhpcy5fZ2V0VG9wSGVpZ2h0KCkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3VwZGF0ZVRvcEhlaWdodEZyb21SZXNpemVNb2RlKCkK</text>
+        <text encoding="base64">ICAgIGl0KCdyZW5kZXJzIGFuIGVsZW1lbnQgd2l0aCB0aGUgZ2l2ZW4gaGVpZ2h0JywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoY29tcG9uZW50LnByb3BzKCkpLnRvLmhhdmUubmVzdGVkLnByb3BlcnR5KCdzdHlsZS5oZWlnaHQnLCBoZWlnaHQpCiAgICB9KQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB0b3BIZWlnaHQgfSkK</text>
+        <text encoding="base64">ICBoZWlnaHQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYW5pbUZyYW1lJywgdGhpcy5fZ2V0VG9wSGVpZ2h0KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX3VwZGF0ZVRvcEhlaWdodEZyb21SZXNpemVNb2RlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB0b3BIZWlnaHQgPSB0aGlzLnN0YXRlLnRvcEhlaWdodAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB0b3BIZWlnaHQgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXZSBuZWVkIHRvIHdhaXQgdW50aWwgdGhlIGJyb3dzZXIgaXMgcmVhZHkgdG8gcGFpbnQgdG8gZ2V0IHRoZSBmaW5hbAogICAgICAgIC8vIGhlaWdodC4KICAgICAgICB3aW5kb3cucmVxdWVzdEFuaW1hdGlvbkZyYW1lKHRoaXMuX3VwZGF0ZVRvcEhlaWdodEZyb21SZXNpemVNb2RlLmJpbmQodGhpcykpCg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>height</last-search>
+      <last-search>drag handle</last-search>
       <last-offset />
-      <last-pattern>height</last-pattern>
+      <last-pattern>drag handle</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -168,6 +176,7 @@
         <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
         <entry>overflow</entry>
         <entry>height</entry>
+        <entry>drag handle</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
