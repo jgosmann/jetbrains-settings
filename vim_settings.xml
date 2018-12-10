@@ -10,12 +10,12 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" timestamp="1544430114352">
-        <mark key="'" line="93" column="53" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="53" column="15" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" timestamp="1544433023830">
+        <mark key="'" line="62" column="64" />
+        <mark key="[" line="220" column="14" />
+        <mark key="]" line="220" column="45" />
+        <mark key="." line="220" column="45" />
+        <mark key="^" line="220" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CustomScrollbar/CustomScrollbar.js" timestamp="1544110066305">
         <mark key="[" line="35" column="26" />
@@ -29,6 +29,13 @@
         <mark key="]" line="55" column="14" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" timestamp="1544432055321">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="134" column="19" />
+        <mark key="]" line="134" column="20" />
+        <mark key="^" line="129" column="17" />
+        <mark key="." line="134" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544117667738">
         <mark key="[" line="17" column="22" />
@@ -73,7 +80,6 @@
       <jump line="28" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
       <jump line="65" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" />
       <jump line="31" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="20" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="197" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="195" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="176" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
@@ -110,58 +116,85 @@
       <jump line="11" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
       <jump line="36" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
       <jump line="46" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/OrderDetails.js" />
-      <jump line="81" column="1" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="94" column="53" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
+      <jump line="89" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="207" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="201" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="195" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="183" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="174" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="168" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="137" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="210" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="20" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
+      <jump line="218" column="5" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
+      <jump line="63" column="64" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBjb21wb25lbnQKCiAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgY29tcG9uZW50ID0gbW91bnQoCiAgICAgICAgPFRpbGluZyBpbml0aWFsVG9wUHJvcG9ydGlvbj17aW5pdGlhbFRvcFByb3BvcnRpb259CiAgICAgICAgICAgICAgICBtaW5Cb3R0b21IZWlnaHQ9e21pbkJvdHRvbUhlaWdodH0KICAgICAgICAgICAgICAgIG1pblRvcEhlaWdodD17bWluVG9wSGVpZ2h0fQogICAgICAgICAgICAgICAgcmVuZGVyQm90dG9tPXtyZW5kZXJCb3R0b219CiAgICAgICAgICAgICAgICByZW5kZXJUb3A9e3JlbmRlclRvcH0vPgogICAgICApCiAgICB9KQoK</text>
+      <register name="&quot;" type="4">
+        <text>rrr</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>rrr</text>
       </register>
       <register name="/" type="4">
-        <text>drag handle</text>
+        <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VGlsaW5nIGluaXRpYWxUb3BQcm9wb3J0aW9uPXtpbml0aWFsVG9wUHJvcG9ydGlvbn0KICAgICAgICAgICAgICAgIG1pbkJvdHRvbUhlaWdodD17bWluQm90dG9tSGVpZ2h0fQogICAgICAgICAgICAgICAgbWluVG9wSGVpZ2h0PXttaW5Ub3BIZWlnaHR9CiAgICAgICAgICAgICAgICByZW5kZXJCb3R0b209e3JlbmRlckJvdHRvbX0KICAgICAgICAgICAgICAgIHJlbmRlclRvcD17cmVuZGVyVG9wfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBjb21wb25lbnQKCiAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgY29tcG9uZW50ID0gbW91bnQoCiAgICAgICAgPFRpbGluZyBpbml0aWFsVG9wUHJvcG9ydGlvbj17aW5pdGlhbFRvcFByb3BvcnRpb259CiAgICAgICAgICAgICAgICBtaW5Cb3R0b21IZWlnaHQ9e21pbkJvdHRvbUhlaWdodH0KICAgICAgICAgICAgICAgIG1pblRvcEhlaWdodD17bWluVG9wSGVpZ2h0fQogICAgICAgICAgICAgICAgcmVuZGVyQm90dG9tPXtyZW5kZXJCb3R0b219CiAgICAgICAgICAgICAgICByZW5kZXJUb3A9e3JlbmRlclRvcH0vPgogICAgICApCiAgICB9KQoK</text>
+        <text encoding="base64">ICAgICAgbGV0IHIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8VGlsaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBqZXN0LnNweU9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcHJvcHMK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7UmVhY3RQcm9wVHlwZXMgYXMgUHJvcFR5cGVzfSBmcm9tICdyZWFjdCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL3V0aWwvc3R5bGUnCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3gnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL3V0aWwvc3R5bGUnCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdG9wID0gY29tcG9uZW50LmZpbmQoJyN0b3AnKQogICAgICAgIGNvbnNvbGUubG9nKHRvcC5jbGllbnRIZWlnaHQpCiAgICAgICAgZXhwZWN0KHRvcC5jbGllbnRIZWlnaHQpLnRvLmVxdWFsKHRvcFByZWZlcnJlZEhlaWdodCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlKCd3aGVuICcpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRvcC5wcm9wVHlwZXMgPSB7IGhlaWdodDogUHJvcFR5cGVzLnN0cmluZyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCd3aGVuIHRoZSBjb21wb25lbnQgaXMgcmVzaXplZCB0byBhIHBvc2l0aXZlIGhlaWdodCcsIGZ1bmN0aW9uICgpIHsKICAgICAgbGV0IHNpbXVsYXRlUmVzaXplCgogICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBzaW11bGF0ZVJlc2l6ZSA9IGNvbXBvbmVudC5maW5kKFJlc2l6ZUF3YXJlRGl2TW9jaykucHJvcCgnb25SZXNpemUnKQogICAgICB9KQoKICAgICAgZGVzY3JpYmUoJ2luIGdlbmVyYWwnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICBzaW11bGF0ZVJlc2l6ZSh7IGhlaWdodDogMTAwICsgaGFuZGxlQ29udGFpbmVySGVpZ2h0IH0pCiAgICAgICAgICBjb21wb25lbnQudXBkYXRlKCkKICAgICAgICB9KQoKICAgICAgICBpdCgncmVuZGVycyBhIGRyYWcgaGFuZGxlIHdpdGggYSBncmlwcGVyIGljb24nLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBjb25zdCBkcmFnSGFuZGxlID0gY29tcG9uZW50LmZpbmRXaGVyZShub2RlID0+CiAgICAgICAgICAgIG5vZGUucHJvcCgnb25Nb3VzZURvd24nKSA9PT0gb25Nb3VzZURvd24KICAgICAgICAgICAgJiYgbm9kZS5wcm9wKCdvblRvdWNoU3RhcnQnKSA9PT0gb25Ub3VjaFN0YXJ0CiAgICAgICAgICApCgogICAgICAgICAgZXhwZWN0KGRyYWdIYW5kbGUpLnRvLmJlLnByZXNlbnQoKQogICAgICAgICAgZXhwZWN0KGRyYWdIYW5kbGUpLnRvLmNvbnRhaW4oPEdyaXBwZXJJY29uLz4pCiAgICAgICAgfSkKCiAgICAgICAgZGVzY3JpYmUoJ3doZW4gdGhlIGRyYWcgaGFuZGxlIGlzIGRyYWdnZWQgYW5kIGRyb3BwZWQgYXQgYSBkaWZmZXJlbnQgcG9zaXRpb24nLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBkZXNjcmliZSgnaW4gZ2VuZXJhbCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgc2ltdWxhdGVEcmFnRHJvcCh7IGZyb21DbGllbnRZOiAyMDAsIHRvQ2xpZW50WTogMjA1IH0pCiAgICAgICAgICAgICAgY29tcG9uZW50LnVwZGF0ZSgpCiAgICAgICAgICAgIH0pCgogICAgICAgICAgICBkZXNjcmliZSgnd2hlbiB0aGUgd2luZG93IGlzIHJlc2l6ZWQgYWdhaW4gdG8gYSBwb3NpdGl2ZSBoZWlnaHQnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBzaW11bGF0ZVJlc2l6ZSh7IGhlaWdodDogMTAwMCArIGhhbmRsZUNvbnRhaW5lckhlaWdodCB9KQogICAgICAgICAgICAgICAgY29tcG9uZW50LnVwZGF0ZSgpCiAgICAgICAgICAgICAgfSkKCiAgICAgICAgICAgICAgaXQoJ3ByZXNlcnZlcyB0aGUgcHJvcG9ydGlvbiBvZiB0aGUgdG9wIGFuZCBib3R0b20gY29tcG9uZW50cycsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW4oPFRvcCBoZWlnaHQ9ezQ3MH0vPikKICAgICAgICAgICAgICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW4oPEJvdHRvbSBoZWlnaHQ9ezUzMH0vPikKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9KQoKICAgICAgICAgICAgZGVzY3JpYmUoJ3doZW4gdGhlIHdpbmRvdyBpcyByZXNpemVkIHRvIGEgaGVpZ2h0ICcgKwogICAgICAgICAgICAgICdsZXNzIHRoYW4gdGhlIGhlaWdodCBvZiB0aGUgZHJhZyBoYW5kbGUgY29udGFpbmVyJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgc2ltdWxhdGVSZXNpemUoeyBoZWlnaHQ6IGhhbmRsZUNvbnRhaW5lckhlaWdodCAvIDIgfSkKICAgICAgICAgICAgICAgIGNvbXBvbmVudC51cGRhdGUoKQogICAgICAgICAgICAgIH0pCgogICAgICAgICAgICAgIGl0KCdzZXRzIHRoZSBoZWlnaHQgb2YgdGhlIHRvcCBhbmQgYm90dG9tIGNvbXBvbmVudHMgdG8gemVybycsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW4oPFRvcCBoZWlnaHQ9ezB9Lz4pCiAgICAgICAgICAgICAgICBleHBlY3QoY29tcG9uZW50KS50by5jb250YWluKDxCb3R0b20gaGVpZ2h0PXswfS8+KQogICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIH0pCgogICAgICAgICAgICBkZXNjcmliZSgnd2hlbiB0aGUgd2luZG93IGlzIHJlc2l6ZWQgdG8gYSB6ZXJvIGhlaWdodCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHNpbXVsYXRlUmVzaXplKHsgaGVpZ2h0OiAwIH0pCiAgICAgICAgICAgICAgICBjb21wb25lbnQudXBkYXRlKCkKICAgICAgICAgICAgICB9KQoKICAgICAgICAgICAgICBpdCgnc2V0cyB0aGUgaGVpZ2h0IG9mIHRoZSB0b3AgYW5kIGJvdHRvbSBjb21wb25lbnRzIHRvIHplcm8nLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBleHBlY3QoY29tcG9uZW50KS50by5jb250YWluKDxUb3AgaGVpZ2h0PXswfS8+KQogICAgICAgICAgICAgICAgZXhwZWN0KGNvbXBvbmVudCkudG8uY29udGFpbig8Qm90dG9tIGhlaWdodD17MH0vPikKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9KQogICAgICAgICAgfSkKCiAgICAgICAgICBkZXNjcmliZSgnd2hlbiB0aGUgbWluaW11bSBoZWlnaHQgY29uc3RyYWludHMgYXJlIHJlc3BlY3RlZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgc2ltdWxhdGVEcmFnRHJvcCh7IGZyb21DbGllbnRZOiAyMDAsIHRvQ2xpZW50WTogMjA1IH0pCiAgICAgICAgICAgICAgY29tcG9uZW50LnVwZGF0ZSgpCiAgICAgICAgICAgIH0pCgogICAgICAgICAgICBpdCgnYWRqdXN0cyB0aGUgaGVpZ2h0IG9mIHRoZSB0b3AgYW5kIGJvdHRvbSBjb21wb25lbnRzIGFjY29yZGluZ2x5JywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW4oPFRvcCBoZWlnaHQ9ezQ3fS8+KQogICAgICAgICAgICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW4oPEJvdHRvbSBoZWlnaHQ9ezUzfS8+KQogICAgICAgICAgICB9KQogICAgICAgICAgfSkKCiAgICAgICAgICBkZXNjcmliZSgnd2hlbiBvbmUgb2YgdGhlIG1pbmltdW0gaGVpZ2h0IGNvbnN0cmFpbnRzIHdvdWxkIGJlIHZpb2xhdGVkJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICBzaW11bGF0ZURyYWdEcm9wKHsgZnJvbUNsaWVudFk6IDIwMCwgdG9DbGllbnRZOiAyMzMgfSkKICAgICAgICAgICAgICBjb21wb25lbnQudXBkYXRlKCkKICAgICAgICAgICAgfSkKCiAgICAgICAgICAgIGl0KCdyZW5kZXJzIHRoZSByZXNwZWN0aXZlIGNvbXBvbmVudCB3aXRoIHRoZSBtaW5pbXVtIGhlaWdodCAnICsKICAgICAgICAgICAgICAnYW5kIHRoZSBvdGhlciBvbmUgd2l0aCB0aGUgcmVtYWluaW5nIGhlaWdodCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICBleHBlY3QoY29tcG9uZW50KS50by5jb250YWluKDxUb3AgaGVpZ2h0PXs3NH0vPikKICAgICAgICAgICAgICBleHBlY3QoY29tcG9uZW50KS50by5jb250YWluKDxCb3R0b20gaGVpZ2h0PXsyNn0vPikKICAgICAgICAgICAgfSkKICAgICAgICAgIH0pCiAgICAgICAgfSkKICAgICAgfSkKCiAgICAgIGRlc2NyaWJlKCd3aGVuIHRoZSBtaW5pbXVtIGhlaWdodCBjb25zdHJhaW50cyBhcmUgcmVzcGVjdGVkJywgZnVuY3Rpb24gKCkgewogICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgc2ltdWxhdGVSZXNpemUoeyBoZWlnaHQ6IDEwMCArIGhhbmRsZUNvbnRhaW5lckhlaWdodCB9KQogICAgICAgICAgY29tcG9uZW50LnVwZGF0ZSgpCiAgICAgICAgfSkKCiAgICAgICAgaXQoJ3JlbmRlcnMgdGhlIHRvcCBhbmQgYm90dG9tIGNvbXBvbmVudHMgd2l0aCB0aGUgY29ycmVjdCBoZWlnaHRzJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgZXhwZWN0KGNvbXBvbmVudCkudG8uY29udGFpbig8VG9wIGhlaWdodD17NDJ9Lz4pCiAgICAgICAgICBleHBlY3QoY29tcG9uZW50KS50by5jb250YWluKDxCb3R0b20gaGVpZ2h0PXs1OH0vPikKICAgICAgICB9KQogICAgICB9KQoKICAgICAgZGVzY3JpYmUoJ3doZW4gb25lIG9mIHRoZSBtaW5pbXVtIGhlaWdodCBjb25zdHJhaW50cyB3b3VsZCBiZSB2aW9sYXRlZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAgIHNpbXVsYXRlUmVzaXplKHsgaGVpZ2h0OiA1MCArIGhhbmRsZUNvbnRhaW5lckhlaWdodCB9KQogICAgICAgICAgY29tcG9uZW50LnVwZGF0ZSgpCiAgICAgICAgfSkKCiAgICAgICAgaXQoJ3JlbmRlcnMgdGhlIHJlc3BlY3RpdmUgY29tcG9uZW50IHdpdGggdGhlIG1pbmltdW0gaGVpZ2h0ICcgKwogICAgICAgICAgJ2FuZCB0aGUgb3RoZXIgb25lIHdpdGggdGhlIHJlbWFpbmluZyBoZWlnaHQnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBleHBlY3QoY29tcG9uZW50KS50by5jb250YWluKDxUb3AgaGVpZ2h0PXsyMn0vPikKICAgICAgICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW4oPEJvdHRvbSBoZWlnaHQ9ezI4fS8+KQogICAgICAgIH0pCiAgICAgIH0pCiAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0KCdyZW5kZXJzIGFuIGVsZW1lbnQgd2l0aCB0aGUgZ2l2ZW4gaGVpZ2h0JywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoY29tcG9uZW50LnByb3BzKCkpLnRvLmhhdmUubmVzdGVkLnByb3BlcnR5KCdzdHlsZS5oZWlnaHQnLCBoZWlnaHQpCiAgICB9KQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>drag handle</last-search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
       <last-offset />
-      <last-pattern>drag handle</last-pattern>
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -174,6 +207,7 @@
         <entry>overflow</entry>
         <entry>height</entry>
         <entry>drag handle</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
