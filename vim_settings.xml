@@ -28,6 +28,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1544517791953" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1544111726534">
         <mark key="'" line="129" column="2" />
         <mark key="[" line="0" column="18" />
@@ -35,17 +36,25 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/app.js" timestamp="1544459257004">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="56" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1544519571156">
+        <mark key="d" line="38" column="12" />
+        <mark key="'" line="69" column="11" />
+        <mark key="[" line="68" column="10" />
+        <mark key="]" line="68" column="3" />
+        <mark key="." line="68" column="3" />
+        <mark key="^" line="68" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" timestamp="1544462142655">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="42" column="53" />
-        <mark key="." line="42" column="53" />
-        <mark key="^" line="42" column="53" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/app.js" timestamp="1544514892338">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" timestamp="1544516987496">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1544090558761">
         <mark key="'" line="52" column="8" />
@@ -54,12 +63,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" timestamp="1544462559911">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" timestamp="1544515848931">
         <mark key="'" line="147" column="51" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="162" column="17" />
+        <mark key="[" line="160" column="91" />
+        <mark key="]" line="160" column="104" />
+        <mark key="." line="160" column="104" />
+        <mark key="^" line="160" column="104" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/tilingUtil.spec.js" timestamp="1544451144268">
         <mark key="'" line="0" column="0" />
@@ -90,11 +99,14 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/karma.conf.js" timestamp="1544518249981">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
-      <jump line="174" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
-      <jump line="168" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="162" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="156" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="149" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
@@ -147,7 +159,6 @@
       <jump line="237" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="236" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="217" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="213" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="206" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="199" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
@@ -192,61 +203,64 @@
       <jump line="130" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="151" column="62" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="147" column="51" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
+      <jump line="213" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
+      <jump line="14" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="69" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLl9nZXRUb3BIZWlnaHQoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>eval-</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>eval-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0VG9wSGVpZ2h0XD4=</text>
+        <text encoding="base64">XDxlbnRyeVBvaW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFpc0VxdWFsKGN1cnJlbnRTdGF0ZSwgdGhpcy50YXJnZXRTdGF0ZSkpIHsK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0geyhvYmplY3R8ZnVuY3Rpb24pfSB0YXJnZXRTdGF0ZSAtIFRoZSBkZXNpcmVkIHRhcmdldCBzdGF0ZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLl9nZXRUb3BIZWlnaHQoKSkK</text>
+        <text encoding="base64">ICAgIGRldnRvb2w6ICdpbmxpbmUtc291cmNlLW1hcCcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyAuLi5jdXJyZW50U3RhdGUsIHRvcEhlaWdodDogY3VycmVudFN0YXRlLnRvcEhlaWdodCArIE1hdGguc2lnbihkaWZmKSAqIGRlbHRhIH0pCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fc2NoZWR1bGVVcGRhdGUoKQo=</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgKHRhcmdldFN0YXRlKSA9PT0gJ2Z1bmN0aW9uJykgewogICAgICB0aGlzLmNvbXBvbmVudC5zZXRTdGF0ZSgoY3VycmVudFN0YXRlLCAgcHJvcHMpID0+IHsKICAgICAgICB0aGlzLnRhcmdldFN0YXRlID0gdGFyZ2V0U3RhdGUoY3VycmVudFN0YXRlLCBwcm9wcykKICAgICAgfSkgCiAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFyZ2V0U3RhdGUgPSB0YXJnZXRTdGF0ZQogICAgdGhpcy5fc2NoZWR1bGVVcGRhdGUoKQo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gc3RhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghaXNFcXVhbChjdXJyZW50U3RhdGUsIHRoaXMudGFyZ2V0U3RhdGUpKSB7Cg==</text>
+        <text encoding="base64">ICogICBUaGlzIGxpc3Qgd2lsbCBiZSB1c2VkIHRvIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGN1cnJlbnRTdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ltbWVkJywgc3RhdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW1tZWQnLCB0aGlzLnRhcmdldFN0YXRlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RhcmdldCcsIHRhcmdldFN0YXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0VG9wSGVpZ2h0XD4=</last-search>
+      <last-search encoding="base64">XDxlbnRyeVBvaW50c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0VG9wSGVpZ2h0XD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxlbnRyeVBvaW50c1w+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx7XD4=</entry>
         <entry>sinon</entry>
         <entry>PropTyp</entry>
         <entry encoding="base64">XDxjbGllbnRIZWlnaHRcPg==</entry>
@@ -266,6 +280,7 @@
         <entry encoding="base64">XDxzZXRTdGF0ZVw+</entry>
         <entry>setState</entry>
         <entry encoding="base64">XDxfZ2V0VG9wSGVpZ2h0XD4=</entry>
+        <entry encoding="base64">XDxlbnRyeVBvaW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wo</entry>
@@ -290,6 +305,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
