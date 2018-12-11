@@ -50,12 +50,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" timestamp="1544525017564">
-        <mark key="'" line="15" column="8" />
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="55" />
-        <mark key="." line="13" column="55" />
-        <mark key="^" line="13" column="55" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" timestamp="1544526378321">
+        <mark key="'" line="42" column="5" />
+        <mark key="[" line="72" column="21" />
+        <mark key="]" line="73" column="56" />
+        <mark key="." line="73" column="56" />
+        <mark key="^" line="73" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1544090558761">
         <mark key="'" line="52" column="8" />
@@ -93,12 +93,12 @@
         <mark key="]" line="53" column="6" />
         <mark key="." line="53" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/Animator.spec.js" timestamp="1544525616595">
-        <mark key="'" line="66" column="5" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="42" column="56" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/Animator.spec.js" timestamp="1544526432110">
+        <mark key="'" line="68" column="5" />
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/karma.conf.js" timestamp="1544521954597">
         <mark key="[" line="12" column="32" />
@@ -108,7 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="118" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="111" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
@@ -208,47 +207,47 @@
       <jump line="7" column="7" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="258" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="66" column="5" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/Animator.spec.js" />
+      <jump line="42" column="5" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudC5zZXRTdGF0ZSh7IHZhbHVlOiAyIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>returns</text>
       </register>
       <register name="-" type="4">
-        <text>1.</text>
+        <text>returns</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9wVHlwZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5yZXF1ZXN0QW5pbWF0aW9uRnJhbWUuY2FsbEFyZygwLCB0aW1lc3RhbXBfbm93KQo=</text>
+      <register name="0" type="4">
+        <text>callback.withArgs({ value: 0 }, { value: 2 }, sinon.match.number).calledTwice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudC5zZXRTdGF0ZSh7IHZhbHVlOiAyIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VycmVudFN0YXRlLCB0aGlzLnRhcmdldFN0YXRlLCBwcm9ncmVzcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5yZXF1ZXN0QW5pbWF0aW9uRnJhbWUuY2FsbEFyZygwLCAxLikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VpZWEnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcF9ub3cgKz0gMTAKICAgIHdpbmRvdy5yZXF1ZXN0QW5pbWF0aW9uRnJhbWUuY2FsbEFyZygwLCAxLikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1aWVhJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRpbQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpbmRvdy5yZXF1ZXN0QW5pbWF0aW9uRnJhbWUuY2FsbGVkVHdpY2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICsrdGltZXN0YW1wX25vdwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh3aW5kb3cucmVxdWVzdEFuaW1hdGlvbkZyYW1lLmNhbGxlZE9uY2UpLnRvLmJlLnRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICsrdGltZXN0YW1wX25vdwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5yZXF1ZXN0QW5pbWF0aW9uRnJhbWUuY2FsbEFyZygwLCAwLjEpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGN1cnJlbnRTdGF0ZQogICAgICAgIHVwZGF0ZWRTdGF0ZSA9</text>
       </register>
-      <register name="8" type="4">
-        <text>time passed since the last call (in
- *   milliseconds)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCFpc0VxdWFsKHBpY2soY3VycmVudFN0YXRlLCB0aGlzLmF0dHJpYnV0ZXMpLCB0aGlzLnRhcmdldFN0YXRlKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
