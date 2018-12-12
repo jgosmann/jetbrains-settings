@@ -46,13 +46,10 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" timestamp="1544604918052">
-        <mark key="'" line="75" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/app.js" timestamp="1544514892338">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/app.js" timestamp="1544607832883">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Filters/Filters.js" timestamp="1544545693084">
         <mark key="[" line="121" column="60" />
@@ -68,7 +65,6 @@
         <mark key="^" line="54" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544545113603">
-        <mark key="'" line="30" column="33" />
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
@@ -83,6 +79,12 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/handleCreateOrderFinished.js" timestamp="1544604497801">
         <mark key="'" line="18" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1544608196703">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/karma.conf.js" timestamp="1544521954597">
         <mark key="[" line="12" column="32" />
@@ -107,6 +109,11 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Database/DatabaseConnection.config" timestamp="1544607979448">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/Order.js" timestamp="1544544606947">
         <mark key="'" line="275" column="18" />
@@ -237,44 +244,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Lms</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Lms</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlckZvcm1cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>result.find(Filters)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8YWRkIG5hbWU9IktCYXNlQ29ubmVjdGlvblN0cmluZyIgY29ubmVjdGlvblN0cmluZz0iU2VydmVyPWxvY2FsaG9zdDtJbml0aWFsIENhdGFsb2c9TUVTX0VyZGluZ2VyX3Byb2Q7VXNlciBJRD1tZXM7cGFzc3dvcmQ9bWVzIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYXBwZWFyS2V5ZnJhbWVzID0gewogIGZyb206IHsKICAgIHRyYW5zZm9ybTogJ3NjYWxlKDApJwogIH0KfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNjYWxlOiBjCg==</text>
+        <text encoding="base64">ICAgIDwhLS1Mb2NhdGlvbiBvZiB0aGUgTE1TIFJlc3QgU2VydmljZS0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGlzYWJsZWQ9e2Rpc2FibGVkfQo=</text>
+        <text encoding="base64">ICA8YWRkIG5hbWU9IktCYXNlQ29ubmVjdGlvblN0cmluZyIgY29ubmVjdGlvblN0cmluZz0iU2VydmVyPWxvY2FsaG9zdDtJbml0aWFsIENhdGFsb2c9TUVTX0VyZGluZ2VyX3Byb2Q7VXNlciBJRD1tZXM7cGFzc3dvcmQ9bWVzIiAvPgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>d
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8YWRkIG5hbWU9IktCYXNlQ29ubmVjdGlvblN0cmluZyIgY29ubmVjdGlvblN0cmluZz0iU2VydmVyPWxvY2FsaG9zdDtJbml0aWFsIENhdGFsb2c9TUVTXzEwO1VzZXIgSUQ9bWVzO3Bhc3N3b3JkPW1lcyIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE9yZGVyTGlzdCwge29yZGVyTGlzdE1pbkhlaWdodH0gZnJvbSAnLi4vT3JkZXJMaXN0L09yZGVyTGlzdCcK</text>
+        <text encoding="base64">ICA8YWRkIG5hbWU9IkxNU0Nvbm5lY3Rpb25TdHJpbmciIGNvbm5lY3Rpb25TdHJpbmc9IlNlcnZlcj1sb2NhbGhvc3Q7SW5pdGlhbCBDYXRhbG9nPU1FU18xMDtVc2VyIElEPW1lcztwYXNzd29yZD1tZXMiIC8+CiAgPGFkZCBuYW1lPSJJRmFjZUNvbm5lY3Rpb25TdHJpbmciIGNvbm5lY3Rpb25TdHJpbmc9IlNlcnZlcj1sb2NhbGhvc3Q7SW5pdGlhbCBDYXRhbG9nPUlGQUNFX3YyO1VzZXIgSUQ9bWVzO3Bhc3N3b3JkPW1lcyIgLz4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEZpbHRlcnMsIHtmaWx0ZXJzSGVpZ2h0TmVhcmx5fSBmcm9tICcuLi9GaWx0ZXJzL0ZpbHRlcnMnCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">bm5lY3Rpb25TdHJpbmc9IlNlcnZlcj1sb2NhbGhvc3Q7SW5pdGlhbCBDYXRhbG9nPU1FUztVc2VyIElEPW1lcztwYXNzd29yZD1tZXMiIC8+LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IE9yZGVyTGFiZWxzLCB7IG9yZGVyTGFiZWxzSGVpZ2h0TmVhcmx5IH0gZnJvbSAnLi4vT3JkZXJMYWJlbHMvT3JkZXJMYWJlbHMnCg==</text>
+        <text encoding="base64">ICA8YWRkIG5hbWU9IkxNU0Nvbm5lY3Rpb25TdHJpbmciIGNvbm5lY3Rpb25TdHJpbmc9IlNlcnZlcj1sb2NhbGhvc3Q7SW5pdGlhbCBDYXRhbG9nPU1FU18xMDtVc2VyIElEPW1lcztwYXNzd29yZD1tZXMiIC8+CiAgPGFkZCBuYW1lPSJJRmFjZUNvbm5lY3Rpb25TdHJpbmciIGNvbm5lY3Rpb25TdHJpbmc9IlNlcnZlcj1sb2NhbGhvc3Q7SW5pdGlhbCBDYXRhbG9nPUlGQUNFX3YyO1VzZXIgSUQ9bWVzO3Bhc3N3b3JkPW1lcyIgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgb3JkZXJIZWFkZXJIZWlnaHQgfSBmcm9tICcuLi9PcmRlci9PcmRlckhlYWRlcicK</text>
+        <text encoding="base64">ICA8YWRkIG5hbWU9IktPTUNvbm5lY3Rpb25TdHJpbmciIGNvbm5lY3Rpb25TdHJpbmc9IlNlcnZlcj1sb2NhbGhvc3Q7SW5pdGlhbCBDYXRhbG9nPU1FU19FcmRpbmdlcl9wcm9kO1VzZXIgSUQ9bWVzO3Bhc3N3b3JkPW1lcyIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT3JkZXJPdmVydmlld1RvcCwgb3JkZXJPdmVydmlld1RvcE1pbkhlaWdodCB9IGZyb20gJy4vT3JkZXJPdmVydmlld1RvcCcK</text>
+        <text encoding="base64">ICB0YXJnZXQ6ICdodHRwOi8vbG9jYWxob3N0JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
