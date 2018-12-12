@@ -41,14 +41,13 @@
         <mark key="^" line="141" column="111" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/OrderOverviewTop.js" timestamp="1544543351474" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/DropDown/DropDownMultiSelect.js" timestamp="1544545660996">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1544521426017">
-        <mark key="d" line="38" column="12" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" timestamp="1544604918052">
+        <mark key="'" line="75" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/app.js" timestamp="1544514892338">
         <mark key="[" line="10" column="0" />
@@ -82,6 +81,9 @@
         <mark key="." line="117" column="40" />
         <mark key="^" line="117" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/handleCreateOrderFinished.js" timestamp="1544604497801">
+        <mark key="'" line="18" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/karma.conf.js" timestamp="1544521954597">
         <mark key="[" line="12" column="32" />
         <mark key="]" line="12" column="60" />
@@ -100,7 +102,6 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1544517791953" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" timestamp="1544538454930">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="56" column="0" />
@@ -133,17 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="237" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="236" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="217" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="206" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="199" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="5" column="34" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="107" column="13" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="192" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="182" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="191" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="252" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
       <jump line="1" column="37" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" />
@@ -233,6 +223,17 @@
       <jump line="67" column="80" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
       <jump line="66" column="5" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/test/OrderOverviewTop.spec.js" />
+      <jump line="144" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="40" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="50" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/handleCreateOrderFinished.js" />
+      <jump line="45" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="134" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="52" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="74" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="75" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -242,7 +243,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>TopPadding</text>
+        <text encoding="base64">XDxvcmRlckZvcm1cPg==</text>
       </register>
       <register name="0" type="4">
         <text>result.find(Filters)</text>
@@ -280,17 +281,14 @@
       </register>
     </registers>
     <search>
-      <last-search>TopPadding</last-search>
+      <last-search encoding="base64">XDxvcmRlckZvcm1cPg==</last-search>
       <last-offset />
-      <last-pattern>TopPadding</last-pattern>
+      <last-pattern encoding="base64">XDxvcmRlckZvcm1cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRTdGF0ZVw+</entry>
-        <entry>setState</entry>
-        <entry encoding="base64">XDxfZ2V0VG9wSGVpZ2h0XD4=</entry>
         <entry encoding="base64">XDxlbnRyeVBvaW50c1w+</entry>
         <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
         <entry>current</entry>
@@ -308,6 +306,9 @@
         <entry encoding="base64">XDx1cGRhdGVkSGVpZ2h0XD4=</entry>
         <entry>Padding</entry>
         <entry>TopPadding</entry>
+        <entry>CREATE</entry>
+        <entry>CREATE_ORDER</entry>
+        <entry encoding="base64">XDxvcmRlckZvcm1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wo</entry>
