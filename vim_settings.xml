@@ -92,6 +92,13 @@
         <mark key="]" line="37" column="18" />
         <mark key="." line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1544719459434">
+        <mark key="'" line="34" column="41" />
+        <mark key="[" line="94" column="128" />
+        <mark key="]" line="94" column="128" />
+        <mark key="." line="94" column="130" />
+        <mark key="^" line="90" column="132" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Process/Krones.Lms.LiveData.Process/Configuration/SignalR/SignalRConfiguration.json" timestamp="1544615380869">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="1" column="45" />
@@ -183,7 +190,6 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" timestamp="1544716334588" />
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/WapController.cs" timestamp="1544622508825">
         <mark key="'" line="615" column="6" />
         <mark key="[" line="611" column="0" />
@@ -221,9 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="33" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
-      <jump line="131" column="31" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
-      <jump line="139" column="85" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
       <jump line="157" column="32" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
       <jump line="165" column="64" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
       <jump line="163" column="14" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
@@ -321,16 +324,19 @@
       <jump line="140" column="81" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
       <jump line="615" column="6" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/WapController.cs" />
       <jump line="207" column="4" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="68" column="46" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="24" column="55" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="34" column="41" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, &quot;Line3&quot;</text>
+        <text>Krones1itk</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;Line3&quot;</text>
+        <text>Krones1itk</text>
       </register>
       <register name="/" type="4">
-        <text>OrderData</text>
+        <text>connection</text>
       </register>
       <register name="0" type="4">
         <text>,
@@ -380,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>OrderData</last-search>
+      <last-search>connection</last-search>
       <last-offset />
-      <last-pattern>OrderData</last-pattern>
+      <last-pattern>connection</last-pattern>
       <last-replace>MES_Erdinger_prod</last-replace>
       <last-substitute>MES</last-substitute>
       <last-dir>1</last-dir>
@@ -390,8 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVWYWxpZGF0aW9uU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxMaW5lSWRcPg==</entry>
         <entry encoding="base64">XDxQcm9kdWN0SWRcPg==</entry>
         <entry encoding="base64">XDxDaGVja0FuZEluaXRpYWxpemVEYXRhXD4=</entry>
         <entry encoding="base64">XDxzZXJ2aWNlQ29udGV4dFw+</entry>
@@ -410,6 +414,8 @@
         <entry>CreateWebHostBuilder</entry>
         <entry>OrderDtaa</entry>
         <entry>OrderData</entry>
+        <entry>WebServi</entry>
+        <entry>connection</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm9yZW1hcCD8WzxTcGFjZT4gPEMt/D4=</entry>
