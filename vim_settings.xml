@@ -92,13 +92,6 @@
         <mark key="]" line="37" column="18" />
         <mark key="." line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1544624266322">
-        <mark key="'" line="206" column="4" />
-        <mark key="[" line="22" column="57" />
-        <mark key="]" line="22" column="57" />
-        <mark key="." line="22" column="57" />
-        <mark key="^" line="206" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Process/Krones.Lms.LiveData.Process/Configuration/SignalR/SignalRConfiguration.json" timestamp="1544615380869">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="1" column="45" />
@@ -190,6 +183,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/ProductionOrdersController.cs" timestamp="1544716334588" />
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/WapController.cs" timestamp="1544622508825">
         <mark key="'" line="615" column="6" />
         <mark key="[" line="611" column="0" />
