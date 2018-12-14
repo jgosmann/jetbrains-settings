@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544783140298">
-        <mark key="'" line="90" column="2" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-        <mark key="^" line="27" column="28" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544788853103">
+        <mark key="'" line="32" column="59" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="33" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" timestamp="1544533527992">
         <mark key="'" line="113" column="0" />
@@ -46,12 +46,12 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1544545223779">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1544788779522">
         <mark key="'" line="98" column="38" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="81" />
-        <mark key="^" line="141" column="111" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="196" column="16" />
+        <mark key="]" line="196" column="16" />
+        <mark key="^" line="196" column="16" />
+        <mark key="." line="196" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/DropDown/DropDownMultiSelect.js" timestamp="1544545660996">
         <mark key="[" line="94" column="0" />
@@ -117,10 +117,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544545113603">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1544788866396">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
         <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderLabels/OrderLabels.js" timestamp="1544544775411">
@@ -235,11 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="29" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" />
-      <jump line="147" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="35" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/Animator.js" />
       <jump line="146" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
@@ -288,7 +284,6 @@
       <jump line="81" column="35" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
       <jump line="74" column="21" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/selectors/lmsOrderManagementSelectors.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/selectors/lmsOrderManagementSelectors.js" />
-      <jump line="32" column="56" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
       <jump line="78" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
       <jump line="84" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
       <jump line="92" column="61" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/handleCreateOrderFinished.spec.js" />
@@ -335,61 +330,66 @@
       <jump line="87" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
       <jump line="234" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="211" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
+      <jump line="28" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
+      <jump line="32" column="59" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" />
+      <jump line="25" column="39" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>handleContainerHeight</text>
+        <text encoding="base64">IGhlaWdodD17aGVpZ2h0fQ==</text>
       </register>
       <register name="-" type="4">
-        <text>handleContainerHeight</text>
+        <text encoding="base64">IGhlaWdodD17aGVpZ2h0fQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWlnaHRcPg==</text>
+        <text>height</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmhhdmUuZGVzY2VuZGFudHMoJyNhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlck92ZXJ2aWV3VG9wTWluSGVpZ2h0OiAK</text>
+        <text encoding="base64">ICBoZWlnaHQ6IFByb3BUeXBlcy5udW1iZXIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtQdXJlQ29tcG9uZW50fSBmcm9tICdyZWFjdCcK</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6ICdmbGV4Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsZXhTaHJpbms6IDEsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsZXhHcm93OiAwLAogICAgZmxleFNocmluazogMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBjb21wb25lbnQgPSBzaGFsbG93KAogICAgICA8Q2xpZW50SGVpZ2h0UmVhZGVyPgogICAgICAgIDxkaXYgaWQ9J2EnIC8+CiAgICAgICAgPGRpdiBpZD0nYicgLz4KICAgICAgPC9DbGllbnRIZWlnaHRSZWFkZXI+CiAgICApCg==</text>
+        <text encoding="base64">ICAgIHRvcDogMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzIGZyb20gJy4uLy4uL2FjdGlvbnMvbG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMnCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlck92ZXJ2aWV3VG9wTWluSGVpZ2h0OiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL2NvbXBvbmVudHMvTG9hZGluZy9Mb2FkaW5nQmFyJwo=</text>
+        <text encoding="base64">aW1wb3J0IHtQdXJlQ29tcG9uZW50fSBmcm9tICdyZWFjdCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWlnaHRcPg==</last-search>
+      <last-search>height</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWlnaHRcPg==</last-pattern>
+      <last-pattern>height</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVkSGVpZ2h0XD4=</entry>
         <entry>Padding</entry>
         <entry>TopPadding</entry>
         <entry>CREATE</entry>
@@ -409,6 +409,7 @@
         <entry>loadingBarHeight</entry>
         <entry>Linear</entry>
         <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
+        <entry>height</entry>
       </history-search>
       <history-cmd>
         <entry>wo</entry>
