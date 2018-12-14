@@ -169,6 +169,9 @@
         <mark key="^" line="146" column="69" />
         <mark key="." line="146" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" timestamp="1544708828418">
+        <mark key="'" line="891" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/bezier.js" timestamp="1544524752474">
         <mark key="[" line="11" column="45" />
         <mark key="]" line="13" column="29" />
@@ -210,6 +213,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/Order.js" timestamp="1544802315900">
+        <mark key="'" line="9" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" timestamp="1544798717979">
         <mark key="'" line="149" column="0" />
         <mark key="[" line="172" column="42" />
@@ -246,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
       <jump line="79" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
       <jump line="186" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
       <jump line="56" column="62" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
@@ -346,6 +351,7 @@
       <jump line="149" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="16" column="51" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
+      <jump line="9" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/Order.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -355,7 +361,7 @@
         <text>this.props.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVuZGVySGVpZ2h0UmVhZGVyXD4=</text>
+        <text encoding="base64">XDxMb2FkaW5nQmFyXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cGFyYW0ge29iamVjdH0gYW5pbWF0ZVN0eWxlIC0gSGVpZ2h0IGFuaW1hdGlvbiBzdHlsZSBzaGVldCB0byBhcHBseSB0byB0aGUKICogICA=</text>
@@ -392,15 +398,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVuZGVySGVpZ2h0UmVhZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxMb2FkaW5nQmFyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVuZGVySGVpZ2h0UmVhZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMb2FkaW5nQmFyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CREATE_ORDER</entry>
         <entry encoding="base64">XDxvcmRlckNyZWF0aW9uUmVxdWVzdE9uZ29pbmdcPg==</entry>
         <entry>closing</entry>
         <entry>console.log</entry>
@@ -420,6 +425,7 @@
         <entry>setFix</entry>
         <entry>transition</entry>
         <entry encoding="base64">XDxfcmVuZGVySGVpZ2h0UmVhZGVyXD4=</entry>
+        <entry encoding="base64">XDxMb2FkaW5nQmFyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wo</entry>
