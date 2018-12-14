@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544780603523">
-        <mark key="'" line="87" column="2" />
-        <mark key="[" line="27" column="50" />
-        <mark key="]" line="27" column="50" />
-        <mark key="." line="27" column="50" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544783140298">
+        <mark key="'" line="90" column="2" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/test/Tiling.spec.js" timestamp="1544533527992">
         <mark key="'" line="113" column="0" />
@@ -335,10 +336,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Fragment</text>
+        <text>orderOverviewTopMinHeight</text>
       </register>
       <register name="-" type="4">
-        <text>Fragment</text>
+        <text>orderOverviewTopMinHeight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
@@ -347,31 +348,31 @@
         <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmhhdmUuZGVzY2VuZGFudHMoJyNhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtQdXJlQ29tcG9uZW50fSBmcm9tICdyZWFjdCcK</text>
+        <text encoding="base64">ICAgICAgICBvcmRlck92ZXJ2aWV3VG9wTWluSGVpZ2h0OiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHtQdXJlQ29tcG9uZW50fSBmcm9tICdyZWFjdCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBjb21wb25lbnQgPSBzaGFsbG93KAogICAgICA8Q2xpZW50SGVpZ2h0UmVhZGVyPgogICAgICAgIDxkaXYgaWQ9J2EnIC8+CiAgICAgICAgPGRpdiBpZD0nYicgLz4KICAgICAgPC9DbGllbnRIZWlnaHRSZWFkZXI+CiAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzIGZyb20gJy4uLy4uL2FjdGlvbnMvbG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMnCg==</text>
+        <text encoding="base64">ICAgIGxldCBjb21wb25lbnQgPSBzaGFsbG93KAogICAgICA8Q2xpZW50SGVpZ2h0UmVhZGVyPgogICAgICAgIDxkaXYgaWQ9J2EnIC8+CiAgICAgICAgPGRpdiBpZD0nYicgLz4KICAgICAgPC9DbGllbnRIZWlnaHRSZWFkZXI+CiAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL2NvbXBvbmVudHMvTG9hZGluZy9Mb2FkaW5nQmFyJwo=</text>
+        <text encoding="base64">aW1wb3J0IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzIGZyb20gJy4uLy4uL2FjdGlvbnMvbG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
+        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL2NvbXBvbmVudHMvTG9hZGluZy9Mb2FkaW5nQmFyJwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL2NvbXBvbmVudHMvTG9hZGluZy9Mb2FkaW5nQmFyJwo=</text>
+        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
