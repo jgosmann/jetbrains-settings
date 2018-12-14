@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544712483216">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544775985995">
         <mark key="'" line="40" column="12" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -62,11 +62,11 @@
         <mark key="]" line="34" column="48" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Loading/LoadingBar.js" timestamp="1544717799933">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Loading/LoadingBar.js" timestamp="1544776069758">
+        <mark key="[" line="49" column="7" />
+        <mark key="]" line="49" column="7" />
         <mark key="^" line="12" column="43" />
-        <mark key="." line="12" column="26" />
+        <mark key="." line="49" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/mapsStateToOrderDetailsProps.js" timestamp="1544694763496">
         <mark key="[" line="9" column="0" />
@@ -322,11 +322,11 @@
       <jump line="98" column="55" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderForm/test/OrderForm.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzIGZyb20gJy4uLy4uL2FjdGlvbnMvbG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>.isRequired</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Linear</text>
@@ -434,6 +434,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
