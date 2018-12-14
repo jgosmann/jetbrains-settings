@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544778368326">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverviewTop.js" timestamp="1544780603523">
         <mark key="'" line="87" column="2" />
         <mark key="[" line="27" column="50" />
         <mark key="]" line="27" column="50" />
@@ -175,6 +175,18 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/ClientHeightReader/test/ClientHeightReader.spec.js" timestamp="1544781963253">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="14" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/ClientHeightReader/ClientHeightReader.js" timestamp="1544782198439">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/style/measurements.js" timestamp="1544716758966">
         <mark key="'" line="8" column="22" />
         <mark key="[" line="8" column="23" />
@@ -323,43 +335,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Z2V0QXR2aXNlVXJsQ29uZmlndXJhdGlvblVybCgpIHx8IA==</text>
+        <text>Fragment</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2V0QXR2aXNlVXJsQ29uZmlndXJhdGlvblVybCgpIHx8IA==</text>
+        <text>Fragment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXF1ZXN0T25nb2luZzogZ2V0T3JkZXJDcmVhdGlvblJlcXVlc3RPbmdvaW5nCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmhhdmUuZGVzY2VuZGFudHMoJyNhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzIGZyb20gJy4uLy4uL2FjdGlvbnMvbG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMnCg==</text>
+        <text encoding="base64">aW1wb3J0IHtQdXJlQ29tcG9uZW50fSBmcm9tICdyZWFjdCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL2NvbXBvbmVudHMvTG9hZGluZy9Mb2FkaW5nQmFyJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
+        <text encoding="base64">ICAgIGxldCBjb21wb25lbnQgPSBzaGFsbG93KAogICAgICA8Q2xpZW50SGVpZ2h0UmVhZGVyPgogICAgICAgIDxkaXYgaWQ9J2EnIC8+CiAgICAgICAgPGRpdiBpZD0nYicgLz4KICAgICAgPC9DbGllbnRIZWlnaHRSZWFkZXI+CiAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL2NvbXBvbmVudHMvTG9hZGluZy9Mb2FkaW5nQmFyJwo=</text>
+        <text encoding="base64">aW1wb3J0IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzIGZyb20gJy4uLy4uL2FjdGlvbnMvbG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgbG9hZGluZ0JhckhlaWdodDogNQo=</text>
+        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL2NvbXBvbmVudHMvTG9hZGluZy9Mb2FkaW5nQmFyJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExpbmVhclByb2dyZXNzIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0xpbmVhclByb2dyZXNzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OiAxNiwKICAgIHBhZGRpbmdSaWdodDogMTYsCiAgICBwYWRkaW5nVG9wOiA4LAogICAgcGFkZGluZ0JvdHRvbTogNDAsCg==</text>
+        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL2NvbXBvbmVudHMvTG9hZGluZy9Mb2FkaW5nQmFyJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -417,7 +429,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
