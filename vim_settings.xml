@@ -16,6 +16,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="54" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/labeldControlStyles.js" timestamp="1545232218422">
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="18" />
+        <mark key="^" line="50" column="18" />
+        <mark key="." line="50" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/FocusInOutDiv/FocusInOutDiv.js" timestamp="1545216599807" />
     </filemarks>
     <jumps>
@@ -37,10 +43,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hidden</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hidden</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JvbGxiYXJzXD4=</text>
