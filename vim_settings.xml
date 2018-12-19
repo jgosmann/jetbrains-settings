@@ -6,6 +6,15 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1545210327276">
         <mark key="'" line="276" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/lmsOrderManagementSaga.js" timestamp="1545213393301">
+        <mark key="[" line="40" column="51" />
+        <mark key="]" line="40" column="61" />
+        <mark key="." line="40" column="61" />
+        <mark key="^" line="40" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" timestamp="1545213355327">
+        <mark key="'" line="163" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="70" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
@@ -17,24 +26,45 @@
       <jump line="215" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
       <jump line="276" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
       <jump line="90" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
+      <jump line="86" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="170" column="21" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="163" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICB5aWVsZCB0YWtlRXZlcnkobG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMuc3RhcnRPbmxpbmVSb3V0aW5nLCBzdGFydE9ubGluZVJvdXRpbmdTYWdhKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>startOnlineRouting</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>startOnlineRouting</text>
+      </register>
       <register name="/" type="4">
-        <text>conveyor</text>
+        <text>select</text>
       </register>
     </registers>
     <search>
-      <last-search>conveyor</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>conveyor</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>conveyor</entry>
+        <entry>START_ONLINE_ROUTING</entry>
+        <entry>ROUTE</entry>
+        <entry>ROUTE_CHANGED</entry>
+        <entry>select</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
