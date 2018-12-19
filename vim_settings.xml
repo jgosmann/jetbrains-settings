@@ -4,16 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1545210327276">
-        <mark key="'" line="276" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/lmsOrderManagementSaga.js" timestamp="1545213393301">
-        <mark key="[" line="40" column="51" />
-        <mark key="]" line="40" column="61" />
-        <mark key="." line="40" column="61" />
-        <mark key="^" line="40" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" timestamp="1545213355327">
-        <mark key="'" line="163" column="20" />
+        <mark key="'" line="270" column="2" />
       </file>
     </filemarks>
     <jumps>
