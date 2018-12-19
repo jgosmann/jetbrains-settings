@@ -6,12 +6,18 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1545210327276">
         <mark key="'" line="276" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1545219489100">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="30" column="44" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1545222285915">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="54" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/labeldControlStyles.js" timestamp="1545222180057">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="49" column="16" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/FocusInOutDiv/FocusInOutDiv.js" timestamp="1545216599807" />
     </filemarks>
@@ -29,55 +35,56 @@
       <jump line="170" column="21" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
       <jump line="163" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29udGFpbmVyID0gUmVhY3QuY3JlYXRlUmVmKCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgY3NzIH0gZnJvbSAnLi4vLi4vdXRpbC9zdHlsZScK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>_updateHeight</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text encoding="base64">XDxzY3JvbGxiYXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB5aWVsZCB0YWtlRXZlcnkobG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMuc3RhcnRPbmxpbmVSb3V0aW5nLCBzdGFydE9ubGluZVJvdXRpbmdTYWdhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29udGFpbmVyID0gUmVhY3QuY3JlYXRlUmVmKCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgY3NzIH0gZnJvbSAnLi4vLi4vdXRpbC9zdHlsZScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9e3RoaXMuY29udGFpbmVyfQo=</text>
+        <text encoding="base64">aW1wb3J0IEFic3RyYWN0U3RyaW5nSW5wdXQsIHsgc3R5bGVzIH0gZnJvbSAnLi4vQWJzdHJhY3RTdHJpbmdJbnB1dC9BYnN0cmFjdFN0cmluZ0lucHV0Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmNvbnRhaW5lci5jdXJyZW50LmNvbnRhaW5zKGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQpKSB7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2Nyb2xsYmFycyA9IFJlYWN0LmNyZWF0ZVJlZigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1pbkhlaWdodDogJzEwMCUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpCg==</text>
+        <text encoding="base64">CiAgX3VwZGF0ZUhlaWdodChlKSB7CiAgICB0aGlzLnNldFN0YXRlKHsgaGVpZ2h0OiBlLnRhcmdldC5zY3JvbGxIZWlnaHQgfSkKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpCg==</text>
+        <text encoding="base64">ICAgIC8vdGhpcy5zY3JvbGxiYXJzLmN1cnJlbnQudXBkYXRlKCkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICB0aGlzLl9oYW5kbGVCbHVyKCkKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUudGFyZ2V0LnNjcm9sbEhlaWdodCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50ZXh0YXJlYS5jdXJyZW50LmZvY3VzKCkK</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udGFpbmVyID0gUmVhY3QuY3JlYXRlUmVmKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGFpbmVyLmN1cnJlbnQsIHRoaXMudGV4dGFyZWEuY3VycmVudCwgdGhpcy5jb250YWluZXIuY3VycmVudC5jb250YWlucyh0aGlzLnRleHRhcmVhLmN1cnJlbnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWY9e3RoaXMuY29udGFpbmVyfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search encoding="base64">XDxzY3JvbGxiYXJzXD4=</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JvbGxiYXJzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -88,8 +95,10 @@
         <entry>ROUTE</entry>
         <entry>ROUTE_CHANGED</entry>
         <entry>select</entry>
+        <entry encoding="base64">XDxzY3JvbGxiYXJzXD4=</entry>
       </history-search>
       <history-cmd>
+        <entry>wo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -104,6 +113,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
