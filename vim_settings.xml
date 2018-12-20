@@ -68,7 +68,7 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Provider/Krones.Lms.LiveData.Provider/Agent/LineDataAgent.cs" timestamp="1545303086703">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Provider/Krones.Lms.LiveData.Provider/Agent/LineDataAgent.cs" timestamp="1545308780568">
         <mark key="'" line="47" column="6" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -138,6 +138,9 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Process/Krones.Lms.LiveData.Process/Configuration/SignalR/SignalRConfiguration.json" timestamp="1545306730798">
+        <mark key="'" line="1" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Veil/Veil.js" timestamp="1545040115734">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="60" />
@@ -158,6 +161,13 @@
         <mark key="]" line="146" column="69" />
         <mark key="^" line="146" column="69" />
         <mark key="." line="146" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/DemoMode/Syskron.Lms.LiveData.DemoMode/DemoModeLmsCoreLauncher.cs" timestamp="1545308186732">
+        <mark key="'" line="35" column="29" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="40" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" timestamp="1544708828418">
         <mark key="'" line="891" column="0" />
@@ -186,11 +196,23 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Configuration/Krones.Lms.LiveData.Configuration/SignalRConfiguration.cs" timestamp="1545306790919">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderDetails/test/OrderDetails.spec.js" timestamp="1544801383735">
         <mark key="[" line="57" column="48" />
         <mark key="]" line="57" column="74" />
         <mark key="." line="57" column="74" />
         <mark key="^" line="57" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Launcher/Krones.Lms.LiveData.Launcher.NetFramework/LiveDataServiceLauncher.cs" timestamp="1545307079326">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="49" />
+        <mark key="." line="28" column="49" />
+        <mark key="^" line="28" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/Order.js" timestamp="1545040929415">
         <mark key="'" line="9" column="9" />
@@ -231,9 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="157" column="35" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
-      <jump line="227" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="226" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="222" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
       <jump line="216" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Tiling/Tiling.js" />
@@ -331,55 +350,58 @@
       <jump line="27" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" />
       <jump line="49" column="8" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Provider/Krones.Lms.LiveData.Provider/Agent/LineDataAgent.cs" />
       <jump line="47" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Provider/Krones.Lms.LiveData.Provider/Agent/LineDataAgent.cs" />
+      <jump line="1" column="53" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Process/Krones.Lms.LiveData.Process/Configuration/SignalR/SignalRConfiguration.json" />
+      <jump line="112" column="47" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/DemoMode/Syskron.Lms.LiveData.DemoMode/DemoModeLmsCoreLauncher.cs" />
+      <jump line="31" column="29" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/DemoMode/Syskron.Lms.LiveData.DemoMode/DemoModeLmsCoreLauncher.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgUm91dGVHcmFwaERpc3BsYXlNb2RlLlNob3dSb3V0ZUdyYXBoRm9yU2VsZWN0ZWRPcmRlcjoKICAgICAgICAgICAgZGF0YVRvUHVzaCA9IEdldFJvdXRlR3JhcGhEYXRhRm9yT3JkZXJzKHJvKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Syskron</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0UmVmXD4=</text>
+        <text encoding="base64">XDxFcXVpcG1lbnRNYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybDogJ2h0dHA6Ly9sb2NhbGhvc3Q6OTAwMS9sbXMvYXBpL0NvbmZpZ3VyYXRpb24vZ2V0Um91dGVHcmFwaERpc3BsYXlDb25maWcnCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIFN0YXJ0KCkKICAgIHsKICAgICAgdGhpcy5Qcm9kdWN0aW9uT3JkZXJNYW5hZ2VyID0gbmV3IFNpbXBsZVByb2R1Y3Rpb25PcmRlck1hbmFnZXIoKTsKICAgICAgdGhpcy5MaW5lTWFuYWdlciA9IG5ldyBMaW5lTWFuYWdlcldpdGhSYW5kb21EYXRhKCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgUm91dGVHcmFwaERpc3BsYXlNb2RlLlNob3dSb3V0ZUdyYXBoRm9yU2VsZWN0ZWRPcmRlcjoKICAgICAgICAgICAgZGF0YVRvUHVzaCA9IEdldFJvdXRlR3JhcGhEYXRhRm9yT3JkZXJzKHJvKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNjcm9sbGJhcnNSZWY6IFJlYWN0LmNyZWF0ZVJlZigpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIFN0YXJ0KCkKICAgIHsKICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Nyb2xsYmFyc1JlZj17dGhpcy5zY3JvbGxiYXJzUmVmfQo=</text>
+        <text encoding="base64">dXNpbmcgRXF1aXBtZW50RWRnZVdlYkR0byA9IFN5c2tyb24uTG1zLkNvcmUuSW50ZXJmYWNlLldlYkR0b3MuU2l0ZVBpbG90LlJvdXRlR3JhcGguRXF1aXBtZW50RWRnZVdlYkR0bzsKdXNpbmcgRXF1aXBtZW50V2ViRHRvID0gU3lza3Jvbi5MbXMuQ29yZS5JbnRlcmZhY2UuV2ViRHRvcy5TaXRlUGlsb3QuUm91dGVHcmFwaC5FcXVpcG1lbnRXZWJEdG87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2Nyb2xsYmFyc1JlZiA9IFJlYWN0LmNyZWF0ZVJlZigpCg==</text>
+        <text encoding="base64">dXNpbmcgRXF1aXBtZW50RWRnZVdlYkR0byA9IFN5c2tyb24uTG1zLkNvcmUuSW50ZXJmYWNlLldlYkR0b3MuU2l0ZVBpbG90LlJvdXRlR3JhcGguRXF1aXBtZW50RWRnZVdlYkR0bzsKdXNpbmcgRXF1aXBtZW50V2ViRHRvID0gU3lza3Jvbi5MbXMuQ29yZS5JbnRlcmZhY2UuV2ViRHRvcy5TaXRlUGlsb3QuUm91dGVHcmFwaC5FcXVpcG1lbnRXZWJEdG87Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzY3JvbGxiYXJzUmVmOiBQcm9wVHlwZXMub2JqZWN0Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lza3Jvbi5MbXMuQ29yZS5JbnRlcmZhY2UuTGF1bmNoZXI7CnVzaW5nIFN5c2tyb24uTG1zLkNvcmUuSW50ZXJmYWNlLk1hbmFnZXIuV2ViOwp1c2luZyBTeXNrcm9uLkxtcy5Db3JlLkludGVyZmFjZS5XZWJEdG9zOwp1c2luZyBTeXNrcm9uLkxtcy5Db3JlLkludGVyZmFjZS5XZWJEdG9zLlNpdGVQaWxvdC5Sb3V0ZUdyYXBoOwp1c2luZyBTeXNrcm9uLkxtcy5JbmZyYXN0cnVjdHVyZS5JbnRlcmZhY2UuRHRvOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHByb3Age29iamVjdH0gc2Nyb2xsYmFyc1JlZiAtIFN0b3JlcyBhIHJlZmVyZW5jZSB0byB0aGUgaW50ZXJuYWwgc2Nyb2xsYmFycwogKiAgIG9iamVjdC4gVGhpcyBhbGxvd3MgcGFyZW50IGVsZW1lbnRzIHRvIHRyaWdnZXIgdXBkYXRlcyBvZiB0aGUgc2Nyb2xsYmFyCiAqICAgd2hlbiB0aGUgY2hpbGRyZW4ncyBzaXplIGNoYW5nZXMgKGFuZCBubyBoZWlnaHQgcHJvcGVydHkgaXMgZ2l2ZW4pLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LnJlcXVlc3RBbmltYXRpb25GcmFtZSh5KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGNvcmVMYXVuY2hlciA9IG5ldyBMbXNDb3JlTGF1bmNoZXIoTW9kZS5Vc2VPbGRMbXNGdyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeSA9ICh0aW1lc3RhbXApID0+IHsKICAgICAgICB0aGlzLnNjcm9sbGJhcnNSZWYuY3VycmVudC51cGRhdGUoKQogICAgICAgIGlmICh0aW1lc3RhbXAgLSBhbmltYXRpb25TdGFydCA8PSAyMDApIHsKICAgICAgICAgIHdpbmRvdy5yZXF1ZXN0QW5pbWF0aW9uRnJhbWUoeSkKICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29yZUxhdW5jaGVyLlN0YXJ0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0UmVmXD4=</last-search>
+      <last-search encoding="base64">XDxFcXVpcG1lbnRNYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0UmVmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFcXVpcG1lbnRNYW5hZ2VyXD4=</last-pattern>
       <last-replace>focusLock</last-replace>
       <last-substitute>component</last-substitute>
       <last-dir>1</last-dir>
@@ -387,7 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loadingBarHeight</entry>
         <entry>Linear</entry>
         <entry>setFix</entry>
         <entry>transition</entry>
@@ -407,6 +428,7 @@
         <entry encoding="base64">XDxyZW5kZXJUb3BcPg==</entry>
         <entry>height</entry>
         <entry encoding="base64">XDxsaXN0UmVmXD4=</entry>
+        <entry encoding="base64">XDxFcXVpcG1lbnRNYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
