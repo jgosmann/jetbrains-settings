@@ -4,11 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseCommunicator.js" timestamp="1545301850933">
-        <mark key="'" line="164" column="15" />
+        <mark key="'" line="161" column="15" />
         <mark key="[" line="95" column="47" />
-        <mark key="]" line="97" column="26" />
-        <mark key="." line="97" column="26" />
-        <mark key="^" line="97" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/routeGraphSaga.js" timestamp="1545296199516">
         <mark key="[" line="109" column="0" />
@@ -22,15 +19,11 @@
         <mark key="^" line="41" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/getOnlineRoutingData.js" timestamp="1545296845319">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1545301589019">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
         <mark key="^" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CustomScrollbar/CustomScrollbar.js" timestamp="1545233625598">
@@ -49,14 +42,11 @@
         <mark key="]" line="26" column="33" />
         <mark key="." line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" timestamp="1545298850343">
-        <mark key="'" line="34" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/startOnlineRoutingSaga.js" timestamp="1545298785572">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
       </file>
     </filemarks>
     <jumps>
