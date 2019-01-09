@@ -59,6 +59,12 @@
         <mark key="^" line="8" column="1" />
       </file>
       <file name="/lmsOrderManagementSelectors.js" timestamp="1547025539336" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1547035962446">
+        <mark key="[" line="87" column="52" />
+        <mark key="]" line="87" column="55" />
+        <mark key="^" line="87" column="55" />
+        <mark key="." line="87" column="55" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="70" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
@@ -111,11 +117,11 @@
       <jump line="162" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseCommunicator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW5kZXInKQo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>, logger</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VuZE1lc3NhZ2VcPg==</text>
