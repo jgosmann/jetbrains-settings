@@ -67,12 +67,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547119218567">
-        <mark key="'" line="129" column="14" />
-        <mark key="[" line="119" column="35" />
-        <mark key="]" line="119" column="40" />
-        <mark key="." line="119" column="40" />
-        <mark key="^" line="119" column="40" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547120771535">
+        <mark key="'" line="124" column="14" />
+        <mark key="[" line="117" column="52" />
+        <mark key="]" line="117" column="71" />
+        <mark key="." line="117" column="71" />
+        <mark key="^" line="117" column="71" />
       </file>
     </filemarks>
     <jumps>
@@ -129,11 +129,11 @@
       <jump line="119" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KGUpID0+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGUuc3RvcFByb3BhZ2F0aW9uKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGUpID0+</text>
+        <text>preventDefault</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</text>
@@ -142,31 +142,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGUuc3RvcFByb3BhZ2F0aW9uKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxlY3RlZCA9ICQubWFwKHRoaXMuc2VsZWN0KCksIGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgIHJldHVybiAkKGl0ZW0pLnRleHQoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCiAgICBjb25zb2xlLmxvZyh0aGlzLnNlbGVjdCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQubWFwKHRoaXMuc2VsZWN0KCksIGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgcmV0dXJuICQoaXRlbSkKICAgIH0pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2hhbmdlOiAoKSA9PiB7CiAgICAgICAgYWxlcnQoJ2hhaGEnKQogICAgICB9LAogICAgICBzZWxlY3RhYmxlOiAnY2VsbCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCd4eHgnKQo=</text>
+        <text encoding="base64">ICAgIHZhciBzZWxlY3RlZCA9ICQubWFwKHRoaXMuc2VsZWN0KCksIGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgIHJldHVybiAkKGl0ZW0pLnRleHQoKTsKICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNvbnN0IGNsaWNrT25GYWlsdXJlQ2VsbCA9ICgpID0+IHsKICBhbGVydCgnbXVtdScpCn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmYWlsdXJlQ291bnRTdW0sIHN1Y2Nlc3NDb3VudFN1bSkK</text>
+        <text encoding="base64">ICAgICAgY2hhbmdlOiAoKSA9PiB7CiAgICAgICAgYWxlcnQoJ2hhaGEnKQogICAgICB9LAogICAgICBzZWxlY3RhYmxlOiAnY2VsbCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCd4eHgnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoZmFpbHVyZUNvdW50U3VtID4gMCkgewo=</text>
+        <text encoding="base64">CmNvbnN0IGNsaWNrT25GYWlsdXJlQ2VsbCA9ICgpID0+IHsKICBhbGVydCgnbXVtdScpCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
