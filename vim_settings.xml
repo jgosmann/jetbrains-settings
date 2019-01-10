@@ -18,11 +18,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547121185297">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="10" />
-        <mark key="^" line="26" column="57" />
-        <mark key="." line="23" column="10" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547129409819">
+        <mark key="'" line="10" column="62" />
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+        <mark key="^" line="4" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" timestamp="1547043023116">
         <mark key="'" line="0" column="0" />
@@ -67,12 +68,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547122583703">
-        <mark key="'" line="133" column="14" />
-        <mark key="[" line="24" column="65" />
-        <mark key="]" line="24" column="65" />
-        <mark key="." line="24" column="65" />
-        <mark key="^" line="24" column="75" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547129447770">
+        <mark key="'" line="86" column="35" />
+        <mark key="[" line="87" column="33" />
+        <mark key="]" line="87" column="43" />
+        <mark key="^" line="87" column="43" />
+        <mark key="." line="87" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -127,64 +128,65 @@
       <jump line="46" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" />
       <jump line="119" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" />
+      <jump line="10" column="62" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" />
+      <jump line="28" column="35" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" />
+      <jump line="86" column="35" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>path[1]</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>path[1]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</text>
+        <text>path\[1\]</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-    failedMessages: messageType.monday.failedMessages</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNlbmRlciA9IGRhdGFFbGVtLmF0dHIoJ2RhdGEtc2VuZGVyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGUuc3RvcFByb3BhZ2F0aW9uKCkK</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCiAgICBjb25zb2xlLmxvZyh0aGlzLnNlbGVjdCgpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2VzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQubWFwKHRoaXMuc2VsZWN0KCksIGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgcmV0dXJuICQoaXRlbSkKICAgIH0pKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2VzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZW5kZXIsIG1lc3NhZ2VUeXBlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxlY3RlZCA9ICQubWFwKHRoaXMuc2VsZWN0KCksIGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgIHJldHVybiAkKGl0ZW0pLnRleHQoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICBgI3ZhciBmYWlsZWRNZXNzYWdlcyA9IGRhdGEuY2hpbGRyZW5baV0uJHtjb2x1bW59LmZhaWxlZE1lc3NhZ2VzI2AgKwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgcGF0aDogW3NlbmRlciwgY29tcG9uZW50SWRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2hhbmdlOiAoKSA9PiB7CiAgICAgICAgYWxlcnQoJ2hhaGEnKQogICAgICB9LAogICAgICBzZWxlY3RhYmxlOiAnY2VsbCcsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGF0YVNvdXJjZS5hdCg0KS5jaGlsZHJlblsxXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCd4eHgnKQo=</text>
+        <text encoding="base64">aW1wb3J0ICQgZnJvbSAnanF1ZXJ5Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnN0IGNsaWNrT25GYWlsdXJlQ2VsbCA9ICgpID0+IHsKICBhbGVydCgnbXVtdScpCn0K</text>
+        <text encoding="base64">ICAgIGZhaWxlZE1lc3NhZ2VzOiBtZXNzYWdlVHlwZS53ZWRuZXNkYXkuZmFpbGVkTWVzc2FnZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</last-search>
+      <last-search>path\[1\]</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</last-pattern>
+      <last-pattern>path\[1\]</last-pattern>
+      <last-replace>messageType</last-replace>
+      <last-substitute>path\[1\]</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
-        <entry encoding="base64">XDxfaGFuZGxlU3Vic2NyaWJlXD4=</entry>
-        <entry encoding="base64">XDxvblJvdXRlR3JhcGhTdWJzY3JpYmVcPg==</entry>
         <entry encoding="base64">XDxfb25Sb3V0ZUdyYXBoU3Vic2NyaWJlXD4=</entry>
         <entry>start</entry>
         <entry encoding="base64">XDxvbmxpbmVSb3V0aW5nQWN0aXZlXD4=</entry>
@@ -202,12 +204,18 @@
         <entry>CLOSE</entry>
         <entry>onDataBound</entry>
         <entry encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</entry>
+        <entry>path: \[\]</entry>
+        <entry>path\[0\]</entry>
+        <entry>path\[1\]</entry>
       </history-search>
       <history-cmd>
         <entry>wo</entry>
         <entry>wa</entry>
         <entry>bd</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL3BhdGg6IFxbXF0vc2VuZGVyOiB1bmRlZmluZWQsIG1lc3NhZ2VUeXBlOiB1bmRlZmluZWQ=</entry>
+        <entry encoding="base64">JzwsJz5zL3BhdGhcWzBcXS9zZW5kZXI=</entry>
+        <entry encoding="base64">JzwsJz5zL3BhdGhcWzFcXS9tZXNzYWdlVHlwZQ==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
