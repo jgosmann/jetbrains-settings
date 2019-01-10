@@ -68,11 +68,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="28" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportTable.spec.js" timestamp="1547131935015">
-        <mark key="[" line="192" column="45" />
-        <mark key="]" line="192" column="112" />
-        <mark key="^" line="185" column="112" />
-        <mark key="." line="192" column="45" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportTable.spec.js" timestamp="1547133130871">
+        <mark key="[" line="254" column="56" />
+        <mark key="]" line="254" column="61" />
+        <mark key="^" line="254" column="61" />
+        <mark key="." line="254" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/startOnlineRoutingSaga.js" timestamp="1545298785572">
         <mark key="[" line="0" column="0" />
@@ -80,12 +80,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547129447770">
-        <mark key="'" line="86" column="35" />
-        <mark key="[" line="87" column="33" />
-        <mark key="]" line="87" column="43" />
-        <mark key="^" line="87" column="43" />
-        <mark key="." line="87" column="43" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547132558043">
+        <mark key="'" line="79" column="35" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="80" column="43" />
+        <mark key="." line="82" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -149,43 +149,43 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, sender: senders[0], messageType: labels[0][0], failedMessages: []</text>
+        <text>monday</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>monday</text>
       </register>
       <register name="/" type="4">
         <text>path\[1\]</text>
       </register>
-      <register name="0" type="4">
-        <text>, sender: senders[0], messageType: labels[0][0], failedMessages: []</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc2hhcmVkID0gewogICAgICAgICAgICAgIHNlbmRlcjogc2VuZGVyc1swXSwKICAgICAgICAgICAgICBtZXNzYWdlVHlwZTogbGFiZWxzWzBdWzFdCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6IGdpdmVuU2VuZGVyLAogICAgICAgIGNvbXBvbmVudElkOiBnaXZlbk1lc3NhZ2VUeXBlLAogICAgICAgIGRhdGFTdGF0ZTogewogICAgICAgICAgY29tcGxldGU6IGZhbHNlCiAgICAgICAgfQogICAgICB9LAogICAgICB7CiAgICAgICAgbmFtZTogZ2l2ZW5TZW5kZXIsCiAgICAgICAgY29tcG9uZW50SWQ6IGdpdmVuTWVzc2FnZVR5cGUsCiAgICAgICAgZGF0YVN0YXRlOiB7CiAgICAgICAgICBjb21wbGV0ZTogZmFsc2UKICAgICAgICB9CiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZ3JpZERhdGFbMF0uY2hpbGRyZW5bMF0ubW9uZGF5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ2l2ZW5TZW5kZXIsIGdpdmVuTWVzc2FnZVR5cGUpCiAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmYWlsZWRNZXNzYWdlczogW10K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Lm1hcChkYXkgPT4gewogICAgICByZXR1cm4geyAuLi5kYXksIHNlbmRlciwgbWVzc2FnZVR5cGUgfQogICAgfSk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZhaWxlZE1lc3NhZ2VzOiBtZXNzYWdlVHlwZS5zdW0uZmFpbGVkTWVzc2FnZXMubWFwKG1zZyA9PiBtc2cuaWQpLmpvaW4oJywnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">ICAgIGZhaWxlZE1lc3NhZ2VzOiBtZXNzYWdlVHlwZS5zdW5kYXkuZmFpbGVkTWVzc2FnZXMubWFwKG1zZyA9PiBtc2cuaWQpLmpvaW4oJywnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2VzKQo=</text>
+        <text encoding="base64">ICAgIGZhaWxlZE1lc3NhZ2VzOiBtZXNzYWdlVHlwZS5zYXR1cmRheS5mYWlsZWRNZXNzYWdlcy5tYXAobXNnID0+IG1zZy5pZCkuam9pbignLCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2VzKQo=</text>
+        <text encoding="base64">ICAgIGZhaWxlZE1lc3NhZ2VzOiBtZXNzYWdlVHlwZS5mcmlkYXkuZmFpbGVkTWVzc2FnZXMubWFwKG1zZyA9PiBtc2cuaWQpLmpvaW4oJywnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZW5kZXIsIG1lc3NhZ2VUeXBlKQo=</text>
+        <text encoding="base64">ICAgIGZhaWxlZE1lc3NhZ2VzOiBtZXNzYWdlVHlwZS50aHVyc2RheS5mYWlsZWRNZXNzYWdlcy5tYXAobXNnID0+IG1zZy5pZCkuam9pbignLCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBgI3ZhciBmYWlsZWRNZXNzYWdlcyA9IGRhdGEuY2hpbGRyZW5baV0uJHtjb2x1bW59LmZhaWxlZE1lc3NhZ2VzI2AgKwo=</text>
+        <text encoding="base64">ICAgIGZhaWxlZE1lc3NhZ2VzOiBtZXNzYWdlVHlwZS53ZWRuZXNkYXkuZmFpbGVkTWVzc2FnZXMubWFwKG1zZyA9PiBtc2cuaWQpLmpvaW4oJywnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGF0aDogW3NlbmRlciwgY29tcG9uZW50SWRdCg==</text>
+        <text encoding="base64">ICAgIGZhaWxlZE1lc3NhZ2VzOiBtZXNzYWdlVHlwZS50dWVzZGF5LmZhaWxlZE1lc3NhZ2VzLm1hcChtc2cgPT4gbXNnLmlkKS5qb2luKCcsJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -260,6 +260,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
