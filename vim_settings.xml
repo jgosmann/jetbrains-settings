@@ -8,6 +8,12 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" timestamp="1547118260922">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CustomScrollbar/CustomScrollbar.js" timestamp="1545233625598">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="52" />
@@ -61,11 +67,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547116235186">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="^" line="23" column="79" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547119218567">
+        <mark key="'" line="129" column="14" />
+        <mark key="[" line="119" column="35" />
+        <mark key="]" line="119" column="40" />
+        <mark key="." line="119" column="40" />
+        <mark key="^" line="119" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -119,62 +126,61 @@
       <jump line="162" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseCommunicator.js" />
       <jump line="46" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" />
+      <jump line="119" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnN0IGNsaWNrT25GYWlsdXJlQ2VsbCA9ICgpID0+IHsKICBhbGVydCgnbXVtdScpCn0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KGUpID0+</text>
       </register>
       <register name="-" type="4">
-        <text>alert(\'mu\')</text>
+        <text encoding="base64">KGUpID0+</text>
       </register>
       <register name="/" type="4">
-        <text>CLOSE</text>
+        <text encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5vblN1YnNjcmliZSh7CiAgICAgICAgaWQ6IHRoaXMuX2lkLAogICAgICAgIGFkZHJlc3NlczogdGhpcy5fc3Vic2NyaWJlZEFkZHJlc3NlcwogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IGNsaWNrT25GYWlsdXJlQ2VsbCA9ICgpID0+IHsKICBhbGVydCgnbXVtdScpCn0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmYWlsdXJlQ291bnRTdW0sIHN1Y2Nlc3NDb3VudFN1bSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoZmFpbHVyZUNvdW50U3VtID4gMCkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIENMT1NFX1JPVVRFX0VSUk9SOiBudWxsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhciBzZWxlY3RlZCA9ICQubWFwKHRoaXMuc2VsZWN0KCksIGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgIHJldHVybiAkKGl0ZW0pLnRleHQoKTsKICAgIH0pOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY2hhbmdlOiAoKSA9PiB7CiAgICAgICAgYWxlcnQoJ2hhaGEnKQogICAgICB9LAogICAgICBzZWxlY3RhYmxlOiAnY2VsbCcsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KCd4eHgnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CmNvbnN0IGNsaWNrT25GYWlsdXJlQ2VsbCA9ICgpID0+IHsKICBhbGVydCgnbXVtdScpCn0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmYWlsdXJlQ291bnRTdW0sIHN1Y2Nlc3NDb3VudFN1bSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghc2VsZWN0ZWRPcmRlcklkIHx8ICFvcmRlckVkaXRNb2RlQWN0aXZlKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgMAo=</text>
+        <text encoding="base64">ICBpZiAoZmFpbHVyZUNvdW50U3VtID4gMCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CLOSE</last-search>
+      <last-search encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</last-search>
       <last-offset />
-      <last-pattern>CLOSE</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
-        <entry encoding="base64">XDxzY3JvbGxiYXJzXD4=</entry>
         <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
         <entry encoding="base64">XDxfaGFuZGxlU3Vic2NyaWJlXD4=</entry>
         <entry encoding="base64">XDxvblJvdXRlR3JhcGhTdWJzY3JpYmVcPg==</entry>
@@ -193,6 +199,8 @@
         <entry>console.log</entry>
         <entry encoding="base64">XDxfc2VuZE1lc3NhZ2VcPg==</entry>
         <entry>CLOSE</entry>
+        <entry>onDataBound</entry>
+        <entry encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wo</entry>
@@ -222,6 +230,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
