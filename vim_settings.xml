@@ -18,11 +18,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547047154108">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547121185297">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="10" />
+        <mark key="^" line="26" column="57" />
+        <mark key="." line="23" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" timestamp="1547043023116">
         <mark key="'" line="0" column="0" />
@@ -67,12 +67,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547120771535">
-        <mark key="'" line="124" column="14" />
-        <mark key="[" line="117" column="52" />
-        <mark key="]" line="117" column="71" />
-        <mark key="." line="117" column="71" />
-        <mark key="^" line="117" column="71" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547122583703">
+        <mark key="'" line="133" column="14" />
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="24" column="65" />
+        <mark key="." line="24" column="65" />
+        <mark key="^" line="24" column="75" />
       </file>
     </filemarks>
     <jumps>
@@ -129,17 +129,18 @@
       <jump line="119" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGUuc3RvcFByb3BhZ2F0aW9uKCkK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>preventDefault</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRHcmlkUHJvcHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
+      <register name="0" type="4">
+        <text>,
+    failedMessages: messageType.monday.failedMessages</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGUuc3RvcFByb3BhZ2F0aW9uKCkK</text>
