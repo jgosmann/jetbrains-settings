@@ -9,19 +9,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" timestamp="1547220667568">
-        <mark key="'" line="78" column="34" />
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="71" column="31" />
-        <mark key="." line="71" column="31" />
-        <mark key="^" line="71" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547224125311">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="85" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="48" column="76" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" timestamp="1547221109682">
         <mark key="'" line="259" column="0" />
         <mark key="[" line="259" column="0" />
@@ -48,10 +35,10 @@
         <mark key="^" line="48" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/requestMessagesSaga.js" timestamp="1547203453834">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="38" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" timestamp="1547202196243">
         <mark key="'" line="22" column="0" />
@@ -134,11 +121,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/requestMessagesSaga.spec.js" timestamp="1547221519819">
-        <mark key="'" line="61" column="49" />
+        <mark key="'" line="6" column="49" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-        <mark key="^" line="61" column="49" />
+        <mark key="^" line="6" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" timestamp="1547220581812">
         <mark key="'" line="75" column="27" />
@@ -179,7 +166,6 @@
         <mark key="." line="19" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547207583553">
-        <mark key="'" line="50" column="56" />
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
@@ -191,11 +177,6 @@
         <mark key="]" line="49" column="22" />
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/transactionReportActionCreators.js" timestamp="1547224113919">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/transactionReportReducer.js" timestamp="1547223064267">
         <mark key="[" line="19" column="8" />
