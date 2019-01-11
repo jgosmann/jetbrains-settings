@@ -20,18 +20,11 @@
         <mark key="." line="21" column="14" />
         <mark key="^" line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/getDataForGrid.spec.js" timestamp="1547134846331">
-        <mark key="[" line="150" column="33" />
-        <mark key="]" line="150" column="34" />
-        <mark key="^" line="89" column="57" />
-        <mark key="." line="150" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547131571217">
-        <mark key="'" line="10" column="62" />
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="35" column="14" />
-        <mark key="^" line="35" column="14" />
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547139585723">
         <mark key="[" line="67" column="73" />
@@ -45,11 +38,6 @@
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/getDataForGrid.js" timestamp="1547133885446">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/StoreManager.js" timestamp="1545300647258">
         <mark key="[" line="26" column="33" />
@@ -100,10 +88,10 @@
         <mark key="." line="254" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/transactionReportReducer.js" timestamp="1547138625627">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/startOnlineRoutingSaga.js" timestamp="1545298785572">
         <mark key="[" line="0" column="0" />
