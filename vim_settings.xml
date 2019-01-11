@@ -3,19 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportMessagesDetailTable.js" timestamp="1547197247789">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="51" />
-        <mark key="^" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/interfaceMonitorActionCreators.js" timestamp="1547200619207">
-        <mark key="'" line="59" column="52" />
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="11" column="62" />
-        <mark key="^" line="11" column="62" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/interfaceMonitorActionCreators.js" timestamp="1547202040265">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/getColumnsForGrid.js" timestamp="1547134044817">
         <mark key="[" line="16" column="74" />
@@ -35,23 +27,10 @@
         <mark key="." line="67" column="73" />
         <mark key="^" line="67" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547131571217">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="40" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" timestamp="1547195968080">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" timestamp="1547195604172">
-        <mark key="'" line="143" column="23" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" timestamp="1547043023116">
         <mark key="'" line="0" column="0" />
@@ -60,39 +39,24 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" timestamp="1547201225097">
-        <mark key="'" line="61" column="19" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" timestamp="1547202553744">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messageAndTransmissionResender.js" timestamp="1547197071003">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="62" />
-        <mark key="." line="4" column="62" />
-        <mark key="^" line="4" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" timestamp="1547197190071">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="50" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" timestamp="1547202196243">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="46" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547197941591">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="51" column="52" />
-        <mark key="^" line="51" column="52" />
-        <mark key="." line="51" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/getRouteGraphDataForAtviseDisplay.js" timestamp="1545299099224">
-        <mark key="[" line="41" column="2" />
-        <mark key="]" line="41" column="6" />
-        <mark key="." line="41" column="6" />
-        <mark key="^" line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getDailySingleMessageCounts.spec.js" timestamp="1547131721455">
-        <mark key="[" line="103" column="24" />
-        <mark key="]" line="104" column="7" />
-        <mark key="." line="104" column="7" />
-        <mark key="^" line="104" column="7" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/messagesTableSelectors.js" timestamp="1547202455850">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="1" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/getDataForAtviseDisplay.js" timestamp="1545301579664">
         <mark key="'" line="5" column="33" />
@@ -101,29 +65,16 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="28" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/transactionReportActionCreators.js" timestamp="1547136317030">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/transactionReportSelectors.js" timestamp="1547196332040">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportTable.spec.js" timestamp="1547133130871">
         <mark key="[" line="254" column="56" />
         <mark key="]" line="254" column="61" />
         <mark key="^" line="254" column="61" />
         <mark key="." line="254" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/transactionReportReducer.js" timestamp="1547194832147">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="20" column="14" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/interfaceMonitorSelectors.js" timestamp="1547202355472">
+        <mark key="'" line="12" column="50" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" timestamp="1547196089287">
         <mark key="'" line="63" column="14" />
@@ -144,6 +95,11 @@
         <mark key="." line="214" column="25" />
         <mark key="^" line="214" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/messagesTableReducer.js" timestamp="1547202529812">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" timestamp="1547139755493">
         <mark key="'" line="45" column="40" />
         <mark key="[" line="30" column="65" />
@@ -151,29 +107,76 @@
         <mark key="." line="30" column="65" />
         <mark key="^" line="34" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportMessagesDetailTable.js" timestamp="1547197247789">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547131571217">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" timestamp="1547202290543">
+        <mark key="'" line="202" column="23" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messageAndTransmissionResender.js" timestamp="1547197071003">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="62" />
+        <mark key="." line="4" column="62" />
+        <mark key="^" line="4" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" timestamp="1547202087439">
+        <mark key="'" line="78" column="85" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="78" column="85" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547197941591">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="51" column="52" />
+        <mark key="^" line="51" column="52" />
+        <mark key="." line="51" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/getRouteGraphDataForAtviseDisplay.js" timestamp="1545299099224">
+        <mark key="[" line="41" column="2" />
+        <mark key="]" line="41" column="6" />
+        <mark key="." line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getDailySingleMessageCounts.spec.js" timestamp="1547131721455">
+        <mark key="[" line="103" column="24" />
+        <mark key="]" line="104" column="7" />
+        <mark key="." line="104" column="7" />
+        <mark key="^" line="104" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/transactionReportActionCreators.js" timestamp="1547136317030">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/transactionReportSelectors.js" timestamp="1547196332040">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/transactionReportReducer.js" timestamp="1547194832147">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="20" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="276" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="90" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="86" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
-      <jump line="170" column="21" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
-      <jump line="163" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" />
-      <jump line="102" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="151" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="80" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="79" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="19" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseCommunicator.js" />
-      <jump line="136" column="13" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseCommunicator.js" />
-      <jump line="32" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseCommunicator.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="251" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="106" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="155" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="51" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
       <jump line="201" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
       <jump line="238" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
       <jump line="195" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
@@ -253,49 +256,70 @@
       <jump line="4" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
       <jump line="60" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
       <jump line="61" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/interfaceMonitorActionCreators.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/interfaceMonitorActionCreators.js" />
+      <jump line="36" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/interfaceMonitorActionCreators.js" />
+      <jump line="72" column="16" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
+      <jump line="78" column="85" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
+      <jump line="12" column="50" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/interfaceMonitorSelectors.js" />
+      <jump line="10" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0cmFuc21pc3Npb25SZXNlbmRTdGF0ZXM6IHt9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>interfaceMonitor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlUmVzZW5kU3RhdGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7IG5hbWU6ICdzZW5kZXInLCBjb21wb25lbnRJZDogJ21lc3NhZ2VUeXBlJyB9LAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaGFuZGxlQWN0aW9ucyB9IGZyb20gJ3JlZHV4LWFjdGlvbnMnCgpjb25zdCBpbml0aWFsU3RhdGUgPSB7CiAgaGlzdG9yeURpYWxvZ09wZW46IGZhbHNlLAogIG1lc3NhZ2VSZXNlbmRTdGF0ZXM6IHt9LAogIG1lc3NhZ2VzOiBudWxsLAogIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICBzZWxlY3RlZENvbXBvbmVudElkOiBudWxsLAogIHNlbGVjdGVkRnJvbURhdGU6IG51bGwsCiAgc2VsZWN0ZWRNZXNzYWdlU3RhdGVzOiB7fSwKICBzZWxlY3RlZFJlY2VpdmVyOiBudWxsLAogIHNlbGVjdGVkU2VuZGVyOiBudWxsLAogIHNlbGVjdGVkVG9EYXRlOiBudWxsLAogIHRyYW5zbWlzc2lvblJlc2VuZFN0YXRlczoge30sCiAgdHlwZWRSZWZlcmVuY2VJZDogJycsCiAgdHlwZWRTZWFyY2hLZXl3b3JkOiAnJwp9Cgpjb25zdCBpbnRlcmZhY2VNb25pdG9yUmVkdWNlciA9IGhhbmRsZUFjdGlvbnMoewogIEdMT0JBTDogewogICAgU0VTU0lPTl9DUkVBVEVEOiAoKSA9PiBpbml0aWFsU3RhdGUsCiAgICBEQVRFX1JBTkdFX1NFVDogKHN0YXRlLCB7IHBheWxvYWQ6IHsgZnJvbURhdGUsIHRvRGF0ZSB9IH0pID0+ICh7CiAgICAgIC4uLnN0YXRlLAogICAgICBzZWxlY3RlZEZyb21EYXRlOiBmcm9tRGF0ZSwKICAgICAgc2VsZWN0ZWRUb0RhdGU6IHRvRGF0ZQogICAgfSkKICB9LAogIFYyX0lOVEVSRkFDRV9NT05JVE9SSU5HOiB7CiAgICBJTlRFUkZBQ0VfTU9OSVRPUjogewogICAgICBDTE9TRV9ISVNUT1JZOiBzdGF0ZSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UKICAgICAgfSksCiAgICAgIENPTVBPTkVOVF9JRF9TRUxFQ1RFRDogKHN0YXRlLCB7IHBheWxvYWQ6IHNlbGVjdGVkQ29tcG9uZW50SWQgfSkgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBzZWxlY3RlZENvbXBvbmVudElkCiAgICAgIH0pLAogICAgICBGUk9NX0RBVEVfU0VMRUNURUQ6IChzdGF0ZSwgeyBwYXlsb2FkOiBzZWxlY3RlZEZyb21EYXRlIH0pID0+ICh7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgc2VsZWN0ZWRGcm9tRGF0ZQogICAgICB9KSwKICAgICAgSU5QVVRfREFUQV9SRVNFVDogKHN0YXRlLCB7IHBheWxvYWQ6IHsgZnJvbURhdGUsIHRvRGF0ZSB9IH0pID0+ICh7CiAgICAgICAgLi4uc3RhdGUsCgogICAgICAgIHNlbGVjdGVkQ29tcG9uZW50SWQ6IG51bGwsCiAgICAgICAgc2VsZWN0ZWRGcm9tRGF0ZTogZnJvbURhdGUsCiAgICAgICAgc2VsZWN0ZWRSZWNlaXZlcjogbnVsbCwKICAgICAgICBzZWxlY3RlZFNlbmRlcjogbnVsbCwKICAgICAgICBzZWxlY3RlZFRvRGF0ZTogdG9EYXRlLAogICAgICAgIHNlbGVjdGVkTWVzc2FnZVN0YXRlczoge30sCiAgICAgICAgdHlwZWRSZWZlcmVuY2VJZDogJycsCiAgICAgICAgdHlwZWRTZWFyY2hLZXl3b3JkOiAnJwogICAgICB9KSwKICAgICAgTUVTU0FHRV9ISVNUT1JZX0xPQURFRDogKHN0YXRlLCB7IHBheWxvYWQgfSkgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBtZXNzYWdlSGlzdG9yeTogcGF5bG9hZC5oaXN0b3J5CiAgICAgIH0pLAogICAgICBNRVNTQUdFX1JFU0VORF9TVEFURV9VUERBVEVEOiAoc3RhdGUsIHsgcGF5bG9hZDogeyBtZXNzYWdlSWQsIHJlc2VuZFN0YXRlIH0gfSkgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBtZXNzYWdlUmVzZW5kU3RhdGVzOiB7CiAgICAgICAgICAuLi5zdGF0ZS5tZXNzYWdlUmVzZW5kU3RhdGVzLAogICAgICAgICAgW21lc3NhZ2VJZF06IHJlc2VuZFN0YXRlCiAgICAgICAgfQogICAgICB9KSwKICAgICAgTUVTU0FHRV9TVEFURV9TRUxFQ1RFRDogKHN0YXRlLCB7IHBheWxvYWQgfSkgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBzZWxlY3RlZE1lc3NhZ2VTdGF0ZXM6IHsKICAgICAgICAgIC4uLnN0YXRlLnNlbGVjdGVkTWVzc2FnZVN0YXRlcywKICAgICAgICAgIFtwYXlsb2FkXTogIXN0YXRlLnNlbGVjdGVkTWVzc2FnZVN0YXRlc1twYXlsb2FkXQogICAgICAgIH0KICAgICAgfSksCiAgICAgIE1FU1NBR0VTX0xPQURFRDogKHN0YXRlLCB7IHBheWxvYWQ6IG1lc3NhZ2VzIH0pID0+ICh7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgbWVzc2FnZXMKICAgICAgfSksCiAgICAgIE9QRU5fSElTVE9SWTogc3RhdGUgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBtZXNzYWdlSGlzdG9yeTogW10sCiAgICAgICAgaGlzdG9yeURpYWxvZ09wZW46IHRydWUKICAgICAgfSksCiAgICAgIFJFQ0VJVkVSX1NFTEVDVEVEOiAoc3RhdGUsIHsgcGF5bG9hZDogc2VsZWN0ZWRSZWNlaXZlciB9KSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHNlbGVjdGVkUmVjZWl2ZXIKICAgICAgfSksCiAgICAgIFJFRkVSRU5DRV9JRF9UWVBFRDogKHN0YXRlLCB7IHBheWxvYWQ6IHR5cGVkUmVmZXJlbmNlSWQgfSkgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICB0eXBlZFJlZmVyZW5jZUlkCiAgICAgIH0pLAogICAgICBTRUFSQ0hfS0VZV09SRF9UWVBFRDogKHN0YXRlLCB7IHBheWxvYWQ6IHR5cGVkU2VhcmNoS2V5d29yZCB9KSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHR5cGVkU2VhcmNoS2V5d29yZAogICAgICB9KSwKICAgICAgU0VOREVSX1NFTEVDVEVEOiAoc3RhdGUsIHsgcGF5bG9hZDogc2VsZWN0ZWRTZW5kZXIgfSkgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBzZWxlY3RlZFNlbmRlciwKICAgICAgICBzZWxlY3RlZENvbXBvbmVudElkOiBudWxsCiAgICAgIH0pLAogICAgICBUT19EQVRFX1NFTEVDVEVEOiAoc3RhdGUsIHsgcGF5bG9hZDogc2VsZWN0ZWRUb0RhdGUgfSkgPT4gKHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBzZWxlY3RlZFRvRGF0ZQogICAgICB9KSwKICAgICAgVFJBTlNNSVNTSU9OX1JFU0VORF9TVEFURV9VUERBVEVEOiAoc3RhdGUsIHsgcGF5bG9hZDogeyB0cmFuc21pc3Npb25JZCwgcmVzZW5kU3RhdGUgfSB9KSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHRyYW5zbWlzc2lvblJlc2VuZFN0YXRlczogewogICAgICAgICAgLi4uc3RhdGUudHJhbnNtaXNzaW9uUmVzZW5kU3RhdGVzLAogICAgICAgICAgW3RyYW5zbWlzc2lvbklkXTogcmVzZW5kU3RhdGUKICAgICAgICB9CiAgICAgIH0pCiAgICB9CiAgfQp9LCBpbml0aWFsU3RhdGUpCgpleHBvcnQgeyBpbml0aWFsU3RhdGUgfQpleHBvcnQgZGVmYXVsdCBpbnRlcmZhY2VNb25pdG9yUmVkdWNlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBpbml0aWFsaXplR3JpZERhdGFGb3JNZXNzYWdlU3R1YiA9IHNpbm9uLnN0dWIoKQo=</text>
+        <text encoding="base64">ICB0cmFuc21pc3Npb25SZXNlbmRTdGF0ZXM6IHt9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluaXRpYWxpemVHcmlkRGF0YUZvck1lc3NhZ2VTdHViLnJlc2V0KCkK</text>
+        <text encoding="base64">ICBtZXNzYWdlSGlzdG9yeTogW10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9fUmV3aXJlQVBJX18uX19SZXdpcmVfXygnaW50ZXJmYWNlTW9uaXRvckFjdGlvbkNyZWF0b3JzJywgewogICAgfSkK</text>
+        <text encoding="base64">ICBtZXNzYWdlczogbnVsbCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW5pdGlhbGl6ZUdyaWREYXRhRm9yTWVzc2FnZTogaW5pdGlhbGl6ZUdyaWREYXRhRm9yTWVzc2FnZVN0dWIK</text>
+        <text encoding="base64">ICBtZXNzYWdlUmVzZW5kU3RhdGVzOiB7fSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlc2VuZFR5cGUgZnJvbSAnLi4vLi4vLi4vdXRpbC9SZXNlbmRUeXBlJwo=</text>
+        <text encoding="base64">ICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBmb3JtYXREYXRlVGltZUxvY2FsZUF3YXJlU3R1YiA9IHNpbm9uLnN0dWIoKQo=</text>
+        <text encoding="base64">ICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCByZW5kZXJBZGRpdGlvbmFsSW5mb1N0dWIgPSBzaW5vbi5zdHViKCkKICBjb25zdCByZW5kZXJSZXNlbmRCdXR0b25TdHViID0gc2lub24uc3R1YigpCg==</text>
+        <text encoding="base64">ICB0eXBlZFJlZmVyZW5jZUlkOiAnJywKICB0eXBlZFNlYXJjaEtleXdvcmQ6ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbmRlckFkZGl0aW9uYWxJbmZvU3R1Yi5yZXNldCgpCiAgICByZW5kZXJSZXNlbmRCdXR0b25TdHViLnJlc2V0KCkK</text>
+        <text encoding="base64">ICBzZWxlY3RlZENvbXBvbmVudElkOiBudWxsLAogIHNlbGVjdGVkRnJvbURhdGU6IG51bGwsCiAgc2VsZWN0ZWRNZXNzYWdlU3RhdGVzOiB7fSwKICBzZWxlY3RlZFJlY2VpdmVyOiBudWxsLAogIHNlbGVjdGVkU2VuZGVyOiBudWxsLAogIHNlbGVjdGVkVG9EYXRlOiBudWxsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdERhdGVUaW1lTG9jYWxlQXdhcmVTdHViLnJlc2V0KCkK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFNlbGVjdGVkTWVzc2FnZVN0YXRlcyA9IHN0YXRlID0+IHN0YXRlLnYySW50ZXJmYWNlTW9uaXRvcmluZy5pbnRlcmZhY2VNb25pdG9yLnNlbGVjdGVkTWVzc2FnZVN0YXRlcwpleHBvcnQgY29uc3QgZ2V0UmVmZXJlbmNlSWQgPSBzdGF0ZSA9PiBzdGF0ZS52MkludGVyZmFjZU1vbml0b3JpbmcuaW50ZXJmYWNlTW9uaXRvci50eXBlZFJlZmVyZW5jZUlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
