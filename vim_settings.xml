@@ -17,20 +17,17 @@
         <mark key="^" line="83" column="64" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" timestamp="1547471338222">
-        <mark key="'" line="35" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/interface_monitoring.xliff" timestamp="1547474829859">
         <mark key="'" line="192" column="73" />
         <mark key="[" line="192" column="0" />
         <mark key="]" line="195" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547226515698">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547485205995">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="86" column="6" />
-        <mark key="." line="93" column="0" />
+        <mark key="[" line="105" column="65" />
+        <mark key="]" line="105" column="78" />
+        <mark key="." line="105" column="78" />
+        <mark key="^" line="105" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" timestamp="1547466231968">
         <mark key="'" line="194" column="0" />
@@ -106,6 +103,11 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/DialogButton.js" timestamp="1547483969702">
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="18" column="78" />
+        <mark key="." line="18" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/messagesTableReducer.js" timestamp="1547473270640">
         <mark key="'" line="22" column="23" />
         <mark key="[" line="45" column="23" />
@@ -153,11 +155,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547481443896">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="42" column="7" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getDailySingleMessageCounts.js" timestamp="1547482606571">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="51" />
+        <mark key="^" line="1" column="51" />
+        <mark key="." line="1" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" timestamp="1547473491096">
         <mark key="'" line="1" column="19" />
@@ -179,6 +181,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/getDataForGrid.js" timestamp="1547482527692">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="22" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" timestamp="1547473165944">
         <mark key="[" line="22" column="27" />
@@ -207,12 +215,31 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getDailySingleMessageCounts.spec.js" timestamp="1547483337025">
+        <mark key="[" line="138" column="31" />
+        <mark key="]" line="139" column="16" />
+        <mark key="." line="139" column="16" />
+        <mark key="^" line="139" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorDetails/test/InterfaceMonitorDetails.spec.js" timestamp="1547211022411">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="49" column="10" />
         <mark key="]" line="49" column="22" />
         <mark key="." line="49" column="22" />
         <mark key="^" line="49" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/transactionReportActionCreators.js" timestamp="1547485468051">
+        <mark key="'" line="19" column="38" />
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="25" column="65" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="25" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getMomentDayIdxOfMessage.js" timestamp="1547482590635">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" timestamp="1547477237551">
         <mark key="'" line="10" column="37" />
@@ -248,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
       <jump line="60" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
       <jump line="61" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
@@ -348,49 +374,50 @@
       <jump line="0" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" />
       <jump line="10" column="37" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" />
       <jump line="11" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportMenu/AcceptButton.js" />
+      <jump line="19" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/transactionReportActionCreators.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2Vla2RheTogd2Vla2RheUtleSwK</text>
+      <register name="&quot;" type="4">
+        <text>'sum'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'sum'</text>
       </register>
       <register name="/" type="4">
         <text>failedMessages</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ2l2ZW5TdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpYmUoJ29uIFNIT1dfRVJST1JfREVUQUlMUyBhY3Rpb24gZm9yIHN1bScsIGZ1bmN0aW9uICgpIHsKICAgICAgICBjb25zdCBhY3Rpb24gPSBzaG93RXJyb3JEZXRhaWxzKHsKICAgICAgICAgIHNlbmRlcjogJ3NlbmRlcicsCiAgICAgICAgICBtZXNzYWdlVHlwZTogJ21lc3NhZ2VUeXBlJywKICAgICAgICAgIGRheTogJ3N1bScKICAgICAgICB9KQoKICAgICAgICBpdCgnZGlzcGF0Y2hlcyBhIE1FU1NBR0VTX1RBQkxFLk1FU1NBR0VTX0xPQURFRCBhY3Rpb24nLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBjb25zdCBnZXRTdGF0ZSA9ICgpID0+IHN0YXRlCiAgICAgICAgICBjb25zdCBkaXNwYXRjaCA9IHNpbm9uLnNweSgpCiAgICAgICAgICBhY3Rpb24oZGlzcGF0Y2gsIGdldFN0YXRlKQogICAgICAgICAgZXhwZWN0KGRpc3BhdGNoLmNhbGxlZE9uY2VXaXRoKG1lc3NhZ2VzVGFibGVBY3Rpb25DcmVhdG9ycy5tZXNzYWdlc0xvYWRlZChzZWxlY3RlZFN1bU1lc3NhZ2VzKSkpLnRvLmVxdWFsKHRydWUpCiAgICAgICAgfSkKICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2Vla2RheTogd2Vla2RheUtleSwK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZWN0ZWRTdW1NZXNzYWdlcyA9IFt7IG5hbWU6ICdzZW5kZXInLCBjb21wb25lbnRJZDogJ21lc3NhZ2VUeXBlJywgLi4uc2hhcmVkIH1dCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2Vla2RheTogJ3N1bScsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIGNvdW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb3VudHMuc3VtLnNlbmRlciA9IHNlbmRlcgogIGNvdW50cy5zdW0ubWVzc2FnZVR5cGUgPSBtZXNzYWdlVHlwZQoK</text>
+        <text encoding="base64">ICAgICAgICBpdCgnY29udGFpbnMgYW4gZW1wdHkgYXJyYXkgYXMgZmFpbGVkIG1lc3NhZ2VzJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgZXhwZWN0KHdlZWtkYXlEYXRhKS50by5oYXZlLmRlZXAucHJvcGVydHkoJ2ZhaWxlZE1lc3NhZ2VzJywgW10pCiAgICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb3VudHMud2Vla2RheXMgPSBjb3VudHMud2Vla2RheXMubWFwKHdlZWtkYXkgPT4gKHsKICAgIC4uLndlZWtkYXksCiAgICBzZW5kZXI6IHNlbmRlciwKICAgIG1lc3NhZ2VUeXBlOiBtZXNzYWdlVHlwZQogIH0pKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbGVkTWVzc2FnZXM6IFtmYWlsZWRNZXNzYWdlMSwgZmFpbGVkTWVzc2FnZTJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmFpbGVkTWVzc2FnZXM6IHJlbGV2YW50TWVzc2FnZXMuZmlsdGVyKG1lc3NhZ2UgPT4gIW1lc3NhZ2UuZGF0YVN0YXRlLmNvbXBsZXRlKQo=</text>
+        <text encoding="base64">Ly8gVE8gRE8gZmlsdGVyIGJ5IGRheQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmFpbGVkTWVzc2FnZXM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGRheSA9PT0gJ3N1bScpIHsKICAgICAgICByZXR1cm4gbmFtZUFuZFR5cGVNYXRjaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNpbQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmFtZUFuZFR5cGVNYXRjaCA9IG1zZy5uYW1lID09PSBzZW5kZXIgJiYgbXNnLmNvbXBvbmVudElkID09PSBtZXNzYWdlVHlwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZScK</text>
+        <text encoding="base64">aW1wb3J0IGdldE1vbWVudERheUlkeE9mTWVzc2FnZSwgeyBtb21lbnRXZWVrZGF5SWR4IH0gZnJvbSAnLi4vc2VsZWN0b3JzL2dldE1vbWVudERheUlkeE9mTWVzc2FnZScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -437,6 +464,7 @@
         <entry>wk</entry>
         <entry>q</entry>
         <entry>wo</entry>
+        <entry>c</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
