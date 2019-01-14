@@ -23,8 +23,8 @@
         <mark key="^" line="86" column="6" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" timestamp="1547457695686">
-        <mark key="'" line="369" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" timestamp="1547466231968">
+        <mark key="'" line="194" column="0" />
         <mark key="[" line="209" column="21" />
         <mark key="]" line="209" column="43" />
         <mark key="." line="209" column="43" />
@@ -37,12 +37,12 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" timestamp="1547459176495">
-        <mark key="'" line="4" column="2" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="67" column="9" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" timestamp="1547466218388">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
         <mark key="^" line="41" column="56" />
-        <mark key="." line="64" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" timestamp="1547202196243">
         <mark key="'" line="22" column="0" />
@@ -50,6 +50,11 @@
         <mark key="]" line="8" column="46" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/HistoryDialog.js" timestamp="1547466785548">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/messagesTableSelectors.js" timestamp="1547456678551">
         <mark key="[" line="1" column="0" />
@@ -83,7 +88,7 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/messagesTableReducer.js" timestamp="1547459169793">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/messagesTableReducer.js" timestamp="1547466201730">
         <mark key="'" line="22" column="23" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -184,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
-      <jump line="10" column="58" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
       <jump line="17" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
       <jump line="12" column="51" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
@@ -284,58 +287,60 @@
       <jump line="90" column="63" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" />
       <jump line="0" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/test/interfaceMonitorActionCreators.spec.js" />
       <jump line="23" column="60" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportResults.spec.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
+      <jump line="194" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfX1Jld2lyZUFQSV9fXD4=</text>
+        <text>HISTORY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgaXQoJ2NvbnRhaW5zIGEgSGlzdG9yeURpYWxvZyBjb21wb25lbnQnLCBmdW5jdGlvbiAoKSB7CiAgICBleHBlY3QocmVzdWx0KS50by5jb250YWluTWF0Y2hpbmdFbGVtZW50KDxIaXN0b3J5RGlhbG9nLz4pCiAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+        <text encoding="base64">ICAgICAgPC9GcmFnbWVudD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+        <text encoding="base64">ICAgICAgPEZyYWdtZW50PgogICAgICAgIDxkaXYgaWQ9J211dSc+PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW5NYXRjaGluZ0VsZW1lbnQoPEhpc3RvcnlEaWFsb2cvPikK</text>
+        <text encoding="base64">ICAgICAgT1BFTl9ISVNUT1JZOiBzdGF0ZSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogdHJ1ZQogICAgICB9KSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScpCg==</text>
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYicsIG5vdGlmaWNhdGlvbikK</text>
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycpCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW5NYXRjaGluZ0VsZW1lbnQoPEhpc3RvcnlEaWFsb2cvPikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUkVDRUlWRVJTX0xPQURFRDogKHN0YXRlLCB7IHBheWxvYWQ6IHJlY2VpdmVycyB9KSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHJlY2VpdmVycwogICAgICB9KSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIC8vIGRlc2NyaWJlKCdvbiBSRUNFSVZFUlNfTE9BREVEIGFjdGlvbicsIGZ1bmN0aW9uICgpIHsKICAgICAgLy8gICBjb25zdCBhY3Rpb24gPSBtZXNzYWdlc1RhYmxlQWN0aW9uQ3JlYXRvcnMucmVjZWl2ZXJzTG9hZGVkKCduZXcgcmVjZWl2ZXJzJykKICAgICAgLy8gICBsZXQgbmV3U3RhdGUKICAgICAgLy8KICAgICAgLy8gICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgLy8gICAgIG5ld1N0YXRlID0gbWVzc2FnZXNUYWJsZVJlZHVjZXIoc3RhdGUsIGFjdGlvbikKICAgICAgLy8gICB9KQogICAgICAvLwogICAgICAvLyAgIGl0KCdzZXRzIHRoZSByZWNlaXZlcnMgbGlzdCBpbiB0aGUgc3RhdGUgdG8gdGhlIGxpc3QgZ2l2ZW4gaW4gdGhlIHBheWxvYWQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIC8vICAgICBleHBlY3QobmV3U3RhdGUpLnRvLmhhdmUucHJvcGVydHkoJ3JlY2VpdmVycycsIGFjdGlvbi5wYXlsb2FkKQogICAgICAvLyAgIH0pCiAgICAgIC8vIH0pCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYicsIG5vdGlmaWNhdGlvbikK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgLy8gRklYTUUKICAgICAgLy8=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX1Jld2lyZUFQSV9fXD4=</last-search>
+      <last-search>HISTORY</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX1Jld2lyZUFQSV9fXD4=</last-pattern>
+      <last-pattern>HISTORY</last-pattern>
       <last-replace>messageType</last-replace>
       <last-substitute>path\[1\]</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getMessages</entry>
         <entry encoding="base64">XDxyZW5kZXJBZGRpdGlvbmFsSW5mb1w+</entry>
         <entry encoding="base64">XDxyZW5kZXJSZXNlbmRCdXR0b25cPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVSZXNlbmRCdXR0b25cPg==</entry>
@@ -363,6 +367,7 @@
         <entry>createGet</entry>
         <entry>receiversLoaded</entry>
         <entry encoding="base64">XDxfX1Jld2lyZUFQSV9fXD4=</entry>
+        <entry>HISTORY</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
