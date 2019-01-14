@@ -16,11 +16,15 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" timestamp="1547468605078">
-        <mark key="'" line="86" column="30" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="61" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" timestamp="1547470289527">
+        <mark key="'" line="83" column="27" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="56" />
+        <mark key="^" line="83" column="64" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" timestamp="1547471338222">
+        <mark key="'" line="35" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547226515698">
         <mark key="'" line="0" column="0" />
@@ -67,6 +71,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/MessagesTableHeader.js" timestamp="1547472919969">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/getDataForAtviseDisplay.js" timestamp="1545301579664">
         <mark key="'" line="5" column="33" />
         <mark key="[" line="27" column="0" />
@@ -79,6 +89,12 @@
         <mark key="]" line="1" column="80" />
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/ResultsCounter.js" timestamp="1547470867994">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" timestamp="1547219545202">
         <mark key="'" line="326" column="14" />
@@ -119,6 +135,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/ResultsCounter.spec.js" timestamp="1547469835958">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="28" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/requestMessagesSaga.spec.js" timestamp="1547221519819">
         <mark key="'" line="6" column="49" />
         <mark key="[" line="6" column="0" />
@@ -145,21 +167,41 @@
         <mark key="]" line="0" column="90" />
         <mark key="." line="534" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsCounter.js" timestamp="1547469521980">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" timestamp="1547456919131">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="62" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" timestamp="1547472114901">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="143" column="45" />
+        <mark key="]" line="143" column="70" />
+        <mark key="^" line="143" column="70" />
+        <mark key="." line="143" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResults.spec.js" timestamp="1547464555061">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547468181447">
-        <mark key="'" line="30" column="24" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="58" />
-        <mark key="^" line="30" column="25" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547470242196">
+        <mark key="'" line="32" column="24" />
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="30" column="31" />
+        <mark key="^" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/BackButton.js" timestamp="1547471989224">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorDetails/test/InterfaceMonitorDetails.spec.js" timestamp="1547211022411">
         <mark key="'" line="2" column="0" />
@@ -196,18 +238,14 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" timestamp="1547470978576">
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="63" column="5" />
+        <mark key="^" line="63" column="5" />
+        <mark key="." line="63" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="11" column="53" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="66" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="74" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="79" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="69" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
-      <jump line="14" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
-      <jump line="7" column="36" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
       <jump line="10" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
       <jump line="63" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
       <jump line="14" column="36" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
@@ -298,58 +336,68 @@
       <jump line="30" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportResults.js" />
       <jump line="86" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="5" column="60" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsCounter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsCounter.js" />
+      <jump line="83" column="27" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" />
+      <jump line="35" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" />
+      <jump line="20" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="396" column="1" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="44" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="45" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>HISTORY</text>
+        <text>backButton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBtb3VudFdpdGhSZWR1eChUcmFuc2FjdGlvblJlcG9ydERldGFpbHMsIGdpdmVuU3RhdGUpCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjN2I4MDhiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+        <text encoding="base64">ICAgICAgICA8QmFja0J1dHRvbi8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnYXBocm9kaXRlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIGl0KCdjb250YWlucyBhIEhpc3RvcnlEaWFsb2cgY29tcG9uZW50JywgZnVuY3Rpb24gKCkgewogICAgICAgIGV4cGVjdChyZXN1bHQuZmluZChIaXN0b3J5RGlhbG9nKSkudG8uYmUucHJlc2VudCgpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGJhY2tCdXR0b25MaW5rOiB7CiAgICBkaXNwbGF5OiAnYmxvY2snLAogICAgZmxvYXQ6ICdsZWZ0JwogIH0KfSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IFB1cmVDb21wb25lbnQgfSBmcm9tICdyZWFjdCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBtb3VudFdpdGhSZWR1eChUcmFuc2FjdGlvblJlcG9ydERldGFpbHMsIGdpdmVuU3RhdGUpCgo=</text>
+        <text encoding="base64">ICAgICAgPGEgPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJhY2tCdXR0b24gZnJvbSAnLi4vVUlDb250cm9scy9CYWNrQnV0dG9uJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtZXNzYWdlID0gewogICAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgICBkYXRhU3RhdGU6ICdkYXRhU3RhdGUnLAogICAgICAgICAgaWQ6ICdtc2dJZCcsCiAgICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgICBub3VuOiAnbm91bicsCiAgICAgICAgICByZWZlcmVuY2VJZDogJ3JlZklkJywKICAgICAgICAgIHJlc2VuZGFibGU6IGZhbHNlLAogICAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgICB9CiAgICAgICAgY29uc3QgZ2l2ZW5TdGF0ZSA9IHsKICAgICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgICBjb21tb246IGluaXRpYWxDb21tb25TdGF0ZSwKICAgICAgICAgICAgdHJhbnNhY3Rpb25SZXBvcnQ6IHsKICAgICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG1lc3NhZ2VzVGFibGU6IHsKICAgICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgICAgbWVzc2FnZUhpc3Rvcnk6IFtdLAogICAgICAgICAgICAgIG1lc3NhZ2VzOiBbbWVzc2FnZV0KICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IE1lc3NhZ2VzVGFibGVIZWFkZXIgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZUhlYWRlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgaXQoJ2NvbnRhaW5zIGEgSGlzdG9yeURpYWxvZyBjb21wb25lbnQnLCBmdW5jdGlvbiAoKSB7CiAgICBleHBlY3QoY29tcG9uZW50KS50by5jb250YWluTWF0Y2hpbmdFbGVtZW50KDxIaXN0b3J5RGlhbG9nLz4pCiAgfSkK</text>
+        <text encoding="base64">aW1wb3J0IE1lc3NhZ2VzVGFibGVIZWFkZXIgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZUhlYWRlcicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HISTORY</last-search>
+      <last-search>backButton</last-search>
       <last-offset />
-      <last-pattern>HISTORY</last-pattern>
+      <last-pattern>backButton</last-pattern>
       <last-replace>messageType</last-replace>
       <last-substitute>path\[1\]</last-substitute>
       <last-dir>1</last-dir>
@@ -357,11 +405,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJBZGRpdGlvbmFsSW5mb1w+</entry>
-        <entry encoding="base64">XDxyZW5kZXJSZXNlbmRCdXR0b25cPg==</entry>
-        <entry encoding="base64">XDx1cGRhdGVSZXNlbmRCdXR0b25cPg==</entry>
-        <entry encoding="base64">XDxtZXNzYWdlUmVzZW5kU3RhdGVzXD4=</entry>
-        <entry encoding="base64">XDxtYXBTdGF0ZVRvUHJvcHNcPg==</entry>
         <entry encoding="base64">XDxtYXBEaXNwYXRjaFRvUHJvcHNcPg==</entry>
         <entry encoding="base64">XDxpbnRlcmZhY2VNb25pdG9yQWN0aW9uQ3JlYXRvcnNcPg==</entry>
         <entry encoding="base64">XDxnZXREZXRhaWxNZXNzYWdlc1w+</entry>
@@ -377,6 +420,11 @@
         <entry>receiversLoaded</entry>
         <entry encoding="base64">XDxfX1Jld2lyZUFQSV9fXD4=</entry>
         <entry>HISTORY</entry>
+        <entry>Back</entry>
+        <entry encoding="base64">XDxwYWdlYWJsZVw+</entry>
+        <entry encoding="base64">XDxrd3JtXD4=</entry>
+        <entry>7b80</entry>
+        <entry>backButton</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -419,6 +467,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
