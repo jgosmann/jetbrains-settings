@@ -10,11 +10,17 @@
         <mark key="^" line="41" column="69" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportResults.js" timestamp="1547464650599">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportResults.js" timestamp="1547468567774">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="58" />
-        <mark key="^" line="11" column="23" />
+        <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" timestamp="1547468605078">
+        <mark key="'" line="86" column="30" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547226515698">
         <mark key="'" line="0" column="0" />
@@ -108,13 +114,9 @@
         <mark key="^" line="7" column="51" />
         <mark key="." line="7" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547220348449">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportResults.spec.js" timestamp="1547464586625">
-        <mark key="'" line="23" column="60" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportResults.spec.js" timestamp="1547468613066">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="61" />
+        <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/requestMessagesSaga.spec.js" timestamp="1547221519819">
@@ -151,6 +153,13 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResults.spec.js" timestamp="1547464555061">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547468181447">
+        <mark key="'" line="30" column="24" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="58" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorDetails/test/InterfaceMonitorDetails.spec.js" timestamp="1547211022411">
         <mark key="'" line="2" column="0" />
@@ -189,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
-      <jump line="12" column="51" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
       <jump line="6" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
       <jump line="11" column="53" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
       <jump line="19" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
@@ -289,49 +295,52 @@
       <jump line="23" column="60" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportResults.spec.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" />
+      <jump line="30" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportResults.js" />
+      <jump line="86" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>HISTORY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgaXQoJ2NvbnRhaW5zIGEgSGlzdG9yeURpYWxvZyBjb21wb25lbnQnLCBmdW5jdGlvbiAoKSB7CiAgICBleHBlY3QocmVzdWx0KS50by5jb250YWluTWF0Y2hpbmdFbGVtZW50KDxIaXN0b3J5RGlhbG9nLz4pCiAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBtb3VudFdpdGhSZWR1eChUcmFuc2FjdGlvblJlcG9ydERldGFpbHMsIGdpdmVuU3RhdGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9GcmFnbWVudD4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPEZyYWdtZW50PgogICAgICAgIDxkaXYgaWQ9J211dSc+PC9kaXY+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgT1BFTl9ISVNUT1JZOiBzdGF0ZSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogdHJ1ZQogICAgICB9KSwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgIGl0KCdjb250YWlucyBhIEhpc3RvcnlEaWFsb2cgY29tcG9uZW50JywgZnVuY3Rpb24gKCkgewogICAgICAgIGV4cGVjdChyZXN1bHQuZmluZChIaXN0b3J5RGlhbG9nKSkudG8uYmUucHJlc2VudCgpCiAgICAgIH0pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW5NYXRjaGluZ0VsZW1lbnQoPEhpc3RvcnlEaWFsb2cvPikK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBtb3VudFdpdGhSZWR1eChUcmFuc2FjdGlvblJlcG9ydERldGFpbHMsIGdpdmVuU3RhdGUpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYicsIG5vdGlmaWNhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtZXNzYWdlID0gewogICAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgICBkYXRhU3RhdGU6ICdkYXRhU3RhdGUnLAogICAgICAgICAgaWQ6ICdtc2dJZCcsCiAgICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgICBub3VuOiAnbm91bicsCiAgICAgICAgICByZWZlcmVuY2VJZDogJ3JlZklkJywKICAgICAgICAgIHJlc2VuZGFibGU6IGZhbHNlLAogICAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgICB9CiAgICAgICAgY29uc3QgZ2l2ZW5TdGF0ZSA9IHsKICAgICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgICBjb21tb246IGluaXRpYWxDb21tb25TdGF0ZSwKICAgICAgICAgICAgdHJhbnNhY3Rpb25SZXBvcnQ6IHsKICAgICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG1lc3NhZ2VzVGFibGU6IHsKICAgICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgICAgbWVzc2FnZUhpc3Rvcnk6IFtdLAogICAgICAgICAgICAgIG1lc3NhZ2VzOiBbbWVzc2FnZV0KICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycpCg==</text>
+        <text encoding="base64">CiAgaXQoJ2NvbnRhaW5zIGEgSGlzdG9yeURpYWxvZyBjb21wb25lbnQnLCBmdW5jdGlvbiAoKSB7CiAgICBleHBlY3QoY29tcG9uZW50KS50by5jb250YWluTWF0Y2hpbmdFbGVtZW50KDxIaXN0b3J5RGlhbG9nLz4pCiAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
