@@ -10,6 +10,12 @@
         <mark key="^" line="41" column="69" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportResults.js" timestamp="1547464650599">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547226515698">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="93" column="0" />
@@ -100,6 +106,12 @@
       <file name="/Dummy.txt" timestamp="1547220348449">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportResults.spec.js" timestamp="1547464586625">
+        <mark key="'" line="23" column="60" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/requestMessagesSaga.spec.js" timestamp="1547221519819">
         <mark key="'" line="6" column="49" />
         <mark key="[" line="6" column="0" />
@@ -130,6 +142,10 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="62" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResults.spec.js" timestamp="1547464555061">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorDetails/test/InterfaceMonitorDetails.spec.js" timestamp="1547211022411">
         <mark key="'" line="2" column="0" />
@@ -168,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
       <jump line="17" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
       <jump line="10" column="58" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResultsTable.spec.js" />
@@ -268,49 +283,50 @@
       <jump line="0" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
       <jump line="90" column="63" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" />
       <jump line="0" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/test/interfaceMonitorActionCreators.spec.js" />
+      <jump line="23" column="60" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportResults.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScpCg==</text>
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>messagesTable</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX1Jld2lyZUFQSV9fXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScpCg==</text>
+        <text encoding="base64">CiAgaXQoJ2NvbnRhaW5zIGEgSGlzdG9yeURpYWxvZyBjb21wb25lbnQnLCBmdW5jdGlvbiAoKSB7CiAgICBleHBlY3QocmVzdWx0KS50by5jb250YWluTWF0Y2hpbmdFbGVtZW50KDxIaXN0b3J5RGlhbG9nLz4pCiAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScpCg==</text>
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYicsIG5vdGlmaWNhdGlvbikK</text>
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycpCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQpLnRvLmNvbnRhaW5NYXRjaGluZ0VsZW1lbnQoPEhpc3RvcnlEaWFsb2cvPikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgUkVDRUlWRVJTX0xPQURFRDogKHN0YXRlLCB7IHBheWxvYWQ6IHJlY2VpdmVycyB9KSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHJlY2VpdmVycwogICAgICB9KSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIC8vIGRlc2NyaWJlKCdvbiBSRUNFSVZFUlNfTE9BREVEIGFjdGlvbicsIGZ1bmN0aW9uICgpIHsKICAgICAgLy8gICBjb25zdCBhY3Rpb24gPSBtZXNzYWdlc1RhYmxlQWN0aW9uQ3JlYXRvcnMucmVjZWl2ZXJzTG9hZGVkKCduZXcgcmVjZWl2ZXJzJykKICAgICAgLy8gICBsZXQgbmV3U3RhdGUKICAgICAgLy8KICAgICAgLy8gICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgLy8gICAgIG5ld1N0YXRlID0gbWVzc2FnZXNUYWJsZVJlZHVjZXIoc3RhdGUsIGFjdGlvbikKICAgICAgLy8gICB9KQogICAgICAvLwogICAgICAvLyAgIGl0KCdzZXRzIHRoZSByZWNlaXZlcnMgbGlzdCBpbiB0aGUgc3RhdGUgdG8gdGhlIGxpc3QgZ2l2ZW4gaW4gdGhlIHBheWxvYWQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIC8vICAgICBleHBlY3QobmV3U3RhdGUpLnRvLmhhdmUucHJvcGVydHkoJ3JlY2VpdmVycycsIGFjdGlvbi5wYXlsb2FkKQogICAgICAvLyAgIH0pCiAgICAgIC8vIH0pCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYicsIG5vdGlmaWNhdGlvbikK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgLy8gRklYTUUKICAgICAgLy8=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gRklYTUUKICAgICAgLy8KICAgICAgLy8gZGVzY3JpYmUoJ29uIE1FU1NBR0VfU1RBVEVTX0xPQURFRCBhY3Rpb24nLCBmdW5jdGlvbiAoKSB7CiAgICAgIC8vICAgY29uc3QgYWN0aW9uID0gbWVzc2FnZXNUYWJsZUFjdGlvbkNyZWF0b3JzLm1lc3NhZ2VTdGF0ZXNMb2FkZWQoWwogICAgICAvLyAgICAgeyB0ZWNoZGVzYzogJ3RlY2hkZXNjMScsIGxhYmVsOiAnbmV3bGFiZWwxJyB9LAogICAgICAvLyAgICAgeyB0ZWNoZGVzYzogJ3RlY2hkZXNjMicsIGxhYmVsOiAnbmV3bGFiZWwyJyB9LAogICAgICAvLyAgICAgeyB0ZWNoZGVzYzogJ3RlY2hkZXNjMycsIGxhYmVsOiAnbmV3bGFiZWwzJyB9CiAgICAgIC8vICAgXSkKICAgICAgLy8gICBsZXQgbmV3U3RhdGUKICAgICAgLy8KICAgICAgLy8gICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgLy8gICAgIG5ld1N0YXRlID0gbWVzc2FnZXNUYWJsZVJlZHVjZXIoc3RhdGUsIGFjdGlvbikKICAgICAgLy8gICB9KQogICAgICAvLwogICAgICAvLyAgIGl0KCdzZXRzIHRoZSBtZXNzYWdlIHN0YXRlcyB0byBjb250YWluIHRlY2hkZXNjcyBhbmQgbGFiZWxzJywgZnVuY3Rpb24gKCkgewogICAgICAvLyAgICAgY29uc3QgZXhwZWN0ZWROZXdMYWJlbHMgPSB7IHRlY2hkZXNjMTogJ25ld2xhYmVsMScsIHRlY2hkZXNjMjogJ25ld2xhYmVsMicsIHRlY2hkZXNjMzogJ25ld2xhYmVsMycgfQogICAgICAvLyAgICAgZXhwZWN0KG5ld1N0YXRlKS50by5oYXZlLmRlZXAucHJvcGVydHkoJ21lc3NhZ2VTdGF0ZXMnLCBleHBlY3RlZE5ld0xhYmVscykKICAgICAgLy8gICB9KQogICAgICAvLyAgIGl0KCdjbGVhcnMgdGhlIG1lc3NhZ2Ugc3RhdGVzJywgZnVuY3Rpb24gKCkgewogICAgICAvLyAgICAgZXhwZWN0KG5ld1N0YXRlKS50by5oYXZlLmRlZXAucHJvcGVydHkoJ3NlbGVjdGVkTWVzc2FnZVN0YXRlcycsIHt9KQogICAgICAvLyAgIH0pCiAgICAgIC8vIH0pCg==</text>
+        <text encoding="base64">ICAgICAgUkVDRUlWRVJTX0xPQURFRDogKHN0YXRlLCB7IHBheWxvYWQ6IHJlY2VpdmVycyB9KSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIHJlY2VpdmVycwogICAgICB9KSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R2V0TWVzc2FnZUhpc3RvcnlVcmwgfSBmcm9tICcuLi91dGlsL3dhcFVybEhlbHBlcicK</text>
+        <text encoding="base64">CiAgICAgIC8vIGRlc2NyaWJlKCdvbiBSRUNFSVZFUlNfTE9BREVEIGFjdGlvbicsIGZ1bmN0aW9uICgpIHsKICAgICAgLy8gICBjb25zdCBhY3Rpb24gPSBtZXNzYWdlc1RhYmxlQWN0aW9uQ3JlYXRvcnMucmVjZWl2ZXJzTG9hZGVkKCduZXcgcmVjZWl2ZXJzJykKICAgICAgLy8gICBsZXQgbmV3U3RhdGUKICAgICAgLy8KICAgICAgLy8gICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgLy8gICAgIG5ld1N0YXRlID0gbWVzc2FnZXNUYWJsZVJlZHVjZXIoc3RhdGUsIGFjdGlvbikKICAgICAgLy8gICB9KQogICAgICAvLwogICAgICAvLyAgIGl0KCdzZXRzIHRoZSByZWNlaXZlcnMgbGlzdCBpbiB0aGUgc3RhdGUgdG8gdGhlIGxpc3QgZ2l2ZW4gaW4gdGhlIHBheWxvYWQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIC8vICAgICBleHBlY3QobmV3U3RhdGUpLnRvLmhhdmUucHJvcGVydHkoJ3JlY2VpdmVycycsIGFjdGlvbi5wYXlsb2FkKQogICAgICAvLyAgIH0pCiAgICAgIC8vIH0pCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R2V0TWVzc2FnZUhpc3RvcnlVcmwgfSBmcm9tICcuLi91dGlsL3dhcFVybEhlbHBlcicK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgLy8gRklYTUUKICAgICAgLy8=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
