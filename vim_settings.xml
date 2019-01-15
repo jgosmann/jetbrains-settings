@@ -8,10 +8,10 @@
         <mark key="]" line="374" column="51" />
         <mark key="." line="374" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Interface/FindMessagesResultElementDto.cs" timestamp="1547563455829">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Interface/FindMessagesResultElementDto.cs" timestamp="1547567249206">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/routeGraphSaga.js" timestamp="1545296199516">
         <mark key="[" line="109" column="0" />
@@ -173,11 +173,11 @@
       <jump line="87" column="14" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIENyZWF0ZWQgPSAiMjAxNy0xMi0yMVQxMzowMDowMC4wMDAwMDAwWiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbmFibGVJRmFjZU1vbml0b3JpbmcyRmVhdHVyZVw+</text>
