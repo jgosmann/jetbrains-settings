@@ -22,12 +22,12 @@
         <mark key="[" line="192" column="0" />
         <mark key="]" line="195" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547541256007">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" timestamp="1547543995187">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="45" />
         <mark key="^" line="117" column="51" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" timestamp="1547466231968">
         <mark key="'" line="194" column="0" />
@@ -215,11 +215,11 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getDailySingleMessageCounts.spec.js" timestamp="1547542243712">
-        <mark key="[" line="141" column="17" />
-        <mark key="]" line="141" column="31" />
-        <mark key="." line="141" column="31" />
-        <mark key="^" line="141" column="31" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getDailySingleMessageCounts.spec.js" timestamp="1547543874659">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="139" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorDetails/test/InterfaceMonitorDetails.spec.js" timestamp="1547211022411">
         <mark key="'" line="2" column="0" />
@@ -379,11 +379,11 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHdlZWtkYXkgZnJvbSAnLi4vLi4vc2VsZWN0b3JzL3dlZWtkYXknCg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>failedMessages</text>
@@ -392,31 +392,31 @@
         <text>messagesTableActionCreators.messagesLoaded(selectedSumMessages)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbmRlciwgbWVzc2FnZVR5cGUsIGRheSwgbW9tZW50V2Vla2RheUlkeFtkYXldKQogICAgY29uc29sZS5sb2coc2VsZWN0ZWRNZXNzYWdlcykK</text>
+        <text encoding="base64">aW1wb3J0IHdlZWtkYXkgZnJvbSAnLi4vLi4vc2VsZWN0b3JzL3dlZWtkYXknCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXksIG1vbWVudFdlZWtkYXlJZHhbZGF5XSwgZGF5SWR4LCBtYXRjaGVzRGF5KQo=</text>
+        <text encoding="base64">aW1wb3J0IHdlZWtkYXkgZnJvbSAnLi4vLi4vc2VsZWN0b3JzL3dlZWtkYXknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gdGVzdHMgZm9yIHNwZWNpZmljIGRheXMgYW5kIGNvbXBsZXRlZCBtZXNzYWdlcwo=</text>
+        <text encoding="base64">aW1wb3J0IHRyYW5zYWN0aW9uUmVwb3J0UmVkdWNlciwgeyBpbml0aWFsU3RhdGUgfSBmcm9tICcuLi90cmFuc2FjdGlvblJlcG9ydFJlZHVjZXInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRpc3BhdGNoLmZpcnN0Q2FsbC5hcmdzWzBdLnBheWxvYWQpCiAgICAgICAgICBjb25zb2xlLmxvZyhtZXNzYWdlc1RhYmxlQWN0aW9uQ3JlYXRvcnMubWVzc2FnZXNMb2FkZWQoc2VsZWN0ZWRTdW1NZXNzYWdlcykpCiAgICAgICAgICBleHBlY3QobWVzc2FnZXNUYWJsZUFjdGlvbkNyZWF0b3JzLm1lc3NhZ2VzTG9hZGVkKHNlbGVjdGVkU3VtTWVzc2FnZXMpLnBheWxvYWQpLnRvLmRlZXAuZXF1YWwoCiAgICAgICAgICAgIGRpc3BhdGNoLmZpcnN0Q2FsbC5hcmdzWzBdLnBheWxvYWQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRyYW5zYWN0aW9uUmVwb3J0UmVkdWNlciwgeyBpbml0aWFsU3RhdGUgfSBmcm9tICcuLi90cmFuc2FjdGlvblJlcG9ydFJlZHVjZXInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8KICAgICAgICAgIGNvbnNvbGUubG9nKHdlZWtkYXlEYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuLi5zZWxlY3RlZERheVNwZWNpZmljTWVzc2FnZXMsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbmRlciwgbWVzc2FnZVR5cGUsIGRheSwgbW9tZW50V2Vla2RheUlkeFtkYXldKQogICAgY29uc29sZS5sb2coc2VsZWN0ZWRNZXNzYWdlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5zZWxlY3RlZERheVNwZWNpZmljTWVzc2FnZXMsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXksIG1vbWVudFdlZWtkYXlJZHhbZGF5XSwgZGF5SWR4LCBtYXRjaGVzRGF5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXk6IHdlZWtkYXkuTU9OREFZLAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gdGVzdHMgZm9yIHNwZWNpZmljIGRheXMgYW5kIGNvbXBsZXRlZCBtZXNzYWdlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXk6IHN1bmRheSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRpc3BhdGNoLmZpcnN0Q2FsbC5hcmdzWzBdLnBheWxvYWQpCiAgICAgICAgICBjb25zb2xlLmxvZyhtZXNzYWdlc1RhYmxlQWN0aW9uQ3JlYXRvcnMubWVzc2FnZXNMb2FkZWQoc2VsZWN0ZWRTdW1NZXNzYWdlcykpCiAgICAgICAgICBleHBlY3QobWVzc2FnZXNUYWJsZUFjdGlvbkNyZWF0b3JzLm1lc3NhZ2VzTG9hZGVkKHNlbGVjdGVkU3VtTWVzc2FnZXMpLnBheWxvYWQpLnRvLmRlZXAuZXF1YWwoCiAgICAgICAgICAgIGRpc3BhdGNoLmZpcnN0Q2FsbC5hcmdzWzBdLnBheWxvYWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
