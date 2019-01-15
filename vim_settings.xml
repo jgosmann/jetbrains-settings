@@ -215,11 +215,11 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getDailySingleMessageCounts.spec.js" timestamp="1547541528838">
-        <mark key="[" line="140" column="10" />
-        <mark key="]" line="140" column="32" />
-        <mark key="." line="140" column="32" />
-        <mark key="^" line="140" column="32" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getDailySingleMessageCounts.spec.js" timestamp="1547542243712">
+        <mark key="[" line="141" column="17" />
+        <mark key="]" line="141" column="31" />
+        <mark key="." line="141" column="31" />
+        <mark key="^" line="141" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorDetails/test/InterfaceMonitorDetails.spec.js" timestamp="1547211022411">
         <mark key="'" line="2" column="0" />
@@ -379,11 +379,11 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbmRlciwgbWVzc2FnZVR5cGUsIGRheSwgbW9tZW50V2Vla2RheUlkeFtkYXldKQogICAgY29uc29sZS5sb2coc2VsZWN0ZWRNZXNzYWdlcykK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>failedMessages</text>
