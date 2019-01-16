@@ -139,12 +139,12 @@
         <mark key="^" line="1" column="51" />
         <mark key="." line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" timestamp="1547557928971">
-        <mark key="'" line="23" column="46" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="75" column="53" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" timestamp="1547641718275">
+        <mark key="'" line="41" column="46" />
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/getRequestMessagesBodyObject.js" timestamp="1547560651955">
         <mark key="[" line="27" column="14" />
@@ -159,12 +159,11 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" timestamp="1547549260230">
-        <mark key="'" line="122" column="83" />
-        <mark key="[" line="288" column="32" />
-        <mark key="]" line="288" column="32" />
-        <mark key="." line="288" column="32" />
-        <mark key="^" line="288" column="32" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" timestamp="1547642916352">
+        <mark key="'" line="295" column="25" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="." line="305" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" timestamp="1547473165944">
         <mark key="[" line="22" column="27" />
@@ -172,12 +171,12 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" timestamp="1547547454809">
-        <mark key="'" line="148" column="28" />
-        <mark key="[" line="143" column="45" />
-        <mark key="]" line="143" column="70" />
-        <mark key="^" line="143" column="70" />
-        <mark key="." line="143" column="70" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" timestamp="1547642275815">
+        <mark key="'" line="83" column="22" />
+        <mark key="[" line="83" column="1" />
+        <mark key="]" line="83" column="8" />
+        <mark key="^" line="83" column="8" />
+        <mark key="." line="83" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/test/atviseUrlConfigSaga.spec.js" timestamp="1547566874953">
         <mark key="[" line="3" column="0" />
@@ -216,6 +215,13 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" timestamp="1547642073516">
+        <mark key="'" line="218" column="18" />
+        <mark key="[" line="0" column="79" />
+        <mark key="]" line="0" column="82" />
+        <mark key="." line="0" column="82" />
+        <mark key="^" line="0" column="82" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" timestamp="1547043023116">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="28" />
@@ -229,6 +235,12 @@
         <mark key="]" line="8" column="46" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getMomentDayIdxOfMessage.spec.js" timestamp="1547643275033">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" timestamp="1547219545202">
         <mark key="'" line="326" column="14" />
@@ -271,12 +283,16 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547470242196">
-        <mark key="'" line="32" column="24" />
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="30" column="31" />
-        <mark key="^" line="30" column="31" />
-        <mark key="." line="30" column="31" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/test/InterfaceMonitoringResults.spec.js" timestamp="1547643301531">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547643145833">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="29" column="31" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/getMomentDayIdxOfMessage.js" timestamp="1547567032328">
         <mark key="[" line="16" column="0" />
@@ -289,6 +305,11 @@
         <mark key="]" line="53" column="9" />
         <mark key="^" line="53" column="9" />
         <mark key="." line="53" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResults.js" timestamp="1547641792979">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" timestamp="1547477237551">
         <mark key="'" line="10" column="37" />
@@ -318,33 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/interfaceMonitorActionCreators.js" />
-      <jump line="72" column="16" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsTable.js" />
-      <jump line="12" column="50" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/interfaceMonitorSelectors.js" />
-      <jump line="10" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
-      <jump line="12" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/messagesTableReducer.js" />
-      <jump line="4" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/messagesTableReducer.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
-      <jump line="66" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" />
-      <jump line="202" column="40" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" />
-      <jump line="75" column="27" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" />
-      <jump line="8" column="81" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/globalReducers.js" />
-      <jump line="9" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/transactionReportActionCreators.js" />
-      <jump line="50" column="56" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
-      <jump line="4" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/globalActionCreators.js" />
       <jump line="281" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorDetails/test/InterfaceMonitorDetails.spec.js" />
       <jump line="10" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" />
@@ -418,58 +412,86 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" />
       <jump line="23" column="46" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" />
       <jump line="20" column="59" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/transactionReportReducer.spec.js" />
+      <jump line="7" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="110" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="117" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="236" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="243" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="249" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="255" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="261" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="267" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="73" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="88" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="90" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="91" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="93" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="94" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="95" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="1" column="48" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" />
+      <jump line="13" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" />
+      <jump line="31" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" />
+      <jump line="218" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" />
+      <jump line="94" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="83" column="22" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
+      <jump line="61" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="301" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="293" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="294" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
+      <jump line="295" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>has-error</text>
+        <text>k-alt</text>
       </register>
-      <register name="0" type="4">
-        <text>shiftDateToUserSettingsTimeZone</text>
+      <register name="0" type="2">
+        <text encoding="base64">LnRyYW5zYWN0aW9uLXJlcG9ydCAubWVzc2FnZXMtdGFibGUgLmdyaWQgdHIuay1hbHQgewogICAgYmFja2dyb3VuZC1jb2xvcjogcmdiKDI0MiwyNDIsMjQyKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zbWlzc2lvbnM6IFt7IGNyZWF0ZWQ6IG1vbmRheSB9XQo=</text>
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc21pc3Npb25zOiBbewogICAgICAgIH1dCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZWQ6IG1vbmRheQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc21pc3Npb25zOiBbewogICAgICAgIH1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZWQ6IHN1bmRheQo=</text>
+      <register name="5" type="4">
+        <text>, that was created first (depending on ' +
+      'the timezone setting)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoIW1lc3NhZ2UudHJhbnNtaXNzaW9ucykgewogICAgcmV0dXJuIG51bGwKICB9CgogIGNvbnN0IHV0Y0RhdGVPZkVhcmxpZXN0VHJhbnNtaXNzaW9uID0gbW9tZW50Lm1pbigKICAgIG1lc3NhZ2UudHJhbnNtaXNzaW9ucy5tYXAodHJhbnNtaXNzaW9uID0+IG1vbWVudCh0cmFuc21pc3Npb24uY3JlYXRlZCkpCiAgKQoK</text>
+        <text encoding="base64">Y29uc3Qgc29tZUxhdGVyRGF0ZSA9IG5ldyBEYXRlKCcyMDE5LTAxLTA2JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzIGZyb20gJy4uLy4uL2FjdGlvbnMvbG1zT3JkZXJNYW5hZ2VtZW50QWN0aW9uQ3JlYXRvcnMnCg==</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBpdCgnc3RhcnRzIGEgZ2V0UmVxdWVzdFNhZ2Egd2l0aCB0aGUgY29ycmVjdCBwYXJhbWV0ZXInLCBmdW5jdGlvbiAoKSB7CiAgICAgIGV4cGVjdFNhZ2FUbygpLmNhbGwoZ2V0UmVxdWVzdFNhZ2EsIHsKICAgICAgICBhY3Rpb25DcmVhdG9yOiBsbXNPcmRlck1hbmFnZW1lbnRBY3Rpb25DcmVhdG9ycy51cmxEaXNwbGF5Q29uZmlnTG9hZGVkLAogICAgICAgIHVybDogJ2dldCBhdHZpc2UgdXJsIGNvbmZpZyB1cmwnCiAgICAgIH0pCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICB7IGNyZWF0ZWQ6IHNvbWVMYXRlckRhdGUgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0QXR2aXNlVXJsQ29uZmlndXJhdGlvblVybCB9IGZyb20gJy4uL3V0aWwvdXJsSGVscGVyJwo=</text>
+        <text encoding="base64">ICAgICAgdHJhbnNtaXNzaW9uczogWwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>has-error</last-search>
+      <last-search>k-alt</last-search>
       <last-offset />
-      <last-pattern>has-error</last-pattern>
+      <last-pattern>k-alt</last-pattern>
       <last-replace>messageType</last-replace>
       <last-substitute>path\[1\]</last-substitute>
       <last-dir>1</last-dir>
@@ -477,12 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0aWFsaXplR3JpZERhdGFGb3JNZXNzYWdlU3R1Ylw+</entry>
-        <entry encoding="base64">XDxtZXNzYWdlUmVzZW5kU3RhdGVVcGRhdGVkU3B5XD4=</entry>
-        <entry>update</entry>
-        <entry>createGet</entry>
-        <entry>receiversLoaded</entry>
-        <entry encoding="base64">XDxfX1Jld2lyZUFQSV9fXD4=</entry>
         <entry>HISTORY</entry>
         <entry encoding="base64">XDxwYWdlYWJsZVw+</entry>
         <entry encoding="base64">XDxrd3JtXD4=</entry>
@@ -497,6 +513,12 @@
         <entry>cursor</entry>
         <entry>selectable</entry>
         <entry>has-error</entry>
+        <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
+        <entry>Table</entry>
+        <entry encoding="base64">aW50ZXJmYWNlLW1vbml0b3JcPg==</entry>
+        <entry>results-table</entry>
+        <entry>.grid tr.k-alt</entry>
+        <entry>k-alt</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -543,6 +565,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
