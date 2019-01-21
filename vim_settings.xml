@@ -222,12 +222,11 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548082382851">
-        <mark key="'" line="50" column="23" />
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="6" />
-        <mark key="^" line="9" column="72" />
-        <mark key="." line="49" column="6" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548089215470">
+        <mark key="[" line="9" column="97" />
+        <mark key="]" line="9" column="97" />
+        <mark key="^" line="9" column="175" />
+        <mark key="." line="9" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/index.js" timestamp="1548086068280">
         <mark key="[" line="0" column="0" />
@@ -235,9 +234,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1548085125953">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminMenu/AdminMenu.js" timestamp="1547732664022">
         <mark key="[" line="0" column="33" />
@@ -276,7 +275,6 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1548085469584" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Checkbox/Checkbox.js" timestamp="1547732322325">
         <mark key="'" line="124" column="15" />
         <mark key="[" line="0" column="33" />
@@ -451,11 +449,11 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+      <register name="&quot;" type="4">
+        <text>, 'fetch-mock/node_modules/whatwg-url', 'punycode', 'tr46/node_modules/punycode'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, 'fetch-mock/node_modules/whatwg-url', 'punycode', 'tr46/node_modules/punycode'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</text>
@@ -464,7 +462,7 @@
         <text encoding="base64">ICAgIGJvcmRlci1zdHlsZTogbm9uZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
@@ -476,21 +474,20 @@
         <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJyZXdpcmUiCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
     new UglifyJsPlugin()</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXJyb3JEZXRhaWxzUmVxdWVzdGVkIH0gZnJvbSAnLi4vLi4vYWN0aW9ucy90cmFuc2FjdGlvblJlcG9ydEFjdGlvbkNyZWF0b3JzJwo=</text>
+        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-    new UglifyJsPlugin()</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZXJyb3JEZXRhaWxzUmVxdWVzdGVkIH0gZnJvbSAnLi4vLi4vYWN0aW9ucy90cmFuc2FjdGlvblJlcG9ydEFjdGlvbkNyZWF0b3JzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
