@@ -202,18 +202,17 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548061838503">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548076255591">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="9" column="55" />
-        <mark key="]" line="9" column="55" />
-        <mark key="^" line="9" column="71" />
-        <mark key="." line="9" column="55" />
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="49" column="6" />
+        <mark key="^" line="9" column="72" />
+        <mark key="." line="49" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1548073010234">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="4" column="5" />
-        <mark key="." line="4" column="5" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1548074793858">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminMenu/AdminMenu.js" timestamp="1547732664022">
         <mark key="[" line="0" column="33" />
@@ -418,10 +417,11 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>,
+    new UglifyJsPlugin()</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</text>
@@ -436,26 +436,27 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKICAgICAgImZvcmNlQWxsVHJhbnNmb3JtcyI6IHRydWUsCiAgICAgICJ0YXJnZXRzIjogeyAic2FmYXJpIjogIDgsICJ1Z2xpZnkiOiAyIH0KICAgIH1dLA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fCBzaW5vbiAgICAgICAgIHwgYF41LjEuMWAgICAgICAgICAgICAgICAgICB8IHNpbm9uIDYgb3IgNyBkb2VzIG5vdCB3b3JrIGluIEludGVybmV0IEV4cGxvcmVyIDExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWVzMjAxNS1jb25zdGFudHMiLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
+      <register name="5" type="4">
+        <text>,
+    new UglifyJsPlugin()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
+        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVmZGRkCg==</text>
+        <text encoding="base64">fCBzaW5vbiAgICAgICAgIHwgYF41LjEuMWAgICAgICAgICAgICAgICAgICB8IHNpbm9uIDYgb3IgNyBkb2VzIG5vdCB3b3JrIGluIEludGVybmV0IEV4cGxvcmVyIDExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZW52IjogewogICAgInRlc3QiOiB7CiAgICAgICJwbHVnaW5zIjogWwogICAgICBdCiAgICB9CiAgfSwK</text>
+        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
