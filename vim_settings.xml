@@ -202,8 +202,12 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1547738423724">
-        <mark key="'" line="23" column="20" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548061838503">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="55" />
+        <mark key="^" line="9" column="71" />
+        <mark key="." line="9" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1547733580645">
         <mark key="[" line="5" column="0" />
@@ -308,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
-      <jump line="90" column="63" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" />
-      <jump line="0" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/test/interfaceMonitorActionCreators.spec.js" />
-      <jump line="23" column="60" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportResults.spec.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" />
       <jump line="30" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
@@ -408,58 +408,63 @@
       <jump line="0" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="23" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="25" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" />
+      <jump line="9" column="97" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="50" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fCBzaW5vbiAgICAgICAgIHwgYF41LjEuMWAgICAgICAgICAgICAgICAgICB8IHNpbm9uIDYgb3IgNyBkb2VzIG5vdCB3b3JrIGluIEludGVybmV0IEV4cGxvcmVyIDExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">J29iamVjdC1hc3NpZ24nLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text encoding="base64">J29iamVjdC1hc3NpZ24nLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>underscore</text>
+        <text encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1zdHlsZTogbm9uZTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fCBzaW5vbiAgICAgICAgIHwgYF41LjEuMWAgICAgICAgICAgICAgICAgICB8IHNpbm9uIDYgb3IgNyBkb2VzIG5vdCB3b3JrIGluIEludGVybmV0IEV4cGxvcmVyIDExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+      <register name="1" type="4">
+        <text>,
+    new UglifyJsPlugin()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
+        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fCBzaW5vbiAgICAgICAgIHwgYF41LjEuMWAgICAgICAgICAgICAgICAgICB8IHNpbm9uIDYgb3IgNyBkb2VzIG5vdCB3b3JrIGluIEludGVybmV0IEV4cGxvcmVyIDExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVmZGRkCg==</text>
+        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiZW52IjogewogICAgInRlc3QiOiB7CiAgICAgICJwbHVnaW5zIjogWwogICAgICBdCiAgICB9CiAgfSwK</text>
+        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAicmV3aXJlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTIiCg==</text>
+        <text encoding="base64">cmVmZGRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxLjVyZW07Cg==</text>
+        <text encoding="base64">ICAiZW52IjogewogICAgInRlc3QiOiB7CiAgICAgICJwbHVnaW5zIjogWwogICAgICBdCiAgICB9CiAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>underscore</last-search>
+      <last-search encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</last-search>
       <last-offset />
-      <last-pattern>underscore</last-pattern>
+      <last-pattern encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</last-pattern>
       <last-replace>messageType</last-replace>
       <last-substitute>path\[1\]</last-substitute>
       <last-dir>1</last-dir>
@@ -467,8 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pointer</entry>
-        <entry>cursor</entry>
         <entry>selectable</entry>
         <entry>has-error</entry>
         <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
@@ -487,6 +490,8 @@
         <entry encoding="base64">XDxfXD4=</entry>
         <entry>underscorce</entry>
         <entry>underscore</entry>
+        <entry>uglify</entry>
+        <entry encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
