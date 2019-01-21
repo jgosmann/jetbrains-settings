@@ -229,10 +229,15 @@
         <mark key="^" line="9" column="72" />
         <mark key="." line="49" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1548074793858">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/index.js" timestamp="1548086068280">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1548085125953">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminMenu/AdminMenu.js" timestamp="1547732664022">
         <mark key="[" line="0" column="33" />
@@ -271,9 +276,7 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1547738581540">
-        <mark key="'" line="25" column="24" />
-      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1548085469584" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Checkbox/Checkbox.js" timestamp="1547732322325">
         <mark key="'" line="124" column="15" />
         <mark key="[" line="0" column="33" />
@@ -448,12 +451,11 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,
-    new UglifyJsPlugin()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="-" type="4">
-        <text>, 'whatwg-url'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</text>
@@ -461,35 +463,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1zdHlsZTogbm9uZTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-    new UglifyJsPlugin()</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXJyb3JEZXRhaWxzUmVxdWVzdGVkIH0gZnJvbSAnLi4vLi4vYWN0aW9ucy90cmFuc2FjdGlvblJlcG9ydEFjdGlvbkNyZWF0b3JzJwo=</text>
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
-      <register name="4" type="4">
-        <text>,
-    new UglifyJsPlugin()</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
+        <text encoding="base64">ICAgICJyZXdpcmUiCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHsKICAgICAgImZvcmNlQWxsVHJhbnNmb3JtcyI6IHRydWUsCiAgICAgICJ0YXJnZXRzIjogeyAic2FmYXJpIjogIDgsICJ1Z2xpZnkiOiAyIH0KICAgIH1dLA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWVzMjAxNS1jb25zdGFudHMiLAo=</text>
-      </register>
-      <register name="8" type="4">
         <text>,
     new UglifyJsPlugin()</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZXJyb3JEZXRhaWxzUmVxdWVzdGVkIH0gZnJvbSAnLi4vLi4vYWN0aW9ucy90cmFuc2FjdGlvblJlcG9ydEFjdGlvbkNyZWF0b3JzJwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>,
+    new UglifyJsPlugin()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
