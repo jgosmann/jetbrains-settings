@@ -144,12 +144,6 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="139" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/transactionReportActionCreators.js" timestamp="1547558674920">
-        <mark key="'" line="19" column="38" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Overlay/Overlay.js" timestamp="1547732498460">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="41" />
@@ -250,9 +244,6 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1547738581540">
         <mark key="'" line="25" column="24" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Checkbox/Checkbox.js" timestamp="1547732322325">
         <mark key="'" line="124" column="15" />
@@ -423,7 +414,7 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
+        <text encoding="base64">fCBzaW5vbiAgICAgICAgIHwgYF41LjEuMWAgICAgICAgICAgICAgICAgICB8IHNpbm9uIDYgb3IgNyBkb2VzIG5vdCB3b3JrIGluIEludGVybmV0IEV4cGxvcmVyIDExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
       </register>
       <register name="-" type="4">
         <text>const</text>
@@ -435,31 +426,31 @@
         <text encoding="base64">ICAgIGJvcmRlci1zdHlsZTogbm9uZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
+        <text encoding="base64">fCBzaW5vbiAgICAgICAgIHwgYF41LjEuMWAgICAgICAgICAgICAgICAgICB8IHNpbm9uIDYgb3IgNyBkb2VzIG5vdCB3b3JrIGluIEludGVybmV0IEV4cGxvcmVyIDExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVmZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZW52IjogewogICAgInRlc3QiOiB7CiAgICAgICJwbHVnaW5zIjogWwogICAgICBdCiAgICB9CiAgfSwK</text>
+        <text encoding="base64">cmVmZGRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicmV3aXJlIgo=</text>
+        <text encoding="base64">ICAiZW52IjogewogICAgInRlc3QiOiB7CiAgICAgICJwbHVnaW5zIjogWwogICAgICBdCiAgICB9CiAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTIiCg==</text>
+        <text encoding="base64">ICAgICAgICAicmV3aXJlIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxLjVyZW07Cg==</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxLjVyZW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
