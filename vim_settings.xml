@@ -209,11 +209,11 @@
         <mark key="^" line="9" column="71" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1547733580645">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1548073010234">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminMenu/AdminMenu.js" timestamp="1547732664022">
         <mark key="[" line="0" column="33" />
@@ -418,10 +418,10 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">J29iamVjdC1hc3NpZ24nLCA=</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J29iamVjdC1hc3NpZ24nLCA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</text>
