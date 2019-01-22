@@ -223,23 +223,22 @@
         <mark key="^" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548143888825">
-        <mark key="'" line="104" column="42" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="2" />
+        <mark key="'" line="98" column="42" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/index.js" timestamp="1548086068280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" timestamp="1548143390789">
-        <mark key="'" line="18" column="14" />
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" timestamp="1548144722011">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="17" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1548085125953">
         <mark key="[" line="2" column="26" />
@@ -457,8 +456,8 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVudjogewogICAgICB0ZXN0OiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgIF0KICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -470,32 +469,31 @@
         <text encoding="base64">ICAgIGJvcmRlci1zdHlsZTogbm9uZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnZmV0Y2gtbW9jay9ub2RlX21vZHVsZXMvd2hhdHdnLXVybCddCg==</text>
+        <text encoding="base64">ICAgIGVudjogewogICAgICB0ZXN0OiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgIF0KICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGhzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICdyZXdpcmUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
+        <text encoding="base64">ICAgICAgJ3Jld2lyZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">ICAnZmV0Y2gtbW9jay9ub2RlX21vZHVsZXMvd2hhdHdnLXVybCddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGhzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZXdpcmUiCg==</text>
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-    new UglifyJsPlugin()</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
