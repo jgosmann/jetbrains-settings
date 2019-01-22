@@ -222,12 +222,12 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548143888825">
-        <mark key="'" line="98" column="42" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="2" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548145505851">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="99" column="41" />
+        <mark key="]" line="99" column="51" />
+        <mark key="." line="99" column="51" />
+        <mark key="^" line="99" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/index.js" timestamp="1548086068280">
         <mark key="[" line="0" column="0" />
@@ -351,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="60" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsCounter.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsCounter.js" />
       <jump line="23" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" />
       <jump line="35" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" />
       <jump line="20" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
@@ -448,25 +446,27 @@
       <jump line="38" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" />
       <jump line="50" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="97" column="42" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="7" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" />
       <jump line="17" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="98" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="28" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudjogewogICAgICB0ZXN0OiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgIF0KICAgICAgfQogICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1zdHlsZTogbm9uZTsK</text>
+      <register name="0" type="4">
+        <text>path.resolve('babel.config.js')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVudjogewogICAgICB0ZXN0OiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgIF0KICAgICAgfQogICAgfSwK</text>
