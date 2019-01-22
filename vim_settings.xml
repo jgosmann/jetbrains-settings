@@ -27,6 +27,7 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Mia.config" timestamp="1548167739829" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminHeader/AdminHeader.js" timestamp="1547732655314">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="41" />
@@ -194,6 +195,12 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Database/DatabaseConnection.config" timestamp="1548167557568">
+        <mark key="[" line="8" column="87" />
+        <mark key="]" line="8" column="89" />
+        <mark key="." line="8" column="89" />
+        <mark key="^" line="8" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/requestMessagesForTransactionReportSaga.js" timestamp="1547645951590">
         <mark key="[" line="14" column="17" />
@@ -428,11 +435,11 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>underscore</text>
