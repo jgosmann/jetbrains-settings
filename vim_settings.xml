@@ -222,16 +222,24 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548089215470">
-        <mark key="[" line="9" column="97" />
-        <mark key="]" line="9" column="97" />
-        <mark key="^" line="9" column="175" />
-        <mark key="." line="9" column="97" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548143888825">
+        <mark key="'" line="104" column="42" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/index.js" timestamp="1548086068280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" timestamp="1548143390789">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1548085125953">
         <mark key="[" line="2" column="26" />
@@ -344,9 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportResults.js" />
-      <jump line="86" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
       <jump line="5" column="60" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsCounter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringResults/InterfaceMonitoringResultsCounter.js" />
       <jump line="23" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" />
@@ -435,7 +440,6 @@
       <jump line="165" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/RouteGraphsControl/RouteGraphControl.js" />
       <jump line="163" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/RouteGraphsControl/RouteGraphControl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/RouteGraphsControl/RouteGraphControl.js" />
-      <jump line="0" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="23" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="25" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" />
       <jump line="9" column="97" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
@@ -444,31 +448,35 @@
       <jump line="30" column="3" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/test/transactionReportActionCreators.spec.js" />
       <jump line="38" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportTable.js" />
       <jump line="50" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="97" column="42" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="7" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" />
+      <jump line="17" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, 'fetch-mock/node_modules/whatwg-url', 'punycode', 'tr46/node_modules/punycode'</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>, 'fetch-mock/node_modules/whatwg-url', 'punycode', 'tr46/node_modules/punycode'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1zdHlsZTogbm9uZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
+        <text encoding="base64">ICAnZmV0Y2gtbW9jay9ub2RlX21vZHVsZXMvd2hhdHdnLXVybCddCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGhzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
@@ -477,34 +485,33 @@
         <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJyZXdpcmUiCg==</text>
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-    new UglifyJsPlugin()</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
+        <text encoding="base64">ICAgICJyZXdpcmUiCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXJyb3JEZXRhaWxzUmVxdWVzdGVkIH0gZnJvbSAnLi4vLi4vYWN0aW9ucy90cmFuc2FjdGlvblJlcG9ydEFjdGlvbkNyZWF0b3JzJwo=</text>
+      <register name="9" type="4">
+        <text>,
+    new UglifyJsPlugin()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</last-pattern>
-      <last-replace>messageType</last-replace>
-      <last-substitute>path\[1\]</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>selectable</entry>
         <entry>has-error</entry>
         <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
         <entry>Table</entry>
@@ -524,6 +531,7 @@
         <entry>underscore</entry>
         <entry>uglify</entry>
         <entry encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -535,6 +543,7 @@
         <entry>c</entry>
         <entry>q</entry>
         <entry>wo</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
