@@ -330,6 +330,7 @@
         <mark key="^" line="62" column="66" />
         <mark key="." line="62" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Send/SendManager.cs" timestamp="1548172272167" />
     </filemarks>
     <jumps>
       <jump line="0" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" />
