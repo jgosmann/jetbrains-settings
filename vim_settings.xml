@@ -27,6 +27,12 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Mia.config" timestamp="1548238944923">
+        <mark key="[" line="62" column="44" />
+        <mark key="]" line="62" column="51" />
+        <mark key="." line="62" column="51" />
+        <mark key="^" line="62" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminHeader/AdminHeader.js" timestamp="1547732655314">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="41" />
@@ -86,6 +92,9 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1548238617247">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/test/messageTableActionCreators.js" timestamp="1547217423569">
         <mark key="[" line="3" column="10" />
@@ -321,7 +330,7 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ReceiverService.cs" timestamp="1548236732977">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ReceiverService.cs" timestamp="1548238319931">
         <mark key="[" line="55" column="5" />
         <mark key="]" line="56" column="53" />
         <mark key="^" line="56" column="53" />
@@ -365,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/test/interfaceMonitorActionCreators.spec.js" />
       <jump line="23" column="60" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportResults.spec.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" />
@@ -465,19 +473,20 @@
       <jump line="25" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" />
       <jump line="80" column="5" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAcknowledgeService.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAcknowledgeService.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SenderService</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>SenderService</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>underscore</text>
+        <text>Business</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTG9nLkVycm9yKCJVcGRhdGVUcmFuc21pc3Npb24gb2YgU2VuZGVyU2VydmljZSBjYWxsZWQiKTsK</text>
@@ -514,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>underscore</last-search>
+      <last-search>Business</last-search>
       <last-offset />
-      <last-pattern>underscore</last-pattern>
+      <last-pattern>Business</last-pattern>
       <last-replace>messageType</last-replace>
       <last-substitute>path\[1\]</last-substitute>
       <last-dir>1</last-dir>
@@ -524,7 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pointer</entry>
         <entry>cursor</entry>
         <entry>selectable</entry>
         <entry>has-error</entry>
@@ -544,6 +552,7 @@
         <entry encoding="base64">XDxfXD4=</entry>
         <entry>underscorce</entry>
         <entry>underscore</entry>
+        <entry>Business</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
