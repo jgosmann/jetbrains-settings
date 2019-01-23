@@ -15,6 +15,12 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO_CONFIG.sql" timestamp="1548259774774">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="83" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/getColumnsForGrid.js" timestamp="1547549142710">
         <mark key="[" line="15" column="73" />
         <mark key="]" line="16" column="2" />
@@ -29,10 +35,6 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Mia.config" timestamp="1548239633786">
         <mark key="'" line="45" column="18" />
-        <mark key="[" line="62" column="44" />
-        <mark key="]" line="62" column="51" />
-        <mark key="." line="62" column="51" />
-        <mark key="^" line="62" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminHeader/AdminHeader.js" timestamp="1547732655314">
         <mark key="[" line="0" column="33" />
@@ -129,6 +131,12 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/interface-monitor.css" timestamp="1547727489821">
         <mark key="'" line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO.sql" timestamp="1548258984293">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/messagesTableActionCreators.js" timestamp="1547473165944">
         <mark key="[" line="22" column="27" />
@@ -229,6 +237,10 @@
         <mark key="." line="8" column="89" />
         <mark key="^" line="8" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE.sql" timestamp="1548259141274">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/requestMessagesForTransactionReportSaga.js" timestamp="1547645951590">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="16" column="26" />
@@ -240,13 +252,6 @@
         <mark key="]" line="1" column="46" />
         <mark key="^" line="1" column="46" />
         <mark key="." line="1" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Loading/LoadingBar.js" timestamp="1547734179892">
-        <mark key="'" line="28" column="29" />
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="34" />
-        <mark key="^" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1547738423724">
         <mark key="'" line="23" column="20" />
@@ -275,13 +280,6 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/RouteGraphsControl/RouteGraphControl.js" timestamp="1547734477065">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="166" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/Common/AddButton/AddButton.js" timestamp="1547732694454">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="41" />
@@ -294,6 +292,9 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
+      <file name="/Dummy.txt" timestamp="1548258878522">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/getDataForGrid.js" timestamp="1547482527692">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="9" />
@@ -305,13 +306,6 @@
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Checkbox/Checkbox.js" timestamp="1547732322325">
-        <mark key="'" line="124" column="15" />
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="41" />
-        <mark key="." line="0" column="41" />
-        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/InfoLabel/InfoLabel.js" timestamp="1547732465026">
         <mark key="[" line="0" column="33" />
@@ -480,44 +474,44 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>MESSAGE_</text>
       </register>
       <register name="/" type="4">
         <text>Business</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTG9nLkVycm9yKCJVcGRhdGVUcmFuc21pc3Npb24gb2YgU2VuZGVyU2VydmljZSBjYWxsZWQiKTsK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIFtCMk1NTF0uW01FU1NBR0VdICgKICAgIFtNRVNTQUdFX0lEXSAgICAgICAgQklHSU5UICAgICAgICAgSURFTlRJVFkgKDEsIDEpIE5PVCBOVUxMLAogICAgW1NVQlNDUklCRVJdICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtWRVJCXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtOT1VOXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCiAgICBbQ09NUE9ORU5UX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbUkVGRVJFTkNFX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbQjJNTUxfQ09OVEVOVF0gICAgIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbT1JJR0lOQUxfQ09OVEVOVF0gIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbUkVUVVJOX01FU1NBR0VdICAgIE5WQVJDSEFSIChNQVgpIE5VTEwsCiAgICBbTUVTU0FHRV9TVEFURV9JRF0gIElOVCAgICAgICAgICAgIE5PVCBOVUxMLAogICAgW0NSRUFURURfQVRdICAgICAgICBEQVRFVElNRTIgKDcpICBERUZBVUxUIChnZXR1dGNkYXRlKCkpIE5PVCBOVUxMLAogICAgW0NSRUFURURfQlldICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtDSEFOR0VEX0FUXSAgICAgICAgREFURVRJTUUyICg3KSAgTlVMTCwKICAgIFtDSEFOR0VEX0JZXSAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtISUJFUk5BVEVfVkVSU0lPTl0gSU5UICAgICAgICAgICAgREVGQVVMVCAoKDApKSBOT1QgTlVMTCwKICAgIENPTlNUUkFJTlQgW1BLX0IyTU1MX01FU1NBR0VfSURdIFBSSU1BUlkgS0VZIENMVVNURVJFRCAoW01FU1NBR0VfSURdIEFTQyksCiAgICBDT05TVFJBSU5UIFtGS19NRVNTQUdFX01FU1NBR0VfU1RBVEVfSURdIEZPUkVJR04gS0VZIChbTUVTU0FHRV9TVEFURV9JRF0pIFJFRkVSRU5DRVMgW0NPTkZdLltNRVNTQUdFX1NUQVRFXSAoW09JRF0pCik7CgoKCgpHTwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nNG5ldCD8Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJ1bmRlcnNjb3JlIjogIl4xLjkuMSIsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW1VDX0IyTU1MX01FU1NBR0VfQURESVRJT05BTF9JTkZPX0NPTkZJR10gCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVmZGRkCg==</text>
+        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW0ZLX01FU1NBR0VfTUVTU0FHRV9TVEFURV9JRF0gRk9SRUlHTiBLRVkgKFtNRVNTQUdFX1NUQVRFX0lEXSkgUkVGRVJFTkNFUyBbQ09ORl0uW01FU1NBR0VfU1RBVEVdIChbT0lEXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiZW52IjogewogICAgInRlc3QiOiB7CiAgICAgICJwbHVnaW5zIjogWwogICAgICBdCiAgICB9CiAgfSwK</text>
+        <text encoding="base64">ICAgIFtWRVJCXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtOT1VOXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCiAgICBbQ09NUE9ORU5UX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbUkVGRVJFTkNFX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbQjJNTUxfQ09OVEVOVF0gICAgIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbT1JJR0lOQUxfQ09OVEVOVF0gIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbUkVUVVJOX01FU1NBR0VdICAgIE5WQVJDSEFSIChNQVgpIE5VTEwsCiAgICBbTUVTU0FHRV9TVEFURV9JRF0gIElOVCAgICAgICAgICAgIE5PVCBOVUxMLAogICAgW0NSRUFURURfQVRdICAgICAgICBEQVRFVElNRTIgKDcpICBERUZBVUxUIChnZXR1dGNkYXRlKCkpIE5PVCBOVUxMLAogICAgW0NSRUFURURfQlldICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtDSEFOR0VEX0FUXSAgICAgICAgREFURVRJTUUyICg3KSAgTlVMTCwKICAgIFtDSEFOR0VEX0JZXSAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtISUJFUk5BVEVfVkVSU0lPTl0gSU5UICAgICAgICAgICAgREVGQVVMVCAoKDApKSBOT1QgTlVMTCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAicmV3aXJlIgo=</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTIiCg==</text>
+        <text encoding="base64">ICAgICAgbG9nNG5ldCD8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
