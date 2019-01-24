@@ -122,6 +122,12 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageAdditionalInfoDTO.cs" timestamp="1548344349649">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/ResultsCounter.spec.js" timestamp="1547469835958">
         <mark key="[" line="4" column="10" />
         <mark key="]" line="4" column="10" />
@@ -171,12 +177,12 @@
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageConverter.cs" timestamp="1548342384296">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageConverter.cs" timestamp="1548345226145">
         <mark key="'" line="53" column="66" />
         <mark key="[" line="74" column="19" />
-        <mark key="]" line="74" column="19" />
-        <mark key="^" line="74" column="19" />
-        <mark key="." line="74" column="19" />
+        <mark key="]" line="74" column="28" />
+        <mark key="^" line="74" column="28" />
+        <mark key="." line="74" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/Common/TextFieldControl/TextFieldControl.js" timestamp="1547732722496">
         <mark key="[" line="0" column="33" />
@@ -314,6 +320,7 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/Framework/Source/Model/ProductionOrdering/ProductionOrder.cs" timestamp="1548345535442" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageAdditionalInfoConfigConverter.cs" timestamp="1548343909410">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="13" column="16" />
@@ -578,13 +585,13 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>Business</text>
+        <text>Parent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdHJnLklEID0gc3JjLklEOwogICAgICB0cmcuTGFiZWwgPSBzcmMuTGFiZWw7CiAgICAgIHRyZy5YUGF0aCA9IHNyYy5YUGF0aDsK</text>
@@ -621,9 +628,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Business</last-search>
+      <last-search>Parent</last-search>
       <last-offset />
-      <last-pattern>Business</last-pattern>
+      <last-pattern>Parent</last-pattern>
       <last-replace>messageType</last-replace>
       <last-substitute>path\[1\]</last-substitute>
       <last-dir>1</last-dir>
@@ -631,7 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cursor</entry>
         <entry>selectable</entry>
         <entry>has-error</entry>
         <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
@@ -651,6 +657,7 @@
         <entry>underscorce</entry>
         <entry>underscore</entry>
         <entry>Business</entry>
+        <entry>Parent</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
