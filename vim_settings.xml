@@ -197,7 +197,7 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageFinalizerService.cs" timestamp="1548323752187">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageFinalizerService.cs" timestamp="1548324031380">
         <mark key="[" line="158" column="5" />
         <mark key="]" line="159" column="35" />
         <mark key="^" line="159" column="35" />
@@ -236,7 +236,7 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Receive/ReceiveBaseManager.cs" timestamp="1548323801636">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Receive/ReceiveBaseManager.cs" timestamp="1548324002389">
         <mark key="[" line="158" column="5" />
         <mark key="]" line="159" column="34" />
         <mark key="^" line="159" column="34" />
@@ -312,6 +312,7 @@
       <file name="/Dummy.txt" timestamp="1548260020485">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/MessageFinalizerServiceTest.cs" timestamp="1548324317676" />
       <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO.sql" timestamp="1548317694827">
         <mark key="[" line="8" column="51" />
         <mark key="]" line="8" column="57" />
@@ -359,6 +360,11 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageDTO.cs" timestamp="1548324745080">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/DropTargetControl/DropTargetControl.js" timestamp="1547732730155">
         <mark key="[" line="0" column="33" />
@@ -497,8 +503,8 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>E:\B2MMLShare</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="-" type="4">
         <text>E:\B2MMLShare</text>
@@ -510,13 +516,13 @@
         <text encoding="base64">Q1JFQVRFIFRBQkxFIFtCM01NTF0uW01FU1NBR0VfQURESVRJT05BTF9JTkZPX0NPTkZJR10gKAogICAgW0lEXSAgICAgICAgICAgICAgICBCSUdJTlQgICAgICAgICBJREVOVElUWSAoMSwgMSkgTk9UIE5VTEwsCiAgICBbQ09NUE9ORU5UX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5PVCBOVUxMLAogICAgW0xBQkVMXSAgICAgICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtYUEFUSF0gICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCiAgICBDT05TVFJBSU5UIFtQS19CMk1NTF9NRVNTQUdFX0FERElUSU9OQUxfSU5GT19DT05GSUddIFBSSU1BUlkgS0VZIENMVVNURVJFRCAoW0lEXSBBU0MpLAogICAgQ09OU1RSQUlOVCBbVUNfQjJNTUxfTUVTU0FHRV9BRERJVElPTkFMX0lORk9fQ09ORklHXSBVTklRVUUgKENPTVBPTkVOVF9JRCwgTEFCRUwpCik7CkdPCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUkVGRVJFTkNFUyBbQjJNTUxdLltNRVNTQUdFX0FERElUSU9OQUxfSU5GT10gKE1FUykK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgUkVGRVJFTkNFUyBbQjJNTUxdLltNRVNTQUdFX0FERElUSU9OQUxfSU5GT10gKE1FUykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -528,13 +534,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW1VDX0IyTU1MX01FU1NBR0VfQURESVRJT05BTF9JTkZPX0NPTkZJR10gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW0ZLX01FU1NBR0VfTUVTU0FHRV9TVEFURV9JRF0gRk9SRUlHTiBLRVkgKFtNRVNTQUdFX1NUQVRFX0lEXSkgUkVGRVJFTkNFUyBbQ09ORl0uW01FU1NBR0VfU1RBVEVdIChbT0lEXSkK</text>
+        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW1VDX0IyTU1MX01FU1NBR0VfQURESVRJT05BTF9JTkZPX0NPTkZJR10gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtWRVJCXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtOT1VOXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCiAgICBbQ09NUE9ORU5UX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbUkVGRVJFTkNFX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbQjJNTUxfQ09OVEVOVF0gICAgIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbT1JJR0lOQUxfQ09OVEVOVF0gIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbUkVUVVJOX01FU1NBR0VdICAgIE5WQVJDSEFSIChNQVgpIE5VTEwsCiAgICBbTUVTU0FHRV9TVEFURV9JRF0gIElOVCAgICAgICAgICAgIE5PVCBOVUxMLAogICAgW0NSRUFURURfQVRdICAgICAgICBEQVRFVElNRTIgKDcpICBERUZBVUxUIChnZXR1dGNkYXRlKCkpIE5PVCBOVUxMLAogICAgW0NSRUFURURfQlldICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtDSEFOR0VEX0FUXSAgICAgICAgREFURVRJTUUyICg3KSAgTlVMTCwKICAgIFtDSEFOR0VEX0JZXSAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtISUJFUk5BVEVfVkVSU0lPTl0gSU5UICAgICAgICAgICAgREVGQVVMVCAoKDApKSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW0ZLX01FU1NBR0VfTUVTU0FHRV9TVEFURV9JRF0gRk9SRUlHTiBLRVkgKFtNRVNTQUdFX1NUQVRFX0lEXSkgUkVGRVJFTkNFUyBbQ09ORl0uW01FU1NBR0VfU1RBVEVdIChbT0lEXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
