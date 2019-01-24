@@ -289,6 +289,12 @@
       <file name="/Dummy.txt" timestamp="1548260020485">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO.sql" timestamp="1548317694827">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/getDataForGrid.js" timestamp="1547482527692">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="9" />
@@ -313,7 +319,12 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO_CONFIG.sql" timestamp="1548260186008" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO_CONFIG.sql" timestamp="1548317113976">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ReceiverService.cs" timestamp="1548238319931">
         <mark key="[" line="55" column="5" />
         <mark key="]" line="56" column="53" />
@@ -358,8 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/interfaceMonitorReducer.js" />
-      <jump line="194" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/interfaceMonitorReducer.spec.js" />
       <jump line="30" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportResults.js" />
       <jump line="86" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
@@ -458,28 +467,30 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAcknowledgeService.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
       <jump line="45" column="18" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Mia.config" />
+      <jump line="0" column="4" filename="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO_CONFIG.sql" />
+      <jump line="6" column="80" filename="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MES</text>
       </register>
       <register name="-" type="4">
-        <text>MESSAGE_</text>
+        <text>MES</text>
       </register>
       <register name="/" type="4">
         <text>Business</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIFtCMk1NTF0uW01FU1NBR0VdICgKICAgIFtNRVNTQUdFX0lEXSAgICAgICAgQklHSU5UICAgICAgICAgSURFTlRJVFkgKDEsIDEpIE5PVCBOVUxMLAogICAgW1NVQlNDUklCRVJdICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtWRVJCXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtOT1VOXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCiAgICBbQ09NUE9ORU5UX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbUkVGRVJFTkNFX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbQjJNTUxfQ09OVEVOVF0gICAgIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbT1JJR0lOQUxfQ09OVEVOVF0gIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbUkVUVVJOX01FU1NBR0VdICAgIE5WQVJDSEFSIChNQVgpIE5VTEwsCiAgICBbTUVTU0FHRV9TVEFURV9JRF0gIElOVCAgICAgICAgICAgIE5PVCBOVUxMLAogICAgW0NSRUFURURfQVRdICAgICAgICBEQVRFVElNRTIgKDcpICBERUZBVUxUIChnZXR1dGNkYXRlKCkpIE5PVCBOVUxMLAogICAgW0NSRUFURURfQlldICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtDSEFOR0VEX0FUXSAgICAgICAgREFURVRJTUUyICg3KSAgTlVMTCwKICAgIFtDSEFOR0VEX0JZXSAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtISUJFUk5BVEVfVkVSU0lPTl0gSU5UICAgICAgICAgICAgREVGQVVMVCAoKDApKSBOT1QgTlVMTCwKICAgIENPTlNUUkFJTlQgW1BLX0IyTU1MX01FU1NBR0VfSURdIFBSSU1BUlkgS0VZIENMVVNURVJFRCAoW01FU1NBR0VfSURdIEFTQyksCiAgICBDT05TVFJBSU5UIFtGS19NRVNTQUdFX01FU1NBR0VfU1RBVEVfSURdIEZPUkVJR04gS0VZIChbTUVTU0FHRV9TVEFURV9JRF0pIFJFRkVSRU5DRVMgW0NPTkZdLltNRVNTQUdFX1NUQVRFXSAoW09JRF0pCik7CgoKCgpHTwo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIFtCM01NTF0uW01FU1NBR0VfQURESVRJT05BTF9JTkZPX0NPTkZJR10gKAogICAgW0lEXSAgICAgICAgICAgICAgICBCSUdJTlQgICAgICAgICBJREVOVElUWSAoMSwgMSkgTk9UIE5VTEwsCiAgICBbQ09NUE9ORU5UX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5PVCBOVUxMLAogICAgW0xBQkVMXSAgICAgICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtYUEFUSF0gICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCiAgICBDT05TVFJBSU5UIFtQS19CMk1NTF9NRVNTQUdFX0FERElUSU9OQUxfSU5GT19DT05GSUddIFBSSU1BUlkgS0VZIENMVVNURVJFRCAoW0lEXSBBU0MpLAogICAgQ09OU1RSQUlOVCBbVUNfQjJNTUxfTUVTU0FHRV9BRERJVElPTkFMX0lORk9fQ09ORklHXSBVTklRVUUgKENPTVBPTkVOVF9JRCwgTEFCRUwpCik7CkdPCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUkVGRVJFTkNFUyBbQjJNTUxdLltNRVNTQUdFX0FERElUSU9OQUxfSU5GT10gKE1FUykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -488,19 +499,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW1VDX0IyTU1MX01FU1NBR0VfQURESVRJT05BTF9JTkZPX0NPTkZJR10gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW0ZLX01FU1NBR0VfTUVTU0FHRV9TVEFURV9JRF0gRk9SRUlHTiBLRVkgKFtNRVNTQUdFX1NUQVRFX0lEXSkgUkVGRVJFTkNFUyBbQ09ORl0uW01FU1NBR0VfU1RBVEVdIChbT0lEXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFtWRVJCXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtOT1VOXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCiAgICBbQ09NUE9ORU5UX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbUkVGRVJFTkNFX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbQjJNTUxfQ09OVEVOVF0gICAgIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbT1JJR0lOQUxfQ09OVEVOVF0gIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbUkVUVVJOX01FU1NBR0VdICAgIE5WQVJDSEFSIChNQVgpIE5VTEwsCiAgICBbTUVTU0FHRV9TVEFURV9JRF0gIElOVCAgICAgICAgICAgIE5PVCBOVUxMLAogICAgW0NSRUFURURfQVRdICAgICAgICBEQVRFVElNRTIgKDcpICBERUZBVUxUIChnZXR1dGNkYXRlKCkpIE5PVCBOVUxMLAogICAgW0NSRUFURURfQlldICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtDSEFOR0VEX0FUXSAgICAgICAgREFURVRJTUUyICg3KSAgTlVMTCwKICAgIFtDSEFOR0VEX0JZXSAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtISUJFUk5BVEVfVkVSU0lPTl0gSU5UICAgICAgICAgICAgREVGQVVMVCAoKDApKSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW1VDX0IyTU1MX01FU1NBR0VfQURESVRJT05BTF9JTkZPX0NPTkZJR10gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS4K</text>
+        <text encoding="base64">ICAgIENPTlNUUkFJTlQgW0ZLX01FU1NBR0VfTUVTU0FHRV9TVEFURV9JRF0gRk9SRUlHTiBLRVkgKFtNRVNTQUdFX1NUQVRFX0lEXSkgUkVGRVJFTkNFUyBbQ09ORl0uW01FU1NBR0VfU1RBVEVdIChbT0lEXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nNG5ldCD8Cg==</text>
+        <text encoding="base64">ICAgIFtWRVJCXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtOT1VOXSAgICAgICAgICAgICAgTlZBUkNIQVIgKDI1NSkgTk9UIE5VTEwsCiAgICBbQ09NUE9ORU5UX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbUkVGRVJFTkNFX0lEXSAgICAgIE5WQVJDSEFSICgyNTUpIE5VTEwsCiAgICBbQjJNTUxfQ09OVEVOVF0gICAgIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbT1JJR0lOQUxfQ09OVEVOVF0gIFhNTCAgICAgICAgICAgIE5VTEwsCiAgICBbUkVUVVJOX01FU1NBR0VdICAgIE5WQVJDSEFSIChNQVgpIE5VTEwsCiAgICBbTUVTU0FHRV9TVEFURV9JRF0gIElOVCAgICAgICAgICAgIE5PVCBOVUxMLAogICAgW0NSRUFURURfQVRdICAgICAgICBEQVRFVElNRTIgKDcpICBERUZBVUxUIChnZXR1dGNkYXRlKCkpIE5PVCBOVUxMLAogICAgW0NSRUFURURfQlldICAgICAgICBOVkFSQ0hBUiAoMjU1KSBOT1QgTlVMTCwKICAgIFtDSEFOR0VEX0FUXSAgICAgICAgREFURVRJTUUyICg3KSAgTlVMTCwKICAgIFtDSEFOR0VEX0JZXSAgICAgICAgTlZBUkNIQVIgKDI1NSkgTlVMTCwKICAgIFtISUJFUk5BVEVfVkVSU0lPTl0gSU5UICAgICAgICAgICAgREVGQVVMVCAoKDApKSBOT1QgTlVMTCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -549,6 +560,7 @@
         <entry>q</entry>
         <entry>wo</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
