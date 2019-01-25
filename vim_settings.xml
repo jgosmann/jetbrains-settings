@@ -33,11 +33,12 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Engine/Mia.Engine/Receive/ReceiverEngine.cs" timestamp="1548404134211">
-        <mark key="[" line="87" column="38" />
-        <mark key="]" line="88" column="29" />
-        <mark key="^" line="88" column="29" />
-        <mark key="." line="88" column="29" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Engine/Mia.Engine/Receive/ReceiverEngine.cs" timestamp="1548406168098">
+        <mark key="'" line="69" column="19" />
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="40" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="37" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/CustomScrollbar/CustomScrollbar.js" timestamp="1547734528309">
         <mark key="[" line="22" column="32" />
@@ -115,12 +116,12 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1548405072594">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1548406186151">
         <mark key="'" line="99" column="136" />
-        <mark key="[" line="99" column="136" />
-        <mark key="]" line="99" column="153" />
-        <mark key="^" line="99" column="153" />
-        <mark key="." line="99" column="153" />
+        <mark key="[" line="130" column="186" />
+        <mark key="]" line="130" column="219" />
+        <mark key="^" line="130" column="219" />
+        <mark key="." line="130" column="219" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/test/messageTableActionCreators.js" timestamp="1547217423569">
         <mark key="[" line="3" column="10" />
@@ -176,11 +177,11 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/Message.cs" timestamp="1548336440531">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/Message.cs" timestamp="1548407070726">
         <mark key="'" line="16" column="4" />
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageConverter.cs" timestamp="1548404426908">
@@ -250,11 +251,11 @@
         <mark key="^" line="4" column="110" />
         <mark key="." line="4" column="110" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Receive/ReceiveEventManager.cs" timestamp="1548403876821">
-        <mark key="[" line="21" column="111" />
-        <mark key="]" line="21" column="128" />
-        <mark key="^" line="21" column="128" />
-        <mark key="." line="21" column="128" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Receive/ReceiveEventManager.cs" timestamp="1548406108210">
+        <mark key="[" line="21" column="113" />
+        <mark key="]" line="21" column="125" />
+        <mark key="^" line="21" column="125" />
+        <mark key="." line="21" column="125" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageFinalizerService.cs" timestamp="1548324031380">
         <mark key="[" line="158" column="5" />
@@ -273,6 +274,12 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IMessageAdditionalInfoConfigService.cs" timestamp="1548406046821">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="54" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/test/BackButton.spec.js" timestamp="1547477763708">
         <mark key="[" line="11" column="2" />
@@ -298,10 +305,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Receive/ReceiveBaseManager.cs" timestamp="1548405001199">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Receive/ReceiveBaseManager.cs" timestamp="1548406075282">
+        <mark key="[" line="177" column="6" />
+        <mark key="]" line="177" column="22" />
+        <mark key="." line="177" column="22" />
+        <mark key="^" line="177" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/BusinessLogic/Mia.Logic.Engine/ReceiverBusinessLogic.cs" timestamp="1548403778585" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/Common/PaperWrapper/PaperWrapper.js" timestamp="1547732716123">
@@ -310,11 +318,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Receive/ReceivePollManager.cs" timestamp="1548403895944">
-        <mark key="[" line="23" column="111" />
-        <mark key="]" line="23" column="128" />
-        <mark key="^" line="23" column="128" />
-        <mark key="." line="23" column="128" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Receive/ReceivePollManager.cs" timestamp="1548406119060">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Database/DatabaseConnection.config" timestamp="1548167557568">
         <mark key="[" line="8" column="87" />
@@ -370,11 +378,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoConfigService.cs" timestamp="1548405342511">
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="4" column="62" />
-        <mark key="^" line="4" column="62" />
-        <mark key="." line="4" column="62" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoConfigService.cs" timestamp="1548406498693">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminMenu/AdminMenu.js" timestamp="1547732664022">
         <mark key="[" line="0" column="33" />
@@ -386,6 +395,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageAdditionalInfoConfig.cs" timestamp="1548406996017">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/Common/AddButton/AddButton.js" timestamp="1547732694454">
         <mark key="[" line="0" column="33" />
@@ -452,11 +466,11 @@
         <mark key="^" line="22" column="106" />
         <mark key="." line="22" column="101" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ReceiverService.cs" timestamp="1548405266626">
-        <mark key="[" line="22" column="57" />
-        <mark key="]" line="23" column="65" />
-        <mark key="." line="23" column="65" />
-        <mark key="^" line="23" column="65" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ReceiverService.cs" timestamp="1548406078494">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="18" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/Menu/Menu.js" timestamp="1547732679454">
         <mark key="[" line="0" column="33" />
@@ -502,8 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
-      <jump line="45" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
       <jump line="17" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/BackButton.js" />
       <jump line="1" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" />
       <jump line="243" column="36" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
@@ -602,16 +614,18 @@
       <jump line="15" column="4" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/Message.cs" />
       <jump line="53" column="66" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageConverter.cs" />
       <jump line="96" column="136" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
+      <jump line="13" column="4" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoConfigService.cs" />
+      <jump line="69" column="19" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Engine/Mia.Engine/Receive/ReceiverEngine.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>b2MMLInterfaceDto</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuRHRvLkVudW07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>b2MMLInterfaceDto</text>
+        <text>configRepository</text>
       </register>
       <register name="/" type="4">
         <text>Parent</text>
@@ -620,31 +634,31 @@
         <text encoding="base64">ICAgICAgdHJnLklEID0gc3JjLklEOwogICAgICB0cmcuTGFiZWwgPSBzcmMuTGFiZWw7CiAgICAgIHRyZy5YUGF0aCA9IHNyYy5YUGF0aDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIHZhciBjb25maWcgPSBjb25maWdSZXBvc2l0b3J5LkZpbmQoMSk7CiAgICAgIGIyTU1MSW50ZXJmYWNlRHRvLkFkZGl0aW9uYWxJbmZvcy5BZGQobmV3IE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0RUTwogICAgICB7CiAgICAgICAgICAgICAgQ29uZmlnID0gY29uZmlnLAogICAgICAgICAgICAgIFZhbHVlID0gImZvb2JhciIKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuRHRvLkVudW07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHJnLkNvbmZpZyA9IHNyYy5Db25maWc7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2aXJ0dWFsIHN0cmluZyBDb21wb25lbnRJZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy92YXIgbXNnID0gaW50ZXJmYWNlUmVwb3NpdG9yeS5GaW5kQnlSZWZlcmVuY2VJZCgiMDAwMDAwMDAwMDAwMDAwODcxNjkiKTsKICAgICAgLy9Mb2dnZXIuRXJyb3IoJCJNc2dJZDoge21zZy5BZGRpdGlvbmFsSW5mb3N9Iik7Ci8vICAgICAgYWRkaXRpb25hbEluZm9SZXBvc2l0b3J5Lkluc2VydChuZXcgTWVzc2FnZUFkZGl0aW9uYWxJbmZvRHRvCi8vICAgICAgewovLyAgICAgICAgVmFsdWUgPSAiZm9vIgovLyAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZURUTy5BZGRpdGlvbmFsSW5mb3MuQWRkKG5ldyBNZXNzYWdlQWRkaXRpb25hbEluZm9EVE8KICAgICAgewogICAgICAgIFZhbHVlID0gImJhciIKICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbWVzc2FnZURUTy5BZGRpdGlvbmFsSW5mb3MuQWRkKG5ldyBNZXNzYWdlQWRkaXRpb25hbEluZm9EVE8KICAgICAgewogICAgICAgICAgICAgIENvbmZpZyA9IGNvbmZpZywKICAgICAgICAgICAgICBWYWx1ZSA9ICJmb29iYXIiCiAgICAgIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGNvbmZpZyA9IGNvbmZpZ1JlcG9zaXRvcnkuRmluZCgxKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">CiAgICAgIHZhciBjb25maWcgPSBjb25maWdSZXBvc2l0b3J5LkZpbmQoMSk7CiAgICAgIGIyTU1MSW50ZXJmYWNlRHRvLkFkZGl0aW9uYWxJbmZvcy5BZGQobmV3IE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0RUTwogICAgICB7CiAgICAgICAgICAgICAgQ29uZmlnID0gY29uZmlnLAogICAgICAgICAgICAgIFZhbHVlID0gImZvb2JhciIKICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB7CiAgICAgIGdldCA9PiB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgIHNldCA9PiB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdHJnLkNvbmZpZyA9IHNyYy5Db25maWc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -693,6 +707,7 @@
         <entry>wo</entry>
         <entry>W</entry>
         <entry>wa</entry>
+        <entry encoding="base64">dyA=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
