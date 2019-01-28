@@ -249,8 +249,12 @@
         <mark key="." line="41" column="11" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Manager/AdditionalInfo/AdditionalInfoTest.cs" timestamp="1548683534867">
-        <mark key="[" line="4" column="3" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Manager/AdditionalInfo/AdditionalInfoTest.cs" timestamp="1548685771074">
+        <mark key="'" line="38" column="14" />
+        <mark key="[" line="60" column="111" />
+        <mark key="]" line="60" column="111" />
+        <mark key="." line="60" column="111" />
+        <mark key="^" line="60" column="111" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Veil/Veil.js" timestamp="1547732512941">
         <mark key="[" line="0" column="33" />
@@ -605,7 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" />
       <jump line="10" column="37" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/messagesTableReducer.spec.js" />
       <jump line="11" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportMenu/AcceptButton.js" />
       <jump line="19" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/transactionReportActionCreators.js" />
@@ -705,66 +708,67 @@
       <jump line="104" column="89" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
       <jump line="142" column="66" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
       <jump line="48" column="13" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Engine/Mia.Engine/Receive/ReceiverEngine.cs" />
+      <jump line="37" column="14" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Manager/AdditionalInfo/AdditionalInfoTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0000000000000000001</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHJlc3VsdCA9IGFkZGl0aW9uYWxJbmZvTWFuYWdlci5HZXRBZGRpdGlvbmFsSW5mb0Zyb21CMk1NTChiMm1tbERvY3VtZW50TW9jay5PYmplY3QsIGdpdmVuQ29uZmlncyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0000000000000000001</text>
+        <text encoding="base64">LlJldHVybnMoKHN0cmluZyB4cGF0aCkgPT4geHBhdGggKyAiIHZhbHVlIik7</text>
       </register>
       <register name="/" type="4">
-        <text>TransformX</text>
+        <text encoding="base64">XDxuZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJQ29sbGVjdGlvbjxNZXNzYWdlQWRkaXRpb25hbEluZm9EVE8+IEdldEFkZGl0aW9uYWxJbmZvRnJvbUIyTU1MKElNaWFCMk1NTERvY3VtZW50IGIyTU1MRG9jdW1lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJRW51bWVyYWJsZTxNZXNzYWdlQWRkaXRpb25hbEluZm9Db25maWdEVE8+IGNvbmZpZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHJlc3VsdCA9IGFkZGl0aW9uYWxJbmZvTWFuYWdlci5HZXRBZGRpdGlvbmFsSW5mb0Zyb21CMk1NTChiMm1tbERvY3VtZW50TW9jay5PYmplY3QsIGdpdmVuQ29uZmlncyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgTWVzc2FnZUFkZGl0aW9uYWxJbmZvQ29uZmlnRFRPIHsgSUQgPSAxLCBDb21wb25lbnRJZCA9ICJjb21wb25lbnRJZCIsIExhYmVsID0gImxhYmVsMSIsIFhQYXRoID0gInhwYXRoMSIgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LlNob3VsZCgpLkJlRXF1aXZhbGVudFRvKG5ldyBMaXN0PE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0RUTz4KICAgICAgewogICAgICAgICAgICAgIG5ldyBNZXNzYWdlQWRkaXRpb25hbEluZm9EVE8geyBDb25maWcgPSBnaXZlbkNvbmZpZ3NbMV0sIFZhbHVlID0gInhwYXRoMSB2YWx1ZSIgfSwKICAgICAgfSwgb3B0aW9ucyA9PiBvcHRpb25zLkNvbXBhcmluZ0J5VmFsdWU8TWVzc2FnZUFkZGl0aW9uYWxJbmZvRFRPPigpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIElDb2xsZWN0aW9uPE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0RUTz4gR2V0QWRkaXRpb25hbEluZm9Gcm9tQjJNTUwoSU1pYUIyTU1MRG9jdW1lbnQgYjJNTUxEb2N1bWVudCwgSUVudW1lcmFibGU8TWVzc2FnZUFkZGl0aW9uYWxJbmZvQ29uZmlnRFRPPiBjb25maWdzKQogICAgewogICAgICB2YXIgYWRkaXRpb25hbEluZm9zID0gbmV3IExpc3Q8TWVzc2FnZUFkZGl0aW9uYWxJbmZvRFRPPigpOwogICAgICBmb3JlYWNoICh2YXIgY29uZmlnIGluIGNvbmZpZ3MpCiAgICAgIHsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICBhZGRpdGlvbmFsSW5mb3MuQWRkKG5ldyBNZXNzYWdlQWRkaXRpb25hbEluZm9EVE8KICAgICAgICAgIHsKICAgICAgICAgIENvbmZpZyA9IGNvbmZpZywKICAgICAgICAgIFZhbHVlID0gYjJNTUxEb2N1bWVudC5HZXRBZGRpdGlvbmFsSW5mbyhjb25maWcuWFBhdGgpCiAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKEludmFsaWRPcGVyYXRpb25FeGNlcHRpb24pCiAgICAgICAgewogICAgICAgICAgTG9nLldhcm4oJCJYUGF0aCAne2NvbmZpZy5YUGF0aH0nIG5vdCBmb3VuZCBpbiBCMk1NTCBmb3IgY29tcG9uZW50IElEICd7Y29uZmlnLkNvbXBvbmVudElkfScuIik7CiAgICAgICAgfQogICAgICB9CgogICAgICByZXR1cm4gYWRkaXRpb25hbEluZm9zOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgTWVzc2FnZUFkZGl0aW9uYWxJbmZvRFRPIHsgQ29uZmlnID0gZ2l2ZW5Db25maWdzWzBdLCBWYWx1ZSA9ICJ4cGF0aDAgdmFsdWUiIH0sCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25maWdTZXJ2aWNlID0gY29uZmlnU2VydmljZTsK</text>
+      <register name="5" type="4">
+        <text>)
+      Assert.That(result, Is.EquivalentTo(</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25maWdTZXJ2aWNlID0gY29uZmlnU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LlRoYXQocmVzdWx0LCBJcy5FbXB0eSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSU1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZ1NlcnZpY2UgY29uZmlnU2VydmljZQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgIChNZXNzYWdlQWRkaXRpb25hbEluZm9EVE8gY29uZmlnKSA9PiBuZXcgTWVzc2FnZUFkZGl0aW9uYWxJbmZvRFRPCiAgICAgICAgICB7CiAgICAgICAgICAgICAgQ29uZmlnID0gY29uZmlnCiAgICAgICAgICAgICAgVmFsdWUgPSBjb25maWcuWFBhdGggKyAiIHZhbHVlIgogICAgICAgICAgfSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25maWdTZXJ2aWNlKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uZmlnU2VydmljZSwKICAgICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgYjJtbWxEb2N1bWVudE1vY2suU2V0dXAobSA9PiBtLkdldEFkZGl0aW9uYWxJbmZvKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TransformX</last-search>
+      <last-search encoding="base64">XDxuZXdcPg==</last-search>
       <last-offset />
-      <last-pattern>TransformX</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdcPg==</last-pattern>
       <last-replace>messageType</last-replace>
       <last-substitute>path\[1\]</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">aW50ZXJmYWNlLW1vbml0b3JcPg==</entry>
         <entry>results-table</entry>
         <entry>.grid tr.k-alt</entry>
         <entry>k-alt</entry>
@@ -784,6 +788,7 @@
         <entry encoding="base64">XDxjb25maWdEYXRhTWFwcGVyXD4=</entry>
         <entry encoding="base64">XDxBZGRpdGlvbmFsSW5mb1NlcnZpY2VcPg==</entry>
         <entry>TransformX</entry>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
