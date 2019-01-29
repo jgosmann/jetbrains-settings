@@ -336,7 +336,7 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/MessageAdditionalInfoRepository.cs" timestamp="1548756929357">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/MessageAdditionalInfoRepository.cs" timestamp="1548763169964">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="13" column="29" />
         <mark key="^" line="13" column="29" />
@@ -360,6 +360,7 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Persistence/Mia.Persistence/TransactionInterceptor.cs" timestamp="1548763490424" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/AdditionalInfo/AdditionalInfoManager.cs" timestamp="1548689769036">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -597,7 +598,7 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/AdditionalInfoService.cs" timestamp="1548760069811">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/AdditionalInfoService.cs" timestamp="1548763288167">
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="31" />
         <mark key="." line="45" column="31" />
