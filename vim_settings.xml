@@ -45,11 +45,6 @@
         <mark key="." line="84" column="83" />
         <mark key="^" line="84" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.Service.Web.Tests/AdditionalInfo/AdditionalInfoRebuilderServiceTest.cs" timestamp="1548778010754">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="4" />
-        <mark key="." line="31" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/app.config" timestamp="1548839473718">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="12" column="50" />
@@ -67,14 +62,6 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Persistence/Hibernate/Mia.Persistence.Hibernate/Base/BaseDataMapper.cs" timestamp="1548777449767">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1548839171741">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/interfaceMonitorSelectors.js" timestamp="1547458948825">
         <mark key="[" line="1" column="65" />
@@ -256,11 +243,6 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Persistence/Hibernate/Mia.Persistence.Hibernate/Mapper/HibernateDataMapperFactory.cs" timestamp="1548756283631">
-        <mark key="[" line="16" column="52" />
-        <mark key="]" line="16" column="52" />
-        <mark key="." line="16" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/InfoLabel/InfoLabel.js" timestamp="1547732465026">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="41" />
@@ -272,11 +254,6 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1548777424671">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IAdditionalInfoRepository.cs" timestamp="1548751672799">
         <mark key="[" line="4" column="44" />
@@ -355,11 +332,6 @@
         <mark key="]" line="22" column="32" />
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Persistence/Mia.Persistence/TransactionInterceptor.cs" timestamp="1548763719750">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/MessagesTableHeader.js" timestamp="1547474042282">
         <mark key="[" line="38" column="38" />
@@ -456,11 +428,6 @@
         <mark key="]" line="17" column="50" />
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLInterfaceRepository.cs" timestamp="1548777432559">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/transactionReport/test/getDailySingleMessageCounts.spec.js" timestamp="1547543874659">
         <mark key="[" line="139" column="0" />
@@ -587,11 +554,6 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Persistence/Mia.Interface.Persistence.Orm/Mapper/IDataMapper.cs" timestamp="1548777456609">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Mock/ReceiveManager/ReceivePollManagerMock.cs" timestamp="1548690646678">
         <mark key="[" line="18" column="66" />
