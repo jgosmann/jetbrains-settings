@@ -50,12 +50,6 @@
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Log4Net/MainInterfaceApplication.log4net" timestamp="1548771619563">
-        <mark key="[" line="84" column="13" />
-        <mark key="]" line="84" column="15" />
-        <mark key="." line="84" column="15" />
-        <mark key="^" line="84" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/ConverterTest.cs" timestamp="1548662627397">
         <mark key="[" line="179" column="58" />
         <mark key="]" line="179" column="61" />
@@ -598,11 +592,11 @@
         <mark key="." line="8" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/AdditionalInfoService.cs" timestamp="1548779338380">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="43" column="81" />
-        <mark key="]" line="43" column="81" />
-        <mark key="." line="43" column="81" />
-        <mark key="^" line="43" column="89" />
+        <mark key="'" line="34" column="6" />
+        <mark key="[" line="42" column="81" />
+        <mark key="]" line="42" column="81" />
+        <mark key="." line="42" column="81" />
+        <mark key="^" line="42" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547643145833">
         <mark key="[" line="6" column="0" />
@@ -622,11 +616,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/AdditionalInfo/AdditionalInfoRebuilderService.cs" timestamp="1548781201032">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-        <mark key="^" line="11" column="41" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/AdditionalInfo/AdditionalInfoRebuilderService.cs" timestamp="1548837494478">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageDTO.cs" timestamp="1548417306245">
         <mark key="[" line="24" column="85" />
@@ -771,11 +765,11 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>10</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IHRyeSBiYXRjaCBzaXplcyBiZXR3ZWVuIDEwMDAgYW5kIDEwMDAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlQWRkaXRpb25hbEluZm9SZXBvc2l0b3J5XD4=</text>
@@ -784,31 +778,31 @@
         <text encoding="base64">ICAgICAgYWRkaXRpb25hbEluZm9NYW5hZ2VyTW9jay5WZXJpZnkobSA9PiBtLlJlYnVpbGRBZGRpdGlvbmFsSW5mb0ZvckJhdGNoKDAsIEl0LklzQW55PGludD4oKSksIFRpbWVzLk9uY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWRkaXRpb25hbEluZm9SZXBvc2l0b3J5LlZlcmlmeShtID0+IG0uRGVsZXRlQWxsKCksIFRpbWVzLk9uY2UpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHRyeSBiYXRjaCBzaXplcyBiZXR3ZWVuIDEwMDAgYW5kIDEwMDAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYjJNTUxJbnRlcmZhY2VSZXBvc2l0b3J5TW9jay5TZXR1cChtID0+IG0uRmluZFJhbmdlKEl0LklzKChpbnQgZmlyc3QpID0+IGZpcnN0ID4gMCksIEl0LklzQW55PGludD4oKSkpLlJldHVybnMoCiAgICAgICAgICAgICAgbmV3IExpc3Q8TWVzc2FnZURUTz4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkaXRpb25hbEluZm9SZXBvc2l0b3J5LlZlcmlmeShtID0+IG0uRGVsZXRlQWxsKCksIFRpbWVzLk9uY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgYjJNTUxJbnRlcmZhY2VSZXBvc2l0b3J5TW9jay5TZXR1cChtID0+IG0uRmluZFJhbmdlKEl0LklzKChpbnQgZmlyc3QpID0+IGZpcnN0ID4gMCksIEl0LklzQW55PGludD4oKSkpLlJldHVybnMoCiAgICAgICAgICAgICAgbmV3IExpc3Q8TWVzc2FnZURUTz4oKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXNpbmcgKFNlcXVlbmNlLkNyZWF0ZSgpKQogICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICB2b2lkIEZsdXNoQW5kQ2xlYXJTZXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdXNpbmcgKFNlcXVlbmNlLkNyZWF0ZSgpKQogICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB2b2lkIEZsdXNoQW5kQ2xlYXJTZXNzaW9uKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIEZsdXNoQW5kQ2xlYXJTZXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgb3ZlcnJpZGUgdm9pZCBGbHVzaEFuZENsZWFyU2Vzc2lvbigpCiAgICB7CiAgICAgIElTZXNzaW9uIHNlc3Npb24gPSB0cmFuc2FjdGlvbk1hbmFnZXIuQ3VycmVudFNlc3Npb247CiAgICAgIHNlc3Npb24uRmx1c2goKTsKICAgICAgc2Vzc2lvbi5DbGVhcigpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIEZsdXNoQW5kQ2xlYXJTZXNzaW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgRmx1c2hBbmRDbGVhclNlc3Npb24oKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgb3ZlcnJpZGUgdm9pZCBGbHVzaEFuZENsZWFyU2Vzc2lvbigpCiAgICB7CiAgICAgIElTZXNzaW9uIHNlc3Npb24gPSB0cmFuc2FjdGlvbk1hbmFnZXIuQ3VycmVudFNlc3Npb247CiAgICAgIHNlc3Npb24uRmx1c2goKTsKICAgICAgc2Vzc2lvbi5DbGVhcigpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
