@@ -50,6 +50,17 @@
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Log4Net/MainInterfaceApplication.log4net" timestamp="1548838583889">
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="84" column="13" />
+        <mark key="." line="84" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/app.config" timestamp="1548839473718">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/ConverterTest.cs" timestamp="1548662627397">
         <mark key="[" line="179" column="58" />
         <mark key="]" line="179" column="61" />
@@ -66,6 +77,9 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1548839171741">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/interfaceMonitorSelectors.js" timestamp="1547458948825">
         <mark key="[" line="1" column="65" />
@@ -340,6 +354,12 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="63" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/WAPRebuildAdditionalInfo.http" timestamp="1548839336211">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Persistence/Mia.Interface.Persistence.Orm/Mapper/IDataMapperFactory.cs" timestamp="1548749434999">
         <mark key="[" line="7" column="67" />
         <mark key="]" line="7" column="67" />
@@ -604,11 +624,11 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/RebuildAdditionalInfo.http" timestamp="1548751418071">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="^" line="6" column="52" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/RebuildAdditionalInfo.http" timestamp="1548839744227">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+        <mark key="^" line="7" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/Menu/Menu.js" timestamp="1547732679454">
         <mark key="[" line="0" column="33" />
@@ -765,14 +785,14 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHRyeSBiYXRjaCBzaXplcyBiZXR3ZWVuIDEwMDAgYW5kIDEwMDAwCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDg4ZjMxZjRmLWU5YzYtNGFkOC1hYTIzLTE0YWE0NmI0NDM3OA==</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text encoding="base64">IDg4ZjMxZjRmLWU5YzYtNGFkOC1hYTIzLTE0YWE0NmI0NDM3OA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlQWRkaXRpb25hbEluZm9SZXBvc2l0b3J5XD4=</text>
+        <text>Mia</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYWRkaXRpb25hbEluZm9NYW5hZ2VyTW9jay5WZXJpZnkobSA9PiBtLlJlYnVpbGRBZGRpdGlvbmFsSW5mb0ZvckJhdGNoKDAsIEl0LklzQW55PGludD4oKSksIFRpbWVzLk9uY2UpOwo=</text>
@@ -809,9 +829,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlQWRkaXRpb25hbEluZm9SZXBvc2l0b3J5XD4=</last-search>
+      <last-search>Mia</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlQWRkaXRpb25hbEluZm9SZXBvc2l0b3J5XD4=</last-pattern>
+      <last-pattern>Mia</last-pattern>
       <last-replace>Service</last-replace>
       <last-substitute>Manager</last-substitute>
       <last-dir>1</last-dir>
@@ -819,7 +839,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdHlsZVNoZWV0XD4=</entry>
         <entry>rewire</entry>
         <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
@@ -839,6 +858,7 @@
         <entry encoding="base64">XDxJbml0SGliZXJuYXRlXD4=</entry>
         <entry encoding="base64">XDxGbHVzaEFuZENsZWFyU2Vzc2lvblw+</entry>
         <entry encoding="base64">XDxtZXNzYWdlQWRkaXRpb25hbEluZm9SZXBvc2l0b3J5XD4=</entry>
+        <entry>Mia</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
