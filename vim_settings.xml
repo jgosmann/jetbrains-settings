@@ -439,11 +439,11 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageConverter.cs" timestamp="1548859360748">
-        <mark key="[" line="57" column="49" />
-        <mark key="]" line="57" column="47" />
-        <mark key="^" line="57" column="47" />
-        <mark key="." line="57" column="47" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageConverter.cs" timestamp="1548860098194">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="14" />
+        <mark key="^" line="61" column="94" />
+        <mark key="." line="61" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/ShrinkingLabel/ShrinkingLabel.js" timestamp="1547732505427">
         <mark key="[" line="0" column="33" />
@@ -779,45 +779,44 @@
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdHJnLkFkZGl0aW9uYWxJbmZvcyA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LlNlbGVjdChpbmZvID0+IGluZm8uSUQpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>VARIABLE</text>
+        <text encoding="base64">LlNlbGVjdChpbmZvID0+IGluZm8uSUQpOw==</text>
       </register>
       <register name="/" type="4">
         <text>Mia</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0WyJDb21wb25lbnRJZDAiXS5TaG91bGRCZUVxdWl2YWxlbnRUbyhuZXcgTGlzdDxNZXNzYWdlQWRkaXRpb25hbEluZm9Db25maWdEVE8+IHtnaXZlbkNvbmZpZ3NbMF0sIGdpdmVuQ29uZmlnc1sxXX0pOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3JjLkFkZGl0aW9uYWxJbmZvcy5TZWxlY3QoaW5mbyA9PiBNYXAoaW5mbywgdHJnKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJnLkFkZGl0aW9uYWxJbmZvcyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHJnLkFkZGl0aW9uYWxJbmZvcy4K</text>
+        <text encoding="base64">ICAgICAgc3JjLkFkZGl0aW9uYWxJbmZvcy5TKGluZm8gPT4gTWFwKGluZm8sIHRyZykpOwogICAgICB0cmcuQWRkaXRpb25hbEluZm9zLlJlbW92ZSgpOwogICAgICBmb3JlYWNoICh2YXIgYWRkaXRpb25hbEluZm8gaW4gc3JjLkFkZGl0aW9uYWxJbmZvcy5TZWxlY3QoaW5mbyA9PiBNYXAoaW5mbywgdHJnKSkuVG9IYXNoU2V0KCkpCiAgICAgIHsKICAgICAgICB0cmcuQWRkaXRpb25hbEluZm9zLkFkZChhZGRpdGlvbmFsSW5mbyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJRGljdGlvbmFyeTxzdHJpbmcsIElFbnVtZXJhYmxlPE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZ0RUTz4+IEdldEFsbENvbmZpZ3NHcm91cGVkQnlDb21wb25lbnRJZCgpCg==</text>
+        <text encoding="base64">ICAgICAgZm9yCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bmV3IExpc3Q8TWVzc2FnZUFkZGl0aW9uYWxJbmZvQ29uZmlnRFRPPgogICAgICB7CiAgICAgICAgICAgICAgbmV3IE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZ0RUTyB7IENvbXBvbmVudElkID0gImNvbXBvbmVudElkMCIgfQogICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRyZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgdHJnLkFkZGl0aW9uYWxJbmZvcyA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>}
-                      new</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdHJnLkFkZGl0aW9uYWxJbmZvcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2F0Y2guU3RvcCgpOwogICAgICBMb2dnZXIuSW5mb0Zvcm1hdCgkIlRvb2sge3dhdGNoLkVsYXBzZWRNaWxsaXNlY29uZHMgLyAxMDAwfXMiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJRGljdGlvbmFyeTxzdHJpbmcsIElFbnVtZXJhYmxlPE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZ0RUTz4+IEdldEFsbENvbmZpZ3NHcm91cGVkQnlDb21wb25lbnRJZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
