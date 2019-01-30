@@ -558,13 +558,19 @@
         <mark key="." line="20" column="39" />
         <mark key="^" line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/AdditionalInfoConfigServiceTest.cs" timestamp="1548850701217">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/.babelrc" timestamp="1547733580645">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="15" column="41" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoConfigService.cs" timestamp="1548843090020">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoConfigService.cs" timestamp="1548850844003">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="111" />
         <mark key="^" line="38" column="72" />
@@ -605,6 +611,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="51" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/MessageAdditionalInfoConfigServiceTest.cs" timestamp="1548851211147">
+        <mark key="[" line="32" column="72" />
+        <mark key="]" line="32" column="72" />
+        <mark key="." line="32" column="72" />
+        <mark key="^" line="32" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547643145833">
         <mark key="[" line="6" column="0" />
@@ -773,44 +785,44 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJRGljdGlvbmFyeTxzdHJpbmcsIElFbnVtZXJhYmxlPE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZ0RUTz4+IEdldEFsbENvbmZpZ3NHcm91cGVkQnlDb21wb25lbnRJZCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>AtLeastOnce</text>
+        <text>, givenConfigs[1]</text>
       </register>
       <register name="/" type="4">
         <text>Mia</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJRGljdGlvbmFyeTxzdHJpbmcsIElFbnVtZXJhYmxlPE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZ0RUTz4+IEdldEFsbENvbmZpZ3NHcm91cGVkQnlDb21wb25lbnRJZCgpCg==</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0WyJDb21wb25lbnRJZDAiXS5TaG91bGRCZUVxdWl2YWxlbnRUbyhuZXcgTGlzdDxNZXNzYWdlQWRkaXRpb25hbEluZm9Db25maWdEVE8+IHtnaXZlbkNvbmZpZ3NbMF0sIGdpdmVuQ29uZmlnc1sxXX0pOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBJRGljdGlvbmFyeTxzdHJpbmcsIElFbnVtZXJhYmxlPE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZ0RUTz4+IEdldEFsbENvbmZpZ3NHcm91cGVkQnlDb21wb25lbnRJZCgpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">bmV3IExpc3Q8TWVzc2FnZUFkZGl0aW9uYWxJbmZvQ29uZmlnRFRPPgogICAgICB7CiAgICAgICAgICAgICAgbmV3IE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZ0RUTyB7IENvbXBvbmVudElkID0gImNvbXBvbmVudElkMCIgfQogICAgICB9</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>}
                       new</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgd2F0Y2guU3RvcCgpOwogICAgICBMb2dnZXIuSW5mb0Zvcm1hdCgkIlRvb2sge3dhdGNoLkVsYXBzZWRNaWxsaXNlY29uZHMgLyAxMDAwfXMiKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgdmFyIHdhdGNoID0gbmV3IFN5c3RlbS5EaWFnbm9zdGljcy5TdG9wd2F0Y2goKTsKICAgICAgd2F0Y2guU3RhcnQoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgc2Vzcwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNhY3Rpb25NYW5hZ2VyLkN1cnJlbnRTZXNzaW9uLlF1ZXJ5PFREb21haW5PYmplY3Q+KCkuRmV0Y2goeCA9PiB4Lik7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnkuCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnkuU2V0RmV0Y2hTaXplKG1heENvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgdHJhbnNhY3Rpb25NYW5hZ2VyLkN1cnJlbnRTZXNzaW9uLlF1ZXJ5PFREb21haW5PYmplY3Q+KCkuRmV0Y2goeCA9PiB4Lik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
