@@ -222,12 +222,12 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548145505851">
-        <mark key="'" line="28" column="32" />
-        <mark key="[" line="99" column="41" />
-        <mark key="]" line="99" column="51" />
-        <mark key="." line="99" column="51" />
-        <mark key="^" line="99" column="51" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548863582583">
+        <mark key="'" line="23" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/index.js" timestamp="1548086068280">
         <mark key="[" line="0" column="0" />
@@ -351,16 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" />
-      <jump line="35" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Grid.js" />
-      <jump line="20" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
-      <jump line="396" column="1" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
-      <jump line="44" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
-      <jump line="45" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/css/V2InterfaceMonitoring.css" />
-      <jump line="17" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/BackButton.js" />
-      <jump line="1" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" />
-      <jump line="243" column="36" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/interface_monitoring.xliff" />
       <jump line="192" column="73" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/interface_monitoring.xliff" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
       <jump line="385" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
@@ -437,7 +427,6 @@
       <jump line="165" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/RouteGraphsControl/RouteGraphControl.js" />
       <jump line="163" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/RouteGraphsControl/RouteGraphControl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/RouteGraphsControl/RouteGraphControl.js" />
-      <jump line="23" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="25" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" />
       <jump line="9" column="97" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="4" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
@@ -448,46 +437,57 @@
       <jump line="97" column="42" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="7" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" />
       <jump line="17" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="98" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="28" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="7" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="8" column="21" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="11" column="37" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="16" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="20" column="48" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="23" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="24" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="32" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="67" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="22" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDxlbnRyeVBvaW50c1w+</text>
       </register>
       <register name="0" type="4">
         <text>path.resolve('babel.config.js')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudjogewogICAgICB0ZXN0OiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgIF0KICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ3VuZGVyc2NvcmUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICdyZXdpcmUnCg==</text>
+        <text encoding="base64">ICAgIGVudjogewogICAgICB0ZXN0OiB7CiAgICAgICAgcGx1Z2luczogWwogICAgICAgIF0KICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ3Jld2lyZScK</text>
+        <text encoding="base64">ICAgICAgICAgICdyZXdpcmUnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnZmV0Y2gtbW9jay9ub2RlX21vZHVsZXMvd2hhdHdnLXVybCddCg==</text>
+        <text encoding="base64">ICAgICAgJ3Jld2lyZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGhzKQo=</text>
+        <text encoding="base64">ICAnZmV0Y2gtbW9jay9ub2RlX21vZHVsZXMvd2hhdHdnLXVybCddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaW5jbHVkZVBhdGhzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">ICAgIG5ldyBVZ2xpZnlKc1BsdWdpbigpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
@@ -500,9 +500,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search encoding="base64">XDxlbnRyeVBvaW50c1w+</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxlbnRyeVBvaW50c1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -510,9 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>has-error</entry>
-        <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
-        <entry>Table</entry>
         <entry encoding="base64">aW50ZXJmYWNlLW1vbml0b3JcPg==</entry>
         <entry>results-table</entry>
         <entry>.grid tr.k-alt</entry>
@@ -524,12 +521,15 @@
         <entry>rewire</entry>
         <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
-        <entry encoding="base64">XDxfXD4=</entry>
         <entry>underscorce</entry>
         <entry>underscore</entry>
         <entry>uglify</entry>
         <entry encoding="base64">XDxVZ2xpZnlKc1BsdWdpblw+</entry>
         <entry>&quot;</entry>
+        <entry>_</entry>
+        <entry encoding="base64">XDxf</entry>
+        <entry encoding="base64">XDxfXD4=</entry>
+        <entry encoding="base64">XDxlbnRyeVBvaW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
