@@ -591,11 +591,11 @@
         <mark key="." line="18" column="66" />
         <mark key="^" line="18" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO.sql" timestamp="1548317694827">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="8" column="57" />
-        <mark key="^" line="8" column="57" />
-        <mark key="." line="8" column="57" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/B2MML/Tables/MESSAGE_ADDITIONAL_INFO.sql" timestamp="1548946247150">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="10" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/AdditionalInfoService.cs" timestamp="1548933060839">
         <mark key="'" line="47" column="46" />
@@ -772,10 +772,10 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_CONFIG</text>
+        <text>CONFIG_</text>
       </register>
       <register name="-" type="4">
-        <text>_CONFIG</text>
+        <text>CONFIG_</text>
       </register>
       <register name="/" type="4">
         <text>Mia</text>
