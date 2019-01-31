@@ -45,6 +45,12 @@
         <mark key="." line="84" column="83" />
         <mark key="^" line="84" column="83" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceAdditionalInfoConfigMap.cs" timestamp="1548945483325">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="9" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/Database_V2/Model/IFACE_V2/IFACE_V2/CONF/Tables/MESSAGE_ADDITIONAL_INFO.sql" timestamp="1548945084074">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="22" />
@@ -159,11 +165,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageAdditionalInfoConfig.hbm.xml" timestamp="1548418141656">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="31" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageAdditionalInfoConfig.hbm.xml" timestamp="1548945291769">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/AbstractStringInput/AbstractStringInput.js" timestamp="1547732369348">
         <mark key="[" line="0" column="33" />
@@ -519,6 +525,12 @@
         <mark key="." line="8" column="89" />
         <mark key="^" line="8" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceSingleAdditionalInfoMap.cs" timestamp="1548945457725">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Mock/ReceiveManager/ReceiveBaseManagerMock.cs" timestamp="1548690571586">
         <mark key="[" line="44" column="66" />
         <mark key="]" line="44" column="66" />
@@ -760,10 +772,10 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>B2MML</text>
+        <text>_CONFIG</text>
       </register>
       <register name="-" type="4">
-        <text>B2MML</text>
+        <text>_CONFIG</text>
       </register>
       <register name="/" type="4">
         <text>Mia</text>
