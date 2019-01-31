@@ -40,6 +40,12 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportMenu/TransactionReportMenu.js" timestamp="1548922650678">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="49" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="6" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/MessagesTableHeader.js" timestamp="1548079185926">
         <mark key="[" line="31" column="59" />
         <mark key="]" line="31" column="71" />
@@ -69,6 +75,12 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/DatePicker.js" timestamp="1548922881475">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/interfaceMonitorSelectors.js" timestamp="1547458948825">
         <mark key="[" line="1" column="65" />
@@ -131,6 +143,12 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesTable.js" timestamp="1548922088038">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseErrorDisplay.js" timestamp="1547732778900">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="41" />
@@ -151,6 +169,12 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/BackButton.js" timestamp="1548922748117">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/ShrinkingLabel/ShrinkingLabel.js" timestamp="1547732505427">
         <mark key="[" line="0" column="33" />
@@ -228,6 +252,9 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="49" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesGrid.js" timestamp="1548921350498">
+        <mark key="'" line="198" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1548863582583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
@@ -262,6 +289,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/util/exportToExcel.js" timestamp="1548921483375">
+        <mark key="[" line="6" column="72" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/Common/AddButton/AddButton.js" timestamp="1547732694454">
         <mark key="[" line="0" column="33" />
@@ -300,11 +333,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1547643145833">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="29" column="31" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1548922571298">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="49" column="23" />
+        <mark key="^" line="49" column="23" />
+        <mark key="." line="49" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminPage/AdminPage.js" timestamp="1547732672298">
         <mark key="[" line="0" column="33" />
@@ -356,8 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="73" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/interface_monitoring.xliff" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
       <jump line="385" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
       <jump line="17" column="26" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/MessagesTableHeader.spec.js" />
       <jump line="83" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
@@ -456,6 +487,8 @@
       <jump line="32" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="67" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
       <jump line="22" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="179" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesGrid.js" />
+      <jump line="198" column="59" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesGrid.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -468,7 +501,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnRyeVBvaW50c1w+</text>
+        <text encoding="base64">XDxleGNlbEV4cG9ydFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICogQHBhcmFtIHtPYmplY3R9IHdlZWsgT2JqZWN0IGRlc2NyaWJpbmcgdGhlIHdlZWsuCiAqIEBwYXJhbSB7RGF0ZX0gd2Vlay5mcm9tRGF0ZSBEYXRlIGRlZmluaW5nIHRoZSBzdGFydCBvZiB0aGUgd2Vlay4K</text>
@@ -505,9 +538,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnRyeVBvaW50c1w+</last-search>
+      <last-search encoding="base64">XDxleGNlbEV4cG9ydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnRyeVBvaW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxleGNlbEV4cG9ydFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">aW50ZXJmYWNlLW1vbml0b3JcPg==</entry>
         <entry>results-table</entry>
         <entry>.grid tr.k-alt</entry>
         <entry>k-alt</entry>
@@ -535,6 +567,7 @@
         <entry encoding="base64">XDxf</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxlbnRyeVBvaW50c1w+</entry>
+        <entry encoding="base64">XDxleGNlbEV4cG9ydFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
