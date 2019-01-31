@@ -64,10 +64,10 @@
         <mark key="^" line="12" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/ConverterTest.cs" timestamp="1548662627397">
-        <mark key="[" line="179" column="58" />
-        <mark key="]" line="179" column="61" />
-        <mark key="." line="179" column="61" />
-        <mark key="^" line="179" column="61" />
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="3" column="61" />
+        <mark key="^" line="3" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminHeader/AdminHeader.js" timestamp="1547732655314">
         <mark key="[" line="0" column="33" />
@@ -596,13 +596,6 @@
         <mark key="]" line="10" column="48" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="10" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/AdditionalInfoService.cs" timestamp="1548933060839">
-        <mark key="'" line="47" column="46" />
-        <mark key="[" line="47" column="46" />
-        <mark key="]" line="47" column="76" />
-        <mark key="." line="47" column="76" />
-        <mark key="^" line="47" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/MessageAdditionalInfoConfigServiceTest.cs" timestamp="1548851211147">
         <mark key="[" line="32" column="72" />
