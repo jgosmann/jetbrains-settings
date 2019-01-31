@@ -81,11 +81,11 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/AdditionalInfoServiceTest.cs" timestamp="1548850506217">
-        <mark key="[" line="67" column="81" />
-        <mark key="]" line="67" column="84" />
-        <mark key="." line="67" column="84" />
-        <mark key="^" line="67" column="84" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/AdditionalInfoServiceTest.cs" timestamp="1548932999022">
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="14" />
+        <mark key="." line="51" column="14" />
+        <mark key="^" line="51" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IAdditionalInfoService.cs" timestamp="1548773906544">
         <mark key="[" line="7" column="3" />
@@ -561,12 +561,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/AdditionalInfoService.cs" timestamp="1548850617827">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/AdditionalInfoService.cs" timestamp="1548933060839">
         <mark key="'" line="47" column="46" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="51" column="7" />
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="47" column="76" />
+        <mark key="." line="47" column="76" />
+        <mark key="^" line="47" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/MessageAdditionalInfoConfigServiceTest.cs" timestamp="1548851211147">
         <mark key="[" line="32" column="72" />
@@ -736,16 +736,16 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>message</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Mia</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3JjLkFkZGl0aW9uYWxJbmZvcy5TZWxlY3QoaW5mbyA9PiBNYXAoaW5mbywgdHJnKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgTWVzc2FnZURUTyB7Q29tcG9uZW50SWQgPSBjb21wb25lbnRJZCwgQjJNTUxDb250ZW50U3RyaW5nID0geG1sQ29udGVudCwgT3JpZ2luYWxDb250ZW50U3RyaW5nID0geG1sQ29udGVudH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdmFyIHRyZyA9IG1lc3NhZ2UuQWRkaXRpb25hbEluZm9zLlNpbmdsZU9yRGVmYXVsdChpbmZvID0+IGluZm8uSUQgPT0gc3JjLklEKTsK</text>
