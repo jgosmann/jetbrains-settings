@@ -285,6 +285,12 @@
         <mark key="^" line="65" column="37" />
         <mark key="." line="63" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web.Tests/AdditionalInfo/AdditionalInfoRebuilderServiceTest.cs" timestamp="1548942830868">
+        <mark key="[" line="29" column="75" />
+        <mark key="]" line="29" column="79" />
+        <mark key="." line="29" column="79" />
+        <mark key="^" line="29" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/RebuildAdditionalInfo.http" timestamp="1548751260929">
         <mark key="[" line="5" column="109" />
         <mark key="]" line="5" column="109" />
@@ -736,10 +742,10 @@
         <text>gjhh.</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Once</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Once</text>
       </register>
       <register name="/" type="4">
         <text>Mia</text>
