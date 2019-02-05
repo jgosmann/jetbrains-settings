@@ -3,15 +3,51 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/ConfMessageAdditionalInfoRepository.cs" timestamp="1549358865206" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceMessageMap.cs" timestamp="1549367449467">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionMap.cs" timestamp="1549367482015">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceMessage.cs" timestamp="1549367513687">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceTransmission.cs" timestamp="1549367525839">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2aXJ0dWFsIElMaXN0PElmYWNlU2luZ2xlQWRkaXRpb25hbEluZm8+IEFkZGl0aW9uYWxJbmZvIHsgZ2V0OyBzZXQ7IH0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2aXJ0dWFsIAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2aXJ0dWFsIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>I</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
