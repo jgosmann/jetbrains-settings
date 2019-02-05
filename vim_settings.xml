@@ -15,37 +15,23 @@
         <mark key="." line="399" column="29" />
         <mark key="^" line="442" column="155" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoService.cs" timestamp="1549380504479">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="15" />
-        <mark key="." line="71" column="15" />
-        <mark key="^" line="71" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" timestamp="1549376852869">
         <mark key="[" line="285" column="53" />
         <mark key="]" line="285" column="52" />
         <mark key="^" line="285" column="52" />
         <mark key="." line="285" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceTransmissionAdditionalInfo.cs" timestamp="1549369477706">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="35" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/TransmissionAdditionalInfoConfigServiceTest.cs" timestamp="1549381023264">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="70" />
+        <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionAdditionalInfoConfigMap.cs" timestamp="1549369990024">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping.Tests/IFace.DataMapping.Tests/ComponentTests/IfaceMessageRepositoryTest.cs" timestamp="1549371525931">
-        <mark key="'" line="158" column="104" />
-        <mark key="[" line="177" column="112" />
-        <mark key="]" line="177" column="116" />
-        <mark key="." line="177" column="116" />
-        <mark key="^" line="177" column="116" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/ITransmissionAdditionalInfoConfigService.cs" timestamp="1549380679699">
+        <mark key="[" line="8" column="109" />
+        <mark key="]" line="8" column="109" />
+        <mark key="." line="8" column="109" />
+        <mark key="^" line="8" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IIfaceTransmissionAdditionalInfoRepository.cs" timestamp="1549369710514">
         <mark key="[" line="5" column="100" />
@@ -53,11 +39,10 @@
         <mark key="." line="5" column="111" />
         <mark key="^" line="5" column="111" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceTransmissionAdditionalInfoConfig.cs" timestamp="1549369416956">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLTransmissionRepository.cs" timestamp="1549382536450">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Interface/TransmissionDto.cs" timestamp="1549369267759">
         <mark key="[" line="24" column="40" />
@@ -65,32 +50,36 @@
         <mark key="^" line="27" column="62" />
         <mark key="." line="27" column="62" />
       </file>
-      <file name="/Dummy.cs" timestamp="1549376787071">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/TransmissionAdditionalInfoServiceTest.cs" timestamp="1549383981611">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+        <mark key="^" line="80" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionMap.cs" timestamp="1549367482015">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="53" />
-        <mark key="." line="21" column="53" />
-        <mark key="^" line="21" column="60" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/ITransmissionAdditionalInfoService.cs" timestamp="1549383113770">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="75" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceMessageMessageAdditionalInfoConfigRepository.cs" timestamp="1549369780411">
-        <mark key="[" line="8" column="138" />
-        <mark key="]" line="8" column="144" />
-        <mark key="^" line="8" column="144" />
-        <mark key="." line="8" column="144" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/MessageAdditionalInfoServiceTest.cs" timestamp="1549383226963">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceTransmission.cs" timestamp="1549369493645">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="41" />
-        <mark key="." line="16" column="41" />
-        <mark key="^" line="16" column="41" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoConfigService.cs" timestamp="1549380699214">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="38" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionAdditionalInfoConfigRepository.cs" timestamp="1549369774125">
-        <mark key="[" line="8" column="136" />
-        <mark key="]" line="8" column="147" />
-        <mark key="." line="8" column="147" />
-        <mark key="^" line="8" column="147" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ReceiverServiceComponentTest.cs" timestamp="1549383637736">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="51" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1549383170027">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1549377978745">
         <mark key="[" line="93" column="104" />
@@ -122,6 +111,97 @@
         <mark key="." line="8" column="141" />
         <mark key="^" line="8" column="141" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoService.cs" timestamp="1549384166386">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="62" column="57" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceTransmissionAdditionalInfo.cs" timestamp="1549369477706">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IMessageAdditionalInfoService.cs" timestamp="1549383102376">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/ConfTransmissionAdditionalInfoRepository.cs" timestamp="1549380808411">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceTransmissionAdditionalInfoConfig.cs" timestamp="1549369416956">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAdditionalInfoConfigService.cs" timestamp="1549380741811">
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="31" column="60" />
+        <mark key="." line="31" column="60" />
+        <mark key="^" line="31" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1549385093716">
+        <mark key="[" line="27" column="55" />
+        <mark key="]" line="27" column="67" />
+        <mark key="." line="27" column="67" />
+        <mark key="^" line="27" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLInterfaceRepository.cs" timestamp="1549384792631">
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionMap.cs" timestamp="1549367482015">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceMessageMessageAdditionalInfoConfigRepository.cs" timestamp="1549369780411">
+        <mark key="[" line="8" column="138" />
+        <mark key="]" line="8" column="144" />
+        <mark key="^" line="8" column="144" />
+        <mark key="." line="8" column="144" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/ConfMessageAdditionalInfoRepository.cs" timestamp="1549380777950">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IConfTransmissionAdditionalInfoRepository.cs" timestamp="1549380819923">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="63" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceTransmission.cs" timestamp="1549369493645">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionAdditionalInfoConfigRepository.cs" timestamp="1549369774125">
+        <mark key="[" line="8" column="136" />
+        <mark key="]" line="8" column="147" />
+        <mark key="." line="8" column="147" />
+        <mark key="^" line="8" column="147" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLTransmissionRepository.cs" timestamp="1549382503647">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAdditionalInfoService.cs" timestamp="1549384859812">
+        <mark key="[" line="52" column="82" />
+        <mark key="]" line="52" column="92" />
+        <mark key="." line="52" column="92" />
+        <mark key="^" line="52" column="92" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionAdditionalInfoConfigMap.cs" />
@@ -137,60 +217,70 @@
       <jump line="113" column="44" filename="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping.Tests/IFace.DataMapping.Tests/ComponentTests/IfaceMessageRepositoryTest.cs" />
       <jump line="123" column="47" filename="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping.Tests/IFace.DataMapping.Tests/ComponentTests/IfaceMessageRepositoryTest.cs" />
       <jump line="142" column="104" filename="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping.Tests/IFace.DataMapping.Tests/ComponentTests/IfaceMessageRepositoryTest.cs" />
+      <jump line="86" column="50" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/MessageAdditionalInfoServiceTest.cs" />
+      <jump line="54" column="54" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ReceiverServiceComponentTest.cs" />
+      <jump line="31" column="54" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ReceiverServiceComponentTest.cs" />
+      <jump line="46" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ReceiverServiceComponentTest.cs" />
+      <jump line="44" column="51" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ReceiverServiceComponentTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSVRyYUFkSQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3IERpY3Rpb25hcnk8bG9uZywgTWVzc2FnZURUTz4o</text>
       </register>
       <register name="-" type="4">
-        <text>_V2</text>
+        <text encoding="base64">bmV3IERpY3Rpb25hcnk8bG9uZywgTWVzc2FnZURUTz4o</text>
       </register>
       <register name="/" type="4">
-        <text>AdditionalInfo</text>
+        <text encoding="base64">XDx0cmFuc21pc3Npb25Db25maWdSZXBvc2l0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5IaWJlcm5hdGVVdGlsLkluaXRpYWxpemUoZm91bmRUcmFuc21pc3Npb24uVHJhbnNtaXNzaW9uU3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5iMk1NTFRyYW5zbWlzc2lvblJlcG9zaXRvcnkgPSBiMk1NTFRyYW5zbWlzc2lvblJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSVRyYUFkSQo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgR2l2ZW5EYXRhCg==</text>
+        <text encoding="base64">ICAgIElEaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5IaWJlcm5hdGVVdGlsLkluaXRpYWxpemUoZm91bmRUcmFuc21pc3Npb24uQWRkaXRpb25hbEluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICBiMk1NTEludGVyZmFjZVJlcG9zaXRvcnkuRgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5IaWJlcm5hdGVVdGlsLkluaXRpYWxpemUoZm91bmRUcmFuc21pc3Npb24uQWRkaXRpb25hbEluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZS5CMk1NTENvbnRlbnRTdHJpbmcgPT0gbnVsbCB8fCBtZXNzYWdlLkNvbXBvbmVudElkID09IG51bGwpCiAgICAgICAgewogICAgICAgICAgY29udGludWU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvdW5kVHJhbnNtaXNzaW9uID0+IE5IaWJlcm5hdGVVdGlsLkluaXRpYWxpemUoZm91bmRUcmFuc21pc3Npb24uQWRkaXRpb25hbEluZm8pKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm91bmRNZXNzYWdlLlRyYW5zbWlzc2lvbnMuRm9yRWFjaCgK</text>
+        <text encoding="base64">ICAgICAgaW50IHByb2Nlc3NlZENvdW50ID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICwgdHJhbnNtaXNzaW9uMVdpdGhBZGRpdGlvbmFsSW5mbywK</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyBjbGVhciBhZGRpdGlvbmFsIGluZm8gZm9yIHRyYW5zbWlzc2lvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2aXJ0dWFsIAo=</text>
+        <text encoding="base64">Ly91c2luZyBLcm9uZXMuTWlhLkludGVyZmFjZS5Db21tb24uQjJNTUw7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AdditionalInfo</last-search>
+      <last-search encoding="base64">XDx0cmFuc21pc3Npb25Db25maWdSZXBvc2l0b3J5XD4=</last-search>
       <last-offset />
-      <last-pattern>AdditionalInfo</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc21pc3Npb25Db25maWdSZXBvc2l0b3J5XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>AdditionalInfo</entry>
+        <entry encoding="base64">XDx0cmFuc21pc3Npb25Db25maWdSZXBvc2l0b3J5XD4=</entry>
       </history-search>
       <history-cmd>
+        <entry>-w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -199,6 +289,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
