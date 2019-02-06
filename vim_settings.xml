@@ -9,30 +9,54 @@
         <mark key="^" line="39" column="12" />
         <mark key="." line="35" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/InterfaceMonitorMenu.js" timestamp="1549468633016">
+        <mark key="[" line="3" column="70" />
+        <mark key="]" line="3" column="70" />
+        <mark key="^" line="3" column="69" />
+        <mark key="." line="3" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/test/InterfaceMonitorMenu.spec.js" timestamp="1549468699536">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="70" />
+        <mark key="^" line="2" column="70" />
+        <mark key="." line="2" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/mapStateToComponentIdDropdownProps.js" timestamp="1549458048860">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="93" />
         <mark key="." line="5" column="93" />
         <mark key="^" line="5" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/ComponentIdDropdown.js" timestamp="1549468923307">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/InterfaceMonitorComponentIdDropdown.js" timestamp="1549468910245" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/index.js" timestamp="1549468427420">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/createStateToComponentIdDropdownPropsMapper.js" timestamp="1549467373360">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" timestamp="1549467578579">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="76" />
-        <mark key="]" line="0" column="99" />
-        <mark key="." line="0" column="99" />
-        <mark key="^" line="0" column="99" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" timestamp="1549468503510">
+        <mark key="[" line="1" column="75" />
+        <mark key="]" line="1" column="99" />
+        <mark key="." line="1" column="99" />
+        <mark key="^" line="1" column="99" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/NotificationsComponentIdDropdown.js" timestamp="1549458187926">
-        <mark key="'" line="17" column="40" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/NotificationsComponentIdDropdown.js" timestamp="1549468481324">
+        <mark key="'" line="6" column="40" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="98" />
-        <mark key="." line="17" column="87" />
-        <mark key="^" line="17" column="87" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/mapStateToComponentIdDropdownProps.js" timestamp="1549458131290">
         <mark key="[" line="1" column="0" />
@@ -46,40 +70,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>otificationsSelectors</text>
+        <text>ComponentIdDropdown</text>
       </register>
       <register name="-" type="4">
-        <text>otificationsSelectors</text>
+        <text>ComponentIdDropdown</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHByb3BzCgogICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBwcm9wcyA9IG1hcFN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMoc3RhdGUpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbXBvbmVudElkRHJvcGRvd24sIHsgY3JlYXRlU3RhdGVUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wc01hcHBlciB9IGZyb20gJy4uL01lbnUvQ29tcG9uZW50SWREcm9wZG93bicKaW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbm90aWZpY2F0aW9uc1NlbGVjdG9ycycKaW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JwppbXBvcnQgbWFwRGlzcGF0Y2hUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wcyBmcm9tICcuL21hcERpc3BhdGNoVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMnCgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KAogIGNyZWF0ZVN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHNNYXBwZXIoZ2V0U2VsZWN0ZWRTZW5kZXIsIGdldFNlbGVjdGVkQ29tcG9uZW50SWQpLAogIG1hcERpc3BhdGNoVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMKKShDb21wb25lbnRJZERyb3Bkb3duKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRTZWxlY3RlZFNlbmRlckVudHJ5KQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvaW50ZXJmYWNlTW9uaXRvclNlbGVjdG9ycycKaW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JwppbXBvcnQgY3JlYXRlU3RhdGVUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wc01hcHBlcgogIGZyb20gJy4uL01lbnUvQ29tcG9uZW50SWREcm9wZG93bi9jcmVhdGVTdGF0ZVRvQ29tcG9uZW50SWREcm9wZG93blByb3BzTWFwcGVyJwppbXBvcnQgRHJvcGRvd25UcmFuc2xhdGVkIGZyb20gJy4uL1VJQ29udHJvbHMvRHJvcGRvd25UcmFuc2xhdGVkJwppbXBvcnQgbWFwRGlzcGF0Y2hUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wcyBmcm9tICcuL21hcERpc3BhdGNoVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMnCmltcG9ydCB0ZXh0S2V5cyBmcm9tICcuLi8uLi90ZXh0cy90ZXh0S2V5cycKaW1wb3J0IHdpdGhGaXhlZFByb3BzIGZyb20gJy4uLy4uLy4uLy4uLy4uL2NvbW1vbi9qcy91dGlsL3dpdGhGaXhlZFByb3BzJwoKY29uc3QgRHJvcGRvd25UcmFuc2xhdGVkV2l0aEZpeGVkQ29tcG9uZW50SWRzVGl0bGVLZXkgPSB3aXRoRml4ZWRQcm9wcygKICBEcm9wZG93blRyYW5zbGF0ZWQsCiAgewogICAgdGl0bGVLZXk6IHRleHRLZXlzLm1lbnUuY29tcG9uZW50SWRzCiAgfQopCgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KAogIGNyZWF0ZVN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHNNYXBwZXIoZ2V0U2VsZWN0ZWRTZW5kZXIsIGdldFNlbGVjdGVkQ29tcG9uZW50SWQpLAogIG1hcERpc3BhdGNoVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMKKShEcm9wZG93blRyYW5zbGF0ZWRXaXRoRml4ZWRDb21wb25lbnRJZHNUaXRsZUtleSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbXBvbmVudElkRHJvcGRvd24sIHsgY3JlYXRlU3RhdGVUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wc01hcHBlciB9IGZyb20gJy4uL01lbnUvQ29tcG9uZW50SWREcm9wZG93bicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">aW1wb3J0IENvbXBvbmVudElkRHJvcGRvd24sIHsgY3JlYXRlU3RhdGVUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wc01hcHBlciB9IGZyb20gJy4uL01lbnUvQ29tcG9uZW50SWREcm9wZG93bicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IERyb3Bkb3duVHJhbnNsYXRlZCBmcm9tICcuLi9VSUNvbnRyb2xzL0Ryb3Bkb3duVHJhbnNsYXRlZCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRleHRLZXlzIGZyb20gJy4uLy4uL3RleHRzL3RleHRLZXlzJwppbXBvcnQgd2l0aEZpeGVkUHJvcHMgZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL3V0aWwvd2l0aEZpeGVkUHJvcHMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CmNvbnN0IERyb3Bkb3duVHJhbnNsYXRlZFdpdGhGaXhlZENvbXBvbmVudElkc1RpdGxlS2V5ID0gd2l0aEZpeGVkUHJvcHMoCiAgRHJvcGRvd25UcmFuc2xhdGVkLAogIHsKICAgIHRpdGxlS2V5OiB0ZXh0S2V5cy5tZW51LmNvbXBvbmVudElkcwogIH0KKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbXBvbmVudElkRHJvcGRvd24gZnJvbSAnLi9Db21wb25lbnRJZERyb3Bkb3duJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ZXhwb3J0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvaW50ZXJmYWNlTW9uaXRvclNlbGVjdG9ycycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
