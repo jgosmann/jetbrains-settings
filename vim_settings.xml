@@ -159,7 +159,8 @@
         <mark key="^" line="0" column="113" />
         <mark key="." line="0" column="113" />
       </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" timestamp="1549465503551">
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" timestamp="1549466197268">
+        <mark key="'" line="38" column="93" />
         <mark key="[" line="34" column="37" />
         <mark key="]" line="34" column="41" />
         <mark key="^" line="34" column="41" />
@@ -217,6 +218,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/WapController.cs" />
       <jump line="611" column="22" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/WapController.cs" />
       <jump line="617" column="22" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/WapController.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" />
+      <jump line="127" column="24" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" />
+      <jump line="139" column="129" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" />
+      <jump line="211" column="43" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" />
+      <jump line="38" column="93" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -227,7 +233,7 @@ origin/release/10_4_1</text>
         <text>8088</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXZWJBcHBcPg==</text>
+        <text>Json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGRlcGVuZGVudEFzc2VtYmx5PgogICAgICAgIDxhc3NlbWJseUlkZW50aXR5IG5hbWU9IkF1dG9mYWMiIHB1YmxpY0tleVRva2VuPSIxNzg2M2FmMTRiMDA0NGRhIiBjdWx0dXJlPSJuZXV0cmFsIiAvPgogICAgICAgIDxiaW5kaW5nUmVkaXJlY3Qgb2xkVmVyc2lvbj0iMC4wLjAuMC0zLjUuMC4wIiBuZXdWZXJzaW9uPSIzLjUuMC4wIiAvPgogICAgICA8L2RlcGVuZGVudEFzc2VtYmx5Pgo=</text>
@@ -265,9 +271,9 @@ origin/release/10_4_1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXZWJBcHBcPg==</last-search>
+      <last-search>Json</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXZWJBcHBcPg==</last-pattern>
+      <last-pattern>Json</last-pattern>
       <last-replace>transmission</last-replace>
       <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
@@ -281,6 +287,8 @@ origin/release/10_4_1</text>
         <entry>Owin</entry>
         <entry>WebApp</entry>
         <entry encoding="base64">XDxXZWJBcHBcPg==</entry>
+        <entry>json</entry>
+        <entry>Json</entry>
       </history-search>
       <history-cmd>
         <entry>-w</entry>
