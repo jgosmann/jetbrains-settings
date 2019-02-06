@@ -81,21 +81,11 @@
         <mark key="." line="45" column="72" />
         <mark key="^" line="45" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoService.cs" timestamp="1549384166386">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="62" column="57" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Persistence/Mia.Interface.Persistence.Orm/Mapper/IDataMapper.cs" timestamp="1549386527245">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="44" />
         <mark key="." line="17" column="44" />
         <mark key="^" line="17" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IMessageAdditionalInfoService.cs" timestamp="1549383102376">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/ConfTransmissionAdditionalInfoRepository.cs" timestamp="1549380808411">
         <mark key="[" line="18" column="23" />
@@ -121,23 +111,11 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web.Tests/AdditionalInfo/AdditionalInfoRebuilderServiceTest.cs" timestamp="1549441896295">
-        <mark key="'" line="41" column="6" />
-        <mark key="[" line="20" column="109" />
-        <mark key="]" line="20" column="150" />
-        <mark key="^" line="20" column="150" />
-        <mark key="." line="20" column="150" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/AdditionalInfo/AdditionalInfoRebuilderService.cs" timestamp="1549441978654">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="113" />
-        <mark key="^" line="38" column="113" />
-        <mark key="." line="38" column="113" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IConfTransmissionAdditionalInfoRepository.cs" timestamp="1549380819923">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="63" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="113" />
+        <mark key="^" line="0" column="113" />
+        <mark key="." line="0" column="113" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLTransmissionRepository.cs" timestamp="1549386485583">
         <mark key="[" line="9" column="55" />
