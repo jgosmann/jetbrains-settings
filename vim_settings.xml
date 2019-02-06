@@ -15,17 +15,17 @@
         <mark key="." line="5" column="93" />
         <mark key="^" line="5" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/createStateToComponentIdDropdownPropsMapper.js" timestamp="1549460046159">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/createStateToComponentIdDropdownPropsMapper.js" timestamp="1549467373360">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" timestamp="1549460118798">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" timestamp="1549467578579">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="98" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="76" />
+        <mark key="]" line="0" column="99" />
+        <mark key="." line="0" column="99" />
+        <mark key="^" line="0" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/NotificationsComponentIdDropdown.js" timestamp="1549458187926">
         <mark key="'" line="17" column="40" />
@@ -46,40 +46,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>otificationsSelectors</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>otificationsSelectors</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGV0IHByb3BzCgogICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBwcm9wcyA9IG1hcFN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMoc3RhdGUpCiAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZXRTZWxlY3RlZFNlbmRlckVudHJ5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHByb3BzCgogICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBwcm9wcyA9IG1hcFN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMoc3RhdGUpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IG1hcFN0YWV0VG9Db21wb25lbmludElkRHJvcGRvd25Qcm9wcwo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
