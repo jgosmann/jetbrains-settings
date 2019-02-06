@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/MaterialHandheld/Feature/MaterialHandheldFeature.cs" timestamp="1549461914424">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="38" />
+        <mark key="." line="34" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/ITransmissionAdditionalInfoRepository.cs" timestamp="1549440423850">
         <mark key="[" line="4" column="75" />
         <mark key="]" line="4" column="86" />
@@ -177,10 +182,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Krones1itk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Krones1itk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
