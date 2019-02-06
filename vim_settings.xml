@@ -2,28 +2,75 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/mapStateToComponentIdDropdownProps.js" timestamp="1549458048860">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="93" />
+        <mark key="." line="5" column="93" />
+        <mark key="^" line="5" column="93" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" timestamp="1549458190654">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="98" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/NotificationsComponentIdDropdown.js" timestamp="1549458187926">
+        <mark key="'" line="17" column="40" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="98" />
+        <mark key="." line="17" column="87" />
+        <mark key="^" line="17" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/mapStateToComponentIdDropdownProps.js" timestamp="1549458131290">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="98" />
+      </file>
+    </filemarks>
     <jumps>
       <jump line="21" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/getColumnsForGrid.js" />
+      <jump line="17" column="40" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/NotificationsComponentIdDropdown.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbm90aWZpY2F0aW9uc1NlbGVjdG9ycycK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbm90aWZpY2F0aW9uc1NlbGVjdG9ycycK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG1hcFN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMgZnJvbSAnLi9tYXBTdGF0ZVRvQ29tcG9uZW50SWREcm9wZG93blByb3BzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCiAqLwo=</text>
+        <text encoding="base64">ICBtYXBTdGF0ZVRvQ29tcG9uZW50SWREcm9wZG93blByb3BzLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG1hcFN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMgZnJvbSAnLi9tYXBTdGF0ZVRvQ29tcG9uZW50SWREcm9wZG93blByb3BzJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgZ2V0U2VsZWN0ZWRTZW5kZXJFbnRyeSA9IGNyZWF0ZVNlbGVjdG9yKFtnZXRTZWxlY3RlZFNlbmRlciwgZ2V0U2VuZGVyc10sIGdldFNlbmRlckZyb21TZW5kZXJOYW1lKQpjb25zdCBnZXRDb21wb25lbnRJZHNPZlNlbGVjdGVkU2VuZGVyID0gY3JlYXRlU2VsZWN0b3IoW2dldFNlbGVjdGVkU2VuZGVyRW50cnldLCBnZXRDb21wb25lbnRJZHNPZlNlbmRlcikKCmNvbnN0IG1hcFN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMgPSBjcmVhdGVTdHJ1Y3R1cmVkU2VsZWN0b3IoewogIGRhdGE6IGdldENvbXBvbmVudElkc09mU2VsZWN0ZWRTZW5kZXIsCiAgdmFsdWU6IGdldFNlbGVjdGVkQ29tcG9uZW50SWQKfSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbm90aWZpY2F0aW9uc1NlbGVjdG9ycycK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICogCiAqLwo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICogQHBhcmFtIGNvbHVtbgogKiBAcmV0dXJuIHtzdHJpbmd9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -41,6 +88,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
