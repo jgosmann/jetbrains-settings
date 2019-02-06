@@ -127,6 +127,12 @@
         <mark key="^" line="0" column="113" />
         <mark key="." line="0" column="113" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Core/Host/App.config" timestamp="1549459421007">
+        <mark key="[" line="90" column="130" />
+        <mark key="]" line="90" column="130" />
+        <mark key="^" line="94" column="130" />
+        <mark key="." line="90" column="132" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLTransmissionRepository.cs" timestamp="1549386485583">
         <mark key="[" line="9" column="55" />
         <mark key="]" line="9" column="58" />
@@ -170,11 +176,11 @@
       <jump line="60" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web.Tests/AdditionalInfo/AdditionalInfoRebuilderServiceTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgbG9nNG5ldC5SZXBvc2l0b3J5LkhpZXJhcmNoeTsK</text>
+      <register name="&quot;" type="4">
+        <text>Krones1itk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Krones1itk</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
