@@ -62,9 +62,6 @@
         <mark key="." line="15" column="72" />
         <mark key="^" line="15" column="72" />
       </file>
-      <file name="/Dummy.cs" timestamp="1549526878442">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/TransmissionAdditionalInfoRepository.cs" timestamp="1549440695968">
         <mark key="'" line="42" column="34" />
         <mark key="[" line="42" column="23" />
@@ -130,11 +127,11 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/TransmissionConverter.cs" timestamp="1549530602393">
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/TransmissionConverter.cs" timestamp="1549539793567">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="11" column="64" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IMessageAdditionalInfoService.cs" timestamp="1549383102376">
         <mark key="[" line="10" column="0" />
@@ -247,6 +244,18 @@
         <mark key="." line="33" column="62" />
         <mark key="^" line="33" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/TransmissionWithMessageConverter.cs" timestamp="1549539429027">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/BaseTransmissionConverter.cs" timestamp="1549539781160">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionAdditionalInfoConfigMap.cs" />
@@ -291,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuRHRvLkVudW07Cg==</text>
+        <text encoding="base64">ICAgICAgdHJnLklEID0gc3JjLklEOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>Json</text>
@@ -303,31 +312,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBJRW51bWVyYWJsZTxUcmFuc21pc3Npb25EVE8+IEZpbmRSYW5nZShpbnQgZmlyc3QsIGludCBtYXhDb3VudCkKICAgIHsKICAgICAgcmV0dXJuIENvbnZlcnRlci5NYXAoRGF0YU1hcHBlci5GaW5kUmFuZ2UoZmlyc3QsIG1heENvdW50KSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuRHRvLkVudW07Cg==</text>
+        <text encoding="base64">ICAgICAgdHJnLklEID0gc3JjLklEOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIElFbnVtZXJhYmxlPFRyYW5zbWlzc2lvbkRUTz4gRmluZFRyYW5zbWlzc2lvbnNCeVN0YXRlKFRyYW5zbWlzc2lvblN0YXRlIHN0YXRlKTsKICAgIElFbnVtZXJhYmxlPFRyYW5zbWlzc2lvbkRUTz4gRmluZEFsbEJ5QjJNTUxJbnRlcmZhY2VJZChsb25nIGIyTU1MSW50ZXJmYWNlSWQpOwogICAgSUVudW1lcmFibGU8VHJhbnNtaXNzaW9uRFRPPiBGaW5kQWxsQnlCMk1NTEludGVyZmFjZUlkKExpc3Q8bG9uZz4gYjJNTUxJbnRlcmZhY2VJZHMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgSURhdGFNYXBwZXI8VHJhbnNtaXNzaW9uQWRkaXRpb25hbEluZm9Db25maWc+IGNvbmZpZ0RhdGFNYXBwZXI7CgogICAgcHVibGljIFRyYW5zbWlzc2lvbkNvbnZlcnRlcihJRGF0YU1hcHBlcjxUcmFuc21pc3Npb25BZGRpdGlvbmFsSW5mb0NvbmZpZz4gY29uZmlnRGF0YU1hcHBlcikKICAgIHsKICAgICAgdGhpcy5jb25maWdEYXRhTWFwcGVyID0gY29uZmlnRGF0YU1hcHBlcjsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIG92ZXJyaWRlIHN0cmluZyBUb1N0cmluZygpCiAgICB7CiAgICAgIHJldHVybiAkIkIyTU1MVHJhbnNtaXNzaW9uRFRPfElEID0ge0lEfXxCMk1NTEludGVyZmFjZUlkID0ge01lc3NhZ2VJZH18U2VuZGVyID0ge1NlbmRlcn18U3RhdGUgPSB7U3RhdGV9IjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdHJnLk1lc3NhZ2VJZCA9IHNyYy5NZXNzYWdlSWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLlhtbDsKdXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuRHRvLkJhc2U7CnVzaW5nIEtyb25lcy5NaWEuSW50ZXJmYWNlLkR0by5FbnVtOwp1c2luZyBLcm9uZXMuTWlhLkludGVyZmFjZS5SZXBvc2l0b3J5OwoK</text>
+        <text encoding="base64">ICAgICAgdHJnLk1lc3NhZ2VJZCA9IHNyYy5NZXNzYWdlSWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgU2VuZGVyIHsgZ2V0OyBzZXQ7IH0KICAgIHB1YmxpYyBUcmFuc21pc3Npb25TdGF0ZSBTdGF0ZSB7IGdldDsgc2V0OyB9CiAgICBwdWJsaWMgc3RyaW5nIFN0cmluZ0Fja25vd2xlZGdlIHsgZ2V0OyBzZXQ7IH0KICAgIHB1YmxpYyBzdHJpbmcgU3RyaW5nT3JpZ2luYWxBY2tub3dsZWRnZSB7IGdldDsgc2V0OyB9CiAgICBwdWJsaWMgc3RyaW5nIFhzbHRUcmFuc2Zvcm1lZFN0cmluZ0NvbnRlbnQgeyBnZXQ7IHNldDsgfQogICAgcHVibGljIElDb2xsZWN0aW9uPFRyYW5zbWlzc2lvbkFkZGl0aW9uYWxJbmZvRFRPPiBBZGRpdGlvbmFsSW5mb3MgeyBnZXQ7IHNldDsgfSA9IG5ldyBMaXN0PFRyYW5zbWlzc2lvbkFkZGl0aW9uYWxJbmZvRFRPPigpOwoKICAgIHB1YmxpYyB2aXJ0dWFsIFhtbERvY3VtZW50IEIyTU1MQWNrbm93bGVkZ2UKICAgIHsKICAgICAgZ2V0CiAgICAgIHsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICB2YXIgYjJNTUwgPSBuZXcgWG1sRG9jdW1lbnQoKTsKICAgICAgICAgIGIyTU1MLkxvYWRYbWwoU3RyaW5nQWNrbm93bGVkZ2UpOwogICAgICAgICAgcmV0dXJuIGIyTU1MOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoRXhjZXB0aW9uKQogICAgICAgIHsKICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgfQogICAgICBzZXQgeyBTdHJpbmdBY2tub3dsZWRnZSA9IHZhbHVlPy5Jbm5lclhtbDsgfQogICAgfQoKCiAgICBwdWJsaWMgdmlydHVhbCBYbWxEb2N1bWVudCBYbWxPcmlnaW5hbEFja25vd2xlZGdlCiAgICB7CiAgICAgIGdldAogICAgICB7CiAgICAgICAgdHJ5CiAgICAgICAgewogICAgICAgICAgdmFyIGIyTU1MID0gbmV3IFhtbERvY3VtZW50KCk7CiAgICAgICAgICBiMk1NTC5Mb2FkWG1sKFN0cmluZ09yaWdpbmFsQWNrbm93bGVkZ2UpOwogICAgICAgICAgcmV0dXJuIGIyTU1MOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoRXhjZXB0aW9uKQogICAgICAgIHsKICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgfQogICAgICBzZXQgeyBTdHJpbmdPcmlnaW5hbEFja25vd2xlZGdlID0gdmFsdWU/LklubmVyWG1sOyB9CiAgICB9CgogICAgcHVibGljIHZpcnR1YWwgWG1sRG9jdW1lbnQgWHNsdFRyYW5zZm9ybWVkQ29udGVudAogICAgewogICAgICBnZXQKICAgICAgewogICAgICAgIHRyeQogICAgICAgIHsKICAgICAgICAgIHZhciBiMk1NTCA9IG5ldyBYbWxEb2N1bWVudCgpOwogICAgICAgICAgYjJNTUwuTG9hZFhtbChYc2x0VHJhbnNmb3JtZWRTdHJpbmdDb250ZW50KTsKICAgICAgICAgIHJldHVybiBiMk1NTDsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbikKICAgICAgICB7CiAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgIH0KICAgICAgc2V0IHsgWHNsdFRyYW5zZm9ybWVkU3RyaW5nQ29udGVudCA9IHZhbHVlPy5Jbm5lclhtbDsgfQogICAgfQoKICAgIHB1YmxpYyBEYXRlVGltZT8gQ3JlYXRlVGltZSB7IGdldDsgc2V0OyB9CiAgICBwdWJsaWMgc3RyaW5nIENyZWF0ZVVzZXIgeyBnZXQ7IHNldDsgfQogICAgcHVibGljIERhdGVUaW1lPyBMYXN0Q2hhbmdlVGltZSB7IGdldDsgc2V0OyB9CiAgICBwdWJsaWMgc3RyaW5nIExhc3RDaGFuZ2VVc2VyIHsgZ2V0OyBzZXQ7IH0KCiAgICAjcmVnaW9uIENvbXB1dGVkIFByb3BlcnRpZXMKCiAgICBwdWJsaWMgYm9vbCBJc0NvbXBsZXRlZFN1Y2Vzc2Z1bGx5CiAgICB7CiAgICAgIGdldCB7IHJldHVybiBTdGF0ZSA9PSBUcmFuc21pc3Npb25TdGF0ZS5Db21wbGV0ZWRTdWNjZXNzZnVsbHk7IH0KICAgIH0KCiAgICBwdWJsaWMgYm9vbCBJc0NvbXBsZXRlZFdpdGhFcnJvcnMKICAgIHsKICAgICAgZ2V0IHsgcmV0dXJuIFN0YXRlID09IFRyYW5zbWlzc2lvblN0YXRlLkNvbXBsZXRlZFdpdGhFcnJvcnM7IH0KICAgIH0KCgogICAgcHVibGljIG92ZXJyaWRlIHN0cmluZyBUb1N0cmluZygpCiAgICB7CiAgICAgIHJldHVybiAkIkIyTU1MVHJhbnNtaXNzaW9uRFRPfElEID0ge0lEfXxCMk1NTEludGVyZmFjZUlkID0ge01lc3NhZ2VJZH18U2VuZGVyID0ge1NlbmRlcn18U3RhdGUgPSB7U3RhdGV9IjsKICAgIH0KCiAgICAjZW5kcmVnaW9uCg==</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuRHRvLkVudW07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIElEIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgIElFbnVtZXJhYmxlPFRyYW5zbWlzc2lvbkRUTz4gRmluZFRyYW5zbWlzc2lvbnNCeVN0YXRlKFRyYW5zbWlzc2lvblN0YXRlIHN0YXRlKTsKICAgIElFbnVtZXJhYmxlPFRyYW5zbWlzc2lvbkRUTz4gRmluZEFsbEJ5QjJNTUxJbnRlcmZhY2VJZChsb25nIGIyTU1MSW50ZXJmYWNlSWQpOwogICAgSUVudW1lcmFibGU8VHJhbnNtaXNzaW9uRFRPPiBGaW5kQWxsQnlCMk1NTEludGVyZmFjZUlkKExpc3Q8bG9uZz4gYjJNTUxJbnRlcmZhY2VJZHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIE1lc3NhZ2VJZCB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgogICAgcHVibGljIG92ZXJyaWRlIHN0cmluZyBUb1N0cmluZygpCiAgICB7CiAgICAgIHJldHVybiAkIkIyTU1MVHJhbnNtaXNzaW9uRFRPfElEID0ge0lEfXxCMk1NTEludGVyZmFjZUlkID0ge01lc3NhZ2VJZH18U2VuZGVyID0ge1NlbmRlcn18U3RhdGUgPSB7U3RhdGV9IjsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
