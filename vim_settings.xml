@@ -44,7 +44,7 @@
         <mark key="." line="15" column="72" />
         <mark key="^" line="15" column="72" />
       </file>
-      <file name="/Dummy.cs" timestamp="1549470446863">
+      <file name="/Dummy.cs" timestamp="1549526878442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/TransmissionAdditionalInfoRepository.cs" timestamp="1549440695968">
@@ -66,10 +66,11 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/MessageAdditionalInfoServiceTest.cs" timestamp="1549439263821">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="105" column="5" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/MessageAdditionalInfoServiceTest.cs" timestamp="1549526622185">
+        <mark key="[" line="50" column="105" />
+        <mark key="]" line="50" column="110" />
+        <mark key="." line="50" column="110" />
+        <mark key="^" line="50" column="110" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ReceiverServiceComponentTest.cs" timestamp="1549383637736">
         <mark key="[" line="44" column="0" />
@@ -77,11 +78,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="51" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1549386345106">
-        <mark key="[" line="103" column="91" />
-        <mark key="]" line="103" column="135" />
-        <mark key="." line="103" column="135" />
-        <mark key="^" line="103" column="135" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1549527371915">
+        <mark key="[" line="107" column="143" />
+        <mark key="]" line="108" column="13" />
+        <mark key="." line="108" column="99" />
+        <mark key="^" line="108" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Persistence/Hibernate/Mia.Persistence.Hibernate/Mapper/HibernateDataMapper.cs" timestamp="1549386556872">
         <mark key="[" line="45" column="69" />
@@ -129,11 +130,11 @@
         <mark key="." line="31" column="60" />
         <mark key="^" line="31" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1549386501520">
-        <mark key="[" line="30" column="57" />
-        <mark key="]" line="30" column="60" />
-        <mark key="." line="30" column="60" />
-        <mark key="^" line="30" column="60" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1549528726430">
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+        <mark key="^" line="27" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLInterfaceRepository.cs" timestamp="1549386451487">
         <mark key="[" line="10" column="50" />
@@ -153,7 +154,7 @@
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/AdditionalInfo/AdditionalInfoRebuilderService.cs" timestamp="1549441978654">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/AdditionalInfo/AdditionalInfoRebuilderService.cs" timestamp="1549527047821">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="113" />
         <mark key="^" line="0" column="113" />
@@ -177,12 +178,12 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAdditionalInfoService.cs" timestamp="1549441053104">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="36" column="42" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAdditionalInfoService.cs" timestamp="1549527219764">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="32" column="69" />
+        <mark key="]" line="33" column="62" />
+        <mark key="." line="33" column="62" />
+        <mark key="^" line="33" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -226,11 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-3-report-for-develop
-origin/release/10_4_1</text>
+        <text>ids</text>
       </register>
       <register name="-" type="4">
-        <text>8088</text>
+        <text>ids</text>
       </register>
       <register name="/" type="4">
         <text>Json</text>
