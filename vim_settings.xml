@@ -122,10 +122,6 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IIfaceMessageRepository.cs" timestamp="1549554431861">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="54" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/Transmission.hbm.xml" timestamp="1549547577012">
         <mark key="[" line="19" column="74" />
         <mark key="]" line="19" column="100" />
@@ -227,6 +223,9 @@
         <mark key="." line="8" column="109" />
         <mark key="^" line="8" column="109" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" timestamp="1549635024628">
+        <mark key="'" line="248" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Interface/IInterfaceMonitoring2XmlApiService.cs" timestamp="1549615031244">
         <mark key="^" line="9" column="49" />
       </file>
@@ -281,10 +280,6 @@
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceMessageRepository.cs" timestamp="1549554690789">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="75" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/TransmissionDTO.cs" timestamp="1549536228216">
         <mark key="[" line="5" column="0" />
@@ -389,6 +384,17 @@
       <jump line="173" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/TransmissionAcknowledgeServiceTest.cs" />
       <jump line="81" column="48" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
       <jump line="105" column="42" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
+      <jump line="24" column="15" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="120" column="16" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="165" column="28" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="190" column="16" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="228" column="28" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="241" column="0" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="498" column="8" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="124" column="60" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="195" column="20" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="246" column="20" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="248" column="28" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -398,7 +404,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>TransmissionAck</text>
+        <text>x.FindMessages</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbWVzc2FnZUFkZGl0aW9uYWxJbmZvQ29uZmlnRGF0YU1hcHBlck1vY2suU2V0dXAobSA9PiBtLkxvYWQoZ2l2ZW5Db25maWdJZCkpLlJldHVybnMobmV3IE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZwogICAgICB7CiAgICAgICAgICAgICAgSUQgPSBnaXZlbkNvbmZpZ0lkLAogICAgICB9KTsK</text>
@@ -435,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TransmissionAck</last-search>
+      <last-search>x.FindMessages</last-search>
       <last-offset />
-      <last-pattern>TransmissionAck</last-pattern>
+      <last-pattern>x.FindMessages</last-pattern>
       <last-replace>GetTransmissionXml</last-replace>
       <last-substitute>GetMessageXml</last-substitute>
       <last-dir>1</last-dir>
@@ -462,6 +468,8 @@
         <entry>Additional</entry>
         <entry encoding="base64">XDxtZXNzYWdlQWRkaXRpb25hbEluZm9Db25maWdEYXRhTWFwcGVyTW9ja1w+</entry>
         <entry>TransmissionAck</entry>
+        <entry>FindMessages</entry>
+        <entry>x.FindMessages</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21lc3NhZ2UvdHJhbnNtaXNzaW9u</entry>
