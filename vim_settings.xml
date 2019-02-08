@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/Configuration/WAP.log4net" timestamp="1549636295867">
+        <mark key="[" line="74" column="11" />
+        <mark key="]" line="74" column="11" />
+        <mark key="^" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/TransmissionAdditionalInfoConfigServiceTest.cs" timestamp="1549381023264">
         <mark key="[" line="39" column="59" />
         <mark key="]" line="39" column="59" />
@@ -104,11 +110,10 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/TransmissionAcknowledgeServiceTest.cs" timestamp="1549633576838">
         <mark key="'" line="173" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" timestamp="1549621868984">
-        <mark key="[" line="143" column="39" />
-        <mark key="]" line="144" column="23" />
-        <mark key="^" line="144" column="23" />
-        <mark key="." line="144" column="23" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" timestamp="1549635461720">
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageAdditionalInfoService.cs" timestamp="1549549916216">
         <mark key="[" line="50" column="12" />
@@ -154,6 +159,12 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Services/SpcCommon/ServiceBase/WapServiceBase.cs" timestamp="1549615490588">
         <mark key="'" line="59" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceTransmissionMap.cs" timestamp="1549636037950">
+        <mark key="[" line="22" column="91" />
+        <mark key="]" line="22" column="103" />
+        <mark key="^" line="22" column="103" />
+        <mark key="." line="22" column="103" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IConfTransmissionAdditionalInfoRepository.cs" timestamp="1549380819923">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="63" />
@@ -193,11 +204,11 @@
         <mark key="]" line="34" column="38" />
         <mark key="." line="34" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" timestamp="1549621840197">
-        <mark key="[" line="240" column="89" />
-        <mark key="]" line="241" column="31" />
-        <mark key="^" line="241" column="31" />
-        <mark key="." line="241" column="31" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" timestamp="1549636085138">
+        <mark key="[" line="282" column="59" />
+        <mark key="]" line="282" column="70" />
+        <mark key="^" line="282" column="70" />
+        <mark key="." line="282" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/ITransmissionAdditionalInfoRepository.cs" timestamp="1549440423850">
         <mark key="[" line="4" column="75" />
@@ -263,6 +274,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Mapping/IfaceMessageMap.cs" timestamp="1549635895971">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="58" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="27" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAdditionalInfoConfigService.cs" timestamp="1549380741811">
         <mark key="[" line="31" column="49" />
@@ -395,58 +412,59 @@
       <jump line="195" column="20" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
       <jump line="246" column="20" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
       <jump line="248" column="28" filename="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="188" column="6" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>x.FindMessages</text>
+        <text encoding="base64">XDxpZmFjZU1lc3NhZ2VSZXBvc2l0b3J5TW9ja1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbWVzc2FnZUFkZGl0aW9uYWxJbmZvQ29uZmlnRGF0YU1hcHBlck1vY2suU2V0dXAobSA9PiBtLkxvYWQoZ2l2ZW5Db25maWdJZCkpLlJldHVybnMobmV3IE1lc3NhZ2VBZGRpdGlvbmFsSW5mb0NvbmZpZwogICAgICB7CiAgICAgICAgICAgICAgSUQgPSBnaXZlbkNvbmZpZ0lkLAogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgSVRyYW5zbWlzc2lvbkFkZGl0aW9uYWxJbmZvU2VydmljZSBhZGRpdGlvbmFsSW5mb1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">CiAgICAgIGlmYWNlTWVzc2FnZVJlcG9zaXRvcnlNb2NrLkluU2VxdWVuY2Uoc2VxKS5TZXR1cCgKICAgICAgICAgICAgeCA9PiB4LkZpbmRNZXNzYWdlcyhJdC5JczxNZXNzYWdlUXVlcnk+KG1xID0+IG1xLlNlYXJjaEtleXdvcmQgPT0gIlwia2V5d29yZFwiIikpCiAgICAgICkuUmV0dXJucygKICAgICAgICAgICAgcmV0dXJuZWRNZXNzYWdlcy5Bc1F1ZXJ5YWJsZSgpCiAgICAgICk7CgogICAgICBpZmFjZU1lc3NhZ2VSZXBvc2l0b3J5TW9jay5JblNlcXVlbmNlKHNlcSkuU2V0dXAoCiAgICAgICAgICAgIHggPT4geC5GaW5kTWVzc2FnZXMoSXQuSXM8TWVzc2FnZVF1ZXJ5PihtcSA9PiBtcS5TZWFyY2hLZXl3b3JkID09ICJcImtleXdvcmRcIiIpKQogICAgICApLlJldHVybnMoCiAgICAgICAgICAgIHJldHVybmVkTWVzc2FnZXMuQXNRdWVyeWFibGUoKQogICAgICApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hZGRpdGlvbmFsSW5mb1NlcnZpY2UgPSBhZGRpdGlvbmFsSW5mb1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QK</text>
+        <text encoding="base64">ICAgICAgaWZhY2VNZXNzYWdlUmVwb3NpdG9yeU1vY2suSW5TZXF1ZW5jZShzZXEpLlNldHVwKAogICAgICAgICAgICB4ID0+IHguRmluZE1lc3NhZ2VzKEl0LklzPE1lc3NhZ2VRdWVyeT4obXEgPT4gbXEuU2VhcmNoS2V5d29yZCA9PSAiXCJrZXl3b3JkXCIiKSkKICAgICAgKS5SZXR1cm5zKAogICAgICAgICAgICByZXR1cm5lZE1lc3NhZ2VzLkFzUXVlcnlhYmxlKCkKICAgICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5Db21tb247Cg==</text>
+        <text encoding="base64">CiAgICAgIGlmYWNlTWVzc2FnZVJlcG9zaXRvcnlNb2NrLkluU2VxdWVuY2Uoc2VxKS5TZXR1cCh4ID0+IHguRmluZE1lc3NhZ2VzKEl0LklzQW55PE1lc3NhZ2VRdWVyeT4oKSkpLlJldHVybnMoCiAgICAgICAgcmV0dXJuZWRNZXNzYWdlcy5Bc1F1ZXJ5YWJsZSgpCiAgICAgICk7CgogICAgICBpZmFjZU1lc3NhZ2VSZXBvc2l0b3J5TW9jay5JblNlcXVlbmNlKHNlcSkuU2V0dXAoeCA9PiB4LkZpbmRNZXNzYWdlcyhJdC5Jc0FueTxNZXNzYWdlUXVlcnk+KCkpKS5SZXR1cm5zKAogICAgICAgIHJldHVybmVkTWVzc2FnZXMuQXNRdWVyeWFibGUoKQogICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgTW9xOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJPcGVyYXRpb25Db250ZXh0LkN1cnJlbnQ/Lk91dGdvaW5nUmVzcG9uc2UuSGVhZGVycy5BZGQoIkNvbnRlbnQtVHlwZSIsICJ0ZXh0L3htbDsgY2hhcnNldD11dGYtOCIpOwo=</text>
+        <text encoding="base64">ICAgICAgaWZhY2VNZXNzYWdlUmVwb3NpdG9yeU1vY2suSW5TZXF1ZW5jZShzZXEpLlNldHVwKHggPT4geC5GaW5kTWVzc2FnZXMoSXQuSXNBbnk8TWVzc2FnZVF1ZXJ5PigpKSkuUmV0dXJucygKICAgICAgICByZXR1cm5lZE1lc3NhZ2VzLkFzUXVlcnlhYmxlKCkKICAgICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJPcGVyYXRpb25Db250ZXh0LkN1cnJlbnQ/Lk91dGdvaW5nUmVzcG9uc2UuSGVhZGVycy5BZGQoIkNvbnRlbnQtVHlwZSIsICk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgSVRyYW5zbWlzc2lvbkFkZGl0aW9uYWxJbmZvU2VydmljZSBhZGRpdGlvbmFsSW5mb1NlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZVVzZXJTZXNzaW9uKHNlc3Npb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hZGRpdGlvbmFsSW5mb1NlcnZpY2UgPSBhZGRpdGlvbmFsSW5mb1NlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZVVzZXJTZXNzaW9uKHNlc3Npb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>x.FindMessages</last-search>
+      <last-search encoding="base64">XDxpZmFjZU1lc3NhZ2VSZXBvc2l0b3J5TW9ja1w+</last-search>
       <last-offset />
-      <last-pattern>x.FindMessages</last-pattern>
+      <last-pattern encoding="base64">XDxpZmFjZU1lc3NhZ2VSZXBvc2l0b3J5TW9ja1w+</last-pattern>
       <last-replace>GetTransmissionXml</last-replace>
       <last-substitute>GetMessageXml</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -470,6 +488,7 @@
         <entry>TransmissionAck</entry>
         <entry>FindMessages</entry>
         <entry>x.FindMessages</entry>
+        <entry encoding="base64">XDxpZmFjZU1lc3NhZ2VSZXBvc2l0b3J5TW9ja1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21lc3NhZ2UvdHJhbnNtaXNzaW9u</entry>
