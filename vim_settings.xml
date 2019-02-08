@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2XmlApiService.cs" timestamp="1549615855264">
+        <mark key="'" line="84" column="17" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="46" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/TransmissionAdditionalInfoConfigServiceTest.cs" timestamp="1549381023264">
         <mark key="[" line="39" column="59" />
         <mark key="]" line="39" column="59" />
@@ -137,6 +144,9 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Services/SpcCommon/ServiceBase/WapServiceBase.cs" timestamp="1549615490588">
+        <mark key="'" line="59" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IConfTransmissionAdditionalInfoRepository.cs" timestamp="1549380819923">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="63" />
@@ -199,6 +209,9 @@
         <mark key="]" line="8" column="109" />
         <mark key="." line="8" column="109" />
         <mark key="^" line="8" column="109" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Interface/IInterfaceMonitoring2XmlApiService.cs" timestamp="1549615031244">
+        <mark key="^" line="9" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ReceiverServiceComponentTest.cs" timestamp="1549383637736">
         <mark key="[" line="44" column="0" />
@@ -324,55 +337,59 @@
       <jump line="26" column="34" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAdditionalInfoService.cs" />
       <jump line="31" column="11" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/TransmissionAdditionalInfoService.cs" />
       <jump line="156" column="4" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2XmlApiServiceTest.cs" />
+      <jump line="60" column="8" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2XmlApiService.cs" />
+      <jump line="41" column="8" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2XmlApiService.cs" />
+      <jump line="84" column="17" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2XmlApiService.cs" />
+      <jump line="59" column="27" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Services/SpcCommon/ServiceBase/WapServiceBase.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBXZWJPcGVyYXRpb25Db250ZXh0LkN1cnJlbnQ/Lk91dGdvaW5nUmVzcG9uc2UuSGVhZGVycy5BZGQoIkNvbnRlbnQtVHlwZSIsICJ0ZXh0L3htbDsgY2hhcnNldD11dGYtOCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>&quot;text/xml; charset=utf-8&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>GetMessageXml</text>
+        <text encoding="base64">XDxWYWxpZGF0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXNpbmcgKG5ldyBBdXRvbWF0aWNTZXNzaW9uKHRoaXMpKQogICAgICB7CiAgICAgICAgcmV0dXJuIEdldFF1ZXJ5YWJsZSgpCiAgICAgICAgICAuV2hlcmUobSA9PiBtLklkID09IG1lc3NhZ2VJZCkKICAgICAgICAgIC5TZWxlY3QobSA9PiBtLkIybW1sQ29udGVudCkKICAgICAgICAgIC5GaXJzdE9yRGVmYXVsdCgpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0SGVscGVyLlNldFJlc3BvbnNlQ29udGVudFR5cGUoInRleHQveG1sOyBjaGFyc2V0PXV0Zi04Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBXZWJPcGVyYXRpb25Db250ZXh0LkN1cnJlbnQ/Lk91dGdvaW5nUmVzcG9uc2UuSGVhZGVycy5BZGQoIkNvbnRlbnQtVHlwZSIsICJ0ZXh0L3htbDsgY2hhcnNldD11dGYtOCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBXZWJPcGVyYXRpb25Db250ZXh0LkN1cnJlbnQ/Lk91dGdvaW5nUmVzcG9uc2UuSGVhZGVycy5BZGQoIkNvbnRlbnQtVHlwZSIsICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3RyaW5nIHJlc3VsdCA9IG51bGw7IC8vdHJhbnNtaXNzaW9uUmVwb3NpdG9yeS5HZXRCMm1tbENvbnRlbnRCeU1lc3NhZ2VJZChtZXNzYWdlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZVVzZXJTZXNzaW9uKHNlc3Npb25JZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZVVzZXJTZXNzaW9uKHNlc3Npb25JZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgc3RyaW5nIHJlc3VsdCA9IG51bGw7IC8vdHJhbnNtaXNzaW9uUmVwb3NpdG9yeS5HZXRCMm1tbENvbnRlbnRCeU1lc3NhZ2VJZChtZXNzYWdlSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYjJNTUxEb2N1bWVudCA9IG5ldyBCMk1NTEFja25vd2xlZGdlRG9jdW1lbnQodHJhbnNtaXNzaW9uLkIyTU1MQWNrbm93bGVkZ2UpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYjJNTUxEb2N1bWVudCA9IG5ldyBNaWFCMk1NTERvY3VtZW50KG1lc3NhZ2UuQ29udGVudCwgbWVzc2FnZS5PcmlnaW5hbENvbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GetMessageXml</last-search>
+      <last-search encoding="base64">XDxWYWxpZGF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>GetMessageXml</last-pattern>
+      <last-pattern encoding="base64">XDxWYWxpZGF0b3JcPg==</last-pattern>
       <last-replace>GetTransmissionXml</last-replace>
       <last-substitute>GetMessageXml</last-substitute>
       <last-dir>1</last-dir>
@@ -391,6 +408,8 @@
         <entry encoding="base64">XDxiMk1NTEludGVyZmFjZVJlcG9zaXRvcnlNb2NrXD4=</entry>
         <entry encoding="base64">XDxiMk1NTEludGVyZmFjZVJlcG9zaXRvcnlcPg==</entry>
         <entry>GetMessageXml</entry>
+        <entry encoding="base64">XDxWYWxpZGF0ZVVzZXJTZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDxWYWxpZGF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21lc3NhZ2UvdHJhbnNtaXNzaW9u</entry>
