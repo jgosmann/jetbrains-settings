@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/renderAdditionalInfo.js" timestamp="1549617844846">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="12" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/renderAdditionalInfo.js" timestamp="1549619619077">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="20" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/test/createStateToComponentIdDropdownPropsMapper.spec.js" timestamp="1549458899506">
         <mark key="[" line="35" column="23" />
@@ -27,17 +27,24 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" timestamp="1549621084175">
+        <mark key="'" line="87" column="19" />
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="33" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/mapStateToComponentIdDropdownProps.js" timestamp="1549458048860">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="93" />
         <mark key="." line="5" column="93" />
         <mark key="^" line="5" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesGrid.js" timestamp="1549617886689">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="45" />
-        <mark key="^" line="44" column="45" />
-        <mark key="." line="44" column="45" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesGrid.js" timestamp="1549620845878">
+        <mark key="'" line="43" column="17" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/ComponentIdDropdown.js" timestamp="1549468923307">
         <mark key="[" line="2" column="28" />
@@ -46,17 +53,24 @@
         <mark key="^" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/wapUrlHelper.js" timestamp="1549617674876">
-        <mark key="'" line="76" column="3" />
         <mark key="[" line="49" column="1" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/renderAdditionalInfo.spec.js" timestamp="1549619992228">
+        <mark key="." line="65" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/config/config.js" timestamp="1549617429683">
         <mark key="[" line="22" column="36" />
-        <mark key="]" line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="23" column="51" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/test/wapUrlHelper.spec.js" timestamp="1549620911166">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/index.js" timestamp="1549468427420">
         <mark key="[" line="0" column="0" />
@@ -91,54 +105,65 @@
       <jump line="17" column="40" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/NotificationsComponentIdDropdown.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" />
       <jump line="76" column="3" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/wapUrlHelper.js" />
+      <jump line="43" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesGrid.js" />
+      <jump line="31" column="16" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" />
+      <jump line="87" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBnZXRNZXNzYWdlQjJtbWxYbWxVcmwsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text encoding="base64">IGdldE1lc3NhZ2VCMm1tbFhtbFVybCw=</text>
+      </register>
+      <register name="/" type="4">
+        <text>message-xml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudElkRHJvcGRvd24sIHsgY3JlYXRlU3RhdGVUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wc01hcHBlciB9IGZyb20gJy4uL01lbnUvQ29tcG9uZW50SWREcm9wZG93bicKaW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvbm90aWZpY2F0aW9uc1NlbGVjdG9ycycKaW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JwppbXBvcnQgbWFwRGlzcGF0Y2hUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wcyBmcm9tICcuL21hcERpc3BhdGNoVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMnCgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KAogIGNyZWF0ZVN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHNNYXBwZXIoZ2V0U2VsZWN0ZWRTZW5kZXIsIGdldFNlbGVjdGVkQ29tcG9uZW50SWQpLAogIG1hcERpc3BhdGNoVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMKKShDb21wb25lbnRJZERyb3Bkb3duKQo=</text>
+        <text encoding="base64">ICAgIGdldE1lc3NhZ2VCMm1tbFhtbFVybFN0dWIud2l0aEFyZ3MoewogICAgICBtZXNzYWdlSWQ6ICdtZXNzYWdlX2lkJywKICAgICAgc2Vzc2lvbklkOiAnc2Vzc2lvbi1pZCcKICAgIH0pLnJldHVybnMoJ21lc3NhZ2UteG1sLXVybCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXJsID0K</text>
+        <text encoding="base64">ICBnZXRNZXNzYWdlQjJtbWxYbWxVcmwsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB1cmwgPSBnZXRNZXNzYWdlQjJtbWxYbWxVcmwoewogICAgbWVzc2FnZUlkOiBpZCwKICAgIHNlc3Npb25JZAogIH0pCg==</text>
+        <text encoding="base64">ICBnZXRGaW5kTWVzc2FnZXNVcmwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgdQo=</text>
+        <text encoding="base64">ICBnZXRGaW5kTWVzc2FnZXNVcmwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh4bWxVcmwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0QjJtbWxYbWxVcmwgPSBmdW5jdGlvbiAoeyB0eXBlLCBpZH0pCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlc3Npb25JZDogJ3Nlc3Npb25JZCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvaW50ZXJmYWNlTW9uaXRvclNlbGVjdG9ycycKaW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JwppbXBvcnQgY3JlYXRlU3RhdGVUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wc01hcHBlcgogIGZyb20gJy4uL01lbnUvQ29tcG9uZW50SWREcm9wZG93bi9jcmVhdGVTdGF0ZVRvQ29tcG9uZW50SWREcm9wZG93blByb3BzTWFwcGVyJwppbXBvcnQgRHJvcGRvd25UcmFuc2xhdGVkIGZyb20gJy4uL1VJQ29udHJvbHMvRHJvcGRvd25UcmFuc2xhdGVkJwppbXBvcnQgbWFwRGlzcGF0Y2hUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wcyBmcm9tICcuL21hcERpc3BhdGNoVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMnCmltcG9ydCB0ZXh0S2V5cyBmcm9tICcuLi8uLi90ZXh0cy90ZXh0S2V5cycKaW1wb3J0IHdpdGhGaXhlZFByb3BzIGZyb20gJy4uLy4uLy4uLy4uLy4uL2NvbW1vbi9qcy91dGlsL3dpdGhGaXhlZFByb3BzJwoKY29uc3QgRHJvcGRvd25UcmFuc2xhdGVkV2l0aEZpeGVkQ29tcG9uZW50SWRzVGl0bGVLZXkgPSB3aXRoRml4ZWRQcm9wcygKICBEcm9wZG93blRyYW5zbGF0ZWQsCiAgewogICAgdGl0bGVLZXk6IHRleHRLZXlzLm1lbnUuY29tcG9uZW50SWRzCiAgfQopCgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KAogIGNyZWF0ZVN0YXRlVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHNNYXBwZXIoZ2V0U2VsZWN0ZWRTZW5kZXIsIGdldFNlbGVjdGVkQ29tcG9uZW50SWQpLAogIG1hcERpc3BhdGNoVG9Db21wb25lbnRJZERyb3Bkb3duUHJvcHMKKShEcm9wZG93blRyYW5zbGF0ZWRXaXRoRml4ZWRDb21wb25lbnRJZHNUaXRsZUtleSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGlkOiAnbWVzc2FnZSBpZCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudElkRHJvcGRvd24sIHsgY3JlYXRlU3RhdGVUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wc01hcHBlciB9IGZyb20gJy4uL01lbnUvQ29tcG9uZW50SWREcm9wZG93bicK</text>
+        <text encoding="base64">ICAgICAgICAgIGlkOiAndHJhbnNtaXNzaW9uIGlkJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IENvbXBvbmVudElkRHJvcGRvd24sIHsgY3JlYXRlU3RhdGVUb0NvbXBvbmVudElkRHJvcGRvd25Qcm9wc01hcHBlciB9IGZyb20gJy4uL01lbnUvQ29tcG9uZW50SWREcm9wZG93bicK</text>
+        <text encoding="base64">ICAgICAgICAgIGlkOiAnbWVzc2FnZV9pZCcsCiAgICAgICAgICBzZXNzaW9uSWQ6ICdzZXNzaW9uLWlkJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IERyb3Bkb3duVHJhbnNsYXRlZCBmcm9tICcuLi9VSUNvbnRyb2xzL0Ryb3Bkb3duVHJhbnNsYXRlZCcK</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGU6ICdtZXNzYWdlJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>message-xml</last-search>
+      <last-offset />
+      <last-pattern>message-xml</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>message-xml</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
