@@ -3,180 +3,72 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/renderAdditionalInfo.js" timestamp="1549619619077">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="20" column="58" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/urlBuilder.js" timestamp="1549636750597" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/config/config.js" timestamp="1549636875090" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/test/wapUrlHelper.spec.js" timestamp="1549638347287">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="131" column="34" />
+        <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/test/createStateToComponentIdDropdownPropsMapper.spec.js" timestamp="1549458899506">
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="35" column="24" />
-        <mark key="^" line="39" column="12" />
-        <mark key="." line="35" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/InterfaceMonitorMenu.js" timestamp="1549468633016">
-        <mark key="[" line="3" column="70" />
-        <mark key="]" line="3" column="70" />
-        <mark key="^" line="3" column="69" />
-        <mark key="." line="3" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/test/InterfaceMonitorMenu.spec.js" timestamp="1549468699536">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="70" />
-        <mark key="^" line="2" column="70" />
-        <mark key="." line="2" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" timestamp="1549621084175">
-        <mark key="'" line="87" column="19" />
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="33" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/mapStateToComponentIdDropdownProps.js" timestamp="1549458048860">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="93" />
-        <mark key="." line="5" column="93" />
-        <mark key="^" line="5" column="93" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesGrid.js" timestamp="1549620845878">
-        <mark key="'" line="43" column="17" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/ComponentIdDropdown.js" timestamp="1549468923307">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/wapUrlHelper.js" timestamp="1549617674876">
-        <mark key="[" line="49" column="1" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/renderAdditionalInfo.spec.js" timestamp="1549619992228">
-        <mark key="." line="65" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/config/config.js" timestamp="1549617429683">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="51" />
-        <mark key="^" line="22" column="51" />
-        <mark key="." line="22" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/test/wapUrlHelper.spec.js" timestamp="1549620911166">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/index.js" timestamp="1549468427420">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="55" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/Menu/ComponentIdDropdown/createStateToComponentIdDropdownPropsMapper.js" timestamp="1549467373360">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" timestamp="1549468503510">
-        <mark key="[" line="1" column="75" />
-        <mark key="]" line="1" column="99" />
-        <mark key="." line="1" column="99" />
-        <mark key="^" line="1" column="99" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/NotificationsComponentIdDropdown.js" timestamp="1549468481324">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/mapStateToComponentIdDropdownProps.js" timestamp="1549458131290">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="98" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/wapUrlHelper.js" timestamp="1549637095593">
+        <mark key="[" line="61" column="2" />
+        <mark key="]" line="61" column="2" />
+        <mark key="." line="61" column="2" />
+        <mark key="^" line="61" column="2" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/getColumnsForGrid.js" />
-      <jump line="17" column="40" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/NotificationsMenu/NotificationsComponentIdDropdown.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitorMenu/ComponentIdDropdown.js" />
-      <jump line="76" column="3" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/wapUrlHelper.js" />
-      <jump line="43" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/MessagesGrid.js" />
-      <jump line="31" column="16" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" />
-      <jump line="87" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesGrid.spec.js" />
-    </jumps>
+    <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBnZXRNZXNzYWdlQjJtbWxYbWxVcmwsCg==</text>
+        <text encoding="base64">CiAgICAgICAgICBleHBlY3QoYjJtbWxYbWxVcmwpLnRvLmVuZHNXaXRoKAogICAgICAgICAgICAnd2FwQmFzZVVybC93YXBGZWF0dXJlWG1sUmVsYXRpdmVVcmwnICsKICAgICAgICAgICAgJy90cmFuc21pc3Npb25YbWxDb250ZW50P3RyYW5zbWlzc2lvbklkPXRyYW5zbWlzc2lvbklkJnNlc3Npb25JZD1zZXNzaW9uSWQnCiAgICAgICAgICApCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdldE1lc3NhZ2VCMm1tbFhtbFVybCw=</text>
-      </register>
-      <register name="/" type="4">
-        <text>message-xml</text>
+        <text>messageId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldE1lc3NhZ2VCMm1tbFhtbFVybFN0dWIud2l0aEFyZ3MoewogICAgICBtZXNzYWdlSWQ6ICdtZXNzYWdlX2lkJywKICAgICAgc2Vzc2lvbklkOiAnc2Vzc2lvbi1pZCcKICAgIH0pLnJldHVybnMoJ21lc3NhZ2UteG1sLXVybCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChnZXRHZW5lcmljUmVzdFVybFN0dWIpLnRvLmhhdmUuYmVlbi5jYWxsZWRXaXRoKHsKICAgICAgICAgICAgbWV0aG9kOiAnL3dhcEZlYXR1cmVYbWxSZWxhdGl2ZVVybC94bWxDb250ZW50JywKICAgICAgICAgICAgcXVlcnk6IHsgbWVzc2FnZUlkLCBzZXNzaW9uSWQgfQogICAgICAgICAgfSkKICAgICAgICAgIGV4cGVjdChiMm1tbFhtbFVybCkudG8uZXF1YWwoJ0dlbmVyaWNSZXN0VXJsJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXRNZXNzYWdlQjJtbWxYbWxVcmwsCg==</text>
+        <text encoding="base64">CiAgICAgICAgICBleHBlY3QoYjJtbWxYbWxVcmwpLnRvLmVuZHNXaXRoKAogICAgICAgICAgICAnd2FwQmFzZVVybC93YXBGZWF0dXJlWG1sUmVsYXRpdmVVcmwnICsKICAgICAgICAgICAgJy90cmFuc21pc3Npb25YbWxDb250ZW50P3RyYW5zbWlzc2lvbklkPXRyYW5zbWlzc2lvbklkJnNlc3Npb25JZD1zZXNzaW9uSWQnCiAgICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZXRGaW5kTWVzc2FnZXNVcmwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGIybW1sWG1sVXJsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZXRGaW5kTWVzc2FnZXNVcmwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGIybW1sWG1sVXJsKQoKICAgICAgICAgIGV4cGVjdChiMm1tbFhtbFVybCkudG8uZW5kc1dpdGgoCiAgICAgICAgICAgICd3YXBCYXNlVXJsL3dhcEZlYXR1cmVYbWxSZWxhdGl2ZVVybC94bWxDb250ZW50P21lc3NhZ2VJZD1tZXNzYWdlSWQmc2Vzc2lvbklkPXNlc3Npb25JZCcKICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh4bWxVcmwpCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdXJsIGZyb20gJ3VybCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlc3Npb25JZDogJ3Nlc3Npb25JZCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0R2VuZXJpY1Jlc3RVcmwsIGdldFJlc3RVcmwgfSBmcm9tICcuLi8uLi8uLi8uLi9jb21tb24vanMvdXRpbC91cmxCdWlsZGVyJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkOiAnbWVzc2FnZSBpZCcsCg==</text>
+        <text encoding="base64">CiAgcmV0dXJuIHVybC5mb3JtYXQoewogICAgcGF0aG5hbWU6IGZlYXR1cmVYbWxCYXNlVXJsLAogICAgcXVlcnk6IHsKICAgICAgdHJhbnNtaXNzaW9uSWQsCiAgICAgIHNlc3Npb25JZAogICAgfQogIH0pCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkOiAndHJhbnNtaXNzaW9uIGlkJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkOiAnbWVzc2FnZV9pZCcsCiAgICAgICAgICBzZXNzaW9uSWQ6ICdzZXNzaW9uLWlkJwo=</text>
+        <text encoding="base64">ICBjb25zdCBmZWF0dXJlWG1sQmFzZVVybCA9IGdldFJlc3RVcmwoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU6ICdtZXNzYWdlJywK</text>
+        <text encoding="base64">ICByZXR1cm4gdXJsLmZvcm1hdCh7CiAgICBwYXRobmFtZTogZmVhdHVyZVhtbEJhc2VVcmwsCiAgICBxdWVyeTogewogICAgICBtZXNzYWdlSWQsCiAgICAgIHNlc3Npb25JZAogICAgfQogIH0pCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>message-xml</last-search>
-      <last-offset />
-      <last-pattern>message-xml</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>message-xml</entry>
-      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>
