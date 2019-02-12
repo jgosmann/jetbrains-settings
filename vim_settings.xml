@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/test/wapUrlHelper.spec.js" timestamp="1549975910983">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="16" />
-        <mark key="^" line="59" column="16" />
-        <mark key="." line="59" column="16" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/test/wapUrlHelper.spec.js" timestamp="1549976872324">
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="59" column="7" />
+        <mark key="^" line="59" column="7" />
+        <mark key="." line="59" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1549975556838">
         <mark key="[" line="9" column="69" />
@@ -31,8 +31,11 @@
       <jump line="27" column="27" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Chrome</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgeCA9IDQK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgeCA9IDQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -57,6 +60,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>wc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
