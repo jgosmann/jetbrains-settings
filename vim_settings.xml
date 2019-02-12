@@ -3,10 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/ComponentTests/IFaceMonitoring2ComponentTest.cs" timestamp="1549963473214">
-        <mark key="[" line="521" column="0" />
-        <mark key="]" line="521" column="0" />
-        <mark key="." line="521" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/ComponentTests/IFaceMonitoring2ComponentTest.cs" timestamp="1549963748068">
+        <mark key="[" line="525" column="55" />
+        <mark key="]" line="525" column="55" />
+        <mark key="." line="525" column="55" />
+        <mark key="^" line="525" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" timestamp="1549963548715">
+        <mark key="[" line="174" column="37" />
+        <mark key="]" line="174" column="37" />
+        <mark key="." line="174" column="43" />
+        <mark key="^" line="252" column="36" />
       </file>
     </filemarks>
     <jumps />
@@ -17,8 +24,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBDcmVhdGVkID0gc29tZURhdGUsCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBDcmVhdGVkID0gc29tZURhdGUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>ü</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIENyZWF0ZWRBdCA9IHNvbWVEYXRlLAo=</text>
@@ -33,7 +40,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>givenIfaceMessage1</text>
+        <text>ü</text>
       </register>
     </registers>
     <search>
