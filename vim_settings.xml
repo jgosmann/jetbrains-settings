@@ -15,6 +15,12 @@
         <mark key="." line="9" column="78" />
         <mark key="^" line="9" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" timestamp="1549982357973">
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="17" />
+        <mark key="^" line="75" column="17" />
+        <mark key="." line="75" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" timestamp="1549980693398">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="81" column="0" />
@@ -25,11 +31,11 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/util/ReactBridge.js" timestamp="1549640741211">
         <mark key="'" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/karma.conf.js" timestamp="1549975563887">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/karma.conf.js" timestamp="1549982389887">
         <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -45,8 +51,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>jsdom</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgeCA9IDQK</text>
@@ -55,7 +61,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>activeElement</text>
+        <text>jsdom</text>
       </register>
       <register name="/" type="4">
         <text>focuses</text>
