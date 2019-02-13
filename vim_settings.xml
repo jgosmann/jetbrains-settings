@@ -11,6 +11,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Log4Net/MainInterfaceApplication.log4net" timestamp="1550052837833">
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="4" />
+        <mark key="." line="82" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="293" column="38" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
@@ -35,10 +40,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb3VuXD4=</text>
@@ -92,8 +97,8 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
