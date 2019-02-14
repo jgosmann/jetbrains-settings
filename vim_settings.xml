@@ -17,6 +17,9 @@
         <mark key="." line="84" column="15" />
         <mark key="^" line="84" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1550135314723">
+        <mark key="'" line="8" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="293" column="38" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
@@ -38,6 +41,7 @@
       <jump line="273" column="24" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
       <jump line="315" column="16" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/ComponentTests/IFaceMonitoring2ComponentTest.cs" />
       <jump line="341" column="8" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/ComponentTests/IFaceMonitoring2ComponentTest.cs" />
+      <jump line="8" column="19" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -47,7 +51,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOb3VuXD4=</text>
+        <text>wcf.services</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtUZXN0KERlc2NyaXB0aW9uID0gIkZpbmRNZXNzYWdlcyByZXR1cm5zIHN0YXR1cyBjb2RlIDQwMCB3aGVuIHRoZSBzZWFyY2ggcGFyYW1ldGVycyBjb250YWluIGludmFsaWQgdmFsdWVzIildCiAgICBbVGVzdENhc2UoImludmFsaWQgZGF0ZSIsIGZhbHNlKV0KICAgIFtUZXN0Q2FzZSgiIiwgZmFsc2UpXQogICAgW1Rlc3RDYXNlKCIyMDE4LTAxLTEwVDEwOjAwOjAwIiwgdHJ1ZSldCiAgICBbVGVzdENhc2UobnVsbCwgdHJ1ZSldCiAgICBwdWJsaWMgdm9pZCBGaW5kTWVzc2FnZXNWYWxpZGF0ZXNTZWFyY2hQYXJhbWV0ZXJzKHN0cmluZyBkYXRlLCBib29sIGFyZVZhbGlkRGF0ZXMpCiAgICB7CiAgICAgIHZhciBtZXNzYWdlUXVlcnlEdG8gPSBuZXcgTWVzc2FnZVF1ZXJ5RHRvKCkKICAgICAgewogICAgICAgIFRyYW5zbWlzc2lvbkRhdGVGcm9tID0gZGF0ZSwKICAgICAgICBUcmFuc21pc3Npb25EYXRlVG8gPSBkYXRlCiAgICAgIH07CgogICAgICBpZiAoIWFyZVZhbGlkRGF0ZXMpCiAgICAgIHsKICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxXZWJGYXVsdEV4Y2VwdGlvbjxXZWJFcnJvckR0bz4+KAogICAgICAgICAgKCkgPT4gc2VydmljZS5GaW5kTWVzc2FnZXMobWVzc2FnZVF1ZXJ5RHRvKSk7CiAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKEh0dHBTdGF0dXNDb2RlLkJhZFJlcXVlc3QsIGV4Y2VwdGlvbi5TdGF0dXNDb2RlKTsKICAgICAgfQogICAgICBlbHNlCiAgICAgIHsKICAgICAgICBBc3NlcnQuRG9lc05vdFRocm93KAogICAgICAgICAgKCkgPT4gc2VydmljZS5GaW5kTWVzc2FnZXMobWVzc2FnZVF1ZXJ5RHRvKSk7CiAgICAgIH0KICAgIH0K</text>
@@ -84,9 +88,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOb3VuXD4=</last-search>
+      <last-search>wcf.services</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOb3VuXD4=</last-pattern>
+      <last-pattern>wcf.services</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -95,6 +99,7 @@
         <entry>Id</entry>
         <entry>FindMessages</entry>
         <entry encoding="base64">XDxOb3VuXD4=</entry>
+        <entry>wcf.services</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
