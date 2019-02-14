@@ -3,19 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph.Tests/RouteGraphManagerGetRouteTest.cs" timestamp="1550161119261">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1550134480151">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Query/RoutingQueryService.cs" timestamp="1550160227370">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="21" />
+        <mark key="." line="48" column="21" />
+        <mark key="^" line="48" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceMessage.cs" timestamp="1549972007742">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/RoutingQueryServiceTest.cs" timestamp="1550157301681">
+        <mark key="[" line="47" column="76" />
+        <mark key="]" line="47" column="76" />
+        <mark key="^" line="47" column="96" />
+        <mark key="." line="47" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Log4Net/MainInterfaceApplication.log4net" timestamp="1550054041448">
         <mark key="[" line="84" column="13" />
         <mark key="]" line="84" column="15" />
         <mark key="." line="84" column="15" />
         <mark key="^" line="84" column="15" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1550158858715">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Abstractions/Krones.Lms.Core.Abstractions/Service/Query/IRoutingQueryService.cs" timestamp="1550160153022">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Manager/RouteGraphManager.cs" timestamp="1550160355705">
+        <mark key="[" line="82" column="92" />
+        <mark key="]" line="82" column="92" />
+        <mark key="." line="82" column="92" />
+        <mark key="^" line="82" column="92" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Dtos/Krones.Lms.Core.Dtos/PredefinedRouteDto.cs" timestamp="1550160697702">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/Plant/EquipmentRoutingTemplate.cs" timestamp="1550160474169">
+        <mark key="'" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" timestamp="1550160713093">
+        <mark key="[" line="60" column="102" />
+        <mark key="]" line="60" column="102" />
+        <mark key="." line="60" column="102" />
+        <mark key="^" line="60" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.Dtos/RouteGraph/RouteWebDto.cs" timestamp="1550159635619">
+        <mark key="'" line="16" column="35" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1550135314723">
         <mark key="'" line="8" column="19" />
@@ -42,55 +96,57 @@
       <jump line="315" column="16" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/ComponentTests/IFaceMonitoring2ComponentTest.cs" />
       <jump line="341" column="8" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/ComponentTests/IFaceMonitoring2ComponentTest.cs" />
       <jump line="8" column="19" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
+      <jump line="17" column="35" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.Dtos/RouteGraph/RouteWebDto.cs" />
+      <jump line="9" column="15" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/Plant/EquipmentRoutingTemplate.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgS3JvbmVzLkJJVFMuTW9kZWwuUGxhbnQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>wcf.services</text>
+        <text>XDescription</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtUZXN0KERlc2NyaXB0aW9uID0gIkZpbmRNZXNzYWdlcyByZXR1cm5zIHN0YXR1cyBjb2RlIDQwMCB3aGVuIHRoZSBzZWFyY2ggcGFyYW1ldGVycyBjb250YWluIGludmFsaWQgdmFsdWVzIildCiAgICBbVGVzdENhc2UoImludmFsaWQgZGF0ZSIsIGZhbHNlKV0KICAgIFtUZXN0Q2FzZSgiIiwgZmFsc2UpXQogICAgW1Rlc3RDYXNlKCIyMDE4LTAxLTEwVDEwOjAwOjAwIiwgdHJ1ZSldCiAgICBbVGVzdENhc2UobnVsbCwgdHJ1ZSldCiAgICBwdWJsaWMgdm9pZCBGaW5kTWVzc2FnZXNWYWxpZGF0ZXNTZWFyY2hQYXJhbWV0ZXJzKHN0cmluZyBkYXRlLCBib29sIGFyZVZhbGlkRGF0ZXMpCiAgICB7CiAgICAgIHZhciBtZXNzYWdlUXVlcnlEdG8gPSBuZXcgTWVzc2FnZVF1ZXJ5RHRvKCkKICAgICAgewogICAgICAgIFRyYW5zbWlzc2lvbkRhdGVGcm9tID0gZGF0ZSwKICAgICAgICBUcmFuc21pc3Npb25EYXRlVG8gPSBkYXRlCiAgICAgIH07CgogICAgICBpZiAoIWFyZVZhbGlkRGF0ZXMpCiAgICAgIHsKICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxXZWJGYXVsdEV4Y2VwdGlvbjxXZWJFcnJvckR0bz4+KAogICAgICAgICAgKCkgPT4gc2VydmljZS5GaW5kTWVzc2FnZXMobWVzc2FnZVF1ZXJ5RHRvKSk7CiAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKEh0dHBTdGF0dXNDb2RlLkJhZFJlcXVlc3QsIGV4Y2VwdGlvbi5TdGF0dXNDb2RlKTsKICAgICAgfQogICAgICBlbHNlCiAgICAgIHsKICAgICAgICBBc3NlcnQuRG9lc05vdFRocm93KAogICAgICAgICAgKCkgPT4gc2VydmljZS5GaW5kTWVzc2FnZXMobWVzc2FnZVF1ZXJ5RHRvKSk7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjZmcuQ3JlYXRlTWFwPEVxdWlwbWVudEVkZ2VEdG88RXF1aXBtZW50QmFzaWNEdG8+LCBFcXVpcG1lbnRFZGdlV2ViRHRvPigpCiAgICAgICAgICAuRm9yTWVtYmVyKHRhcmdldCA9PiB0YXJnZXQuSWQsIG1hcCA9PiBtYXAuTWFwRnJvbShzb3VyY2UgPT4gc291cmNlLklkKSkKICAgICAgICAgIC5Gb3JNZW1iZXIodGFyZ2V0ID0+IHRhcmdldC5BdmFpbGFibGUsIG1hcCA9PiBtYXAuTWFwRnJvbShzb3VyY2UgPT4gc291cmNlLlN0YXRlICE9IEVxdWlwbWVudEVkZ2VTdGF0ZS5VbmF2YWlsYWJsZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgTm91biA9Cg==</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLkJJVFMuTW9kZWwuUGxhbnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTkhpYmVybmF0ZS5MaW5xOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5Gb3JNZW1iZXIodGFyZ2V0ID0+IHRhcmdldC5Sb3V0ZVN0YXRlQ29sb3IpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnM7CnVzaW5nIFN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljOwp1c2luZyBTeXN0ZW0uR2xvYmFsaXphdGlvbjsKdXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2aXJ0dWFsIElMaXN0PElmYWNlTWVzc2FnZUFkZGl0aW9uYWxJbmZvPiBBZGRpdGlvbmFsSW5mbyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFtUZXN0KERlc2NyaXB0aW9uID0gIkZpbmRNZXNzYWdlcyByZXR1cm5zIHN0YXR1cyBjb2RlIDQwMCB3aGVuIHRoZSBzZWFyY2ggcGFyYW1ldGVycyBjb250YWluIGludmFsaWQgdmFsdWVzIildCiAgICBbVGVzdENhc2UoImludmFsaWQgZGF0ZSIsIGZhbHNlKV0KICAgIFtUZXN0Q2FzZSgiIiwgZmFsc2UpXQogICAgW1Rlc3RDYXNlKCIyMDE4LTAxLTEwVDEwOjAwOjAwIiwgdHJ1ZSldCiAgICBbVGVzdENhc2UobnVsbCwgdHJ1ZSldCiAgICBwdWJsaWMgdm9pZCBGaW5kTWVzc2FnZXNWYWxpZGF0ZXNTZWFyY2hQYXJhbWV0ZXJzKHN0cmluZyBkYXRlLCBib29sIGFyZVZhbGlkRGF0ZXMpCiAgICB7CiAgICAgIHZhciBtZXNzYWdlUXVlcnlEdG8gPSBuZXcgTWVzc2FnZVF1ZXJ5RHRvKCkKICAgICAgewogICAgICAgIFRyYW5zbWlzc2lvbkRhdGVGcm9tID0gZGF0ZSwKICAgICAgICBUcmFuc21pc3Npb25EYXRlVG8gPSBkYXRlCiAgICAgIH07CgogICAgICBpZiAoIWFyZVZhbGlkRGF0ZXMpCiAgICAgIHsKICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxXZWJGYXVsdEV4Y2VwdGlvbjxXZWJFcnJvckR0bz4+KAogICAgICAgICAgKCkgPT4gc2VydmljZS5GaW5kTWVzc2FnZXMobWVzc2FnZVF1ZXJ5RHRvKSk7CiAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKEh0dHBTdGF0dXNDb2RlLkJhZFJlcXVlc3QsIGV4Y2VwdGlvbi5TdGF0dXNDb2RlKTsKICAgICAgfQogICAgICBlbHNlCiAgICAgIHsKICAgICAgICBBc3NlcnQuRG9lc05vdFRocm93KAogICAgICAgICAgKCkgPT4gc2VydmljZS5GaW5kTWVzc2FnZXMobWVzc2FnZVF1ZXJ5RHRvKSk7CiAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBjZmcuQ3JlYXRlTWFwPEVxdQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5PcmRlckJ5KG1lc3NhZ2UgPT4gbWVzc2FnZS5BZGRpdGlvbmFsSW5mby4pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5PcmRlckJ5KGluZm8gPT4gaW5mby5Db25maWcuTGFiZWwpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgIH0pOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICApOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgRmluZE1lc3NhZ2VzUmV0dXJuc01lc3NhZ2VzKCkKICAgIHsKICAgICAgdmFyIHNlcSA9IG5ldyBNb2NrU2VxdWVuY2UoKTsKICAgICAgaWZhY2VNZXNzYWdlUmVwb3NpdG9yeU1vY2suSW5TZXF1ZW5jZShzZXEpLlNldHVwKHAgPT4gcC5CZWdpblNlc3Npb24oKSk7CgogICAgICB2YXIgcmV0dXJuZWRNZXNzYWdlcyA9IG5ldyBMaXN0PElmYWNlTWVzc2FnZT4KICAgICAgewogICAgICAgIG5ldyBJZmFjZU1lc3NhZ2UKICAgICAgICB7CiAgICAgICAgICBJZCA9IDEyMzQ1TCwKICAgICAgICAgIENyZWF0ZWRBdCA9IG5ldyBEYXRlVGltZSgyMDE3LCAxMiwgMTksIDE1LCAyOSwgMCksCiAgICAgICAgICBTdWJzY3JpYmVyID0gIlN1YnNjcmliZXIiLAogICAgICAgICAgQ29tcG9uZW50SWQgPSAiQ29tcG9uZW50IElkIiwKICAgICAgICAgIFJlZmVyZW5jZUlkID0gIlJlZmVyZW5jZSBJZCIsCiAgICAgICAgICBNZXNzYWdlU3RhdGUgPSBuZXcgSWZhY2VNZXNzYWdlU3RhdGUoKQogICAgICAgICAgewogICAgICAgICAgICBJZCA9IDAsCiAgICAgICAgICAgIFRlY2hEZXNjID0gIiNURVNUX1NUQVRFIiwKICAgICAgICAgICAgWERlc2NyaXB0aW9uID0KICAgICAgICAgICAgICBuZXcgVHJhbnNsYXRpb25zKAogICAgICAgICAgICAgICAgIjx4bWw+PGRlLURFPlRlc3Qt3GJlcnNldHp1bmc8L2RlLURFPjxlbi1HQj5UZXN0IHRyYW5zbGF0aW9uPC9lbi1HQj48L3htbD4iCiAgICAgICAgICAgICAgKQogICAgICAgICAgfSwKICAgICAgICAgIEFkZGl0aW9uYWxJbmZvID0gbmV3IEhhc2hTZXQ8SWZhY2VNZXNzYWdlQWRkaXRpb25hbEluZm8+CiAgICAgICAgICB7CiAgICAgICAgICAgIG5ldyBJZmFjZU1lc3NhZ2VBZGRpdGlvbmFsSW5mbwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgVmFsdWUgPSAiU29tZSBhZGRpdGlvbmFsIGluZm8gdmFsdWUgMSIsCiAgICAgICAgICAgICAgQ29uZmlnID0gbmV3IElmYWNlTWVzc2FnZUFkZGl0aW9uYWxJbmZvQ29uZmlnIHtMYWJlbCA9ICJTb21lIGFkZGl0aW9uYWwgaW5mbyBjb25maWcgbGFiZWwgMSJ9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG5ldyBJZmFjZU1lc3NhZ2VBZGRpdGlvbmFsSW5mbwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgVmFsdWUgPSAiU29tZSBhZGRpdGlvbmFsIGluZm8gdmFsdWUgMiIsCiAgICAgICAgICAgICAgQ29uZmlnID0gbmV3IElmYWNlTWVzc2FnZUFkZGl0aW9uYWxJbmZvQ29uZmlnIHtMYWJlbCA9ICJTb21lIGFkZGl0aW9uYWwgaW5mbyBjb25maWcgbGFiZWwgMiJ9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICBUcmFuc21pc3Npb25zID0gbmV3IEhhc2hTZXQ8SWZhY2VUcmFuc21pc3Npb24+CiAgICAgICAgICB7CiAgICAgICAgICAgIG5ldyBJZmFjZVRyYW5zbWlzc2lvbgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgSWQgPSA2Nzg5MEwsCiAgICAgICAgICAgICAgU2VuZGVyID0gIlNlbmRlciIsCiAgICAgICAgICAgICAgQ3JlYXRlZEF0ID0gbmV3IERhdGVUaW1lKDIwMTcsIDEyLCAxOSwgMTUsIDMwLCAwKSwKICAgICAgICAgICAgICBDaGFuZ2VkQXQgPSBuZXcgRGF0ZVRpbWUoMjAxNywgMTIsIDE5LCAxNSwgMzEsIDApLAogICAgICAgICAgICAgIFRyYW5zbWlzc2lvblN0YXRlID0gbmV3IElmYWNlVHJhbnNtaXNzaW9uU3RhdGUKICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBJZCA9IDAsCiAgICAgICAgICAgICAgICBUZWNoZGVzYyA9ICIjQ1JFQVRFRCIsCiAgICAgICAgICAgICAgICBYRGVzY3JpcHRpb24gPSBuZXcgVHJhbnNsYXRpb25zKAogICAgICAgICAgICAgICAgICAiPHhtbD48ZGUtREU+RXJzdGVsbHQ8L2RlLURFPjxlbi1HQj5DcmVhdGVkPC9lbi1HQj48L3htbD4iCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIEFkZGl0aW9uYWxJbmZvID0gbmV3IEhhc2hTZXQ8SWZhY2VUcmFuc21pc3Npb25BZGRpdGlvbmFsSW5mbz4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgbmV3IElmYWNlVHJhbnNtaXNzaW9uQWRkaXRpb25hbEluZm8KICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIElkID0gMUwsCiAgICAgICAgICAgICAgICAgICAgQ29uZmlnID0gbmV3IElmYWNlVHJhbnNtaXNzaW9uQWRkaXRpb25hbEluZm9Db25maWcge0xhYmVsID0gIlNvbWUgdHJhbnNtaXNzaW9uIGFkZGl0aW9uYWwgaW5mbyBjb25maWcgbGFiZWwifSwKICAgICAgICAgICAgICAgICAgICBWYWx1ZSA9ICJTb21lIHRyYW5zbWlzc2lvbiBhZGRpdGlvbmFsIGluZm8gdmFsdWUiCiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH07CgogICAgICBmb3IgKGludCBpID0gMDsgaSA8IDM7ICsraSkKICAgICAgewogICAgICAgIGlmYWNlTWVzc2FnZVJlcG9zaXRvcnlNb2NrLkluU2VxdWVuY2Uoc2VxKS5TZXR1cCh4ID0+IHguRmluZE1lc3NhZ2VzKEl0LklzQW55PE1lc3NhZ2VRdWVyeT4oKSkpLlJldHVybnMoCiAgICAgICAgICByZXR1cm5lZE1lc3NhZ2VzLkFzUXVlcnlhYmxlKCkKICAgICAgICApOwogICAgICB9CgogICAgICBpZmFjZU1lc3NhZ2VSZXBvc2l0b3J5TW9jay5JblNlcXVlbmNlKHNlcSkuU2V0dXAocCA9PiBwLkVuZFNlc3Npb24oKSkuVmVyaWZpYWJsZSgpOwoKICAgICAgdmFyIHJlc3VsdHMgPSBzZXJ2aWNlLkZpbmRNZXNzYWdlcyhuZXcgTWVzc2FnZVF1ZXJ5RHRvKCkpOwoKICAgICAgaWZhY2VNZXNzYWdlUmVwb3NpdG9yeU1vY2suVmVyaWZ5KCk7CgogICAgICByZXN1bHRzLlNob3VsZCgpLkhhdmVDb3VudCgxKTsKCiAgICAgIHZhciByZXN1bHQgPSByZXN1bHRzWzBdOwogICAgICByZXN1bHQuSWQuU2hvdWxkKCkuQmUoMTIzNDVMKTsKICAgICAgcmVzdWx0LkNyZWF0ZWQuU2hvdWxkKCkuQmUoIjIwMTctMTItMTlUMTU6Mjk6MDAuMDAwMDAwMCIpOwogICAgICByZXN1bHQuTmFtZS5TaG91bGQoKS5CZSgiU3Vic2NyaWJlciIpOwogICAgICByZXN1bHQuQ29tcG9uZW50SWQuU2hvdWxkKCkuQmUoIkNvbXBvbmVudCBJZCIpOwogICAgICByZXN1bHQuUmVmZXJlbmNlSWQuU2hvdWxkKCkuQmUoIlJlZmVyZW5jZSBJZCIpOwogICAgICByZXN1bHQuRGF0YVN0YXRlLk5hbWUuU2hvdWxkKCkuQmUoIlRlc3QgdHJhbnNsYXRpb24iKTsKCiAgICAgIHJlc3VsdC5BZGRpdGlvbmFsSW5mby5TaG91bGQoKS5IYXZlQ291bnQoMik7CiAgICAgIHJlc3VsdC5BZGRpdGlvbmFsSW5mb1swXS5MYWJlbC5TaG91bGQoKS5CZSgiU29tZSBhZGRpdGlvbmFsIGluZm8gY29uZmlnIGxhYmVsIDEiKTsKICAgICAgcmVzdWx0LkFkZGl0aW9uYWxJbmZvWzBdLlZhbHVlLlNob3VsZCgpLkJlKCJTb21lIGFkZGl0aW9uYWwgaW5mbyB2YWx1ZSAxIik7CiAgICAgIHJlc3VsdC5BZGRpdGlvbmFsSW5mb1sxXS5MYWJlbC5TaG91bGQoKS5CZSgiU29tZSBhZGRpdGlvbmFsIGluZm8gY29uZmlnIGxhYmVsIDIiKTsKICAgICAgcmVzdWx0LkFkZGl0aW9uYWxJbmZvWzFdLlZhbHVlLlNob3VsZCgpLkJlKCJTb21lIGFkZGl0aW9uYWwgaW5mbyB2YWx1ZSAyIik7CgogICAgICByZXN1bHQuVHJhbnNtaXNzaW9ucy5TaG91bGQoKS5IYXZlQ291bnQoMSk7CiAgICAgIHZhciB0cmFuc21pc3Npb24gPSByZXN1bHQuVHJhbnNtaXNzaW9uc1swXTsKCiAgICAgIHRyYW5zbWlzc2lvbi5JZC5TaG91bGQoKS5CZSg2Nzg5MEwpOwogICAgICB0cmFuc21pc3Npb24uTmFtZS5TaG91bGQoKS5CZSgiU2VuZGVyIik7CiAgICAgIHRyYW5zbWlzc2lvbi5DcmVhdGVkLlNob3VsZCgpLkJlKCIyMDE3LTEyLTE5VDE1OjMwOjAwLjAwMDAwMDAiKTsKICAgICAgdHJhbnNtaXNzaW9uLk1vZGlmaWVkLlNob3VsZCgpLkJlKCIyMDE3LTEyLTE5VDE1OjMxOjAwLjAwMDAwMDAiKTsKICAgICAgdHJhbnNtaXNzaW9uLkRhdGFTdGF0ZS5OYW1lLlNob3VsZCgpLkJlKCJDcmVhdGVkIik7CgogICAgICB0cmFuc21pc3Npb24uQWRkaXRpb25hbEluZm8uU2hvdWxkKCkuSGF2ZUNvdW50KDEpOwogICAgICB0cmFuc21pc3Npb24uQWRkaXRpb25hbEluZm9bMF0uTGFiZWwuU2hvdWxkKCkuQmUoIlNvbWUgdHJhbnNtaXNzaW9uIGFkZGl0aW9uYWwgaW5mbyBjb25maWcgbGFiZWwiKTsKICAgICAgdHJhbnNtaXNzaW9uLkFkZGl0aW9uYWxJbmZvWzBdLlZhbHVlLlNob3VsZCgpLkJlKCJTb21lIHRyYW5zbWlzc2lvbiBhZGRpdGlvbmFsIGluZm8gdmFsdWUiKTsKICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLkxtcy5Db3JlLkR0b3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wcf.services</last-search>
+      <last-search>XDescription</last-search>
       <last-offset />
-      <last-pattern>wcf.services</last-pattern>
+      <last-pattern>XDescription</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -100,6 +156,7 @@
         <entry>FindMessages</entry>
         <entry encoding="base64">XDxOb3VuXD4=</entry>
         <entry>wcf.services</entry>
+        <entry>XDescription</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
