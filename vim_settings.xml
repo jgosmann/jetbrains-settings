@@ -12,6 +12,7 @@
         <mark key="." line="48" column="72" />
         <mark key="^" line="48" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.OnlineRouting/Mapping/OnlineRouteWebDtoResolver.cs" timestamp="1550498285374" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/RoutingQueryServiceTest.cs" timestamp="1550496205439">
         <mark key="[" line="33" column="74" />
         <mark key="]" line="33" column="103" />
@@ -44,6 +45,7 @@
         <mark key="." line="84" column="15" />
         <mark key="^" line="84" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Controller/Krones.Lms.RestApi.Controllers/Controller/V2/RoutesController.cs" timestamp="1550497169881" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph.Tests/Mapping/RouteGraphMappingTest.cs" timestamp="1550493624248">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -84,12 +86,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.Dtos/RouteGraph/RouteWebDto.cs" timestamp="1550241340139">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="16" column="63" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="63" />
-        <mark key="^" line="16" column="63" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.Dtos/RouteGraph/RouteWebDto.cs" timestamp="1550497226918">
+        <mark key="'" line="17" column="35" />
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+        <mark key="^" line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1550135314723">
         <mark key="'" line="8" column="19" />
@@ -139,10 +141,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new TranslationResolver()</text>
+        <text>EquipmentEdgeDtos</text>
       </register>
       <register name="-" type="4">
-        <text>new TranslationResolver()</text>
+        <text>EquipmentEdgeDtos</text>
       </register>
       <register name="/" type="4">
         <text>Resolver</text>
