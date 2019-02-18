@@ -3,25 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph.Tests/RouteGraphManagerGetRouteTest.cs" timestamp="1550490896844">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="34" column="79" />
+        <mark key="." line="34" column="79" />
+        <mark key="^" line="34" column="79" />
+      </file>
       <file name="/Dummy.txt" timestamp="1550134480151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Query/RoutingQueryService.cs" timestamp="1550160227370">
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="21" />
-        <mark key="^" line="48" column="21" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Query/RoutingQueryService.cs" timestamp="1550490733603">
+        <mark key="[" line="48" column="80" />
+        <mark key="]" line="48" column="80" />
+        <mark key="." line="48" column="80" />
+        <mark key="^" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceMessage.cs" timestamp="1549972007742">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/RoutingQueryServiceTest.cs" timestamp="1550157301681">
-        <mark key="[" line="47" column="76" />
-        <mark key="]" line="47" column="76" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/RoutingQueryServiceTest.cs" timestamp="1550490744172">
+        <mark key="[" line="47" column="70" />
+        <mark key="]" line="47" column="70" />
         <mark key="^" line="47" column="96" />
-        <mark key="." line="47" column="76" />
+        <mark key="." line="47" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Launcher/RouteGraphLauncher.cs" timestamp="1550490555206">
+        <mark key="[" line="49" column="80" />
+        <mark key="]" line="50" column="41" />
+        <mark key="^" line="50" column="41" />
+        <mark key="." line="50" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Log4Net/MainInterfaceApplication.log4net" timestamp="1550054041448">
         <mark key="[" line="84" column="13" />
@@ -29,26 +41,32 @@
         <mark key="." line="84" column="15" />
         <mark key="^" line="84" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph.Tests/Mapping/RouteGraphMappingTest.cs" timestamp="1550478509916">
-        <mark key="[" line="56" column="49" />
-        <mark key="]" line="56" column="77" />
-        <mark key="." line="56" column="77" />
-        <mark key="^" line="56" column="77" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph.Tests/Mapping/RouteGraphMappingTest.cs" timestamp="1550490664779">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="76" />
+        <mark key="." line="28" column="76" />
+        <mark key="^" line="28" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping/ToDto/PredefinedRouteDtoMapping.cs" timestamp="1550490134217">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="216" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/Dummy.cs" timestamp="1550158858715">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Abstractions/Krones.Lms.Core.Abstractions/Service/Query/IRoutingQueryService.cs" timestamp="1550160153022">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Abstractions/Krones.Lms.Core.Abstractions/Service/Query/IRoutingQueryService.cs" timestamp="1550490277679">
+        <mark key="[" line="12" column="73" />
+        <mark key="]" line="12" column="73" />
+        <mark key="." line="12" column="73" />
+        <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Manager/RouteGraphManager.cs" timestamp="1550477355509">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="12" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Manager/RouteGraphManager.cs" timestamp="1550490250447">
+        <mark key="[" line="82" column="70" />
+        <mark key="]" line="82" column="70" />
+        <mark key="." line="82" column="70" />
+        <mark key="^" line="82" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Dtos/Krones.Lms.Core.Dtos/PredefinedRouteDto.cs" timestamp="1550160697702">
         <mark key="[" line="9" column="13" />
@@ -59,11 +77,12 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/Plant/EquipmentRoutingTemplate.cs" timestamp="1550160474169">
         <mark key="'" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" timestamp="1550487315068">
-        <mark key="[" line="66" column="98" />
-        <mark key="]" line="66" column="95" />
-        <mark key="." line="66" column="95" />
-        <mark key="^" line="66" column="95" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" timestamp="1550490211291">
+        <mark key="'" line="59" column="88" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="73" column="19" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.Dtos/RouteGraph/RouteWebDto.cs" timestamp="1550241340139">
         <mark key="'" line="16" column="35" />
@@ -75,9 +94,11 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1550135314723">
         <mark key="'" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph.Tests/RouteGraphManagerGetRouteGraphDataTest.cs" timestamp="1550478123783">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="41" column="116" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph.Tests/RouteGraphManagerGetRouteGraphDataTest.cs" timestamp="1550490635330">
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="43" column="90" />
+        <mark key="^" line="43" column="90" />
+        <mark key="." line="43" column="90" />
       </file>
     </filemarks>
     <jumps>
@@ -103,55 +124,64 @@
       <jump line="8" column="19" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
       <jump line="17" column="35" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.Dtos/RouteGraph/RouteWebDto.cs" />
       <jump line="9" column="15" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/Plant/EquipmentRoutingTemplate.cs" />
+      <jump line="64" column="13" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
+      <jump line="65" column="9" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping/ToDto/PredefinedRouteDtoMapping.cs" />
+      <jump line="22" column="42" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
+      <jump line="24" column="25" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
+      <jump line="52" column="74" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
+      <jump line="56" column="79" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
+      <jump line="57" column="88" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PEVxdWlwbWVudFJvdXRpbmdUZW1wbGF0ZT4=</text>
       </register>
       <register name="-" type="4">
-        <text>Id = 3, Techdesc = &quot;equipment&quot;</text>
+        <text encoding="base64">PEVxdWlwbWVudFJvdXRpbmdUZW1wbGF0ZT4=</text>
       </register>
       <register name="/" type="4">
-        <text>XDescription</text>
+        <text encoding="base64">XDxkdG9SZXNvbHZlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgTWFwc0VxdWlwbWVudEVkZ2VEZWZhdWx0RHRvQ29ycmVjdGx5KCkKICAgIHsKICAgICAgdmFyIGdpdmVuID0gbmV3IEVxdWlwbWVudEVkZ2VEdG88RXF1aXBtZW50RGVmYXVsdER0bz4KICAgICAgewogICAgICAgICAgICAgIElkID0gMiwKICAgICAgICAgICAgICBFcXVpcG1lbnQgPSBuZXcgRXF1aXBtZW50RGVmYXVsdER0byB7SWQgPSAzLCBUZWNoZGVzYyA9ICJlcXVpcG1lbnQifSwKICAgICAgICAgICAgICBOZXh0RXF1aXBtZW50ID0gbmV3IEVxdWlwbWVudERlZmF1bHREdG8ge0lkID0gNCwgVGVjaGRlc2MgPSAibmV4dEVxdWlwbWVudCJ9LAogICAgICAgICAgICAgIFN0YXRlID0gRXF1aXBtZW50RWRnZVN0YXRlLkF2YWlsYWJsZQogICAgICB9OwoKICAgICAgdmFyIGV4cGVjdGVkID0gbmV3IEVxdWlwbWVudEVkZ2VXZWJEdG8KICAgICAgewogICAgICAgICAgICAgIEF2YWlsYWJsZSA9IHRydWUsCiAgICAgICAgICAgICAgSWQgPSAyLAogICAgICAgICAgICAgIFJvdXRlU3RhdGVDb2xvciA9IG51bGwKICAgICAgfTsKCiAgICAgIG1hcHBpbmcuQ3JlYXRlTWFwcGVyKCkuTWFwPEVxdWlwbWVudEVkZ2VXZWJEdG8+KGdpdmVuKS5TaG91bGRCZUVxdWl2YWxlbnRUbyhleHBlY3RlZCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAuRm9yTWVtYmVyKHRhcmdldCA9PiB0YXJnZXQuRXF1aXBtZW50RWRnZUR0b3MsIHNvdXJjZSA9PiBzb3VyY2UuUmVzb2x2ZVVzaW5nKChzcmMsIHRhcmdldCwgYywgY29udGV4dCkgPT4gZXF1aXBtZW50RWRnZUR0b0J1aWxkZXIuQnVpbGRFcXVpcG1lbnRFZGdlRHRvcyhzcmMuUG9zc2libGVFcXVpcG1lbnRFZGdlcy5Ub0xpc3QoKSwgY29udGV4dC5NYXBwZXIpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgY2ZnLkNyZWF0ZU1hcDxQcmVkZWZpbmVkUm91dGVEdG8sIFJvdXRlV2ViRHRvPigpCiAgICAgICAgICAgIC5Gb3JNZW1iZXIodGFyZ2V0ID0+IHRhcmdldC5EZXNjcmlwdGlvbiwgbWFwID0+IG1hcC5NYXBGcm9tKHNvdXJjZSA9PiBzb3VyY2UuRGVzY3JpcHRpb24pKQogICAgICAgICAgICAuRm9yTWVtYmVyKHRhcmdldCA9PiB0YXJnZXQuRXF1aXBtZW50RWRnZUR0b3MsIG1hcCA9PiBtYXAuTWFwRnJvbShzb3VyY2UgPT4gc291cmNlLkVxdWlwbWVudEVkZ2VEdG9zKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAuRm9yTWVtYmVyKHRhcmdldCA9PiB0YXJnZXQuRXF1aXBtZW50RWRnZUR0b3MsIHNvdXJjZSA9PiBzb3VyY2UuUmVzb2x2ZVVzaW5nKChzcmMsIHRhcmdldCwgYywgY29udGV4dCkgPT4gZXF1aXBtZW50RWRnZUR0b0J1aWxkZXIuQnVpbGRFcXVpcG1lbnRFZGdlRHRvcyhzcmMuUG9zc2libGVFcXVpcG1lbnRFZGdlcy5Ub0xpc3QoKSwgY29udGV4dC5NYXBwZXIpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuRgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICAgICAgIEVxdWlwbWVudFN0YXRlQ29sb3IgPSBuZXcgRXF1aXBtZW50U3RhdGUge0FjdGl2ZSA9ICIjMzJjZDMyIiwgRGV0YWNoZWQgPSAiIzU2NTk1ZSJ9LAogICAgICAgICAgICAgIE92ZXJwcm9kdWN0aW9uQ29sb3IgPSBuZXcgT3ZlcnByb2R1Y3Rpb25Db2xvciB7Q29sb3IgPSAiI2YwODA4MCJ9CiAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGxtc1RyYW5zbGF0b3JNb2NrID0gbmV3IE1vY2s8SVRyYWlpd0l3bGF0b3I+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LlNldHVwKHRyYW5zbGF0b3IgPT4gdHJhbnNsYXRvci5HZXRYbWxUcmFuc2xhdGlvbnMoIjE0MDA0IikpCiAgICAgICAgICAgICAgLlJldHVybnMoIjx4bWw+WG1sVHJhbnNsYXRpb248L3htbD4iKTsKICAgICAgbG1zVHJhbnNsYXRvck1vY2suU2V0dXAodHJhbnNsYXRvciA9PiB0cmFuc2xhdG9yLkdldFhtbFRyYW5zbGF0aW9ucygiMTQwMDciKSkKICAgICAgICAgICAgICAuUmV0dXJucygiPHhtbD5YbWxUcmFuc2xhdGlvbkZvckRldGFjaGVkPC94bWw+Iik7</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWFwcGVyID0gbmV3IFJvdXRlR3JhcGhNYXBwaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICAgICAgIEVxdWlwbWVudFN0YXRlQ29sb3IgPSBuZXcgRXF1aXBtZW50U3RhdGUge0FjdGl2ZSA9ICIjMzJjZDMyIiwgRGV0YWNoZWQgPSAiIzU2NTk1ZSJ9LAogICAgICAgICAgICAgIE92ZXJwcm9kdWN0aW9uQ29sb3IgPSBuZXcgT3ZlcnByb2R1Y3Rpb25Db2xvciB7Q29sb3IgPSAiI2YwODA4MCJ9CiAgICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHJvdXRlcyA9IHJvdXRlR3JhcGhNYW5hZ2VyLkdldFJvdXRlczxSb3V0ZVdlYkR0bz4oKTsKCiAgICAgICAgICB9CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGxtc1RyYW5zbGF0b3JNb2NrID0gbmV3IE1vY2s8SVRyYWlpd0l3bGF0b3I+KCk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">LlNldHVwKHRyYW5zbGF0b3IgPT4gdHJhbnNsYXRvci5HZXRYbWxUcmFuc2xhdGlvbnMoIjE0MDA0IikpCiAgICAgICAgICAgICAgLlJldHVybnMoIjx4bWw+WG1sVHJhbnNsYXRpb248L3htbD4iKTsKICAgICAgbG1zVHJhbnNsYXRvck1vY2suU2V0dXAodHJhbnNsYXRvciA9PiB0cmFuc2xhdG9yLkdldFhtbFRyYW5zbGF0aW9ucygiMTQwMDciKSkKICAgICAgICAgICAgICAuUmV0dXJucygiPHhtbD5YbWxUcmFuc2xhdGlvbkZvckRldGFjaGVkPC94bWw+Iik7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>XDescription</last-search>
+      <last-search encoding="base64">XDxkdG9SZXNvbHZlclw+</last-search>
       <last-offset />
-      <last-pattern>XDescription</last-pattern>
+      <last-pattern encoding="base64">XDxkdG9SZXNvbHZlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -162,6 +192,7 @@
         <entry encoding="base64">XDxOb3VuXD4=</entry>
         <entry>wcf.services</entry>
         <entry>XDescription</entry>
+        <entry encoding="base64">XDxkdG9SZXNvbHZlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>wc</entry>
@@ -180,6 +211,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
