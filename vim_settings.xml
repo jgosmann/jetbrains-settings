@@ -3,31 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph.Tests/RouteGraphManagerGetRouteTest.cs" timestamp="1550491028645">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="47" column="86" />
-      </file>
       <file name="/Dummy.txt" timestamp="1550134480151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Query/RoutingQueryService.cs" timestamp="1550490733603">
-        <mark key="[" line="48" column="80" />
-        <mark key="]" line="48" column="80" />
-        <mark key="." line="48" column="80" />
-        <mark key="^" line="48" column="46" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Query/RoutingQueryService.cs" timestamp="1550495132761">
+        <mark key="[" line="48" column="73" />
+        <mark key="]" line="48" column="72" />
+        <mark key="." line="48" column="72" />
+        <mark key="^" line="48" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/IFACE/IFace.DataMapping/Model/IfaceMessage.cs" timestamp="1549972007742">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/RoutingQueryServiceTest.cs" timestamp="1550496205439">
+        <mark key="[" line="33" column="74" />
+        <mark key="]" line="33" column="103" />
+        <mark key="^" line="33" column="103" />
+        <mark key="." line="33" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/RoutingQueryServiceTest.cs" timestamp="1550493646392">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="46" column="96" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Mappings/RouteMapping.cs" timestamp="1550496150422">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Launcher/Krones.Lms.Core.Launcher.NetFramework/OldLmsFw/ServiceLauncher.cs" timestamp="1550496261739">
+        <mark key="'" line="63" column="62" />
+        <mark key="[" line="63" column="72" />
+        <mark key="]" line="63" column="110" />
+        <mark key="^" line="63" column="110" />
+        <mark key="." line="63" column="110" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Launcher/RouteGraphLauncher.cs" timestamp="1550490555206">
         <mark key="[" line="49" column="80" />
@@ -35,6 +37,7 @@
         <mark key="^" line="50" column="41" />
         <mark key="." line="50" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping/ToDto/EquipmentEdgeDtoMapping.cs" timestamp="1550495508987" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Log4Net/MainInterfaceApplication.log4net" timestamp="1550054041448">
         <mark key="[" line="84" column="13" />
         <mark key="]" line="84" column="15" />
@@ -47,11 +50,12 @@
         <mark key="^" line="102" column="81" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping/ToDto/PredefinedRouteDtoMapping.cs" timestamp="1550490134217">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="216" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping/ToDto/PredefinedRouteDtoMapping.cs" timestamp="1550496075786">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="/Dummy.cs" timestamp="1550494240132">
         <mark key="[" line="0" column="0" />
@@ -76,12 +80,9 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Model/Plant/EquipmentRoutingTemplate.cs" timestamp="1550160474169">
         <mark key="'" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" timestamp="1550493629219">
-        <mark key="'" line="59" column="88" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="66" column="123" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" timestamp="1550496057294">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.Dtos/RouteGraph/RouteWebDto.cs" timestamp="1550241340139">
         <mark key="'" line="16" column="35" />
@@ -132,55 +133,58 @@
       <jump line="52" column="74" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
       <jump line="56" column="79" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
       <jump line="57" column="88" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Module/Krones.Lms.Module.RouteGraph/Mapping/RouteGraphMapping.cs" />
+      <jump line="6" column="35" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Launcher/Krones.Lms.Core.Launcher.NetFramework/OldLmsFw/ServiceLauncher.cs" />
+      <jump line="13" column="39" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Launcher/Krones.Lms.Core.Launcher.NetFramework/OldLmsFw/ServiceLauncher.cs" />
+      <jump line="62" column="62" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Launcher/Krones.Lms.Core.Launcher.NetFramework/OldLmsFw/ServiceLauncher.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgIHB1YmxpYyBzdHJpbmcgRGVzY3JpcHRpb24geyBnZXQ7IHNldDsgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>new TranslationResolver()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIHJlc3VsdCA9IA==</text>
+        <text>new TranslationResolver()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkdG9SZXNvbHZlclw+</text>
+        <text>Resolver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRXF1aXBtZW50RWRnZUR0b01hcHBpbmcoY2ZnKS5DcmVhdGVDZmc8UG9zc2libGVFcXVpcG1lbnRFZGdlLCBFcXVpcG1lbnRFZGdlRHRvPEVxdWlwbWVudEVkZ2VEdG88RXF1aXBtZW50QmFzaWNEdG8+PigpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy50cmFuc2xhdGlvblJlc29sdmVyID0gdHJhbnNsYXRpb25SZXNvbHZlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIHB1YmxpYyBzdHJpbmcgRGVzY3JpcHRpb24geyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZ0YWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLkJJVFMuTW9kZWwuUGxhbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZmcuQ3JlYXRlTWFwPEVxdWlwbWVudFJvdXRpbmdUZW1wbGF0ZSwgUm91dGVXZWJEdG8+KCkuRm9yTWVtYmVyKAogICAgICAgICAgICAgICAgdGFyZ2V0ID0+IHRhcmdldC5EZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIG9wdGlvbnMgPT4gb3B0aW9ucy5SZXNvbHZlVXNpbmcodHJhbnNsYXRpb25SZXNvbHZlciwgc291cmNlID0+IHNvdXJjZS5YRGVzY3JpcHRpb24pCiAgICAgICAgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLkxtcy5Db3JlLkR0b3MuQmFzaWM7Cg==</text>
+        <text encoding="base64">CiAgICAgIHB1YmxpYyBzdHJpbmcgRGVzY3JpcHRpb24geyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLkxtcy5UZXN0Lk1vY2tzLlNlcnZpY2VzLlRyYW5zbGF0aW9uOwo=</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLkJJVFMuTW9kZWwuUGxhbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLkJJVFMuTXVsdGlsYW5ndWFnZTsK</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLkxtcy5Db3JlLkR0b3MuQmFzaWM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHJlc3VsdCA9IG1hcHBpbmcuQ3JlYXRlTWFwcGVyKCkuTWFwPFJvdXRlV2ViRHRvPihnaXZlbik7Cg==</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLkxtcy5UZXN0Lk1vY2tzLlNlcnZpY2VzLlRyYW5zbGF0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9IAo=</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLkJJVFMuTXVsdGlsYW5ndWFnZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdmFyIHJlc3VsdCA9IG1hcHBpbmcuQ3JlYXRlTWFwcGVyKCkuTWFwPFJvdXRlV2ViRHRvPihnaXZlbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkdG9SZXNvbHZlclw+</last-search>
+      <last-search>Resolver</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkdG9SZXNvbHZlclw+</last-pattern>
+      <last-pattern>Resolver</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -192,6 +196,8 @@
         <entry>wcf.services</entry>
         <entry>XDescription</entry>
         <entry encoding="base64">XDxkdG9SZXNvbHZlclw+</entry>
+        <entry>Translation</entry>
+        <entry>Resolver</entry>
       </history-search>
       <history-cmd>
         <entry>wc</entry>
