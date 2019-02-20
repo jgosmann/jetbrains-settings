@@ -16,6 +16,12 @@
         <mark key="]" line="101" column="64" />
         <mark key="." line="101" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping.Tests/ToDto/PredefinedRouteDtoMappingTest.cs" timestamp="1550676547489">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="30" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="57" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Mappings/RouteMapping.cs" timestamp="1550504244925">
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="38" />
@@ -222,44 +228,47 @@
       <jump line="58" column="15" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service.Tests/Query/EquipmentQueryServiceTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;conveyorClassTechdesc&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;conveyorClassTechdesc&quot;</text>
+        <text>Possible</text>
       </register>
       <register name="/" type="4">
         <text>IsCon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRXF1aXBtZW50RGVmYXVsdER0byB7RXF1aXBtZW50R3JvdXAgPSBudWxsfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBFcXVpcG1lbnRHcm91cCA9IG5ldyBFcXVpcG1lbnRHcm91cER0bwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgSWQgPSAzLAogICAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9ICJlcXVpcG1lbnRHcm91cERlc2NyaXB0aW9uMyIsCiAgICAgICAgICAgICAgICAgIFRlY2hkZXNjID0gImVxdWlwbWVudEdyb3VwVGVjaGRlc2MzIgogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBudWxsCg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFtUZXN0Q2FzZShuZXcgRXF1aXBtZW50RGVmYXVsdER0byB7RXF1aXBtZW50R3JvdXAgPSBudWxsfSwgRXhwZWN0ZWRSZXN1bHQgPSBmYWxzZSldCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgIEVxdWlwbWVudEVkZ2UgPQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW1ZhbHVlcygKICAgICAgICAgICAgICAgICAgICBuZXcgRXF1aXBtZW50RGVmYXVsdER0byB7RXF1aXBtZW50R3JvdXAgPSBudWxsfSwKICAgICAgICAgICAgICAgICAgICBuZXcgRXF1aXBtZW50RGVmYXVsdER0byB7RXF1aXBtZW50R3JvdXAgPSBuZXcgRXF1aXBtZW50R3JvdXBEdG8ge1RlY2hkZXNjID0gImZvbyJ9fQogICAgICAgICAgICApXSBFcXVpcG1lbnREZWZhdWx0RHRvIGdpdmVuRXF1aXBtZW50LAogICAgICAgICAgICBbVmFsdWVzKGZhbHNlLCBmYWxzZSldIGJvb2wgaXNDb252ZXlvcikK</text>
+      <register name="3" type="4">
+        <text>new PossibleEquipmentEdge
+      {
+              ID = 1,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIFBvc3NpYmxlRXF1aXBtZW50RWRnZXMgPSBuZXcgTGlzdDxQb3NzaWJsZUVxdWlwbWVudEVkZ2U+CiAgICAgICAgICB7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+      <register name="7" type="4">
+        <text>new EquipmentRoutingTemplate
+      {</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RW5kUHJvamVjdApQcm9qZWN0KCJ7OUExOTEwM0YtMTZGNy00NjY4LUJFNTQtOUExRTdBNEY3NTU2fSIpID0gIktyb25lcy5MbXMuRnJhbWV3b3JrLkV4dGVuc2lvbnMuT3JkZXJDcmVhdGlvbiIsICIuLlwuLlwuLlxGcmFtZXdvcmtcRXh0ZW5zaW9uc1xLcm9uZXMuTG1zLkZyYW1ld29yay5FeHRlbnNpb25zLk9yZGVyQ3JlYXRpb25cS3JvbmVzLkxtcy5GcmFtZXdvcmsuRXh0ZW5zaW9ucy5PcmRlckNyZWF0aW9uLmNzcHJvaiIsICJ7RDQ1QjcwRjUtNEE2RS00MThDLUFDRkItMjhERkQ2ODMyMUYwfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIElkID0gMiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuRHRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRW5hYmxlZCA9IHRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
