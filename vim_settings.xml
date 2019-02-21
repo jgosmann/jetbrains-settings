@@ -28,7 +28,6 @@
         <mark key="^" line="27" column="11" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping/ToDto/EquipmentEdgeDtoMapping.cs" timestamp="1550679320323" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Log4Net/MainInterfaceApplication.log4net" timestamp="1550054041448">
         <mark key="[" line="84" column="13" />
         <mark key="]" line="84" column="15" />
@@ -161,10 +160,10 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Mapping/Krones.Lms.Core.Mapping.Tests/ToDto/EquipmentEdgeDtoMappingTest.cs" timestamp="1550680008824">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="26" />
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Query/EquipmentQueryService.cs" timestamp="1550666299432">
         <mark key="[" line="192" column="0" />
