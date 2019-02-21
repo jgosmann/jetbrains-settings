@@ -6,14 +6,67 @@
       <file name="/Dummy.txt" timestamp="1550753331395">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/routeGraphSaga.js" timestamp="1550755634755">
+        <mark key="[" line="78" column="81" />
+        <mark key="]" line="78" column="80" />
+        <mark key="." line="78" column="80" />
+        <mark key="^" line="78" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/startupSaga.js" timestamp="1550755065010">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/actions/lmsOrderManagementActionCreators.js" timestamp="1550755467485">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/OrderModificationMenu.js" timestamp="1550755500882">
+        <mark key="[" line="70" column="54" />
+        <mark key="]" line="70" column="72" />
+        <mark key="." line="70" column="72" />
+        <mark key="^" line="70" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/test/routeGraphSaga.spec.js" timestamp="1550755589636">
+        <mark key="[" line="439" column="61" />
+        <mark key="]" line="439" column="61" />
+        <mark key="." line="439" column="79" />
+        <mark key="^" line="309" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/lmsOrderManagementSaga.js" timestamp="1550755164633">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3Qgc3RhcnRPcmRlckVkaXRpbmdTYWdhID0gZnVuY3Rpb24qIChycGNDb25uZWN0aW9uLCB7IHBheWxvYWQ6IG9yZGVySWQgfSkgewo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3Qgc3RhcnRPcmRlckVkaXRpbmdTYWdhID0gZnVuY3Rpb24qIChycGNDb25uZWN0aW9uLCB7IHBheWxvYWQ6IG9yZGVySWQgfSkgewo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>startOrderEditing</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
