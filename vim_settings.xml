@@ -3,67 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550749748918">
+      <file name="/Dummy.txt" timestamp="1550753331395">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1550750479522">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/app.js" timestamp="1550750206301">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1550750173203">
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="36" column="55" />
-        <mark key="^" line="36" column="55" />
-        <mark key="." line="36" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/common/js/config/config.js" timestamp="1550750228561">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/common/js/util/urlBuilder.js" timestamp="1550750296950">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="21" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXRobmFtZVRlbXBsYXRlID0gY29uZmlnLnVybC5iYXNlVXJsICsK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>null</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-    </history>
+    <history />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
