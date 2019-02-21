@@ -3,131 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1549975556838">
-        <mark key="[" line="9" column="69" />
-        <mark key="]" line="9" column="78" />
-        <mark key="." line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" timestamp="1549980693398">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="10" />
-        <mark key="." line="81" column="10" />
-        <mark key="^" line="79" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/ShrinkingLabel/ShrinkingLabel.js" timestamp="1549986009057">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="39" />
-        <mark key="^" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1550588820689">
-        <mark key="'" line="11" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/urlBuilder.js" timestamp="1550586433335">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="25" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" timestamp="1550586129523" />
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/util/ReactBridge.js" timestamp="1549640741211">
-        <mark key="'" line="10" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/karma.conf.js" timestamp="1549987136413">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="5" column="21" />
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/common/js/components/Textarea/Textarea.js" timestamp="1550749003128">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="14" />
+        <mark key="^" line="35" column="14" />
+        <mark key="." line="35" column="14" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="92" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/util/ReactBridge.js" />
-      <jump line="10" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/util/ReactBridge.js" />
-      <jump line="27" column="27" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
-      <jump line="75" column="13" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
-      <jump line="76" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Textarea/test/Textarea.spec.js" />
-      <jump line="36" column="46" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/testUtil/testUtils.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="258" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-      <jump line="11" column="39" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiAoYmFzZVVybC5pbmNsdWRlcygnOicpKSB7CiAgICAKICB9Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>jsdom</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxnZXREYXRhRm9yQXR2aXNlRGlzcGxheVw+</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBob3N0ID0gYmFzZVVybC5zbGljZSgwLCBiYXNlVXJsLmxhc3RJbmRleE9mKCc6JykpCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBpZiAoYmFzZVVybC5pbmNsdWRlcygnOicpKSB7CiAgICAKICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhiYXNlVXJsLmxhc3RJbmRleE9mKCc6JykpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkb2N1bWVudC5hY3RpdmVFbGVtZW50KQogIGNvbnNvbGUubG9nKGZvY3VzYWJsZUNvbXBvbmVudC5pbnN0YW5jZSgpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0ZXh0YXJlYSA9IGNvbXBvbmVudC5maW5kKCd0ZXh0YXJlYScpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3VwcG9ydHNGb2N1cyB9IGZyb20gJy4uLy4uLy4uLy4uLy4uL3Rlc3RVdGlsL3Rlc3RVdGlscycK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0ZXh0YXJlYSA9IGNvbXBvbmVudC5maW5kKCd0ZXh0YXJlYScpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2tpcCgpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRvY3VtZW50LmFjdGl2ZUVsZW1lbnQpCiAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coZG9jdW1lbnQuYWN0aXZlRWxlbWVudCkKICAgICAgICAgIH0sIDApCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXREYXRhRm9yQXR2aXNlRGlzcGxheVw+</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxnZXREYXRhRm9yQXR2aXNlRGlzcGxheVw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
-        <entry>focuses</entry>
-        <entry>getDataFor</entry>
-        <entry encoding="base64">XDxnZXREYXRhRm9yQXR2aXNlRGlzcGxheVw+</entry>
-      </history-search>
       <history-cmd>
-        <entry>wc</entry>
         <entry>w</entry>
       </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>
