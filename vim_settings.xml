@@ -6,16 +6,32 @@
       <file name="/Dummy.txt" timestamp="1550828839401">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/texts/textKeys.js" timestamp="1550846246814">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Button/DeleteButton.js" timestamp="1550846282062">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/startupSaga.js" timestamp="1550755065010">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="42" />
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1550845301924">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderForm/CancelButton.js" timestamp="1550846105720">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/texts/textKeys.js" timestamp="1550846273309">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/OrderModificationMenu.js" timestamp="1550755500882">
         <mark key="[" line="70" column="54" />
@@ -23,64 +39,89 @@
         <mark key="." line="70" column="72" />
         <mark key="^" line="70" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/lmsOrderManagementSaga.js" timestamp="1550755164633">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="29" column="42" />
-        <mark key="^" line="29" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/test/getDataForAtviseDisplay.spec.js" timestamp="1550766753820">
         <mark key="[" line="28" column="111" />
         <mark key="]" line="29" column="9" />
         <mark key="^" line="29" column="9" />
         <mark key="." line="29" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/global.xliff" timestamp="1550846348065">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="154" column="28" />
+        <mark key="]" line="154" column="33" />
+        <mark key="." line="154" column="33" />
+        <mark key="^" line="154" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1550845301924">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/lmsOrderManagementSaga.js" timestamp="1550755164633">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/global.xliff" />
+    </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>OK</text>
+      </register>
+      <register name="-" type="4">
+        <text>OK</text>
+      </register>
+      <register name="/" type="4">
+        <text>Ok</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdpdmVuQ29udmV5b3JUZHMgPSAnc29tZSBjb252ZXlvciBUZWNoZGVzY3MnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cmFucy11bml0IGlkPSJTdGF0aWMvU1BDL1dhcC5TcGMuQ29tbW9uLk9rIj4KICAgICAgICAgICAgICAgICAgICA8c291cmNlPk9LPC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldD5PSzwvdGFyZ2V0PgogICAgICAgICAgICAgICAgPC90cmFucy11bml0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbG9ycyBmcm9tICcuLi8uLi9zdHlsZS9jb2xvcnMnCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbG9ycyBmcm9tICcuLi8uLi9zdHlsZS9jb2xvcnMnCg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZU9yZGVyTGFiZWw6ICdXYXAuTG1zT3JkZXJNYW5hZ2VtZW50Lk9yZGVyTGlzdC5EZWxldGVPcmRlckxhYmVsJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogY29sb3JzLmJhY2tncm91bmRTZWNvbmRhcnksCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbG9ycyBmcm9tICcuLi8uLi9zdHlsZS9jb2xvcnMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICBnZXRTdWJzVHlwZVN0dWIud2l0aEFyZ3MoJ2VxdWlwbWVudCBhZGRyZXNzIGluIHJvdXRlR3JhcGhEYXRhIGFuZCBvbmxpbmVSb3V0aW5nRGF0YScpLnJldHVybnMoU3Vic1R5cGUuRVFVSVBNRU5UKQogICAgICBnZXRTdWJzVHlwZVN0dWIud2l0aEFyZ3MoJ2VxdWlwbWVudCBhZGRyZXNzIG9ubHkgaW4gcm91dGVHcmFwaERhdGEnKS5yZXR1cm5zKFN1YnNUeXBlLkVRVUlQTUVOVCkKICAgICAgZ2V0U3Vic1R5cGVTdHViLndpdGhBcmdzKCdlZGdlIGFkZHJlc3MnKS5yZXR1cm5zKFN1YnNUeXBlLkVER0UpCiAgICAgIGdldFN1YnNUeXBlU3R1Yi53aXRoQXJncygnZWRnZSBhZGRyZXNzIG9ubHkgaW4gcm91dGVHcmFwaERhdGEnKS5yZXR1cm5zKFN1YnNUeXBlLkVER0UpCgogICAgICBoaWdobGlnaHRDb252ZXlvcnNJblJvdXRlR3JhcGhTdHViCiAgICAgICAgICAud2l0aEFyZ3MoZ2l2ZW5Sb3V0ZUdyYXBoRGF0YSwgZ2l2ZW5Db252ZXlvclRkcykKICAgICAgICAgIC5yZXR1cm5zKHJvdXRlR3JhcGhEYXRhV2l0aEVkZ2VzKQogICAgfSkK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogY29sb3JzLmJhY2tncm91bmRTZWNvbmRhcnksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvdXRlR3JhcGhEYXRhV2l0aEVkZ2VzID0gewogICAgICAnZXF1aXBtZW50IGFkZHJlc3MgaW4gcm91dGVHcmFwaERhdGEgYW5kIG9ubGluZVJvdXRpbmdEYXRhJzogewogICAgICAgICdvbGQgZXF1aXBtZW50IGtleSc6ICdvbGQgZXF1aXBtZW50IGRhdGEnLAogICAgICAgICdjb21tb24ga2V5JzogJ3JvdXRlIGdyYXBoIHZhbHVlJwogICAgICB9LAogICAgICAnZXF1aXBtZW50IGFkZHJlc3Mgb25seSBpbiByb3V0ZUdyYXBoRGF0YSc6IHsgJ3NvbWUgZXF1aXBtZW50IGtleSc6ICdzb21lIGVxdWlwbWVudCBkYXRhJyB9LAogICAgICAnZWRnZSBhZGRyZXNzJzogeyAnb2xkIGVkZ2Uga2V5JzogJ29sZCBlZGdlIHZhbHVlJywgJ2NvbW1vbiBrZXknOiAncm91dGUgZ3JhcGggdmFsdWUnIH0sCiAgICAgICdlZGdlIGFkZHJlc3Mgb25seSBpbiByb3V0ZUdyYXBoRGF0YSc6IHsgJ3NvbWUgZWRnZSBrZXknOiAnc29tZSBlZGdlIHZhbHVlJyB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICBnZXRTdWJzVHlwZVN0dWIud2l0aEFyZ3MoJ2VxdWlwbWVudCBhZGRyZXNzIGluIHJvdXRlR3JhcGhEYXRhIGFuZCBvbmxpbmVSb3V0aW5nRGF0YScpLnJldHVybnMoU3Vic1R5cGUuRVFVSVBNRU5UKQogICAgICBnZXRTdWJzVHlwZVN0dWIud2l0aEFyZ3MoJ2VxdWlwbWVudCBhZGRyZXNzIG9ubHkgaW4gcm91dGVHcmFwaERhdGEnKS5yZXR1cm5zKFN1YnNUeXBlLkVRVUlQTUVOVCkKICAgICAgZ2V0U3Vic1R5cGVTdHViLndpdGhBcmdzKCdlZGdlIGFkZHJlc3MnKS5yZXR1cm5zKFN1YnNUeXBlLkVER0UpCiAgICAgIGdldFN1YnNUeXBlU3R1Yi53aXRoQXJncygnZWRnZSBhZGRyZXNzIG9ubHkgaW4gcm91dGVHcmFwaERhdGEnKS5yZXR1cm5zKFN1YnNUeXBlLkVER0UpCgogICAgICBoaWdobGlnaHRDb252ZXlvcnNJblJvdXRlR3JhcGhTdHViCiAgICAgICAgICAud2l0aEFyZ3MoZ2l2ZW5Sb3V0ZUdyYXBoRGF0YSwgZ2l2ZW5Db252ZXlvclRkcykKICAgICAgICAgIC5yZXR1cm5zKHJvdXRlR3JhcGhEYXRhV2l0aEVkZ2VzKQogICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgnZ2l2ZW4gcm91dGVHcmFwaERhdGEgYW5kIGNvbnZleW9yIHRlY2hkZXNjcycsIGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvdXRlR3JhcGhEYXRhV2l0aEVkZ2VzID0gewogICAgICAnZXF1aXBtZW50IGFkZHJlc3MgaW4gcm91dGVHcmFwaERhdGEgYW5kIG9ubGluZVJvdXRpbmdEYXRhJzogewogICAgICAgICdvbGQgZXF1aXBtZW50IGtleSc6ICdvbGQgZXF1aXBtZW50IGRhdGEnLAogICAgICAgICdjb21tb24ga2V5JzogJ3JvdXRlIGdyYXBoIHZhbHVlJwogICAgICB9LAogICAgICAnZXF1aXBtZW50IGFkZHJlc3Mgb25seSBpbiByb3V0ZUdyYXBoRGF0YSc6IHsgJ3NvbWUgZXF1aXBtZW50IGtleSc6ICdzb21lIGVxdWlwbWVudCBkYXRhJyB9LAogICAgICAnZWRnZSBhZGRyZXNzJzogeyAnb2xkIGVkZ2Uga2V5JzogJ29sZCBlZGdlIHZhbHVlJywgJ2NvbW1vbiBrZXknOiAncm91dGUgZ3JhcGggdmFsdWUnIH0sCiAgICAgICdlZGdlIGFkZHJlc3Mgb25seSBpbiByb3V0ZUdyYXBoRGF0YSc6IHsgJ3NvbWUgZWRnZSBrZXknOiAnc29tZSBlZGdlIHZhbHVlJyB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdpdmVuUm91dGVHcmFwaERhdGEgPSAnc29tZSByb3V0ZSBncmFwaCBkYXRhJwogICAgY29uc3QgZ2l2ZW5Db252ZXlvclRkcyA9ICdzb21lIGNvbnZleW9yIFRlY2hkZXNjcycK</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnZ2l2ZW4gcm91dGVHcmFwaERhdGEgYW5kIGNvbnZleW9yIHRlY2hkZXNjcycsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGhpZ2hsaWdodENvbnZleW9yc0luUm91dGVHcmFwaCBmcm9tICcuL2hpZ2hsaWdodENvbnZleW9yc0luUm91dGVHcmFwaCcK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdpdmVuUm91dGVHcmFwaERhdGEgPSAnc29tZSByb3V0ZSBncmFwaCBkYXRhJwogICAgY29uc3QgZ2l2ZW5Db252ZXlvclRkcyA9ICdzb21lIGNvbnZleW9yIFRlY2hkZXNjcycK</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGhpZ2hsaWdodENvbnZleW9yc0luUm91dGVHcmFwaCBmcm9tICcuL2hpZ2hsaWdodENvbnZleW9yc0luUm91dGVHcmFwaCcK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Y29uc3Qgc3RhcnRPcmRlckVkaXRpbmdTYWdhID0gZnVuY3Rpb24qIChycGNDb25uZWN0aW9uLCB7IHBheWxvYWQ6IG9yZGVySWQgfSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>padding</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Ok</last-search>
+      <last-offset />
+      <last-pattern>Ok</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>Ok</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
