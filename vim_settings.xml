@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1550826158633">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Notification/Notification.js" timestamp="1550827574925">
+        <mark key="[" line="170" column="59" />
+        <mark key="]" line="171" column="16" />
+        <mark key="." line="171" column="16" />
+        <mark key="^" line="171" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/startupSaga.js" timestamp="1550755065010">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="42" />
@@ -39,8 +45,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICBnZXRTdWJzVHlwZVN0dWIud2l0aEFyZ3MoJ2VxdWlwbWVudCBhZGRyZXNzIGluIHJvdXRlR3JhcGhEYXRhIGFuZCBvbmxpbmVSb3V0aW5nRGF0YScpLnJldHVybnMoU3Vic1R5cGUuRVFVSVBNRU5UKQogICAgICBnZXRTdWJzVHlwZVN0dWIud2l0aEFyZ3MoJ2VxdWlwbWVudCBhZGRyZXNzIG9ubHkgaW4gcm91dGVHcmFwaERhdGEnKS5yZXR1cm5zKFN1YnNUeXBlLkVRVUlQTUVOVCkKICAgICAgZ2V0U3Vic1R5cGVTdHViLndpdGhBcmdzKCdlZGdlIGFkZHJlc3MnKS5yZXR1cm5zKFN1YnNUeXBlLkVER0UpCiAgICAgIGdldFN1YnNUeXBlU3R1Yi53aXRoQXJncygnZWRnZSBhZGRyZXNzIG9ubHkgaW4gcm91dGVHcmFwaERhdGEnKS5yZXR1cm5zKFN1YnNUeXBlLkVER0UpCgogICAgICBoaWdobGlnaHRDb252ZXlvcnNJblJvdXRlR3JhcGhTdHViCiAgICAgICAgICAud2l0aEFyZ3MoZ2l2ZW5Sb3V0ZUdyYXBoRGF0YSwgZ2l2ZW5Db252ZXlvclRkcykKICAgICAgICAgIC5yZXR1cm5zKHJvdXRlR3JhcGhEYXRhV2l0aEVkZ2VzKQogICAgfSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICBnZXRTdWJzVHlwZVN0dWIud2l0aEFyZ3MoJ2VxdWlwbWVudCBhZGRyZXNzIGluIHJvdXRlR3JhcGhEYXRhIGFuZCBvbmxpbmVSb3V0aW5nRGF0YScpLnJldHVybnMoU3Vic1R5cGUuRVFVSVBNRU5UKQogICAgICBnZXRTdWJzVHlwZVN0dWIud2l0aEFyZ3MoJ2VxdWlwbWVudCBhZGRyZXNzIG9ubHkgaW4gcm91dGVHcmFwaERhdGEnKS5yZXR1cm5zKFN1YnNUeXBlLkVRVUlQTUVOVCkKICAgICAgZ2V0U3Vic1R5cGVTdHViLndpdGhBcmdzKCdlZGdlIGFkZHJlc3MnKS5yZXR1cm5zKFN1YnNUeXBlLkVER0UpCiAgICAgIGdldFN1YnNUeXBlU3R1Yi53aXRoQXJncygnZWRnZSBhZGRyZXNzIG9ubHkgaW4gcm91dGVHcmFwaERhdGEnKS5yZXR1cm5zKFN1YnNUeXBlLkVER0UpCgogICAgICBoaWdobGlnaHRDb252ZXlvcnNJblJvdXRlR3JhcGhTdHViCiAgICAgICAgICAud2l0aEFyZ3MoZ2l2ZW5Sb3V0ZUdyYXBoRGF0YSwgZ2l2ZW5Db252ZXlvclRkcykKICAgICAgICAgIC5yZXR1cm5zKHJvdXRlR3JhcGhEYXRhV2l0aEVkZ2VzKQogICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>padding</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHJvdXRlR3JhcGhEYXRhV2l0aEVkZ2VzID0gewogICAgICAnZXF1aXBtZW50IGFkZHJlc3MgaW4gcm91dGVHcmFwaERhdGEgYW5kIG9ubGluZVJvdXRpbmdEYXRhJzogewogICAgICAgICdvbGQgZXF1aXBtZW50IGtleSc6ICdvbGQgZXF1aXBtZW50IGRhdGEnLAogICAgICAgICdjb21tb24ga2V5JzogJ3JvdXRlIGdyYXBoIHZhbHVlJwogICAgICB9LAogICAgICAnZXF1aXBtZW50IGFkZHJlc3Mgb25seSBpbiByb3V0ZUdyYXBoRGF0YSc6IHsgJ3NvbWUgZXF1aXBtZW50IGtleSc6ICdzb21lIGVxdWlwbWVudCBkYXRhJyB9LAogICAgICAnZWRnZSBhZGRyZXNzJzogeyAnb2xkIGVkZ2Uga2V5JzogJ29sZCBlZGdlIHZhbHVlJywgJ2NvbW1vbiBrZXknOiAncm91dGUgZ3JhcGggdmFsdWUnIH0sCiAgICAgICdlZGdlIGFkZHJlc3Mgb25seSBpbiByb3V0ZUdyYXBoRGF0YSc6IHsgJ3NvbWUgZWRnZSBrZXknOiAnc29tZSBlZGdlIHZhbHVlJyB9CiAgICB9Cg==</text>
@@ -61,7 +67,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dW5zZXQg</text>
+        <text>padding</text>
       </register>
     </registers>
     <search>
@@ -85,6 +91,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
