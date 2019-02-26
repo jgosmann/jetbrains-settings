@@ -17,9 +17,6 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/global.xliff" timestamp="1550846348065">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderForm/CancelButton.js" timestamp="1550846105720">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="43" />
@@ -29,11 +26,6 @@
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
         <mark key="^" line="0" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1550845301924">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/texts/textKeys.js" timestamp="1550846273309">
         <mark key="[" line="2" column="27" />
@@ -47,12 +39,6 @@
         <mark key="." line="70" column="72" />
         <mark key="^" line="70" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/lmsOrderManagementSaga.js" timestamp="1550755164633">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="29" column="42" />
-        <mark key="^" line="29" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/test/getDataForAtviseDisplay.spec.js" timestamp="1550766753820">
         <mark key="[" line="28" column="111" />
         <mark key="]" line="29" column="9" />
@@ -61,6 +47,20 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Builder/EquipmentEdgeTemplatesBuilder.cs" timestamp="1551176580775">
         <mark key="'" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/global.xliff" timestamp="1550846348065">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/AtviseDisplay.js" timestamp="1550845301924">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/lmsOrderManagementSaga.js" timestamp="1550755164633">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
       </file>
     </filemarks>
     <jumps>
