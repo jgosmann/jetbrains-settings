@@ -59,10 +59,14 @@
         <mark key="^" line="29" column="9" />
         <mark key="." line="29" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Builder/EquipmentEdgeTemplatesBuilder.cs" timestamp="1551176580775">
+        <mark key="'" line="8" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/global.xliff" />
       <jump line="27" column="39" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Button/test/DeleteButton.spec.js" />
+      <jump line="8" column="15" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Core/Service/Krones.Lms.Core.Service/Builder/EquipmentEdgeTemplatesBuilder.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
