@@ -42,6 +42,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" timestamp="1551275384794">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="1370" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/OrderModificationMenu.js" timestamp="1550755500882">
         <mark key="[" line="70" column="54" />
         <mark key="]" line="70" column="72" />
@@ -59,6 +65,13 @@
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" timestamp="1551275420377">
+        <mark key="'" line="315" column="29" />
+        <mark key="[" line="325" column="30" />
+        <mark key="]" line="326" column="44" />
+        <mark key="^" line="326" column="44" />
+        <mark key="." line="326" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/texts/textKeys.js" timestamp="1551263721890">
         <mark key="[" line="8" column="1" />
@@ -86,6 +99,11 @@
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/selectors/lmsOrderManagementSelectors.js" timestamp="1551275843196">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="31" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" timestamp="1551263712910">
         <mark key="'" line="0" column="0" />
       </file>
@@ -104,55 +122,84 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" />
       <jump line="0" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/components/AdditionalInfoControlPanel/test/RebuildButton.spec.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/components/AdditionalInfoControlPanel/test/RebuildButton.spec.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="135" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" />
+      <jump line="343" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" />
+      <jump line="111" column="22" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="1428" column="63" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" />
+      <jump line="325" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="336" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="30" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="117" column="42" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="121" column="45" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="122" column="16" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="125" column="61" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="133" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="138" column="26" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="139" column="45" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="145" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="187" column="16" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="209" column="51" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="308" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="309" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="310" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="315" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" />
+      <jump line="451" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" />
+      <jump line="1415" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" />
+      <jump line="1369" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" />
+      <jump line="1439" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Zusätzliche Informationen neu bauen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBnZXRMYXN0UmVzdEFwaVVwZGF0ZU9mT3JkZXJzLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Zusätzliche Informationen neu bauen</text>
+        <text>[orderFrom, orderTo]</text>
       </register>
       <register name="/" type="4">
-        <text>transmission</text>
+        <text>MOVE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHRyYW5zLXVuaXQgaWQ9IlN0YXRpYy9TUEMvV2FwLlYySW50ZXJmYWNlTW9uaXRvcmluZy5BZG1pbi5BZGRpdGlvbmFsSW5mb0NvbnRyb2xQYW5lbC5TdWJUaXRsZSI+CiAgICAgICAgPHNvdXJjZT5CdXR0b24gYW5rbGlja2VuLCB1bSB6dXPkdHpsaWNoZSBJbmZvcm1hdGlvbmVuIHp1IGRlbiBOYWNocmljaHRlbiBlcm5ldXQgenUgYmF1ZW4uPC9zb3VyY2U+CiAgICAgICAgPHRhcmdldD5QcmVzcyBidXR0b24gdG8gcmVidWlsZCBhZGRpdGlvbmFsIGluZm9ybWF0aW9uIGZvciBtZXNzYWdlcyBhbmQgdHJhbnNtaXNzaW9ucy48L3RhcmdldD4KICAgICAgPC90cmFucy11bml0Pgo=</text>
+        <text encoding="base64">ICAgICAgaXQoJ3NldHMgdGhlIGxhc3RSZXN0QXBpVXBkYXRlT2ZPcmRlcnMgdGltZXN0YW1wJywgZnVuY3Rpb24gKCkgewogICAgICAgIGFjdGlvbiA9IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzLm1vdmVPcmRlckRvbmUoW29yZGVyRnJvbSwgb3JkZXJUb10pCiAgICAgICAgbmV3U3RhdGUgPSBsbXNPcmRlck1hbmFnZW1lbnRSZWR1Y2VyKHN0YXRlLCBhY3Rpb24pCiAgICAgICAgZXhwZWN0KG5ld1N0YXRlLmxhc3RSZXN0QXBpVXBkYXRlT2ZPcmRlcnMpLnRvLmVxdWFsKE5PVykKICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgX19SZXdpcmVBUElfXywgUmVidWlsZEJ1dHRvbiAgfSBmcm9tICcuLi9SZWJ1aWxkQnV0dG9uJwo=</text>
+        <text encoding="base64">ICBnZXRMYXN0UmVzdEFwaVVwZGF0ZU9mT3JkZXJzLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNpbm9uCg==</text>
+        <text encoding="base64">ICBnZXRMYXN0UmVzdEFwaVVwZGF0ZU9mT3JkZXJzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudCA9IHNoYWxsb3coPEFkZGl0aW9uYWxJbmZvQ29udHJvbFBhbmVsLz4pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgTk9XID0gMTIzNDUKICAgICAgbGV0IGNsb2NrCgogICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jayA9IHNpbm9uLnVzZUZha2VUaW1lcnMoTk9XKQogICAgICB9KQoKICAgICAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jay5yZXNldCgpCiAgICAgIH0pCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXQoJycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZXNjcmliZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvY2FsaXplU3R1Yi5yZXR1cm5zKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jay5yZXN0b3JlKCkKICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2FsaXplLnJldHVkZAo=</text>
+        <text encoding="base64">CiAgICAgICAgY2xvY2sgPSBzaW5vbi51c2VGYWtlVGltZXJzKE5PVykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXh0S2V5cyA9IHsKICAgIGNvbW1vbjogewogICAgICAKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgTk9XID0gMTIzNDUKICAgICAgbGV0IGNsb2NrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpcm1hdGlvbkJ1dHRvbiBmcm9tICcuLi9Db25maXJtYXRpb25CdXR0b24nCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>transmission</last-search>
+      <last-search>MOVE</last-search>
       <last-offset />
-      <last-pattern>transmission</last-pattern>
+      <last-pattern>MOVE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -160,6 +207,12 @@
       <history-search>
         <entry>Ok</entry>
         <entry>transmission</entry>
+        <entry>MOVE_ORDER</entry>
+        <entry encoding="base64">XDxvcmRlcnNcPg==</entry>
+        <entry>clocks</entry>
+        <entry>clock</entry>
+        <entry>DELETE</entry>
+        <entry>MOVE</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -179,6 +232,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
