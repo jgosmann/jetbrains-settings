@@ -12,6 +12,12 @@
       <file name="/Dummy.txt" timestamp="1551092661925">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/test/ordersSaga.spec.js" timestamp="1551281109728">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="110" />
+        <mark key="^" line="43" column="48" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/texts/textKeys.js" timestamp="1550846246814">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -154,10 +160,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBnZXRMYXN0UmVzdEFwaVVwZGF0ZU9mT3JkZXJzLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0TGFzdFJlc3RBcGlVcGRhdGVPZk9yZGVycywgZ2V0U2VsZWN0ZWRPcmRlcklkIH0gZnJvbSAnLi4vLi4vc2VsZWN0b3JzL2xtc09yZGVyTWFuYWdlbWVudFNlbGVjdG9ycycK</text>
       </register>
       <register name="-" type="4">
-        <text>[orderFrom, orderTo]</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>MOVE</text>
@@ -166,31 +172,31 @@
         <text encoding="base64">ICAgICAgaXQoJ3NldHMgdGhlIGxhc3RSZXN0QXBpVXBkYXRlT2ZPcmRlcnMgdGltZXN0YW1wJywgZnVuY3Rpb24gKCkgewogICAgICAgIGFjdGlvbiA9IGxtc09yZGVyTWFuYWdlbWVudEFjdGlvbkNyZWF0b3JzLm1vdmVPcmRlckRvbmUoW29yZGVyRnJvbSwgb3JkZXJUb10pCiAgICAgICAgbmV3U3RhdGUgPSBsbXNPcmRlck1hbmFnZW1lbnRSZWR1Y2VyKHN0YXRlLCBhY3Rpb24pCiAgICAgICAgZXhwZWN0KG5ld1N0YXRlLmxhc3RSZXN0QXBpVXBkYXRlT2ZPcmRlcnMpLnRvLmVxdWFsKE5PVykKICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXRMYXN0UmVzdEFwaVVwZGF0ZU9mT3JkZXJzLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0TGFzdFJlc3RBcGlVcGRhdGVPZk9yZGVycywgZ2V0U2VsZWN0ZWRPcmRlcklkIH0gZnJvbSAnLi4vLi4vc2VsZWN0b3JzL2xtc09yZGVyTWFuYWdlbWVudFNlbGVjdG9ycycK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBnZXRMYXN0UmVzdEFwaVVwZGF0ZU9mT3JkZXJzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgTk9XID0gMTIzNDUKICAgICAgbGV0IGNsb2NrCgogICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jayA9IHNpbm9uLnVzZUZha2VUaW1lcnMoTk9XKQogICAgICB9KQoKICAgICAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jay5yZXNldCgpCiAgICAgIH0pCgo=</text>
+        <text encoding="base64">ICBnZXRMYXN0UmVzdEFwaVVwZGF0ZU9mT3JkZXJzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXQoJycpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgTk9XID0gMTIzNDUKICAgICAgbGV0IGNsb2NrCgogICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jayA9IHNpbm9uLnVzZUZha2VUaW1lcnMoTk9XKQogICAgICB9KQoKICAgICAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jay5yZXNldCgpCiAgICAgIH0pCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXQoJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jay5yZXN0b3JlKCkKICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgY2xvY2sgPSBzaW5vbi51c2VGYWtlVGltZXJzKE5PVykK</text>
+        <text encoding="base64">ICAgICAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICBjbG9jay5yZXN0b3JlKCkKICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgTk9XID0gMTIzNDUKICAgICAgbGV0IGNsb2NrCg==</text>
+        <text encoding="base64">CiAgICAgICAgY2xvY2sgPSBzaW5vbi51c2VGYWtlVGltZXJzKE5PVykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgTk9XID0gMTIzNDUKICAgICAgbGV0IGNsb2NrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
