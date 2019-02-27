@@ -23,12 +23,8 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" timestamp="1551263973109">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" timestamp="1551269707897">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="438" column="52" />
-        <mark key="]" line="438" column="52" />
-        <mark key="." line="438" column="52" />
-        <mark key="^" line="438" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderForm/CancelButton.js" timestamp="1550846105720">
         <mark key="[" line="5" column="0" />
@@ -111,10 +107,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>Zusätzliche Informationen neu bauen</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Zusätzliche Informationen neu bauen</text>
       </register>
       <register name="/" type="4">
         <text>transmission</text>
