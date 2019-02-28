@@ -3,59 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/components/AdditionalInfoControlPanel/test/RebuildButton.spec.js" timestamp="1551264922686">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/ordersSaga.js" timestamp="1551343450190">
-        <mark key="[" line="14" column="62" />
-        <mark key="]" line="14" column="62" />
-        <mark key="^" line="14" column="62" />
-        <mark key="." line="14" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/test/ordersSaga.spec.js" timestamp="1551341657709">
         <mark key="'" line="108" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1551092661925">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/texts/textKeys.js" timestamp="1550846246814">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/startupSaga.js" timestamp="1550755065010">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" timestamp="1551269707897">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderForm/CancelButton.js" timestamp="1550846105720">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Button/test/DeleteButton.spec.js" timestamp="1550849711395">
-        <mark key="[" line="0" column="61" />
-        <mark key="]" line="0" column="61" />
-        <mark key="." line="0" column="61" />
-        <mark key="^" line="0" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/texts/textKeys.js" timestamp="1550846273309">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/test/lmsOrderManagementReducer.spec.js" timestamp="1551341024199">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="65" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/Order/OrderModificationMenu.js" timestamp="1550755500882">
         <mark key="[" line="70" column="54" />
@@ -63,30 +21,11 @@
         <mark key="." line="70" column="72" />
         <mark key="^" line="70" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/test/getDataForAtviseDisplay.spec.js" timestamp="1550766753820">
-        <mark key="[" line="28" column="111" />
-        <mark key="]" line="29" column="9" />
-        <mark key="^" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/components/AdditionalInfoControlPanel/AdditionalInfoControlPanel.js" timestamp="1551263800767">
-        <mark key="[" line="4" column="67" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/reducers/lmsOrderManagementReducer.js" timestamp="1551340967695">
-        <mark key="'" line="32" column="2" />
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/texts/textKeys.js" timestamp="1551263721890">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="22" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1551344862206">
+        <mark key="[" line="228" column="16" />
+        <mark key="]" line="229" column="21" />
+        <mark key="." line="229" column="21" />
+        <mark key="^" line="229" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/components/AdditionalInfoControlPanel/RebuildButton.js" timestamp="1551263735472">
         <mark key="[" line="8" column="6" />
@@ -102,19 +41,59 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/test/lmsOrderManagementSaga.spec.js" timestamp="1551341067197">
-        <mark key="'" line="164" column="32" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/components/AdditionalInfoControlPanel/test/RebuildButton.spec.js" timestamp="1551264922686">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551092661925">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/startupSaga.js" timestamp="1550755065010">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" timestamp="1551269707897">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Button/test/DeleteButton.spec.js" timestamp="1550849711395">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+        <mark key="^" line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/texts/textKeys.js" timestamp="1550846273309">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/AtviseDisplay/test/getDataForAtviseDisplay.spec.js" timestamp="1550766753820">
+        <mark key="[" line="28" column="111" />
+        <mark key="]" line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/components/AdditionalInfoControlPanel/AdditionalInfoControlPanel.js" timestamp="1551263800767">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/admin/js/texts/textKeys.js" timestamp="1551263721890">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/lmsOrderManagementSaga.js" timestamp="1550755164633">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="42" />
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/selectors/lmsOrderManagementSelectors.js" timestamp="1551275843196">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="31" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" timestamp="1551263712910">
         <mark key="'" line="0" column="0" />
@@ -171,10 +150,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>, overflowY: 'scroll'</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, overflowY: 'scroll'</text>
       </register>
       <register name="/" type="4">
         <text>NOW</text>
@@ -183,31 +162,31 @@
         <text encoding="base64">ICAgICAgZGVzY3JpYmUoJ2FuZCB0aGUgbGFzdFJlc3RBcGlVcGRhdGVPZk9yZGVycyB0aW1lb3V0IGhhcyBub3QgcGFzc2VkJywgZnVuY3Rpb24gKCkgewogICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgbGFzdFJlc3RBcGlVcGRhdGVPZk9yZGVycyA9IE5PVyAtIGlnbm9yZVB1c2hBZnRlclJlc3RBcGlVcGRhdGVUaW1lb3V0SW5NaWxsaXNlY29uZHMgLSAxCiAgICAgICAgfSkKCiAgICAgICAgaXQoJ2RvZXMgbm90IHB1dCB0aGUgb3JkZXJEYXRhUmVjZWl2ZWQgYWN0aW9uJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgZXhwZWN0U2FnYVRvKCkubm90LnB1dChsbXNPcmRlck1hbmFnZW1lbnRBY3Rpb25DcmVhdG9ycy5vcmRlckRhdGFSZWNlaXZlZCgnc29tZSBvcmRlciBkYXRhJykpCiAgICAgICAgfSkKICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgIERhdGUubm93LnJlc3RvcmUoKQogIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgIC8vIERhdGUubm93LnJlc3RvcmUoKQogIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGRhdGVOb3dTdHViID0gc2lub24uc3R1YihEYXRlLCAnbm93JykKICAgIC8vIGRhdGVOb3dTdHViLnJldHVybnMoTk9XKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Nyb2xsYmFyc1JlZj17dGhpcy5zY3JvbGxiYXJzUmVmfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgZGF0ZU5vd1N0dWIK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQ3VzdG9tU2Nyb2xsYmFyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFmdGVyRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgIC8vIGNsb2NrLnJlc2V0KCkKICAgIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxDdXN0b21TY3JvbGxiYXIKICAgICAgICAgICAgc2Nyb2xsYmFyc1JlZj17dGhpcy5zY3JvbGxiYXJzUmVmfQogICAgICAgICAgICBzY3JvbGxiYXJTdHlsZT17eyByaWdodDogMCwgdG9wOiBtZWFzdXJlbWVudHMuZGl2aWRlckhlaWdodCwgYm90dG9tOiAwIH19CiAgICAgICAgICA+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2xvY2sgPSBzaW5vbi51c2VGYWtlVGltZXJzKE5PVykK</text>
+        <text encoding="base64">CiAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgIERhdGUubm93LnJlc3RvcmUoKQogIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygneScpCg==</text>
+        <text encoding="base64">CiAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgIC8vIERhdGUubm93LnJlc3RvcmUoKQogIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh4LCBEYXRlLm5vdygpKQo=</text>
+        <text encoding="base64">ICAgIC8vIGRhdGVOb3dTdHViID0gc2lub24uc3R1YihEYXRlLCAnbm93JykKICAgIC8vIGRhdGVOb3dTdHViLnJldHVybnMoTk9XKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCAgPSB5aWVsZCBzZWxlY3QoZ2V0TGFzdFJlc3RBcGlVcGRhdGVPZk9yZGVycykK</text>
+        <text encoding="base64">ICBsZXQgZGF0ZU5vd1N0dWIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
