@@ -2,14 +2,37 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1551344299431">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCgkgIDxhZGQgbmFtZT0iS0Jhc2VDb25uZWN0aW9uU3RyaW5nIiBjb25uZWN0aW9uU3RyaW5nPSJTZXJ2ZXI9bG9jYWxob3N0O0luaXRpYWwgQ2F0YWxvZz1NRVM7VXNlciBJRD1tZXM7cGFzc3dvcmQ9S3JvbmVzMWl0ayIgLz4KCSAgPGFkZCBuYW1lPSJLQmFzZVZhbHVlc0Nvbm5lY3Rpb25TdHJpbmciIGNvbm5lY3Rpb25TdHJpbmc9IlNlcnZlcj1sb2NhbGhvc3Q7SW5pdGlhbCBDYXRhbG9nPU1FUztVc2VyIElEPW1lcztwYXNzd29yZD1Lcm9uZXMxaXRrIiAvPgoJICA8YWRkIG5hbWU9IktCYXNlQXJjaGl2ZUNvbm5lY3Rpb25TdHJpbmciIGNvbm5lY3Rpb25TdHJpbmc9IlNlcnZlcj1sb2NhbGhvc3Q7SW5pdGlhbCBDYXRhbG9nPU1FUztVc2VyIElEPW1lcztwYXNzd29yZD1Lcm9uZXMxaXRrIiAvPgoJICA8YWRkIG5hbWU9IklGYWNlQ29ubmVjdGlvblN0cmluZyIgY29ubmVjdGlvblN0cmluZz0iU2VydmVyPWxvY2FsaG9zdDtJbml0aWFsIENhdGFsb2c9TUVTO1VzZXIgSUQ9bWVzO3Bhc3N3b3JkPUtyb25lczFpdGsiIC8+CgkgIDxhZGQgbmFtZT0iTE1TQ29ubmVjdGlvblN0cmluZyIgY29ubmVjdGlvblN0cmluZz0iU2VydmVyPWxvY2FsaG9zdDtJbml0aWFsIENhdGFsb2c9TUVTO1VzZXIgSUQ9bWVzO3Bhc3N3b3JkPUtyb25lczFpdGsiIC8+Cj09PT09PT0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
