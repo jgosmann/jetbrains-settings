@@ -9,6 +9,12 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/ordersSaga.js" timestamp="1551343450190">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="62" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/test/ordersSaga.spec.js" timestamp="1551341657709">
         <mark key="'" line="108" column="0" />
       </file>
@@ -164,11 +170,11 @@
       <jump line="164" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/sagas/test/lmsOrderManagementSaga.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgIERhdGUubm93LnJlc3RvcmUoKQogIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>NOW</text>
