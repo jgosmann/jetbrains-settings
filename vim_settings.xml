@@ -8,6 +8,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" timestamp="1552322571398">
+        <mark key="'" line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/urlBuilder.js" timestamp="1552295844416">
         <mark key="[" line="19" column="61" />
         <mark key="]" line="19" column="65" />
@@ -42,6 +45,7 @@
       <jump line="91" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
       <jump line="105" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
       <jump line="139" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/test/spec/js/sharedComponents/reports/globalReportSettingsManagerSpec.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -63,19 +67,20 @@
         <text>Erdinger_prod</text>
       </register>
       <register name="/" type="4">
-        <text>base-ur</text>
+        <text encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search>base-ur</last-search>
+      <last-search encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</last-search>
       <last-offset />
-      <last-pattern>base-ur</last-pattern>
+      <last-pattern encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>base-ur</entry>
+        <entry encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
