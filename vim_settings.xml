@@ -23,6 +23,12 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" timestamp="1552295612438">
         <mark key="'" line="105" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/globalReportParameters.json" timestamp="1552311671026">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="8" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
@@ -40,8 +46,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>Erdinger_prod</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICJsbXNfb3JkZXJfbWFuYWdlbWVudCIsCg==</text>
@@ -53,7 +59,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>baseUrl.lastIndexOf(':')</text>
+        <text>Erdinger_prod</text>
       </register>
       <register name="/" type="4">
         <text>base-ur</text>
