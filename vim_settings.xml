@@ -8,11 +8,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/urlBuilder.js" timestamp="1551865228152">
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/urlBuilder.js" timestamp="1552295844416">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="65" />
+        <mark key="." line="19" column="65" />
+        <mark key="^" line="19" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/config/config.js" timestamp="1551865259161">
         <mark key="[" line="15" column="14" />
@@ -20,33 +20,61 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" timestamp="1552295612438">
+        <mark key="'" line="105" column="32" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="8" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="6" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="7" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="33" column="36" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="42" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="52" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="65" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="81" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="91" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="105" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsbXNfb3JkZXJfbWFuYWdlbWVudCIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsbXNfb3JkZXJfbWFuYWdlbWVudCIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICJsbXNfb3JkZXJfbWFuYWdlbWVudCIsCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBjb25zdCBwYXRobmFtZVRlbXBsYXRlID0gY29uZmlnLnVybC5iYXNlVXJsICsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>80</text>
+        <text>baseUrl.lastIndexOf(':')</text>
+      </register>
+      <register name="/" type="4">
+        <text>base-ur</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>base-ur</last-search>
+      <last-offset />
+      <last-pattern>base-ur</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>base-ur</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
