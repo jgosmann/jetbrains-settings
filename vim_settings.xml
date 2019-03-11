@@ -23,6 +23,12 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/menuItem.js" timestamp="1552321156999">
+        <mark key="[" line="268" column="85" />
+        <mark key="]" line="268" column="98" />
+        <mark key="^" line="268" column="98" />
+        <mark key="." line="268" column="98" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="8" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
@@ -35,6 +41,7 @@
       <jump line="81" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
       <jump line="91" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
       <jump line="105" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
+      <jump line="139" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/test/spec/js/sharedComponents/reports/globalReportSettingsManagerSpec.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -82,6 +89,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
