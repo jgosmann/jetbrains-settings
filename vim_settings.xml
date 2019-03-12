@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1551876543389">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" timestamp="1552322571398">
         <mark key="'" line="8" column="4" />
       </file>
@@ -19,18 +14,6 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" timestamp="1552295612438">
         <mark key="'" line="105" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/globalReportParameters.json" timestamp="1552311671026">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/menuItem.js" timestamp="1552321156999">
-        <mark key="[" line="268" column="85" />
-        <mark key="]" line="268" column="98" />
-        <mark key="^" line="268" column="98" />
-        <mark key="." line="268" column="98" />
       </file>
     </filemarks>
     <jumps>
