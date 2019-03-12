@@ -2,95 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1551876543389">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552297089116">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="C:/co/mes_5_1_sp1/Reporting/KWRM/KWRM/data/tabs/LPA/tabs.xml" timestamp="1551957183761">
-        <mark key="[" line="644" column="51" />
-        <mark key="]" line="644" column="51" />
-        <mark key="." line="644" column="51" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1552319934495">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/Reporting/Interface/Equipments/IReportingEquipmentService.cs" timestamp="1552317506915">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/urlBuilder.js" timestamp="1551865228152">
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/config/config.js" timestamp="1551865259161">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/Reporting/Feature/ReportingFeature.cs" timestamp="1552319013333">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1552317032329">
-        <mark key="[" line="100" column="91" />
-        <mark key="]" line="100" column="91" />
-        <mark key="." line="100" column="96" />
-        <mark key="^" line="96" column="98" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="0" type="4">
-        <text>Shifts.Read</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJsbXNfb3JkZXJfbWFuYWdlbWVudCIsCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXRobmFtZVRlbXBsYXRlID0gY29uZmlnLnVybC5iYXNlVXJsICsK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>/</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
