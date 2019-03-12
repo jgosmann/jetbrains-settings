@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" timestamp="1552394098015">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="196" column="8" />
-        <mark key="." line="170" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" timestamp="1552394829487">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="589" column="0" />
+        <mark key="]" line="615" column="8" />
+        <mark key="." line="589" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" timestamp="1552322571398">
         <mark key="'" line="8" column="4" />
@@ -49,6 +49,9 @@
       <jump line="479" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
       <jump line="414" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
       <jump line="145" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="172" column="22" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="608" column="53" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -61,12 +64,18 @@
         <text encoding="base64">ICAgICAgewogICAgICAgICJ0aXRsZSI6ICJ0cmFuc2xhdGUoJ1N0YXRpYy9TUEMvV2FwLlJlcG9ydHMuUmVwb3J0VHlwZS5JbnNwZWN0b3JUZXN0JykiLAogICAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAgICJyZXBvcnRVSUNvbnRyb2xzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiY29udHJvbE5hbWUiOiAibGluZVNlbGVjdCIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZExpbmUiOiAicGFyTGluZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImRhdGVSYW5nZVBpY2tlcnMiLAogICAgICAgICAgICAicGFyYW1ldGVycyI6IHsKICAgICAgICAgICAgICAic3RhcnREYXRlIjogInBhclN0YXJ0RGF0ZSIsCiAgICAgICAgICAgICAgImVuZERhdGUiOiAicGFyRW5kRGF0ZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImVxdWlwbWVudFNlbGVjdFNpbmdsZSIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZEVxdWlwbWVudCI6ICJwYXJNYWNoaW5lIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAicmVwb3J0UGF0aCI6ICIvTUVTX1NJVEVQSUxPVF9SRVBPUlRTL1JFUE9SVFNfU1RBTkRBUkQvMTA3MF9JbnNwZWN0b3JUZXN0IiwKICAgICAgICAic3ViTWVudUl0ZW1zIjogWyBdCiAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAidHJhbnNsYXRlKCdTdGF0aWMvU1BDL1dhcC5SZXBvcnRzLlJlcG9ydFR5cGUuSW5zcGVjdG9yVGVzdCcpIiwKICAgICAgICAiY2F0ZWdvcnkiOiAiIiwKICAgICAgICAicmVwb3J0VUlDb250cm9scyI6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImxpbmVTZWxlY3QiLAogICAgICAgICAgICAicGFyYW1ldGVycyI6IHsKICAgICAgICAgICAgICAic2VsZWN0ZWRMaW5lIjogInBhckxpbmUiCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJjb250cm9sTmFtZSI6ICJkYXRlUmFuZ2VQaWNrZXJzIiwKICAgICAgICAgICAgInBhcmFtZXRlcnMiOiB7CiAgICAgICAgICAgICAgInN0YXJ0RGF0ZSI6ICJwYXJTdGFydERhdGUiLAogICAgICAgICAgICAgICJlbmREYXRlIjogInBhckVuZERhdGUiCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgICJjb250cm9sTmFtZSI6ICJlcXVpcG1lbnRTZWxlY3RTaW5nbGUiLAogICAgICAgICAgICAicGFyYW1ldGVycyI6IHsKICAgICAgICAgICAgICAic2VsZWN0ZWRFcXVpcG1lbnQiOiAicGFyTWFjaGluZSIKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJsbXNfb3JkZXJfbWFuYWdlbWVudCIsCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0aXRsZSI6ICJ0cmFuc2xhdGUoJ1N0YXRpYy9TUEMvV2FwLlJlcG9ydHMuUmVwb3J0VHlwZS5JbnNwZWN0b3JUZXN0JykiLAogICAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAgICJyZXBvcnRVSUNvbnRyb2xzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiY29udHJvbE5hbWUiOiAibGluZVNlbGVjdCIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZExpbmUiOiAicGFyTGluZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImRhdGVSYW5nZVBpY2tlcnMiLAogICAgICAgICAgICAicGFyYW1ldGVycyI6IHsKICAgICAgICAgICAgICAic3RhcnREYXRlIjogInBhclN0YXJ0RGF0ZSIsCiAgICAgICAgICAgICAgImVuZERhdGUiOiAicGFyRW5kRGF0ZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImVxdWlwbWVudFNlbGVjdFNpbmdsZSIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZEVxdWlwbWVudCI6ICJwYXJNYWNoaW5lIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAicmVwb3J0UGF0aCI6ICIvTUVTX1NJVEVQSUxPVF9SRVBPUlRTL1JFUE9SVFNfU1RBTkRBUkQvMTA3MF9JbnNwZWN0b3JUZXN0IiwKICAgICAgICAic3ViTWVudUl0ZW1zIjogWyBdCiAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJsbXNfb3JkZXJfbWFuYWdlbWVudCIsCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdCBwYXRobmFtZVRlbXBsYXRlID0gY29uZmlnLnVybC5iYXNlVXJsICsK</text>
       </register>
       <register name=":" type="4">
@@ -76,14 +85,14 @@
         <text>Erdinger_prod</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</text>
+        <text>Quality</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</last-search>
+      <last-search>Quality</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Quality</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -92,6 +101,7 @@
         <entry encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</entry>
         <entry>1070</entry>
         <entry encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</entry>
+        <entry>Quality</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
