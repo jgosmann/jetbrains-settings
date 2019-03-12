@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" timestamp="1552385739499">
+        <mark key="'" line="479" column="28" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" timestamp="1552322571398">
         <mark key="'" line="8" column="4" />
       </file>
@@ -14,6 +20,10 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" timestamp="1552295612438">
         <mark key="'" line="105" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems_casc.json" timestamp="1552385425574">
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="349" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -29,13 +39,25 @@
       <jump line="105" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
       <jump line="139" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/test/spec/js/sharedComponents/reports/globalReportSettingsManagerSpec.js" />
       <jump line="8" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" />
+      <jump line="14" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="814" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="480" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="414" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="28" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="676" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="528" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
+      <jump line="479" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0aXRsZSI6ICJ0cmFuc2xhdGUoJ1N0YXRpYy9TUEMvV2FwLlJlcG9ydHMuUmVwb3J0VHlwZS5JbnNwZWN0b3JUZXN0JykiLAogICAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAgICJyZXBvcnRVSUNvbnRyb2xzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiY29udHJvbE5hbWUiOiAibGluZVNlbGVjdCIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZExpbmUiOiAicGFyTGluZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImRhdGVSYW5nZVBpY2tlcnMiLAogICAgICAgICAgICAicGFyYW1ldGVycyI6IHsKICAgICAgICAgICAgICAic3RhcnREYXRlIjogInBhclN0YXJ0RGF0ZSIsCiAgICAgICAgICAgICAgImVuZERhdGUiOiAicGFyRW5kRGF0ZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImVxdWlwbWVudFNlbGVjdFNpbmdsZSIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZEVxdWlwbWVudCI6ICJwYXJNYWNoaW5lIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAicmVwb3J0UGF0aCI6ICIvTUVTX1NJVEVQSUxPVF9SRVBPUlRTL1JFUE9SVFNfU1RBTkRBUkQvMTA3MF9JbnNwZWN0b3JUZXN0IiwKICAgICAgICAic3ViTWVudUl0ZW1zIjogWyBdCiAgICAgIH0sCg==</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Erdinger_prod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0aXRsZSI6ICJ0cmFuc2xhdGUoJ1N0YXRpYy9TUEMvV2FwLlJlcG9ydHMuUmVwb3J0VHlwZS5JbnNwZWN0b3JUZXN0JykiLAogICAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAgICJyZXBvcnRVSUNvbnRyb2xzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiY29udHJvbE5hbWUiOiAibGluZVNlbGVjdCIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZExpbmUiOiAicGFyTGluZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImRhdGVSYW5nZVBpY2tlcnMiLAogICAgICAgICAgICAicGFyYW1ldGVycyI6IHsKICAgICAgICAgICAgICAic3RhcnREYXRlIjogInBhclN0YXJ0RGF0ZSIsCiAgICAgICAgICAgICAgImVuZERhdGUiOiAicGFyRW5kRGF0ZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImVxdWlwbWVudFNlbGVjdFNpbmdsZSIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZEVxdWlwbWVudCI6ICJwYXJNYWNoaW5lIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAicmVwb3J0UGF0aCI6ICIvTUVTX1NJVEVQSUxPVF9SRVBPUlRTL1JFUE9SVFNfU1RBTkRBUkQvMTA3MF9JbnNwZWN0b3JUZXN0IiwKICAgICAgICAic3ViTWVudUl0ZW1zIjogWyBdCiAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICJsbXNfb3JkZXJfbWFuYWdlbWVudCIsCg==</text>
@@ -50,20 +72,22 @@
         <text>Erdinger_prod</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</text>
+        <text encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</last-search>
+      <last-search encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>base-ur</entry>
         <entry encoding="base64">XDxEQVRBQkFTRV9BUkNISVZFXD4=</entry>
+        <entry>1070</entry>
+        <entry encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
