@@ -32,6 +32,15 @@
         <mark key="[" line="323" column="0" />
         <mark key="]" line="349" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/test/MultiSelect.spec.js" timestamp="1552575077836">
+        <mark key="[" line="135" column="26" />
+        <mark key="]" line="136" column="19" />
+        <mark key="^" line="136" column="19" />
+        <mark key="." line="136" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiSelect.js" timestamp="1552574918813">
+        <mark key="'" line="39" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="8" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" />
@@ -84,6 +93,12 @@
       <jump line="56" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="63" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="7" column="47" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="63" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiSelect.js" />
+      <jump line="14" column="53" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiSelect.js" />
+      <jump line="15" column="71" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiSelect.js" />
+      <jump line="20" column="46" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiSelect.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiSelect.js" />
+      <jump line="39" column="13" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiSelect.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -93,7 +108,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1vdmVJdGVtXD4=</text>
+        <text encoding="base64">XDxvcHRpb25zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCByZW1vdmVJdGVtID0gaXRlbSA9PiB7CiAgICBzZXRTZWxlY3RlZEl0ZW1zKHNlbGVjdGVkSXRlbXMuZmlsdGVyKGkgPT4gaS5rZXkgIT09IGl0ZW0ua2V5KSkKICB9Cg==</text>
@@ -130,9 +145,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1vdmVJdGVtXD4=</last-search>
+      <last-search encoding="base64">XDxvcHRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1vdmVJdGVtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpb25zXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -148,6 +163,7 @@
         <entry>removeItem</entry>
         <entry encoding="base64">XDxnZXRTdGF0ZUFuZEhlbHBlcnNcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVJdGVtXD4=</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">IHc=</entry>
