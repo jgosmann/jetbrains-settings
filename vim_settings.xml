@@ -21,23 +21,35 @@
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/RestApi/Process/DotNetFw/Krones.Lms.RestApi.Process/Configuration/Database/DatabaseConnection.config" timestamp="1552580571112">
+        <mark key="[" line="3" column="89" />
+        <mark key="]" line="3" column="102" />
+        <mark key="." line="3" column="102" />
+        <mark key="^" line="3" column="102" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1552557958756">
         <mark key="[" line="25" column="59" />
         <mark key="]" line="25" column="63" />
         <mark key="^" line="25" column="63" />
         <mark key="." line="25" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/LMS/Microservice/RestApi/Process/DotNetFw/Krones.Lms.RestApi.Process/Configuration/Database/DatabaseConnection.config" timestamp="1552580543126">
+        <mark key="[" line="3" column="125" />
+        <mark key="]" line="3" column="127" />
+        <mark key="." line="3" column="127" />
+        <mark key="^" line="3" column="127" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>ROUTEGRAPH</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>ROUTEGRAPH</text>
       </register>
     </registers>
     <search>
@@ -45,9 +57,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
