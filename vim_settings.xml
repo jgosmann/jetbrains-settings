@@ -2,14 +2,53 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/App.config" timestamp="1552558105321">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/Configuration/Database/DatabaseConnection.config" timestamp="1552558133904">
+        <mark key="[" line="2" column="88" />
+        <mark key="]" line="2" column="102" />
+        <mark key="^" line="2" column="102" />
+        <mark key="." line="2" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/Configuration/OecConfiguration.json" timestamp="1552558174866">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1552557958756">
+        <mark key="[" line="25" column="59" />
+        <mark key="]" line="25" column="63" />
+        <mark key="^" line="25" column="63" />
+        <mark key="." line="25" column="63" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>true</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>true</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
