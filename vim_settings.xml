@@ -21,12 +21,12 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/util/test/urlBuilder.spec.js" timestamp="1552295612438">
         <mark key="'" line="105" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" timestamp="1552569101699">
-        <mark key="'" line="72" column="6" />
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="40" column="2" />
-        <mark key="." line="40" column="2" />
-        <mark key="^" line="40" column="2" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" timestamp="1552572125054">
+        <mark key="'" line="7" column="47" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="68" column="60" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems_casc.json" timestamp="1552385425574">
         <mark key="[" line="323" column="0" />
@@ -68,53 +68,62 @@
       <jump line="46" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="51" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="86" column="3" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="76" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="66" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="60" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="38" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="47" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
       <jump line="52" column="42" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="72" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="72" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="80" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="71" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="82" column="43" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="0" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="76" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="87" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="92" column="42" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="56" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="63" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
+      <jump line="7" column="47" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, [selectedItems])</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, [selectedItems])</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVJdGVtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0aXRsZSI6ICJ0cmFuc2xhdGUoJ1N0YXRpYy9TUEMvV2FwLlJlcG9ydHMuUmVwb3J0VHlwZS5JbnNwZWN0b3JUZXN0JykiLAogICAgICAgICJjYXRlZ29yeSI6ICIiLAogICAgICAgICJyZXBvcnRVSUNvbnRyb2xzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiY29udHJvbE5hbWUiOiAibGluZVNlbGVjdCIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZExpbmUiOiAicGFyTGluZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImRhdGVSYW5nZVBpY2tlcnMiLAogICAgICAgICAgICAicGFyYW1ldGVycyI6IHsKICAgICAgICAgICAgICAic3RhcnREYXRlIjogInBhclN0YXJ0RGF0ZSIsCiAgICAgICAgICAgICAgImVuZERhdGUiOiAicGFyRW5kRGF0ZSIKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgImNvbnRyb2xOYW1lIjogImVxdWlwbWVudFNlbGVjdFNpbmdsZSIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIjogewogICAgICAgICAgICAgICJzZWxlY3RlZEVxdWlwbWVudCI6ICJwYXJNYWNoaW5lIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAicmVwb3J0UGF0aCI6ICIvTUVTX1NJVEVQSUxPVF9SRVBPUlRTL1JFUE9SVFNfU1RBTkRBUkQvMTA3MF9JbnNwZWN0b3JUZXN0IiwKICAgICAgICAic3ViTWVudUl0ZW1zIjogWyBdCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICBjb25zdCByZW1vdmVJdGVtID0gaXRlbSA9PiB7CiAgICBzZXRTZWxlY3RlZEl0ZW1zKHNlbGVjdGVkSXRlbXMuZmlsdGVyKGkgPT4gaS5rZXkgIT09IGl0ZW0ua2V5KSkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd4LCAnLCBpdGVtKQo=</text>
+        <text encoding="base64">ICBjb25zdCByZW1vdmVJdGVtID0gaXRlbSA9PiB7CiAgICBzZXRTZWxlY3RlZEl0ZW1zKHNlbGVjdGVkSXRlbXMuZmlsdGVyKGkgPT4gaS5rZXkgIT09IGl0ZW0ua2V5KSkKICB9CgogIGNvbnN0IGFkZEl0ZW0gPSBpdGVtID0+IHsKICAgIHNldFNlbGVjdGVkSXRlbXMoWy4uLnNlbGVjdGVkSXRlbXMsIGl0ZW1dKQogIH0KCiAgY29uc3QgZ2V0U3RhdGVBbmRIZWxwZXJzID0gZG93bnNoaWZ0ID0+IHsKICAgIHJldHVybiB7CiAgICAgIGl0ZW1zLAogICAgICBzZWxlY3RlZEl0ZW1zLAogICAgICBkaXNwbGF5VmFsdWUsCiAgICAgIHJlbW92ZUl0ZW0sCiAgICAgIHNob3VsZEl0ZW1zUmVyZW5kZXIsCiAgICAgIGluaXRpYWxIaWdobGlnaHRlZEluZGV4LAogICAgICAuLi5kb3duc2hpZnQKICAgIH0KICB9CiAgY29uc3QgeCA9IGdldFN0YXRlQW5kSGVscGVycyhkb3duc2hpZnQpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KCiAgICBjYWxsT25DaGFuZ2UoZG93bnNoaWZ0KQo=</text>
+        <text encoding="base64">ICBjb25zdCBtZW1vaXplZFN0YXRlQW5kSGVscGVycyA9IHVzZUNhbGxiYWNrKCgpID0+IHsKICAgIGNvbnN0IHJlbW92ZUl0ZW0gPSBpdGVtID0+IHsKICAgICAgc2V0U2VsZWN0ZWRJdGVtcyhzZWxlY3RlZEl0ZW1zLmZpbHRlcihpID0+IGkua2V5ICE9PSBpdGVtLmtleSkpCiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgaXRlbXMsCiAgICAgIHNlbGVjdGVkSXRlbXMsCiAgICAgIGRpc3BsYXlWYWx1ZSwKICAgICAgcmVtb3ZlSXRlbSwKICAgICAgc2hvdWxkSXRlbXNSZXJlbmRlciwKICAgICAgaW5pdGlhbEhpZ2hsaWdodGVkSW5kZXgsCiAgICAgIC4uLmRvd25zaGlmdAogICAgfQogIH0sIFtpdGVtcywgc2VsZWN0ZWRJdGVtcywgZGlzcGxheVZhbHVlLCBzaG91bGRJdGVtc1JlcmVuZGVyLCBpbml0aWFsSGlnaGxpZ2h0ZWRJbmRleCwgZG93bnNoaWZ0XSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNhbGxPbkNoYW5nZSA9IGRvd25zaGlmdCA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBnZXRTdGF0ZUFuZEhlbHBlcnMoZG93bnNoaWZ0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgY29uc3QgcmVtb3ZlSXRlbSA9IGl0ZW0gPT4gewogICAgc2V0U2VsZWN0ZWRJdGVtcyhzZWxlY3RlZEl0ZW1zLmZpbHRlcihpID0+IGkua2V5ICE9PSBpdGVtLmtleSkpCiAgfQo=</text>
+        <text encoding="base64">CiAgY29uc3QgY2FsbE9uQ2hhbmdlID0gZG93bnNoaWZ0ID0+IHsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY29uc3QgZ2V0U3RhdGVBbmRIZWxwZXJzID0gdXNlQ2FsbGJhY2soKCkgPT4gewogICAgcmV0dXJuIHsKICAgICAgaXRlbXMsCiAgICAgIHNlbGVjdGVkSXRlbXMsCiAgICAgIGRpc3BsYXlWYWx1ZSwKICAgICAgcmVtb3ZlSXRlbSwKICAgICAgc2hvdWxkSXRlbXNSZXJlbmRlciwKICAgICAgaW5pdGlhbEhpZ2hsaWdodGVkSW5kZXgsCiAgICAgIC4uLmRvd25zaGlmdAogICAgfQogIH0sIFtpdGVtcywgc2VsZWN0ZWRJdGVtcywgZGlzcGxheVZhbHVlLCByZW1vdmVJdGVtLCBzaG91bGRJdGVtc1JlcmVuZGVyLCBpbml0aWFsSGlnaGxpZ2h0ZWRJbmRleCwgZG93bnNoaWZ0XSkK</text>
+        <text encoding="base64">ICAgIGNhbGxPbkNoYW5nZShkb3duc2hpZnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmIChvbkNoYW5nZSkgewogICAgICBvbkNoYW5nZShzZWxlY3RlZEl0ZW1zLCBnZXRTdGF0ZUFuZEhlbHBlcnMoZG93bnNoaWZ0KSkKICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRvd25zaGlmdCA9PiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjYWxsT25DaGFuZ2UgPSBkb3duc2hpZnQgPT4gewogICAgaWYgKG9uQ2hhbmdlKSB7CiAgICAgIG9uQ2hhbmdlKHNlbGVjdGVkSXRlbXMsIGdldFN0YXRlQW5kSGVscGVycyhkb3duc2hpZnQpKQogICAgfQogIH0KCg==</text>
+        <text encoding="base64">ICBjb25zdCBnZXRTdGF0ZUFuZEhlbHBlcnMgPSAoKSA9PiB7IC8vdXNlQ2FsbGJhY2soKCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgY29uc3QgY2FsbE9uQ2hhbmdlID0gZG93bnNoaWZ0ID0+IHsKICAgIGlmIChvbkNoYW5nZSkgewogICAgICBvbkNoYW5nZShzZWxlY3RlZEl0ZW1zLCBnZXRTdGF0ZUFuZEhlbHBlcnMoZG93bnNoaWZ0KSkKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgZ2V0U3RhdGVBbmRIZWxwZXJzID0gdXNlQ2FsbGJhY2soKCkgPT4gewogICAgcmV0dXJuIHsKICAgICAgaXRlbXMsCiAgICAgIHNlbGVjdGVkSXRlbXMsCiAgICAgIGRpc3BsYXlWYWx1ZSwKICAgICAgcmVtb3ZlSXRlbSwKICAgICAgc2hvdWxkSXRlbXNSZXJlbmRlciwKICAgICAgaW5pdGlhbEhpZ2hsaWdodGVkSW5kZXgsCiAgICAgIC4uLmRvd25zaGlmdAogICAgfQogIH0sIFtpdGVtcywgc2VsZWN0ZWRJdGVtcywgZGlzcGxheVZhbHVlLCByZW1vdmVJdGVtLCBzaG91bGRJdGVtc1JlcmVuZGVyLCBpbml0aWFsSGlnaGxpZ2h0ZWRJbmRleCwgZG93bnNoaWZ0XSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -135,11 +144,14 @@
         <entry encoding="base64">XDxlcXVpcG1lbnRTZWxlY3RTaW5nbGVcPg==</entry>
         <entry>Quality</entry>
         <entry encoding="base64">XDxzZXRTZWxlY3RlZEl0ZW1zXD4=</entry>
-        <entry encoding="base64">XDxnZXRTdGF0ZUFuZEhlbHBlcnNcPg==</entry>
         <entry encoding="base64">XDxjYWxsT25DaGFuZ2VcPg==</entry>
+        <entry>removeItem</entry>
+        <entry encoding="base64">XDxnZXRTdGF0ZUFuZEhlbHBlcnNcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVJdGVtXD4=</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">IHc=</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
