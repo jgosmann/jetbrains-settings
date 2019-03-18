@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/reports/reportMenuItems.json" timestamp="1552915166622">
-        <mark key="[" line="51" column="7" />
-        <mark key="]" line="51" column="7" />
-        <mark key="." line="51" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" timestamp="1552912526686">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="54" column="32" />
