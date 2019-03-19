@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/EquipmentTableRowView.js" timestamp="1552992523984">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/reports_menu.js" timestamp="1552989135576">
         <mark key="]" line="7" column="47" />
         <mark key="^" line="7" column="47" />
@@ -11,11 +17,44 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>selectedDatabase</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyMxRDg5RkYnLAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYmEK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICcuc2VsZWN0ZWQnOiB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICc6aG92ZXInOiB7CiAgICB9LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiAnIzFEODlGRicK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICc6aG92ZXI6c2VsZWN0ZWQnOiB7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
