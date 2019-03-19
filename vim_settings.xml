@@ -9,6 +9,12 @@
         <mark key="]" line="127" column="22" />
         <mark key="." line="127" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1553011327515">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="66" />
+        <mark key="^" line="18" column="66" />
+        <mark key="." line="18" column="66" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="38" column="6" filename="$USER_HOME$/Documents/mes/dev/src/Tools/MESConfigSettings/MESConfigSettings.Tests/SitePilotConfigurationChangerTest.cs" />
@@ -30,6 +36,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
