@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/reports_menu.js" timestamp="1553011802501">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
         <mark key="^" line="7" column="47" />
-        <mark key="." line="195" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -19,7 +19,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>selectedDatabase</text>
+        <text>app.use</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyMxRDg5RkYnLAo=</text>
@@ -56,17 +56,20 @@
       </register>
     </registers>
     <search>
-      <last-search>selectedDatabase</last-search>
+      <last-search>app.use</last-search>
       <last-offset />
-      <last-pattern>selectedDatabase</last-pattern>
+      <last-pattern>app.use</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>selectedDatabase</entry>
+        <entry>app.use</entry>
       </history-search>
       <history-cmd>
+        <entry>bd</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
