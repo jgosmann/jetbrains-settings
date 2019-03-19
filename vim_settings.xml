@@ -4,10 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/reports_menu.js" timestamp="1552989135576">
-        <mark key="[" line="188" column="20" />
-        <mark key="]" line="189" column="47" />
-        <mark key="^" line="189" column="47" />
-        <mark key="." line="189" column="47" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
       </file>
     </filemarks>
     <jumps />
@@ -36,6 +35,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
