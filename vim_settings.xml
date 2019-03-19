@@ -2,133 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" timestamp="1552912526686">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="54" column="32" />
-        <mark key="]" line="54" column="31" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="54" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/FilterDialog.js" timestamp="1552911281700">
-        <mark key="'" line="61" column="44" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1552911790902">
-        <mark key="[" line="19" column="57" />
-        <mark key="]" line="19" column="56" />
-        <mark key="^" line="19" column="56" />
-        <mark key="." line="19" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/ProductDropdown.js" timestamp="1552896505627">
-        <mark key="'" line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" timestamp="1552911401397">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="36" column="38" />
-        <mark key="^" line="36" column="38" />
-        <mark key="." line="36" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" timestamp="1552902191830">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="59" />
-        <mark key="^" line="51" column="59" />
-        <mark key="." line="51" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/menuItem.js" timestamp="1552912552273">
-        <mark key="[" line="268" column="98" />
-        <mark key="]" line="268" column="98" />
-        <mark key="^" line="268" column="98" />
-        <mark key="." line="268" column="98" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDropdown.js" timestamp="1552896477789" />
-    </filemarks>
-    <jumps>
-      <jump line="47" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="68" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="31" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="39" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="64" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="5" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/ProductDropdown.js" />
-      <jump line="78" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="130" column="35" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/FilterDialog.js" />
-      <jump line="32" column="7" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/FilterDialog.js" />
-      <jump line="96" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/FilterDialog.js" />
-      <jump line="111" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/FilterDialog.js" />
-      <jump line="31" column="7" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/FilterDialog.js" />
-      <jump line="61" column="44" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/FilterDialog/FilterDialog.js" />
-      <jump line="36" column="69" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/globalReportSettingsManager.js" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
-      </register>
-      <register name="-" type="4">
-        <text>,</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxSRVBPUlRfU0VSVkVSX1VSTFw+</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChvbkNoYW5nZSkgewogICAgICBvbkNoYW5nZShzZWxlY3RlZEl0ZW1zLCBnZXRTdGF0ZUFuZEhlbHBlcnMoZG93bnNoaWZ0KSkKICAgIH0K</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICB0aGlz</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBjYWxsT25DaGFuZ2UgPSBkb3duc2hpZnQgPT4gewogIH0KCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhbGxPbkNoYW5nZShkb3duc2hpZnQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChvbkNoYW5nZSkgewogICAgICBvbkNoYW5nZShzZWxlY3RlZEl0ZW1zLCBnZXRTdGF0ZUFuZEhlbHBlcnMoZG93bnNoaWZ0KSkKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd4JykKICAgIGNvbnNvbGUubG9nKF8uemlwKFsxLCAyLCAzXSwgWydhJywgJ2InXSkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgY29uc3QgY2FsbE9uQ2hhbmdlID0gZG93bnNoaWZ0ID0+IHsKICAgIGlmIChvbkNoYW5nZSkgewogICAgICBvbkNoYW5nZShzZWxlY3RlZEl0ZW1zLCBnZXRTdGF0ZUFuZEhlbHBlcnMoZG93bnNoaWZ0KSkKICAgIH0KICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhbGxPbkNoYW5nZShkb3duc2hpZnQpCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
-      <last-search encoding="base64">XDxSRVBPUlRfU0VSVkVSX1VSTFw+</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxSRVBPUlRfU0VSVkVSX1VSTFw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDxjYWxsT25DaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxzZXRTZWxlY3RlZEl0ZW1zXD4=</entry>
-        <entry encoding="base64">XDxNdWx0aURyb3Bkb3duXD4=</entry>
-        <entry encoding="base64">XDxzaG91bGRJdGVtc1JlcmVuZGVyXD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVQcm9kdWN0U2VsZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxzZXRGaWx0ZXJWYWx1ZVw+</entry>
-        <entry encoding="base64">XDxSRVBPUlRfU0VSVkVSX1VSTFw+</entry>
-      </history-search>
-      <history-cmd>
-        <entry>wk</entry>
-        <entry>w</entry>
-      </history-cmd>
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
