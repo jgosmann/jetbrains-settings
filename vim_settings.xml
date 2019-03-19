@@ -2,14 +2,34 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Tools/MESConfigSettings/MESConfigSettings.Tests/SitePilotConfigurationChangerTest.cs" timestamp="1552987795426">
+        <mark key="'" line="38" column="6" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="22" />
+        <mark key="." line="127" column="22" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="38" column="6" filename="$USER_HOME$/Documents/mes/dev/src/Tools/MESConfigSettings/MESConfigSettings.Tests/SitePilotConfigurationChangerTest.cs" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
