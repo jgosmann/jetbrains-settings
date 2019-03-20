@@ -3,25 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring/Feature/IFaceMonitoringFeature.cs" timestamp="1553070190637">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Tools/MESConfigSettings/MESConfigSettings.Tests/SitePilotConfigurationChangerTest.cs" timestamp="1552987795426">
         <mark key="'" line="38" column="6" />
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="22" />
         <mark key="." line="127" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1553011327515">
-        <mark key="[" line="18" column="62" />
-        <mark key="]" line="18" column="66" />
-        <mark key="^" line="18" column="66" />
-        <mark key="." line="18" column="66" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1553070311375">
+        <mark key="[" line="100" column="87" />
+        <mark key="]" line="100" column="87" />
+        <mark key="^" line="96" column="106" />
+        <mark key="." line="100" column="104" />
       </file>
     </filemarks>
     <jumps>
       <jump line="38" column="6" filename="$USER_HOME$/Documents/mes/dev/src/Tools/MESConfigSettings/MESConfigSettings.Tests/SitePilotConfigurationChangerTest.cs" />
+      <jump line="140" column="25" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>MES_Nestle</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>MES_Nestle</text>
       </register>
     </registers>
     <search>
@@ -39,6 +52,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
