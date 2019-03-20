@@ -9,7 +9,14 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec/Services/Edges/EquipmentEdgesExecutor.cs" timestamp="1553082739667" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/Util/FormulaObject/Parser/ObjectFactory.cs" timestamp="1553079959994" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/Configuration/OecConfiguration.json" timestamp="1553083224483">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1553076893466" />
       <file name="$USER_HOME$/Documents/mes/dev/src/Tools/MESConfigSettings/MESConfigSettings.Tests/SitePilotConfigurationChangerTest.cs" timestamp="1552987795426">
         <mark key="'" line="38" column="6" />
@@ -17,12 +24,18 @@
         <mark key="]" line="127" column="22" />
         <mark key="." line="127" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1553077172029">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec/Services/Mappings/EdgeMapping.cs" timestamp="1553082897293">
+        <mark key="[" line="26" column="85" />
+        <mark key="]" line="26" column="95" />
+        <mark key="." line="26" column="95" />
+        <mark key="^" line="26" column="95" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1553083118847">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="120" column="22" />
-        <mark key="]" line="120" column="30" />
-        <mark key="." line="120" column="30" />
-        <mark key="^" line="120" column="30" />
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="38" />
+        <mark key="." line="37" column="38" />
+        <mark key="^" line="37" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -33,13 +46,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10.55.6.57</text>
+        <text>12345</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>10.55.6.57</text>
+        <text>12345</text>
       </register>
       <register name="/" type="4">
         <text>Kpi</text>
