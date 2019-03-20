@@ -3,21 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/EquipmentCoordinationsTable.js" timestamp="1553096462506">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="40" />
+        <mark key="." line="24" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" timestamp="1553068371191" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationDetails/EquipmentCoordinationDetails.js" timestamp="1553096770862">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/test/MultiSelect.spec.js" timestamp="1553092470634">
         <mark key="[" line="165" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/reports_menu.js" timestamp="1553092524956">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IFBhcGVyV3JhcHBlciBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvY29tcG9uZW50cy9QYXBlcldyYXBwZXIvUGFwZXJXcmFwcGVyJwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFBhcGVyV3JhcHBlciBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvY29tcG9uZW50cy9QYXBlcldyYXBwZXIvUGFwZXJXcmFwcGVyJwo=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>S</text>
       </register>
     </registers>
     <search>
