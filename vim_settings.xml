@@ -3,83 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/test/MultiSelect.spec.js" timestamp="1553013265187" />
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/reports_menu.js" timestamp="1553011802501">
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="186" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" timestamp="1553068371191" />
     </filemarks>
     <jumps />
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnZGV0YWNoZWQnKQo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>,</text>
-      </register>
-      <register name="/" type="4">
-        <text>app.use</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyMxRDg5RkYnLAo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnZGV0YWNoZWQnKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnZGV0YWNoZWQnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICcuc2VsZWN0ZWQnOiB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICc6aG92ZXInOiB7CiAgICB9LAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiAnIzFEODlGRicK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
+    <registers />
     <search>
-      <last-search>app.use</last-search>
-      <last-offset />
-      <last-pattern>app.use</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>selectedDatabase</entry>
-        <entry>app.use</entry>
-      </history-search>
-      <history-cmd>
-        <entry>bd</entry>
-        <entry>q</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
