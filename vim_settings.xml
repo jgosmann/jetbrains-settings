@@ -15,17 +15,44 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" timestamp="1553160363602">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="14" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/DetailsPaper.js" timestamp="1553160156338">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>Once</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IERldGFpbHNQYXBlciBmcm9tICcuLi9EZXRhaWxzUGFwZXInCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IERldGFpbHNQYXBlciBmcm9tICcuLi9EZXRhaWxzUGFwZXInCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZXNjcmliZSgnJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxQYXBlciBzcXVhcmU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Once</text>
+        <text>export default</text>
       </register>
     </registers>
     <search>
@@ -33,9 +60,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
