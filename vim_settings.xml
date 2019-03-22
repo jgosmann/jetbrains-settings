@@ -143,6 +143,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/customDefaultBrowserScrollbar/customDefaultBrowserScrollbar.js" timestamp="1553265085825">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeSummary.js" timestamp="1553257762990">
         <mark key="'" line="16" column="20" />
         <mark key="[" line="5" column="0" />
@@ -245,11 +251,11 @@
       <jump line="1" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableBody.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL3V0aWwvc3R5bGUnCg==</text>
+      <register name="&quot;" type="4">
+        <text>red</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RnJhZ21lbnQsIA==</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
         <text>Summary</text>
