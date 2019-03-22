@@ -27,6 +27,13 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/DetailsHeading.js" timestamp="1553243071085">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/style/colors.js" timestamp="1553163132526">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="29" />
@@ -50,6 +57,12 @@
         <mark key="]" line="1" column="30" />
         <mark key="^" line="18" column="41" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/DetailsHeading.spec.js" timestamp="1553243200847">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/OrderEquipmentCoordinator.spec.js" timestamp="1553162243181">
         <mark key="[" line="34" column="39" />
@@ -76,11 +89,12 @@
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1553185773167">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="44" column="26" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1553243291231">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="32" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorSelectors.js" timestamp="1553171157267">
         <mark key="'" line="9" column="6" />
@@ -89,12 +103,12 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" timestamp="1553185972343">
-        <mark key="'" line="30" column="52" />
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="14" column="31" />
-        <mark key="." line="1" column="25" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" timestamp="1553243409493">
+        <mark key="'" line="0" column="25" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="46" />
+        <mark key="^" line="22" column="69" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -109,43 +123,49 @@
       <jump line="38" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" />
       <jump line="13" column="26" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" />
       <jump line="30" column="52" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/DetailsHeading.js" />
+      <jump line="40" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/DetailsHeading.js" />
+      <jump line="0" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" />
+      <jump line="61" column="17" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" />
+      <jump line="36" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IERldGFpbHNIZWFkaW5nIGZyb20gJy4uL0RldGFpbHNIZWFkaW5nJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>detailsComponent.find(DetailsHeading)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGV0YWlsc1BhcGVySGVhZGVyQ29tcG9uZW50LnRleHQoKSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgRGV0YWlscyB9IGZyb20gJy4uL0RldGFpbHMnCmltcG9ydCBEZXRhaWxzUGFwZXJIZWFkZXIgZnJvbSAnLi4vLi4vRGV0YWlsc1BhcGVyL0RldGFpbHNQYXBlckhlYWRlcicKaW1wb3J0IEVxdWlwbWVudENvb3JkaW5hdGlvbnNEZXRhaWxzVGFibGUKICBmcm9tICcuLi8uLi9FcXVpcG1lbnRDb29yZGluYXRpb25zRGV0YWlsc1RhYmxlL0VxdWlwbWVudENvb3JkaW5hdGlvbnNEZXRhaWxzVGFibGUnCmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCcKaW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZScKCmRlc2NyaWJlKCdEZXRhaWxzJywgZnVuY3Rpb24gKCkgewogIGRlc2NyaWJlKCdnaXZlbiBzb21lIGVxdWlwbWVudCBpZCBhbmQgbmFtZScsIGZ1bmN0aW9uICgpIHsKICAgIGNvbnN0IGdpdmVuRXF1aXBtZW50SWQgPSAyMDAxCiAgICBjb25zdCBnaXZlbkVxdWlwbWVudE5hbWUgPSAnZ2l2ZW5FcXVpcG1lbnROYW1lJwogICAgbGV0IGRldGFpbHNDb21wb25lbnQKCiAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgZGV0YWlsc0NvbXBvbmVudCA9IHNoYWxsb3coPERldGFpbHMgZXF1aXBtZW50SWQ9e2dpdmVuRXF1aXBtZW50SWR9IGVxdWlwbWVudE5hbWU9e2dpdmVuRXF1aXBtZW50TmFtZX0vPikKICAgIH0pCgogICAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgZGV0YWlsc0NvbXBvbmVudC51bm1vdW50KCkKICAgIH0pCgogICAgaXQoJ2Rpc3BsYXlzIHRoZSBlcXVpcG1lbnQgaWQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGV4cGVjdChkZXRhaWxzQ29tcG9uZW50LnRleHQoKSkudG8uY29udGFpbihnaXZlbkVxdWlwbWVudElkKQogICAgfSkKCiAgICBpdCgnZGlzcGxheXMgdGhlIGVxdWlwbWVudCBuYW1lJywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoZGV0YWlsc0NvbXBvbmVudC50ZXh0KCkpLnRvLmNvbnRhaW4oZ2l2ZW5FcXVpcG1lbnROYW1lKQogICAgfSkKCiAgICBpdCgncmVuZGVycyBhIERldGFpbHNQYXBlckhlYWRlcicsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KGRldGFpbHNDb21wb25lbnQuZmluZChEZXRhaWxzUGFwZXJIZWFkZXIpKS50by5iZS5wcmVzZW50KCkKICAgIH0pCgogICAgaXQoJ3JlbmRlcnMgYW4gRXF1aXBtZW50Q29vcmRpbmF0aW9uc0RldGFpbHNUYWJsZScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KGRldGFpbHNDb21wb25lbnQuZmluZChFcXVpcG1lbnRDb29yZGluYXRpb25zRGV0YWlsc1RhYmxlKSkudG8uYmUucHJlc2VudCgpCiAgICB9KQogIH0pCgogIGRlc2NyaWJlKCdnaXZlbiBuZWl0aGVyIGFuIGVxdWlwbWVudElkIG5vciBhbiBlcXVpcG1lbnQgbmFtZScsIGZ1bmN0aW9uICgpIHsKICAgIGl0KCdyZW5kZXJzIG5vdGhpbmcnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IHJlc3VsdCA9IHNoYWxsb3coPERldGFpbHMgLz4pCiAgICAgIGV4cGVjdChyZXN1bHQudGV4dCgpKS50by5iZS5lcXVhbCgnJykKICAgIH0pCiAgfSkKfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZScK</text>
+        <text encoding="base64">aW1wb3J0IERldGFpbHNIZWFkaW5nIGZyb20gJy4uL0RldGFpbHNIZWFkaW5nJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW91bnQsIHNoYWxsb3cgfSBmcm9tICdlbnp5bWUnCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaGVhZGluZyA9IGRldGFpbHNDb21wb25lbnQuZmluZChEZXRhaWxzSGVhZGluZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW91bnQgfSBmcm9tICdlbnp5bWUnCg==</text>
+        <text encoding="base64">CiAgICBpdCgnZGlzcGxheXMgdGhlIGVxdWlwbWVudCBpZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KGRldGFpbHNDb21wb25lbnQudGV4dCgpKS50by5jb250YWluKGdpdmVuRXF1aXBtZW50SWQpCiAgICB9KQoKICAgIGl0KCdkaXNwbGF5cyB0aGUgZXF1aXBtZW50IG5hbWUnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGV4cGVjdChkZXRhaWxzQ29tcG9uZW50LnRleHQoKSkudG8uY29udGFpbihnaXZlbkVxdWlwbWVudE5hbWUpCiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW91bnQgfSBmcm9tICdlbnp5bWUnCg==</text>
+        <text encoding="base64">CiAgICBhZnRlckVhY2goZnVuY3Rpb24gKCkgewogICAgICBkZXRhaWxzQ29tcG9uZW50LnVubW91bnQoKQogICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGV0YWlsc1BhcGVySGVhZGVyQ29tcG9uZW50LnRleHQoKSkKICAgICAgY29uc29sZS5sb2coZGV0YWlsc1BhcGVySGVhZGVyQ29tcG9uZW50LmNoaWxkcmVuKCdoNCcpLnRleHQoKSkK</text>
+        <text encoding="base64">aW1wb3J0IERldGFpbHNIZWFkaW5nIGZyb20gJy4vRGV0YWlsc0hlYWRpbmcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW91bnQgfSBmcm9tICdlbnp5bWUnCg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IERldGFpbHMgZnJvbSAnLi4vRGV0YWlscycK</text>
+        <text encoding="base64">ICBlcXVpcG1lbnRIZWFkaW5nOiB7CiAgICBjb2xvcjogJyM1QzY4NzMnLAogICAgZm9udFNpemU6ICcyMHB4JywKICAgIGZvbnRXZWlnaHQ6ICdub3JtYWwnLAogICAgbGluZUhlaWdodDogJzI0cHgnLAogICAgbWFyZ2luQm90dG9tOiAnMTZweCcsCiAgICBtYXJnaW5Ub3A6ICcxMnB4JywKICAgIG92ZXJmbG93OiAnaGlkZGVuJywKICAgIHRleHRPdmVyZmxvdzogJ2VsbGlwc2lzJywKICAgIHRleHRUcmFuc2Zvcm06ICd1cHBlcmNhc2UnLAogICAgd2hpdGVTcGFjZTogJ25vd3JhcCcKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGV0YWlscyB9IGZyb20gJy4uL0RldGFpbHMnCg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IERldGFpbHNQYXBlciBmcm9tICcuLi8uLi9EZXRhaWxzUGFwZXIvRGV0YWlsc1BhcGVyJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
