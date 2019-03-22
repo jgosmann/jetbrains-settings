@@ -15,17 +15,23 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsDetailsTable/EquipmentCoordinationsDetailsTableHeader.js" timestamp="1553183822727">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsDetailsTable/EquipmentCoordinationsDetailsTableHeader.js" timestamp="1553245807224">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/DetailsPaper.spec.js" timestamp="1553164550194">
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="2" />
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsDetailsTable/EquipmentCoordinationsDetailsTableBody.js" timestamp="1553245878804">
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/DetailsHeading.js" timestamp="1553243071085">
         <mark key="'" line="32" column="0" />
@@ -58,11 +64,11 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/DetailsHeading.spec.js" timestamp="1553243200847">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="12" column="7" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/DetailsHeading.spec.js" timestamp="1553245345144">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
         <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/OrderEquipmentCoordinator.spec.js" timestamp="1553162243181">
         <mark key="[" line="34" column="39" />
@@ -76,12 +82,12 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1553184325793">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1553245815028">
         <mark key="'" line="29" column="20" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="75" />
-        <mark key="^" line="32" column="59" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="31" column="56" />
+        <mark key="^" line="31" column="55" />
+        <mark key="." line="31" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaper.js" timestamp="1553184187664">
         <mark key="'" line="19" column="1" />
@@ -110,6 +116,12 @@
         <mark key="^" line="22" column="69" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsDetailsTable/EquipmentCoordinationsDetailsTableBodyRow.js" timestamp="1553245792495">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="26" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" />
@@ -132,13 +144,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IERldGFpbHNIZWFkaW5nIGZyb20gJy4uL0RldGFpbHNIZWFkaW5nJwo=</text>
+        <text encoding="base64">ICA8RXF1aXBtZW50Q29vcmRpbmF0aW9uc0RldGFpbHNUYWJsZUJvZHlSb3cgZWRnZUlkPXswfS8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>detailsComponent.find(DetailsHeading)</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGV0YWlscyB9IGZyb20gJy4uL0RldGFpbHMnCmltcG9ydCBEZXRhaWxzUGFwZXJIZWFkZXIgZnJvbSAnLi4vLi4vRGV0YWlsc1BhcGVyL0RldGFpbHNQYXBlckhlYWRlcicKaW1wb3J0IEVxdWlwbWVudENvb3JkaW5hdGlvbnNEZXRhaWxzVGFibGUKICBmcm9tICcuLi8uLi9FcXVpcG1lbnRDb29yZGluYXRpb25zRGV0YWlsc1RhYmxlL0VxdWlwbWVudENvb3JkaW5hdGlvbnNEZXRhaWxzVGFibGUnCmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCcKaW1wb3J0IHsgc2hhbGxvdyB9IGZyb20gJ2VuenltZScKCmRlc2NyaWJlKCdEZXRhaWxzJywgZnVuY3Rpb24gKCkgewogIGRlc2NyaWJlKCdnaXZlbiBzb21lIGVxdWlwbWVudCBpZCBhbmQgbmFtZScsIGZ1bmN0aW9uICgpIHsKICAgIGNvbnN0IGdpdmVuRXF1aXBtZW50SWQgPSAyMDAxCiAgICBjb25zdCBnaXZlbkVxdWlwbWVudE5hbWUgPSAnZ2l2ZW5FcXVpcG1lbnROYW1lJwogICAgbGV0IGRldGFpbHNDb21wb25lbnQKCiAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgZGV0YWlsc0NvbXBvbmVudCA9IHNoYWxsb3coPERldGFpbHMgZXF1aXBtZW50SWQ9e2dpdmVuRXF1aXBtZW50SWR9IGVxdWlwbWVudE5hbWU9e2dpdmVuRXF1aXBtZW50TmFtZX0vPikKICAgIH0pCgogICAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgZGV0YWlsc0NvbXBvbmVudC51bm1vdW50KCkKICAgIH0pCgogICAgaXQoJ2Rpc3BsYXlzIHRoZSBlcXVpcG1lbnQgaWQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGV4cGVjdChkZXRhaWxzQ29tcG9uZW50LnRleHQoKSkudG8uY29udGFpbihnaXZlbkVxdWlwbWVudElkKQogICAgfSkKCiAgICBpdCgnZGlzcGxheXMgdGhlIGVxdWlwbWVudCBuYW1lJywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoZGV0YWlsc0NvbXBvbmVudC50ZXh0KCkpLnRvLmNvbnRhaW4oZ2l2ZW5FcXVpcG1lbnROYW1lKQogICAgfSkKCiAgICBpdCgncmVuZGVycyBhIERldGFpbHNQYXBlckhlYWRlcicsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KGRldGFpbHNDb21wb25lbnQuZmluZChEZXRhaWxzUGFwZXJIZWFkZXIpKS50by5iZS5wcmVzZW50KCkKICAgIH0pCgogICAgaXQoJ3JlbmRlcnMgYW4gRXF1aXBtZW50Q29vcmRpbmF0aW9uc0RldGFpbHNUYWJsZScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KGRldGFpbHNDb21wb25lbnQuZmluZChFcXVpcG1lbnRDb29yZGluYXRpb25zRGV0YWlsc1RhYmxlKSkudG8uYmUucHJlc2VudCgpCiAgICB9KQogIH0pCgogIGRlc2NyaWJlKCdnaXZlbiBuZWl0aGVyIGFuIGVxdWlwbWVudElkIG5vciBhbiBlcXVpcG1lbnQgbmFtZScsIGZ1bmN0aW9uICgpIHsKICAgIGl0KCdyZW5kZXJzIG5vdGhpbmcnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IHJlc3VsdCA9IHNoYWxsb3coPERldGFpbHMgLz4pCiAgICAgIGV4cGVjdChyZXN1bHQudGV4dCgpKS50by5iZS5lcXVhbCgnJykKICAgIH0pCiAgfSkKfSkK</text>
+        <text encoding="base64">ICA8RXF1aXBtZW50Q29vcmRpbmF0aW9uc0RldGFpbHNUYWJsZUJvZHlSb3cgZWRnZUlkPXswfS8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IERldGFpbHNIZWFkaW5nIGZyb20gJy4uL0RldGFpbHNIZWFkaW5nJwo=</text>
@@ -186,6 +198,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
