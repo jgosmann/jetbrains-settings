@@ -98,10 +98,10 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorEdgeSelectors.js" timestamp="1553510792638">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorEdgeSelectors.js" timestamp="1553521923948">
         <mark key="[" line="14" column="86" />
-        <mark key="]" line="14" column="97" />
-        <mark key="." line="14" column="97" />
+        <mark key="]" line="14" column="86" />
+        <mark key="." line="14" column="86" />
         <mark key="^" line="14" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableHeader.js" timestamp="1553510950584">
@@ -302,11 +302,11 @@
       <jump line="19" column="26" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgesTableHeader.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJveFNoYWRvdzogJzBweCAycHggNXB4IHJnYmEoMCwgMCwgMCwgMC4xNSknLAo=</text>
+      <register name="&quot;" type="4">
+        <text>.description</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.description</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID0=</text>
