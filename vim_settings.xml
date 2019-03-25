@@ -179,11 +179,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1553255473281">
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="31" />
-        <mark key="^" line="45" column="31" />
-        <mark key="." line="45" column="31" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1553503900140">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableBody.js" timestamp="1553262320341">
         <mark key="'" line="3" column="24" />
@@ -286,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ID</text>
+        <text>Fragment</text>
       </register>
       <register name="-" type="4">
-        <text>ID</text>
+        <text>Fragment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID0=</text>
