@@ -200,10 +200,11 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="34" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1553526823773">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1553532057155">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableBody.js" timestamp="1553526517370">
         <mark key="'" line="3" column="24" />
@@ -302,11 +303,11 @@
       <jump line="24" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorEdgeSelectors.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEV4cGFuZEFycm93SWNvbiBmcm9tICcuLi9JY29ucy9FeHBhbmRBcnJvd0ljb24nCg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>ExpandArrowIcon</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID0=</text>
@@ -366,6 +367,7 @@
         <entry encoding="base64">JzwsJz5zLyA9Lzo=</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
