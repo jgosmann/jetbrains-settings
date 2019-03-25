@@ -16,11 +16,7 @@
         <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableRow.js" timestamp="1553261112513">
-        <mark key="'" line="44" column="23" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="10" column="56" />
+        <mark key="'" line="54" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1553501790394">
         <mark key="[" line="2" column="72" />
@@ -71,11 +67,12 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1553270005681">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1553511007967">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="35" column="62" />
+        <mark key="]" line="35" column="112" />
+        <mark key="^" line="35" column="112" />
+        <mark key="." line="35" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgeDetails.spec.js" timestamp="1553261011864">
         <mark key="'" line="14" column="1" />
@@ -84,17 +81,17 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorEdgeSelectors.js" timestamp="1553506497970">
-        <mark key="[" line="14" column="87" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorEdgeSelectors.js" timestamp="1553510792638">
+        <mark key="[" line="14" column="86" />
+        <mark key="]" line="14" column="97" />
+        <mark key="." line="14" column="97" />
+        <mark key="^" line="14" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableHeader.js" timestamp="1553507107934">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableHeader.js" timestamp="1553510950584">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgeSummary.spec.js" timestamp="1553253018530">
         <mark key="'" line="38" column="64" />
@@ -108,6 +105,9 @@
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553510410503">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeSummaryView.js" timestamp="1553260670015">
         <mark key="'" line="6" column="2" />
@@ -172,12 +172,12 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="34" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1553270535385">
-        <mark key="'" line="48" column="13" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1553511558507">
+        <mark key="'" line="53" column="13" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1553503900140">
         <mark key="[" line="13" column="19" />
@@ -286,43 +286,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.description</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>.description</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID0=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHRyYW5zLXVuaXQgaWQ9IlN0YXRpYy9TUEMvV2FwLkFkbWluLk9yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3IuRWRnZXNUYWJsZUhlYWRlcnMuRGVzY3JpcHRpb24iPgogICAgICAgIDxzb3VyY2U+SUQ8L3NvdXJjZT4KICAgICAgICA8dGFyZ2V0PklEPC90YXJnZXQ+CiAgICAgIDwvdHJhbnMtdW5pdD4K</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIG5vbkV4cGFuZGFibGVTdW1tYXJ5OiB7CiAgICBjdXJzb3I6ICdkZWZhdWx0JwogIH0KfSkKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRleHRLZXlzIGZyb20gJy4uLy4uL3RleHRzL3RleHRLZXlzJwo=</text>
+        <text encoding="base64">ICBncm93OiB7CiAgICBmbGV4QmFzaXM6IDAsCiAgICBmbGV4R3JvdzogMQogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEVkZ2VzVGFibGVIZWFkZXIsIHsgX19SZXdpcmVBUElfXyB9IGZyb20gJy4uL0VkZ2VzVGFibGVIZWFkZXInCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRleHRLZXlzIGZyb20gJy4uLy4uLy4uL3RleHRzL3RleHRLZXlzJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvY2FsaXplU3R1Yi53aXRoQXJncyh0ZXh0S2V5cy5lZGdlc1RhYmxlSGVhZGVycy5kZXNjcmlwdGlvbikucmV0dXJucygnbG9jYWxpemVkVG9TdGF0ZScpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9KQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVkZ2VzVGFibGVIZWFkZXIgPSBzaGFsbG93KDxFZGdlc1RhYmxlSGVhZGVyLz4pCg==</text>
+        <text encoding="base64">ICBjb25zdCBzdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHRleHRLZXlzIGZyb20gJy4uLy4uL3RleHRzL3RleHRLZXlzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiAnV2FwLkFkbWluLk9yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3IuZWRnZXNUYWJsZUhlYWRlcnMuZGVzY3JpcHRpb24nLAo=</text>
+        <text encoding="base64">aW1wb3J0IEVkZ2VzVGFibGVIZWFkZXIsIHsgX19SZXdpcmVBUElfXyB9IGZyb20gJy4uL0VkZ2VzVGFibGVIZWFkZXInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">aW1wb3J0IHRleHRLZXlzIGZyb20gJy4uLy4uLy4uL3RleHRzL3RleHRLZXlzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
