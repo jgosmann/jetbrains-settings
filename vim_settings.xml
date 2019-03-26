@@ -213,6 +213,13 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="34" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgeCondition.spec.js" timestamp="1553593476104">
+        <mark key="'" line="5" column="19" />
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1553532057155">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="15" column="20" />
@@ -328,6 +335,7 @@
       <jump line="77" column="62" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorEdgeSelectors.spec.js" />
       <jump line="38" column="67" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgesTableRow.spec.js" />
       <jump line="24" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/IndicatorBar.js" />
+      <jump line="5" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgeCondition.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -337,7 +345,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ID0=</text>
+        <text encoding="base64">aGFzIHRoZSBnaXZlIA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCBhY3RpdmVFZGdlSW5kaWNhdG9yCgogICAgYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgIGFjdGl2ZUVkZ2VJbmRpY2F0b3IgPSBzaGFsbG93KDxBY3RpdmVFZGdlSW5kaWNhdG9yLz4pCiAgICB9KQoKICAgIGFmdGVyRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgIGFjdGl2ZUVkZ2VJbmRpY2F0b3IudW5tb3VudCgpCiAgICB9KQoKICAgIGl0KCdyZW5kZXJzIGEgd2hpdGUgSW5kaWNhdG9yQmFyJywgZnVuY3Rpb24gKCkgewogICAgICBjb25zdCBpbmRpY2F0b3JCYXIgPSBhY3RpdmVFZGdlSW5kaWNhdG9yLmZpbmQoSW5kaWNhdG9yQmFyKQogICAgICBleHBlY3QoaW5kaWNhdG9yQmFyKS50by5iZS5wcmVzZW50KCkKICAgICAgZXhwZWN0KGluZGljYXRvckJhcikudG8uaGF2ZS5wcm9wKCdjb2xvcicsICcjZmZmJykKICAgIH0pCg==</text>
@@ -374,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ID0=</last-search>
+      <last-search encoding="base64">aGFzIHRoZSBnaXZlIA==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ID0=</last-pattern>
+      <last-pattern encoding="base64">aGFzIHRoZSBnaXZlIA==</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
@@ -387,6 +395,7 @@
         <entry>EdgeSum</entry>
         <entry>Summary</entry>
         <entry encoding="base64">ID0=</entry>
+        <entry encoding="base64">aGFzIHRoZSBnaXZlIA==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N1bW1hcnkvRGV0YWlscw==</entry>
