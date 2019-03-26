@@ -9,6 +9,12 @@
         <mark key="^" line="93" column="59" />
         <mark key="." line="93" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/SenderMock.cs" timestamp="1553618204565">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableRow.js" timestamp="1553261112513">
         <mark key="'" line="44" column="23" />
         <mark key="[" line="3" column="0" />
@@ -279,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>dataStore.GetLatestCoordinationData(c.EquipmentId).ErrorDescription,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>dataStore.GetLatestCoordinationData(c.EquipmentId).ErrorDescription,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID0=</text>
