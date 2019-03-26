@@ -15,12 +15,12 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableRow.js" timestamp="1553530954504">
-        <mark key="'" line="65" column="23" />
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="4" column="56" />
-        <mark key="^" line="4" column="56" />
-        <mark key="." line="4" column="56" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableRow.js" timestamp="1553586984553">
+        <mark key="'" line="76" column="23" />
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1553501790394">
         <mark key="[" line="2" column="72" />
@@ -304,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>style={{background: 'red', width: 16}}</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>style={{background: 'red', width: 16}}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID0=</text>
@@ -316,19 +316,19 @@
         <text encoding="base64">ICAgICAgaXQoJ3JldHVybnMgdW5kZWZpbmVkJywgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEV4cGFuZEFycm93SWNvbiBmcm9tICcuLi9JY29ucy9FeHBhbmRBcnJvd0ljb24nCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiAncmVkJywgd2lkdGg6IDE2fX0+PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIExheW91dCBvZiBjb2x1bW5zIGluIHRoZSBlZGdlcyB0YWJsZS4KICogQHBhcmFtIGZyb21TdGF0ZQogKiBAcGFyYW0gdG9TdGF0ZQogKiBAcGFyYW0gZGVzY3JpcHRpb24KICogQHBhcmFtIGFycm93SWNvbgogKiBAcmV0dXJuIHsqfQogKiBAY29uc3RydWN0b3IKICovCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6ICdyZWQnLCB3aWR0aDogMTZ9fT48L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiAncmVkJ319PjwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">aW1wb3J0IEV4cGFuZEFycm93SWNvbiBmcm9tICcuLi9JY29ucy9FeHBhbmRBcnJvd0ljb24nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">LyoqCiAqIExheW91dCBvZiBjb2x1bW5zIGluIHRoZSBlZGdlcyB0YWJsZS4KICogQHBhcmFtIGZyb21TdGF0ZQogKiBAcGFyYW0gdG9TdGF0ZQogKiBAcGFyYW0gZGVzY3JpcHRpb24KICogQHBhcmFtIGFycm93SWNvbgogKiBAcmV0dXJuIHsqfQogKiBAY29uc3RydWN0b3IKICovCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
@@ -366,8 +366,8 @@
         <entry>wc</entry>
         <entry encoding="base64">JzwsJz5zLyA9Lzo=</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
