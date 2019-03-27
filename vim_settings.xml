@@ -60,6 +60,12 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/orderEquipmentCoordinatorReducer.js" timestamp="1553675763126">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1553156195913">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="13" column="24" />
@@ -263,6 +269,12 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/updateEquipmentCoordinations.spec.js" timestamp="1553675919094">
+        <mark key="[" line="153" column="38" />
+        <mark key="]" line="153" column="71" />
+        <mark key="^" line="153" column="71" />
+        <mark key="." line="153" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorEdgeSelectors.js" timestamp="1553591094747">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="41" />
@@ -298,6 +310,11 @@
         <mark key="]" line="5" column="41" />
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/updateEquipmentCoordinations.js" timestamp="1553676018339">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgeSummaryView.spec.js" timestamp="1553525262187">
         <mark key="[" line="5" column="10" />
@@ -442,10 +459,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICBkZXNjcmliZSgnZGl2IGZvciB0aGUgcmlnaHQgc2lkZScsIGZ1bmN0aW9uICgpIHsKICAgIGl0KCdoYXMgYSBtYXgtd2lkdGgnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IGNvbXBvbmVudCA9IHNoYWxsb3coPEFkbWluUGFnZS8+KQogICAgICBjb21wb25lbnQuCiAgICB9KQogIH0pCg==</text>
+        <text encoding="base64">CmNvbnN0IHVwZGF0ZVNpbmdsZUVxdWlwbWVudENvb3JkaW5hdGlvbiA9IGZ1bmN0aW9uICh7IHByZXZpb3VzRXF1aXBtZW50Q29vcmRpbmF0aW9uLCBuZXdFcXVpcG1lbnRDb29yZGluYXRpb24gfSkgewoKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>`calc(100% - ${</text>
+        <text>previousEquipmentCoordinations</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeHBhbmRMZXNzXD4=</text>
@@ -454,31 +471,31 @@
         <text encoding="base64">ICBkZXNjcmliZSgnZ2l2ZW4gYSBjb29yZGluYXRpb24gd2l0aG91dCBhbiBlcnJvciBkZXNjcmlwdGlvbicsIGZ1bmN0aW9uICgpIHsKICAgIGNvbnN0IGdpdmVuQ29vcmRpbmF0aW9uID0gewogICAgICBlcnJvckRlc2NyaXB0aW9uOiAnJwogICAgfQogICAgCiAgICBsZXQgZGV0YWlsc1BhcGVySGVhZGVyQ29tcG9uZW50CiAgICAKICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICBkZXRhaWxzUGFwZXJIZWFkZXJDb21wb25lbnQgPSBzaGFsbG93KDxEZXRhaWxzUGFwZXJIZWFkZXIgY29vcmRpbmF0aW9uPXtnaXZlbkNvb3JkaW5hdGlvbn0vPikKICAgIH0pCiAgICAKICAgIGFmdGVyRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgIGRldGFpbHNQYXBlckhlYWRlckNvbXBvbmVudC51bm1vdW50KCkKICAgIH0pCiAgICAKICAgIGl0KCdkb2VzIG5vdCByZW5kZXIgYW4gZXJyb3IgZGlzcGxheScsIGZ1bmN0aW9uICgpIHsKICAgICAgZXhwZWN0KGRldGFpbHNQYXBlckhlYWRlckNvbXBvbmVudC5maW5kKEVycm9yRGlzcGxheSkpLnRvLm5vdC5iZS5wcmVzZW50KCkKICAgIH0pCiAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBkZXNjcmliZSgnZGl2IGZvciB0aGUgcmlnaHQgc2lkZScsIGZ1bmN0aW9uICgpIHsKICAgIGl0KCdoYXMgYSBtYXgtd2lkdGgnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IGNvbXBvbmVudCA9IHNoYWxsb3coPEFkbWluUGFnZS8+KQogICAgICBjb21wb25lbnQuCiAgICB9KQogIH0pCg==</text>
+        <text encoding="base64">CmNvbnN0IHVwZGF0ZVNpbmdsZUVxdWlwbWVudENvb3JkaW5hdGlvbiA9IGZ1bmN0aW9uICh7IHByZXZpb3VzRXF1aXBtZW50Q29vcmRpbmF0aW9uLCBuZXdFcXVpcG1lbnRDb29yZGluYXRpb24gfSkgewoKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEFkbWluTWVudSwgeyBjbG9zZWRXaWR0aCB9IGZyb20gJy4uL0FkbWluTWVudS9BZG1pbk1lbnUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG1kZGRkCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAKICB1cGRhdGVkRXF1aXBtZW50Q29vcmRpbmF0aW9ucy5tYXAoKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEVycm9ySWNvblJlZCBmcm9tICcuLi8uLi9JY29ucy9FcnJvckljb25SZWQnCg==</text>
+        <text encoding="base64">ICAKICBkZXNjcmliZSgnZGl2IGZvciB0aGUgcmlnaHQgc2lkZScsIGZ1bmN0aW9uICgpIHsKICAgIGl0KCdoYXMgYSBtYXgtd2lkdGgnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IGNvbXBvbmVudCA9IHNoYWxsb3coPEFkbWluUGFnZS8+KQogICAgICBjb21wb25lbnQuCiAgICB9KQogIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEVycm9ySWNvblJlZCBmcm9tICcuLi9JY29ucy9FcnJvckljb25SZWQnCg==</text>
+        <text encoding="base64">aW1wb3J0IEFkbWluTWVudSwgeyBjbG9zZWRXaWR0aCB9IGZyb20gJy4uL0FkbWluTWVudS9BZG1pbk1lbnUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGRldGFpbHNQYXBlckhlYWRlckNvbXBvbmVudC5maW5kKEVycm9yRGlzcGxheSkpLnRvLm5vdC5iZS5wcmVzZW50KCkK</text>
+        <text encoding="base64">ICAgIG1kZGRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0KCdyZW5kZXJzIGFuIGVycm9yIGRpc3BsYXknLCBmdW5jdGlvbiAoKSB7CiAgICAgIGV4cGVjdChkZXRhaWxzUGFwZXJIZWFkZXJDb21wb25lbnQuZmluZChFcnJvckRpc3BsYXkpKS50by5iZS5wcmVzZW50KCkKICAgIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IEVycm9ySWNvblJlZCBmcm9tICcuLi8uLi9JY29ucy9FcnJvckljb25SZWQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEVycm9ySWNvblJlZCBmcm9tICcuLi9JY29ucy9FcnJvckljb25SZWQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGRldGFpbHNQYXBlckhlYWRlckNvbXBvbmVudC5maW5kKEVycm9yRGlzcGxheSkpLnRvLm5vdC5iZS5wcmVzZW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
