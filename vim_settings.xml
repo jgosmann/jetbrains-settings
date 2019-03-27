@@ -269,11 +269,10 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/updateEquipmentCoordinations.spec.js" timestamp="1553680527919">
-        <mark key="[" line="172" column="5" />
-        <mark key="]" line="173" column="15" />
-        <mark key="^" line="173" column="15" />
-        <mark key="." line="173" column="15" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/updateEquipmentCoordinations.spec.js" timestamp="1553681255543">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorEdgeSelectors.js" timestamp="1553591094747">
         <mark key="[" line="18" column="26" />
@@ -299,11 +298,23 @@
         <mark key="." line="66" column="28" />
         <mark key="^" line="66" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/deepUpdate.js" timestamp="1553683846737">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="8" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/Icons/ExpandMoreIcon.js" timestamp="1553603458293">
         <mark key="[" line="0" column="58" />
         <mark key="]" line="0" column="67" />
         <mark key="." line="0" column="67" />
         <mark key="^" line="0" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/deepUpdate.spec.js" timestamp="1553684006555">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
+        <mark key="^" line="38" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsDetailsTable/EquipmentCoordinationsDetailsTableHeader.js" timestamp="1553246680170">
         <mark key="[" line="5" column="41" />
@@ -311,11 +322,10 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/updateEquipmentCoordinations.js" timestamp="1553678557151">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/updateEquipmentCoordinations.js" timestamp="1553681234685">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgeSummaryView.spec.js" timestamp="1553525262187">
         <mark key="[" line="5" column="10" />
@@ -336,9 +346,6 @@
         <mark key="]" line="6" column="76" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="60" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/Icons/ExpandLessIcon.js" timestamp="1553603546383">
-        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/OrderEquipmentCoordinator.spec.js" timestamp="1553162243181">
         <mark key="[" line="34" column="39" />
@@ -461,61 +468,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeHBhbmRMZXNzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-        'equipmentId': 1,
-        'equipmentName': 'first equipment',
-        'stateId': 10,
-        'stateDescription': 'state of first equipment',
-        'edges': [
-          {
-            'description': 'edge 0 of equipment 1',
-            'action': {
-              'action': 'action of edge 0 of equipment 1'
-            }
-          }, {
-            'description': 'edge 1 of equipment 1',
-            'action': {
-              'action': 'action of edge 1 of equipment 1'
-            }
-          }
-        ]
-      }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGhhc0NoYW5nZWQgPSBfLmtleXModXBkYXRlZE9iaikucmVkdWNlKChrZXksIGhhc0NoYW5nZWQpID0+IGhhc0NoYW5nZWQgfHwgdXBkYXRlZE9ialtrZXldICE9PSBvYmpba2V5XSwgZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKF8ua2V5cyhjb3B5T2ZPYmopLnJlZHVjZSgoaGFzQ2hhbmdlZCwga2V5KSA9PiBoYXNDaGFuZ2VkIHx8IGNvcHlPZk9ialtrZXldICE9PSBvYmpba2V5XSwgZmFsc2UpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5vVXBkYXRlSW5kaWNhdG9yID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIHVwZGF0ZWRPYmoua2VjYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFsKICAgIC8vICAgdW5kZWZpbmVkLAogICAgLy8gICBudWxsCiAgICAvLyBdLmZvckVhY2gobm9VcGRhdGVJbmRpY2F0b3IgPT4K</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvcHlPZk9iaiA9IF8uY2xvbmUoe30sIG9iaikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFsKICAgICAgewogICAgICAgIGE6ICd1JwogICAgICB9CiAgICBdCg==</text>
+        <text encoding="base64">ICAgIE9iamVjdAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IHByZXZpb3VzQ29vcmRpbmF0aW9uc0J5RXF1aXBtZW50SWQgPSB7CiAgICAgIDE6IHsKICAgICAgICAnZXF1aXBtZW50SWQnOiAxLAogICAgICAgICdlcXVpcG1lbnROYW1lJzogJ2ZpcnN0IGVxdWlwbWVudCcsCiAgICAgICAgJ3N0YXRlSWQnOiAxMCwKICAgICAgICAnc3RhdGVEZXNjcmlwdGlvbic6ICdzdGF0ZSBvZiBmaXJzdCBlcXVpcG1lbnQnLAogICAgICAgICdlZGdlcyc6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogJ2VkZ2UgMCBvZiBlcXVpcG1lbnQgMScsCiAgICAgICAgICAgICdhY3Rpb24nOiB7CiAgICAgICAgICAgICAgJ2FjdGlvbic6ICdhY3Rpb24gb2YgZWRnZSAwIG9mIGVxdWlwbWVudCAxJwogICAgICAgICAgICB9CiAgICAgICAgICB9LCB7CiAgICAgICAgICAgICdkZXNjcmlwdGlvbic6ICdlZGdlIDEgb2YgZXF1aXBtZW50IDEnLAogICAgICAgICAgICAnYWN0aW9uJzogewogICAgICAgICAgICAgICdhY3Rpb24nOiAnYWN0aW9uIG9mIGVkZ2UgMSBvZiBlcXVpcG1lbnQgMScKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSwKICAgICAgMjogewogICAgICAgICdlcXVpcG1lbnRJZCc6IDIsCiAgICAgICAgJ2VxdWlwbWVudE5hbWUnOiAnc2Vjb25kIGVxdWlwbWVudCcsCiAgICAgICAgJ3N0YXRlSWQnOiAyMCwKICAgICAgICAnc3RhdGVEZXNjcmlwdGlvbic6ICdzdGF0ZSBvZiBzZWNvbmQgZXF1aXBtZW50JwogICAgICB9CiAgICB9OwoKICAgIFsKICAgICAgewogICAgICAgIGVxdWlwbWVudENvb3JkaW5hdGlvbnM6IG51bGwsCiAgICAgICAgZGVzY3JpcHRpb246ICdudWxsJwogICAgICB9LAogICAgICB7CiAgICAgICAgZXF1aXBtZW50Q29vcmRpbmF0aW9uczogW10sCiAgICAgICAgZGVzY3JpcHRpb246ICdlbXB0eScKICAgICAgfQogICAgXS5mb3JFYWNoKCh7IGVxdWlwbWVudENvb3JkaW5hdGlvbnMsIGRlc2NyaXB0aW9uIH0pID0+CiAgICAgIGRlc2NyaWJlKGBnaXZlbiBjdXJyZW50IGVxdWlwbWVudCBjb29yZGluYXRpb25zIHRoYXQgYXJlICR7ZGVzY3JpcHRpb259YCwgZnVuY3Rpb24gKCkgewogICAgICAgIGl0KCdyZXR1cm5zIHRoZSBwcmV2aW91cyBlcXVpcG1lbnQgY29vcmRpbmF0aW9ucycsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IHVwZGF0ZUVxdWlwbWVudENvb3JkaW5hdGlvbnMoeyBwcmV2aW91c0Nvb3JkaW5hdGlvbnNCeUVxdWlwbWVudElkLCBlcXVpcG1lbnRDb29yZGluYXRpb25zIH0pCgogICAgICAgICAgZXhwZWN0KHJlc3VsdCkudG8uZGVlcC5lcXVhbChwcmV2aW91c0Nvb3JkaW5hdGlvbnNCeUVxdWlwbWVudElkKQogICAgICAgIH0pCiAgICAgIH0pCiAgICApCgogICAgZGVzY3JpYmUoJ2dpdmVuIGN1cnJlbnQgZXF1aXBtZW50IGNvb3JkaW5hdGlvbnMnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IGVxdWlwbWVudENvb3JkaW5hdGlvbnMgPSBbCiAgICAgICAgewogICAgICAgICAgJ2VxdWlwbWVudElkJzogMSwKICAgICAgICAgICdlcXVpcG1lbnROYW1lJzogJ2ZpcnN0IGVxdWlwbWVudCcsCiAgICAgICAgICAnc3RhdGVJZCc6IDExLAogICAgICAgICAgJ3N0YXRlRGVzY3JpcHRpb24nOiAnbmV3IHN0YXRlIG9mIGZpcnN0IGVxdWlwbWVudCcsCiAgICAgICAgICAnZWRnZXMnOiBbXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgJ2VxdWlwbWVudElkJzogMywKICAgICAgICAgICdlcXVpcG1lbnROYW1lJzogJ3RoaXJkIGVxdWlwbWVudCcsCiAgICAgICAgICAnc3RhdGVJZCc6IDMwLAogICAgICAgICAgJ3N0YXRlRGVzY3JpcHRpb24nOiAnc3RhdGUgb2YgdGhpcmQgZXF1aXBtZW50JwogICAgICAgIH1dCgogICAgICBpdCgncmV0dXJucyB0aGUgbWVyZ2VkIGVxdWlwbWVudCBjb29yZGluYXRpb25zJywgZnVuY3Rpb24gKCkgewogICAgICAgIGNvbnN0IHJlc3VsdCA9IHVwZGF0ZUVxdWlwbWVudENvb3JkaW5hdGlvbnMoeyBwcmV2aW91c0Nvb3JkaW5hdGlvbnNCeUVxdWlwbWVudElkLCBlcXVpcG1lbnRDb29yZGluYXRpb25zIH0pCgogICAgICAgIGV4cGVjdChyZXN1bHQpLnRvLmRlZXAuZXF1YWwoewogICAgICAgICAgMTogewogICAgICAgICAgICAnZXF1aXBtZW50SWQnOiAxLAogICAgICAgICAgICAnZXF1aXBtZW50TmFtZSc6ICdmaXJzdCBlcXVpcG1lbnQnLAogICAgICAgICAgICAnc3RhdGVJZCc6IDExLAogICAgICAgICAgICAnc3RhdGVEZXNjcmlwdGlvbic6ICduZXcgc3RhdGUgb2YgZmlyc3QgZXF1aXBtZW50JywKICAgICAgICAgICAgJ2VkZ2VzJzogW10KICAgICAgICAgIH0sCiAgICAgICAgICAyOiB7CiAgICAgICAgICAgICdlcXVpcG1lbnRJZCc6IDIsCiAgICAgICAgICAgICdlcXVpcG1lbnROYW1lJzogJ3NlY29uZCBlcXVpcG1lbnQnLAogICAgICAgICAgICAnc3RhdGVJZCc6IDIwLAogICAgICAgICAgICAnc3RhdGVEZXNjcmlwdGlvbic6ICdzdGF0ZSBvZiBzZWNvbmQgZXF1aXBtZW50JwogICAgICAgICAgfSwKICAgICAgICAgIDM6IHsKICAgICAgICAgICAgJ2VxdWlwbWVudElkJzogMywKICAgICAgICAgICAgJ2VxdWlwbWVudE5hbWUnOiAndGhpcmQgZXF1aXBtZW50JywKICAgICAgICAgICAgJ3N0YXRlSWQnOiAzMCwKICAgICAgICAgICAgJ3N0YXRlRGVzY3JpcHRpb24nOiAnc3RhdGUgb2YgdGhpcmQgZXF1aXBtZW50JwogICAgICAgICAgfQogICAgICAgIH0pCiAgICAgIH0pCgogICAgICBpdCgna2VlcHMgdGhlIG9iamVjdCBpZGVudGl0eSBvZiB1bmNoYW5nZWQgY29vcmRpbmF0aW9ucycsIGZ1bmN0aW9uICgpIHsKICAgICAgICBjb25zdCByZXN1bHQgPSB1cGRhdGVFcXVpcG1lbnRDb29yZGluYXRpb25zKHsgcHJldmlvdXNDb29yZGluYXRpb25zQnlFcXVpcG1lbnRJZCwgZXF1aXBtZW50Q29vcmRpbmF0aW9ucyB9KQoKICAgICAgICBleHBlY3QocmVzdWx0WzJdKS50by5iZS5lcXVhbChwcmV2aW91c0Nvb3JkaW5hdGlvbnNCeUVxdWlwbWVudElkWzJdKQogICAgICB9KQogICAgfSkKCiAgICBbdW5kZWZpbmVkLCBudWxsXQoKICAgIC8vIFsKICAgIC8vICAgdW5kZWZpbmVkLAogICAgLy8gICBudWxsCiAgICAvLyBdLmZvckVhY2gobm9VcGRhdGVJbmRpY2F0b3IgPT4KICAgIC8vICAgZGVzY3JpYmUoYGdpdmVuIGN1cnJlbnQgZXF1aXBtZW50IGNvb3JkaW5hdGlvbnMgd2l0aCBwYXJ0aWFsIHVwZGF0ZXMgdXNpbmcgJHtub1VwZGF0ZUluZGljYXRvcn1gLCBmdW5jdGlvbiAoKSB7CiAgICAvLyAgICAgY29uc3QgZXF1aXBtZW50Q29vcmRpbmF0aW9ucyA9IFsKICAgIC8vICAgICAgIHsKICAgIC8vICAgICAgICAgJ2VxdWlwbWVudElkJzogMSwKICAgIC8vICAgICAgICAgJ2VkZ2VzJzogWwogICAgLy8gICAgICAgICAgIHsKICAgIC8vICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6ICduZXcgZWRnZSAwIG9mIGVxdWlwbWVudCAxJywKICAgIC8vICAgICAgICAgICAgICdhY3Rpb24nOiBub1VwZGF0ZUluZGljYXRvcgogICAgLy8gICAgICAgICAgIH0sIHsKICAgIC8vICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6ICdlZGdlIDEgb2YgZXF1aXBtZW50IDEnLAogICAgLy8gICAgICAgICAgICAgJ2FjdGlvbic6IHsKICAgIC8vICAgICAgICAgICAgICAgJ2FjdGlvbic6ICduZXcgYWN0aW9uIG9mIGVkZ2UgMSBvZiBlcXVpcG1lbnQgMScKICAgIC8vICAgICAgICAgICAgIH0KICAgIC8vICAgICAgICAgICB9CiAgICAvLyAgICAgICAgIF0KICAgIC8vICAgICAgIH0KICAgIC8vICAgICBdCiAgICAvLwogICAgLy8gICAgIGl0KCdvbmx5IHVwZGF0ZXMgZmllbGRzIHdoZXJlIHZhbHVlIGlzIHByb3ZpZGVkJywgZnVuY3Rpb24gKCkgewogICAgLy8gICAgICAgY29uc3QgcmVzdWx0ID0gdXBkYXRlRXF1aXBtZW50Q29vcmRpbmF0aW9ucyh7IHByZXZpb3VzQ29vcmRpbmF0aW9uc0J5RXF1aXBtZW50SWQsIGVxdWlwbWVudENvb3JkaW5hdGlvbnMgfSkKICAgIC8vCiAgICAvLyAgICAgICBleHBlY3QocmVzdWx0WzFdKS50by5kZWVwLmVxdWFsKHsKICAgIC8vICAgICAgICAgJ2VxdWlwbWVudElkJzogMSwKICAgIC8vICAgICAgICAgJ2VxdWlwbWVudE5hbWUnOiAnZmlyc3QgZXF1aXBtZW50JywKICAgIC8vICAgICAgICAgJ3N0YXRlSWQnOiAxMCwKICAgIC8vICAgICAgICAgJ3N0YXRlRGVzY3JpcHRpb24nOiAnc3RhdGUgb2YgZmlyc3QgZXF1aXBtZW50JywKICAgIC8vICAgICAgICAgJ2VkZ2VzJzogWwogICAgLy8gICAgICAgICAgIHsKICAgIC8vICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6ICduZXcgZWRnZSAwIG9mIGVxdWlwbWVudCAxJywKICAgIC8vICAgICAgICAgICAgICdhY3Rpb24nOiB7CiAgICAvLyAgICAgICAgICAgICAgICdhY3Rpb24nOiAnYWN0aW9uIG9mIGVkZ2UgMCBvZiBlcXVpcG1lbnQgMScKICAgIC8vICAgICAgICAgICAgIH0KICAgIC8vICAgICAgICAgICB9LCB7CiAgICAvLyAgICAgICAgICAgICAnZGVzY3JpcHRpb24nOiAnZWRnZSAxIG9mIGVxdWlwbWVudCAxJywKICAgIC8vICAgICAgICAgICAgICdhY3Rpb24nOiB7CiAgICAvLyAgICAgICAgICAgICAgICdhY3Rpb24nOiAnbmV3IGFjdGlvbiBvZiBlZGdlIDEgb2YgZXF1aXBtZW50IDEnCiAgICAvLyAgICAgICAgICAgICB9CiAgICAvLyAgICAgICAgICAgfQogICAgLy8gICAgICAgICBdCiAgICAvLyAgICAgICB9KQogICAgLy8gICAgIH0pCiAgICAvLyAgIH0pCiAgICAvLyAp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGRlZXBVcGRhdGUoZ2l2ZW5PYmplY3QsIE9iamVjdC5hc3NpZ24oe30sIGdpdmVuT2JqZWN0KSkpLnRvLmVxdWFsKGdpdmVuT2JqZWN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -548,6 +537,7 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL01vcmUvTGVzcy9n</entry>
         <entry>wc</entry>
+        <entry>wk</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
