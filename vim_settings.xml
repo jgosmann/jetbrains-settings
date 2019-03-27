@@ -390,6 +390,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1553701174572">
+        <mark key="[" line="129" column="16" />
+        <mark key="]" line="129" column="17" />
+        <mark key="." line="129" column="17" />
+        <mark key="^" line="129" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="26" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" />
@@ -466,11 +472,11 @@
       <jump line="209" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/js/sharedComponents/reports/viewmodels/reports/menuItem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9iaiwgZGlmZikK</text>
+      <register name="&quot;" type="4">
+        <text>54</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>54</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRTZXJ2ZXJVUkxcPg==</text>
