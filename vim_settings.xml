@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1553783379472">
+      <file name="/Dummy.txt" timestamp="1553785330446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/SenderMock.cs" timestamp="1553691361184">
@@ -12,6 +12,18 @@
         <mark key="]" line="41" column="23" />
         <mark key="^" line="41" column="23" />
         <mark key="." line="41" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Abstractions/ISpcOecClient.cs" timestamp="1553785956212">
+        <mark key="[" line="10" column="102" />
+        <mark key="]" line="10" column="103" />
+        <mark key="." line="10" column="102" />
+        <mark key="^" line="10" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" timestamp="1553786386762">
+        <mark key="[" line="47" column="89" />
+        <mark key="]" line="47" column="89" />
+        <mark key="." line="47" column="89" />
+        <mark key="^" line="47" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Dtos/UpdateCommunicationTimeDto.cs" timestamp="1553783753474">
         <mark key="[" line="11" column="10" />
@@ -25,12 +37,24 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Dtos/UpdateCommunicationTimeWebDto.cs" timestamp="1553785747797">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Client/SignalRPushClient.cs" timestamp="1553784011097">
         <mark key="'" line="19" column="25" />
         <mark key="[" line="117" column="10" />
         <mark key="]" line="117" column="15" />
         <mark key="." line="117" column="15" />
         <mark key="^" line="117" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Dtos/UpdateEquipmentCoordinationTimeWebDto.cs" timestamp="1553785753768">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1553783126690">
         <mark key="[" line="86" column="6" />
@@ -56,35 +80,44 @@
       <jump line="19" column="25" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Client/SignalRPushClient.cs" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>m</text>
+      </register>
+      <register name="-" type="4">
+        <text>m</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxQdXNoVXBkYXRlZEVxdWlwbWVudENvb3JkaW5hdGlvbnNNZXRob2ROYW1lXD4=</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGh1YkludGVyYWN0aW9uV3JhcHBlci5JbnZva2UoIlVwZGF0ZUNvbW11bmljYXRpb25UaW1lIiwKICAgICAgICAgICAgICBuZXcgVXBkYXRlQ29tbXVuaWNhdGlvblRpbWVXZWJEdG8ge0VxdWlwbWVudElkID0gZHRvLkVxdWlwbWVudElkLCBUaW1lSW5NaWxsaXNlY29uZHMgPSBybmcuTmV4dCgxMDAwMCl9KTsK</text>
+        <text encoding="base64">CiAgICBbSHViTWV0aG9kTmFtZSgiVXBkYXRlQ29tbXVuaWNhdGlvblRpbWUiKV0KICAgIHB1YmxpYyBhc3luYyBUYXNrIFVwZGF0ZUNvbW11bmljYXRpb25UaW1lKFVwZGF0ZUNvbW11bmljYXRpb25UaW1lV2ViRHRvIGNvbVRpbWUpCiAgICB7CiAgICAgIHZhciBzcGNIdWJDb250ZXh0ID0gaHViQ29udGV4dExvY2F0b3IuR2V0SHViQ29udGV4dDxTcGNPZWNIdWIsIElTcGNPZWNDbGllbnQ+KCk7CiAgICAgIHZhciBhdmFpbGFibGVHcm91cHMgPSBncm91cE5hbWVNYW5hZ2VyLkdldEFsbEdyb3VwTmFtZXMoKTsKICAgICAgZm9yZWFjaCAodmFyIGF2YWlsYWJsZUdyb3VwIGluIGF2YWlsYWJsZUdyb3VwcykKICAgICAgewogICAgICAgIGF3YWl0IHNwY0h1YkNvbnRleHQuQ2xpZW50cy5Hcm91cChhdmFpbGFibGVHcm91cC5CdWlsZEdyb3VwTmFtZSgpKS5VcGRhdGVDb21tdW5pY3Rpb25UaW1lKGNvbVRpbWUpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCAK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>Communication</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ID0gbmV3IExpc3Q8RXF1aXBtZW50Q29vcmRpbmF0aW9uV2ViRHRvPgogICAgICAgICAgew==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBbRGF0YU1lbWJlcihOYW1lID0gInN0YXRlSWQiKV0KICAgIHB1YmxpYyBpbnQgU3RhdGVJZCB7IGdldDsgc2V0OyB9CgogICAgW0RhdGFNZW1iZXIoTmFtZSA9ICJzdGF0ZURlc2NyaXB0aW9uIildCiAgICBwdWJsaWMgc3RyaW5nIFN0YXRlRGVzY3JpcHRpb24geyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAiZXJyb3JEZXNjcmlwdGlvbiIpXQogICAgcHVibGljIHN0cmluZyBFcnJvckRlc2NyaXB0aW9uIHsgZ2V0OyBzZXQ7IH0KCiAgICBbRGF0YU1lbWJlcihOYW1lID0gImVkZ2VzIildCiAgICBwdWJsaWMgSUVudW1lcmFibGU8RWRnZVdlYkR0bz4gRWRnZXMgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRhc2sgcHVzaFRhc2sgPSBzaWduYWxSUHVzaENsaWVudC5QdXNoVXBkYXRlZEVxdWlwbWVudENvb3JkaW5hdGlvbnMod2ViRHRvcyk7CiAgICAgICAgICBXYWl0Rm9yVGFzayhwdXNoVGFzayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ID0gbmV3IExpc3Q8RXF1aXBtZW50Q29vcmRpbmF0aW9uV2ViRHRvPgogICAgICAgICAgew==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIFRhc2sgcHVzaFRhc2sgPSBzaWduYWxSUHVzaENsaWVudC5QdXNoVXBkYXRlZEVxdWlwbWVudENvb3JkaW5hdGlvbnMod2ViRHRvcyk7CiAgICAgICAgICBXYWl0Rm9yVGFzayhwdXNoVGFzayk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIFRhc2sgcHVzaFRhc2sgPSBzaWduYWxSUHVzaENsaWVudC5QdXNoVXBkYXRlZEVxdWlwbWVudENvb3JkaW5hdGlvbnMobmV3IExpc3Q8RXF1aXBtZW50Q29vcmRpbmF0aW9uV2ViRHRvPiB7d2ViRHRvfSk7CiAgICAgICAgICBXYWl0Rm9yVGFzayhwdXNoVGFzayk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>Communication</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxQdXNoVXBkYXRlZEVxdWlwbWVudENvb3JkaW5hdGlvbnNNZXRob2ROYW1lXD4=</text>
       </register>
     </registers>
     <search>
