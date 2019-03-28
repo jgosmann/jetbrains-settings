@@ -13,18 +13,6 @@
         <mark key="^" line="41" column="23" />
         <mark key="." line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Abstractions/ISpcOecClient.cs" timestamp="1553785956212">
-        <mark key="[" line="10" column="102" />
-        <mark key="]" line="10" column="103" />
-        <mark key="." line="10" column="102" />
-        <mark key="^" line="10" column="103" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" timestamp="1553786386762">
-        <mark key="[" line="47" column="89" />
-        <mark key="]" line="47" column="89" />
-        <mark key="." line="47" column="89" />
-        <mark key="^" line="47" column="89" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Dtos/UpdateCommunicationTimeDto.cs" timestamp="1553783753474">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="44" />
