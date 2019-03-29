@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1553794081853">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" timestamp="1553859115080">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553859179501">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1553794057749">
         <mark key="[" line="2" column="0" />
@@ -29,7 +35,7 @@
         <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRFcnJvckRlc2NyaXB0aW9uIH0gZnJvbSAnLi4vLi4vc2VsZWN0b3JzL29yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3JTZWxlY3RvcnMnCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Extract ErrorInformation from DetailsPaperHeader</text>
+        <text>eslint e</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IEVycm9yRGlzcGxheSBmcm9tICcuLi9FcnJvckRpc3BsYXkvRXJyb3JEaXNwbGF5Jwo=</text>
@@ -41,7 +47,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Extract ErrorInformation from DetailsPaperHeader</text>
+        <text>eslint e</text>
       </register>
     </registers>
     <search>
