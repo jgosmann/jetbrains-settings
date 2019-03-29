@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1553874523388">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/SenderMock.cs" timestamp="1553691361184">
-        <mark key="'" line="63" column="27" />
-        <mark key="[" line="41" column="23" />
-        <mark key="]" line="41" column="23" />
-        <mark key="^" line="41" column="23" />
-        <mark key="." line="41" column="23" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/SenderMock.cs" timestamp="1553875750868">
+        <mark key="'" line="66" column="27" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="54" column="8" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" timestamp="1553858566740">
         <mark key="[" line="37" column="84" />
@@ -30,6 +30,15 @@
         <mark key="]" line="5" column="51" />
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/Configuration/OecConfiguration.json" timestamp="1553875494220">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Client/SignalRPushClient.cs" timestamp="1553875480157">
+        <mark key="[" line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Dtos/UpdateEquipmentCoordinationTimeWebDto.cs" timestamp="1553785753768">
         <mark key="[" line="11" column="11" />
@@ -68,13 +77,14 @@
       <jump line="121" column="68" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Client/SignalRPushClient.cs" />
       <jump line="126" column="64" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Client/SignalRPushClient.cs" />
       <jump line="19" column="25" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Client/SignalRPushClient.cs" />
+      <jump line="11" column="36" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/Controller.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHggPSBlZGdlcy5Ub0xpc3QoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ed</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQdXNoVXBkYXRlZEVxdWlwbWVudENvb3JkaW5hdGlvbnNNZXRob2ROYW1lXD4=</text>
@@ -83,31 +93,31 @@
         <text encoding="base64">ICAgIFRhc2sgVXBkYXRlRXF1aXBtZW50Q29vcmRpbmF0aW9uVGltZShVcGRhdGVFcXVpcG1lbnRDb29yZGluYXRpb25UaW1lV2ViRHRvIGVxdWlwbWVudENvb3JkaW5hdGlvblRpbWUpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHggPSBlZGdlcy5Ub0xpc3QoKTsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CiAgICBbRGF0YU1lbWJlcihOYW1lID0gInRpbWVJbk1pbGxpc2Vjb25kcyIpXQogICAgcHVibGljIGludCBUaW1lSW5NaWxsaXNlY29uZHMgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgIGF3YWl0IHNwY0h1YkNvbnRleHQuQ2xpZW50cy5Hcm91cChhdmE=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICBbRGF0YU1lbWJlcihOYW1lID0gInN0YXRlSWQiKV0KICAgIHB1YmxpYyBpbnQgU3RhdGVJZCB7IGdldDsgc2V0OyB9CgogICAgW0RhdGFNZW1iZXIoTmFtZSA9ICJzdGF0ZURlc2NyaXB0aW9uIildCiAgICBwdWJsaWMgc3RyaW5nIFN0YXRlRGVzY3JpcHRpb24geyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAiZXJyb3JEZXNjcmlwdGlvbiIpXQogICAgcHVibGljIHN0cmluZyBFcnJvckRlc2NyaXB0aW9uIHsgZ2V0OyBzZXQ7IH0KCiAgICBbRGF0YU1lbWJlcihOYW1lID0gImVkZ2VzIildCiAgICBwdWJsaWMgSUVudW1lcmFibGU8RWRnZVdlYkR0bz4gRWRnZXMgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhd2FpdCAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ID0gbmV3IExpc3Q8RXF1aXBtZW50Q29vcmRpbmF0aW9uV2ViRHRvPgogICAgICAgICAgew==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRhc2sgcHVzaFRhc2sgPSBzaWduYWxSUHVzaENsaWVudC5QdXNoVXBkYXRlZEVxdWlwbWVudENvb3JkaW5hdGlvbnMod2ViRHRvcyk7CiAgICAgICAgICBXYWl0Rm9yVGFzayhwdXNoVGFzayk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -134,6 +144,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
