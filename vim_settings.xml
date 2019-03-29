@@ -15,6 +15,12 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1553875851262">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1553874214705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="84" />
@@ -55,12 +61,6 @@
         <mark key="]" line="101" column="8" />
         <mark key="." line="101" column="8" />
         <mark key="^" line="101" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" timestamp="1553872381778">
-        <mark key="[" line="340" column="39" />
-        <mark key="]" line="340" column="16" />
-        <mark key="." line="340" column="16" />
-        <mark key="^" line="340" column="16" />
       </file>
     </filemarks>
     <jumps>
