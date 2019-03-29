@@ -22,6 +22,7 @@
     </filemarks>
     <jumps>
       <jump line="21" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/ErrorInformation.js" />
+      <jump line="25" column="29" filename="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/test/MultiSelect.spec.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -48,10 +49,17 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
