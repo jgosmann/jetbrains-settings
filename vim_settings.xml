@@ -25,6 +25,12 @@
         <mark key="]" line="5" column="96" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" timestamp="1553861033447">
+        <mark key="[" line="314" column="19" />
+        <mark key="]" line="314" column="19" />
+        <mark key="." line="314" column="19" />
+        <mark key="^" line="330" column="51" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="21" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/ErrorInformation.js" />
@@ -32,22 +38,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRFcnJvckRlc2NyaXB0aW9uIH0gZnJvbSAnLi4vLi4vc2VsZWN0b3JzL29yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3JTZWxlY3RvcnMnCg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnZ2V0U2VsZWN0ZWRDb21tdW5pY2F0aW9uVGltZScsIGZ1bmN0aW9uICgpIHsKICAgIGRlc2NyaWJlKCdnaXZlbiBhIHN0YXRlIHdpdGggY29tbXVuaWNhdGlvbiB0aW1lIGFuZCBzZWxlY3RlZCBlcXVpcG1lbnQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGNvbnN0IGdpdmVuQ29tbXVuaWNhdGlvblRpbWUgPSAyMDAxCiAgICAgIGNvbnN0IHN0YXRlID0gewogICAgICAgIG9yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3I6IHsKICAgICAgICAgIGVxdWlwbWVudENvb3JkaW5hdGlvbnM6IHsKICAgICAgICAgICAgMTogewogICAgICAgICAgICAgIGVxdWlwbWVudElkOiAxLAogICAgICAgICAgICAgIHRpbWluZ0luZm9ybWF0aW9uOiB7CiAgICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uVGltZUluTWlsbGlzZWNvbmRzOiBnaXZlbkNvbW11bmljYXRpb25UaW1lCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgc2VsZWN0ZWRFcXVpcG1lbnRJZDogMQogICAgICAgIH0KICAgICAgfQoKICAgICAgaXQoJ3JldHVybnMgdGhlIGNvbW11bmljYXRpb24gdGltZScsIGZ1bmN0aW9uICgpIHsKICAgICAgICBleHBlY3QoZ2V0U2VsZWN0ZWRDb21tdW5pY2F0aW9uVGltZShzdGF0ZSkpLnRvLmVxdWFsKGdpdmVuQ29tbXVuaWNhdGlvblRpbWUpCiAgICAgIH0pCiAgICB9KQoKICAgIGRlc2NyaWJlKCdnaXZlbiBhIHN0YXRlIHdpdGhvdXQgc2VsZWN0ZWQgZXF1aXBtZW50JywgZnVuY3Rpb24gKCkgewogICAgICBjb25zdCBzdGF0ZSA9IHsKICAgICAgICBvcmRlckVxdWlwbWVudENvb3JkaW5hdG9yOiB7CiAgICAgICAgICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiB7CiAgICAgICAgICAgIDE6IHsKICAgICAgICAgICAgICBlcXVpcG1lbnRJZDogMSwKICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uVGltZUluTWlsbGlzZWNvbmRzOiAyMDAxCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KCiAgICAgIGl0KCdyZXR1cm5zIHVuZGVmaW5lZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICBleHBlY3QoZ2V0U2VsZWN0ZWRDb21tdW5pY2F0aW9uVGltZShzdGF0ZSkpLnRvLmJlLnVuZGVmaW5lZAogICAgICB9KQogICAgfSkKCiAgICBkZXNjcmliZSgnZ2l2ZW4gYSBzdGF0ZSB3aXRoIHNlbGVjdGVkIGVxdWlwbWVudCwgYnV0IHdpdGhvdXQgY29tbXVuaWNhdGlvbiB0aW1lJywgZnVuY3Rpb24gKCkgewogICAgICBjb25zdCBzdGF0ZSA9IHsKICAgICAgICBvcmRlckVxdWlwbWVudENvb3JkaW5hdG9yOiB7CiAgICAgICAgICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiB7CiAgICAgICAgICAgIDE6IHsgZXF1aXBtZW50SWQ6IDEgfQogICAgICAgICAgfSwKICAgICAgICAgIHNlbGVjdGVkRXF1aXBtZW50SWQ6ICcxJwogICAgICAgIH0KICAgICAgfQoKICAgICAgaXQoJ3JldHVybnMgdW5kZWZpbmVkJywgZnVuY3Rpb24gKCkgewogICAgICAgIGV4cGVjdChnZXRTZWxlY3RlZENvbW11bmljYXRpb25UaW1lKHN0YXRlKSkudG8uYmUudW5kZWZpbmVkCiAgICAgIH0pCiAgICB9KQogIH0pCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>eslint e</text>
+        <text>Communication</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEVycm9yRGlzcGxheSBmcm9tICcuLi9FcnJvckRpc3BsYXkvRXJyb3JEaXNwbGF5Jwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEVycm9ySW5mb3JtYXRpb24gZnJvbSAnLi9FcnJvckluZm9ybWF0aW9uJwo=</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">VGltZUluTWlsbGlzZWNvbmRzOiBnaXZlbkNvbW11bmljYXRpb25UaW1lCiAgICAgICAgICAgICAg</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb21tdW5pY2F0aW9uVGltZUluTWlsbGlzZWNvbmRzOiBnaXZlbkNvbW11bmljYXRpb25UaW1lCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRFcnJvckRlc2NyaXB0aW9uIH0gZnJvbSAnLi4vLi4vc2VsZWN0b3JzL29yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3JTZWxlY3RvcnMnCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IEVycm9yRGlzcGxheSBmcm9tICcuLi9FcnJvckRpc3BsYXkvRXJyb3JEaXNwbGF5Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>eslint e</text>
+        <text>Communication</text>
       </register>
     </registers>
     <search>
