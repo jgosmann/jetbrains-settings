@@ -9,11 +9,11 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/orderEquipmentCoordinatorReducer.js" timestamp="1553873770788">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/orderEquipmentCoordinatorReducer.js" timestamp="1553877404909">
+        <mark key="[" line="26" column="88" />
+        <mark key="]" line="26" column="100" />
+        <mark key="^" line="26" column="100" />
+        <mark key="." line="26" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1553875851262">
         <mark key="[" line="6" column="16" />
@@ -31,12 +31,12 @@
         <mark key="]" line="2" column="49" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/orderEquipmentCoordinatorReducer.spec.js" timestamp="1553874208714">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/orderEquipmentCoordinatorReducer.spec.js" timestamp="1553876924192">
         <mark key="'" line="42" column="28" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="71" column="56" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="110" column="34" />
+        <mark key="]" line="110" column="42" />
+        <mark key="." line="110" column="42" />
+        <mark key="^" line="110" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/handlePushSaga.js" timestamp="1553874134565">
         <mark key="[" line="22" column="52" />
@@ -69,53 +69,48 @@
       <jump line="42" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/orderEquipmentCoordinatorReducer.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5ld1N0YXRlLmVxdWlwbWVudENvb3JkaW5hdGlvbnNbMjNdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>equipmentCoordinationTimeReceived</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uc3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9uc1tlcXVpcG1lbnRJZF0sCg==</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpYmUoJ2dpdmVuIGEgc3RhdGUgbm90IGNvbnRhaW5pbmcgdGhlIGVxdWlwbWVudCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICBjb25zdCBzdGF0ZSA9IHsKICAgICAgICAgIGVxdWlwbWVudENvb3JkaW5hdGlvbnM6IHsKICAgICAgICAgICAgMDogewogICAgICAgICAgICAgIFtnaXZlblR5cGUgKyAnSW5NaWxsaXNlY29uZHMnXTogMCwKICAgICAgICAgICAgICBvdGhlclByb3BlcnR5OiAnc29tZSBvdGhlciBwcm9wZXJ0eScKICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgIG90aGVyUHJvcGVydHk6ICdzb21lIG90aGVyIHByb3BlcnR5JwogICAgICAgIH0KCiAgICAgICAgbGV0IG5ld1N0YXRlCgogICAgICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewogICAgICAgICAgbmV3U3RhdGUgPSBvcmRlckVxdWlwbWVudENvb3JkaW5hdG9yUmVkdWNlcihzdGF0ZSwgYWN0aW9uKQogICAgICAgIH0pCgogICAgICAgIGl0KCdwZXJzaXRzIHRoZSBnaXZlbiB0aW1pbmcgaW5mb3JtYXRpb24gaW4gdGhlIHN0YXRlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgZXhwZWN0KG5ld1N0YXRlLmVxdWlwbWVudENvb3JkaW5hdGlvbnNbMjNdW2dpdmVuVHlwZSArICdJbk1pbGxpc2Vjb25kcyddKS50by5lcXVhbCgyMDAxKQogICAgICAgIH0pCgogICAgICAgIGl0KCdrZWVwcyB0aGUgb3RoZXIgcHJvcGVydGllcycsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGV4cGVjdChuZXdTdGF0ZS5vdGhlclByb3BlcnR5KS50by5lcXVhbCgnc29tZSBvdGhlciBwcm9wZXJ0eScpCiAgICAgICAgICBleHBlY3QobmV3U3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9uc1swXSkudG8uZGVlcC5lcXVhbChzdGF0ZS5lcXVpcG1lbnRDb29yZGluYXRpb25zWzBdKQogICAgICAgIH0pCiAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5ld1N0YXRlLmVxdWlwbWVudENvb3JkaW5hdGlvbnNbMjNdKQo=</text>
+        <text encoding="base64">CiAgICAgICAgaXQoJ2tlZXBzIHRoZSBvdGhlciBwcm9wZXJ0aWVzJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgZXhwZWN0KG5ld1N0YXRlLm90aGVyUHJvcGVydHkpLnRvLmVxdWFsKCdzb21lIG90aGVyIHByb3BlcnR5JykKICAgICAgICAgIGV4cGVjdChuZXdTdGF0ZS5lcXVpcG1lbnRDb29yZGluYXRpb25zWzBdKS50by5kZWVwLmVxdWFsKHN0YXRlLmVxdWlwbWVudENvb3JkaW5hdGlvbnNbMF0pCiAgICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0KCdwdXRzIHRoZSBlcXVpcG1lbnRDb29yZGluYXRpb25UaW1lUmVjZWl2ZWQgYWN0aW9uIHdpdGggdGhlIHVwZGF0ZSBhcyBwYXlsb2FkJywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIG90aGVyUHJvcGVydHk6ICdzb21lIG90aGVyIHByb3BlcnR5Jwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9uc1tlcXVpcG1lbnRJZF0pCiAgICAgIGNvbnNvbGUubG9nKHsgeyAuLi5zdGF0ZS5lcXVpcG1lbnRDb29yZGluYXRpb25zW2VxdWlwbWVudElkXSwgW3R5cGUgKyAnSW5NaWxsaXNlY29uZHMnXTogdGltZUluTWlsbGlzZWNvbmRzIH0gfSkKICAgICAgY29uc29sZS5sb2cobmV3c3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9uc1syM10sIHR5cGUsIHRpbWVJbk1pbGxpc2Vjb25kcykK</text>
+      <register name="3" type="4">
+        <text>{
+          }</text>
       </register>
-      <register name="4" type="4">
-        <text>({
-      ...state,
-      equipmentCoordinations: {
-        ...state.equipmentCoordinations,
-        equipmentId: {
-          ...state.equipmentCoordinations[equipmentId],
-          [type + 'InMilliseconds']: timeInMilliseconds
-        }
-      }
-    })</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgMDogewogICAgICAgICAgICAgIFtnaXZlblR5cGUgKyAnSW5NaWxsaXNlY29uZHMnXTogMCwKICAgICAgICAgICAgICBvdGhlclByb3BlcnR5OiAnc29tZSBvdGhlciBwcm9wZXJ0eScKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENPTU1VTklDQVRJT05fVElNRV9SRUNFSVZFRDogbnVsbCwKICAgIEVRVUlQTUVOVF9DT09SRElOQVRJT05fVElNRV9SRUNFSVZFRDogbnVsbCwK</text>
+        <text encoding="base64">CiAgICAgIGRlc2NyaWJlKCdnaXZlbiBhIHN0YXRlIG5vdCBjb250YWluaW5nIGEgbnVsbCBlcXVpcG1lbnQnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgY29uc3Qgc3RhdGUgPSB7CiAgICAgICAgICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiB7CiAgICAgICAgICAgIDIzOiBudWxsCiAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBsZXQgbmV3U3RhdGUKCiAgICAgICAgYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICBuZXdTdGF0ZSA9IG9yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3JSZWR1Y2VyKHN0YXRlLCBhY3Rpb24pCiAgICAgICAgfSkKCiAgICAgICAgaXQoJ3BlcnNpdHMgdGhlIGdpdmVuIHRpbWluZyBpbmZvcm1hdGlvbiBpbiB0aGUgc3RhdGUnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBleHBlY3QobmV3U3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9uc1syM11bZ2l2ZW5UeXBlICsgJ0luTWlsbGlzZWNvbmRzJ10pLnRvLmVxdWFsKDIwMDEpCiAgICAgICAgfSkKICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uc3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9uc1tlcXVpcG1lbnRJZF0udGltaW5nSW5mb3JtYXRpb24sCg==</text>
+        <text encoding="base64">ICAgICAgICBpdCgna2VlcHMgdGhlIG90aGVyIHByb3BlcnRpZXMnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBleHBlY3QobmV3U3RhdGUub3RoZXJQcm9wZXJ0eSkudG8uZXF1YWwoJ3NvbWUgb3RoZXIgcHJvcGVydHknKQogICAgICAgICAgZXhwZWN0KG5ld1N0YXRlLmVxdWlwbWVudENvb3JkaW5hdGlvbnNbMF0pLnRvLmRlZXAuZXF1YWwoc3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9uc1swXSkKICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpbWluZ0luZm9ybWF0aW9uOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG90aGVyUHJvcGVydHk6ICdzb21lIG90aGVyIHByb3BlcnR5Jwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIENPTU1VTklDQVRJT05fVElNRV9SRUNFSVZFRDogKHN0YXRlLCB7IHBheWxvYWQ6IHsgZXF1aXBtZW50SWQsIHRpbWVJbk1pbGxpc2Vjb25kcyB9IH0pID0+ICh7CiAgICAgIC4uLnN0YXRlLAogICAgICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiB1cGRhdGVFcXVpcG1lbnRDb29yZGluYXRpb25zKHsKICAgICAgICBwcmV2aW91c0Nvb3JkaW5hdGlvbnNCeUVxdWlwbWVudElkOiBzdGF0ZS5lcXVpcG1lbnRDb29yZGluYXRpb25zLAogICAgICAgIGVxdWlwbWVudENvb3JkaW5hdGlvbnM6IFt7IGVxdWlwbWVudElkLCBjb21tdW5pY2F0aW9uVGltZUluTWlsbGlzZWNvbmRzOiB0aW1lSW5NaWxsaXNlY29uZHMgfV0KICAgICAgfSkKICAgIH0pLAo=</text>
+      <register name="9" type="4">
+        <text>{
+              [givenType + 'InMilliseconds']: 0,
+              otherProperty: 'some other property'
+            }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
