@@ -98,6 +98,12 @@
         <mark key="^" line="64" column="74" />
         <mark key="." line="64" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/version.txt" timestamp="1554107212593">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/TimingInformationRow.js" timestamp="1554103751652">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="24" />
@@ -123,11 +129,11 @@
       <jump line="47" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGUsIEFjdGlvbk9yQ29uZGl0aW9uSWNvblt0eXBlXSkK</text>
+      <register name="&quot;" type="4">
+        <text>mumuwm</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>mumuwm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25kaXRpb25TdGF0dXNJbmRpY2F0b3JcPg==</text>
@@ -180,6 +186,7 @@
         <entry encoding="base64">XDxDb25kaXRpb25TdGF0dXNJbmRpY2F0b3JcPg==</entry>
       </history-search>
       <history-cmd>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
