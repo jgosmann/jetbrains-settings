@@ -33,13 +33,6 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/test/TimingInformationRow.spec.js" timestamp="1554103716275">
-        <mark key="'" line="41" column="83" />
-        <mark key="[" line="41" column="83" />
-        <mark key="]" line="41" column="83" />
-        <mark key="^" line="41" column="83" />
-        <mark key="." line="41" column="83" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/CommunicationTime.js" timestamp="1554104544135">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="25" />
@@ -56,6 +49,12 @@
         <mark key="]" line="26" column="100" />
         <mark key="^" line="26" column="100" />
         <mark key="." line="26" column="100" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ConditionStatusIndicator.js" timestamp="1554118873441">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1553794057749">
         <mark key="[" line="2" column="0" />
@@ -106,13 +105,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="84" />
         <mark key="." line="0" column="84" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/orderEquipmentCoordinatorReducer.spec.js" timestamp="1553876924192">
-        <mark key="'" line="42" column="28" />
-        <mark key="[" line="110" column="34" />
-        <mark key="]" line="110" column="42" />
-        <mark key="." line="110" column="42" />
-        <mark key="^" line="110" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordination.spec.js" timestamp="1554111183427">
         <mark key="[" line="3" column="19" />
@@ -191,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NoIconPlaceholder</text>
+        <text>number</text>
       </register>
       <register name="-" type="4">
-        <text>NoIconPlaceholder</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>respect</text>
