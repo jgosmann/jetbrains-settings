@@ -21,6 +21,12 @@
         <mark key="." line="27" column="99" />
         <mark key="^" line="27" column="99" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableRow.js" timestamp="1554125222139">
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="46" column="12" />
+        <mark key="^" line="46" column="12" />
+        <mark key="." line="46" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1554103444227">
         <mark key="[" line="22" column="105" />
         <mark key="]" line="22" column="105" />
@@ -148,12 +154,12 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActionOrConditionIcon.js" timestamp="1554122545552">
         <mark key="'" line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1554122615015">
-        <mark key="'" line="58" column="33" />
-        <mark key="[" line="63" column="47" />
-        <mark key="]" line="64" column="11" />
-        <mark key="^" line="64" column="11" />
-        <mark key="." line="64" column="11" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1554124948349">
+        <mark key="'" line="141" column="14" />
+        <mark key="[" line="131" column="12" />
+        <mark key="]" line="132" column="3" />
+        <mark key="^" line="132" column="3" />
+        <mark key="." line="132" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationsHeader.spec.js" timestamp="1554112425813">
         <mark key="[" line="30" column="24" />
@@ -194,16 +200,17 @@
       <jump line="63" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" />
       <jump line="195" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" />
       <jump line="58" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" />
+      <jump line="140" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17Y3NzKHN0eWxlcy5hY3Rpb25PckNvbmRpdGlvbkljb24pfS8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbkljb25cPg==</text>
+        <text encoding="base64">XDxfcmVuZGVyQ2hpbGRyZW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhY3Rpb25PckNvbmRpdGlvbkljb246IHsKICAgIG1hcmdpbkxlZnQ6IDYsCiAgICBtYXJnaW5SaWdodDogNiwKICAgIGZsZXhCYXNpczogMTYsCiAgICBmbGV4U2hyaW5rOiAwCiAgfSwK</text>
@@ -240,9 +247,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbkljb25cPg==</last-search>
+      <last-search encoding="base64">XDxfcmVuZGVyQ2hpbGRyZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbkljb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcmVuZGVyQ2hpbGRyZW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -260,6 +267,7 @@
         <entry>actionOr</entry>
         <entry>actionOrConditionIcon</entry>
         <entry encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbkljb25cPg==</entry>
+        <entry encoding="base64">XDxfcmVuZGVyQ2hpbGRyZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
