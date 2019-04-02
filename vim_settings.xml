@@ -10,11 +10,11 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Dtos/ConditionWebDto.cs" timestamp="1554189621612">
-        <mark key="[" line="4" column="75" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Dtos/ConditionWebDto.cs" timestamp="1554193438083">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Dtos/EvaluationResult.cs" timestamp="1554124299829">
         <mark key="]" line="2" column="13" />
@@ -38,8 +38,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNvdXJjZVN0YXRlID0gbmV3IFN0YXRlV2ViRHRvIHtEZXNjfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNvdXJjZVN0YXRlID0gbmV3IFN0YXRlV2ViRHRvIHtEZXNjcmlwdGlvbiA9IGUuU291cmNlU3RhdGUuRGVzY3JpcHRpb24sIElkID0gZS5Tb3VyY2VTdGF0ZS5JZH0sCiAgICAgICAgICAgICAgICBUYXJnZXRTdGF0ZSA9IG5ldyBTdGF0ZVdlYkR0byB7RGVzY3JpcHRpb24gPSBlLkRlc3RpbmF0aW9uU3RhdGUuRGVzY3JpcHRpb24sIElkID0gZS5EZXN0aW5hdGlvblN0YXRlLklkfSwKICAgICAgICAgICAgICAgIENvbmRpdGlvbiA9IGNvbmRpdGlvblRvV2ViRHRvLk1hcFRvV2ViRHRvKGUuQ29uZGl0aW9uKSwKICAgICAgICAgICAgICAgIEFjdGlvbiA9IGFjdGlvblRvV2ViRHRvLk1hcFRvV2ViRHRvKGUuQWN0aW9uKQo=</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIElDb25kaXRpb25NYXBwaW5nIGNvbmRpdGlvbk1hcHBpbmcsIElBY3Rpb25NYXBwaW5nIGFjdGlvbk1hcHBpbmcpCg==</text>
@@ -63,7 +63,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>equ</text>
+        <text>string</text>
       </register>
     </registers>
     <search>
