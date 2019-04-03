@@ -40,6 +40,12 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/img/icon/EdgeConditionIcon.svg" timestamp="1554283633074">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/EquipmentCoordinationsTable.js" timestamp="1554112329634">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="25" column="34" />
@@ -73,11 +79,11 @@
         <mark key="^" line="1" column="58" />
         <mark key="." line="1" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/ErrorDisplay.js" timestamp="1554191839748">
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="17" />
-        <mark key="." line="37" column="17" />
-        <mark key="^" line="37" column="17" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/ErrorDisplay.js" timestamp="1554284394318">
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="19" />
+        <mark key="." line="37" column="19" />
+        <mark key="^" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorEdgeSelectors.spec.js" timestamp="1554115832133">
         <mark key="'" line="55" column="2" />
@@ -146,6 +152,12 @@
         <mark key="]" line="222" column="9" />
         <mark key="." line="222" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/img/icon/EdgeConditionSuccessful.svg" timestamp="1554283788096">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordination.spec.js" timestamp="1554111183427">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
@@ -176,6 +188,12 @@
         <mark key="." line="22" column="76" />
         <mark key="^" line="22" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/img/icon/EdgeActionIcon.svg" timestamp="1554283545689">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1554193639089">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="42" column="17" />
@@ -183,12 +201,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/ErrorInformation.js" timestamp="1554187810436">
-        <mark key="'" line="23" column="19" />
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="81" />
-        <mark key="." line="10" column="81" />
-        <mark key="^" line="10" column="81" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/ErrorInformation.js" timestamp="1554284152997">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="55" />
+        <mark key="." line="9" column="55" />
+        <mark key="^" line="9" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/getActionOrConditionIcon.spec.js" timestamp="1554118082018">
         <mark key="[" line="64" column="55" />
@@ -202,11 +219,12 @@
         <mark key="." line="10" column="52" />
         <mark key="^" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1554282591941">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1554283255067">
         <mark key="'" line="58" column="13" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
+        <mark key="[" line="202" column="26" />
+        <mark key="]" line="203" column="14" />
+        <mark key="." line="203" column="14" />
+        <mark key="^" line="203" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationsHeader.spec.js" timestamp="1554112425813">
         <mark key="[" line="30" column="24" />
@@ -267,11 +285,11 @@
       <jump line="58" column="13" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1pbldpZHRoOiAwLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbkljb25cPg==</text>
@@ -280,31 +298,31 @@
         <text>errorDisplay.prop('icon')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1pbldpZHRoOiAwLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAnMjRweCcsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6ICdmbGV4JywK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvdywgU2hhbGxvd1dyYXBwZXIgfSBmcm9tICdlbnp5bWUnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEVycm9ySWNvblJlZCBmcm9tICcuLi8uLi9JY29ucy9FcnJvckljb25SZWQnCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3IGVycm9yRGlzcGxheS5wcm9wKCdpY29uJykudHlwZSgpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHpJbmRleDogMQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL3V0aWwvc3R5bGUnCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICBpY29uOiB7CiAgICB2ZXJ0aWNhbEFsaWduOiAnbWlkZGxlJwogIH0KfSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1pbldpZHRoOiAwLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAnMjRweCcsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6ICdmbGV4JywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgc2hhbGxvdywgU2hhbGxvd1dyYXBwZXIgfSBmcm9tICdlbnp5bWUnCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEVycm9ySWNvblJlZCBmcm9tICcuLi8uLi9JY29ucy9FcnJvckljb25SZWQnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3IGVycm9yRGlzcGxheS5wcm9wKCdpY29uJykudHlwZSgpKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHpJbmRleDogMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
