@@ -195,12 +195,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1554127720171">
-        <mark key="'" line="5" column="40" />
-        <mark key="[" line="117" column="54" />
-        <mark key="]" line="117" column="54" />
-        <mark key="^" line="117" column="54" />
-        <mark key="." line="117" column="54" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1554279588715">
+        <mark key="'" line="70" column="33" />
+        <mark key="[" line="220" column="21" />
+        <mark key="]" line="221" column="22" />
+        <mark key="^" line="221" column="22" />
+        <mark key="." line="221" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationsHeader.spec.js" timestamp="1554112425813">
         <mark key="[" line="30" column="24" />
@@ -253,6 +253,7 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeSummaryView.js" />
       <jump line="19" column="100" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgesTableRow.js" />
+      <jump line="70" column="33" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -262,7 +263,7 @@
         <text>'auto'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25kaXRpb25TdGF0dXNJbmRpY2F0b3JcPg==</text>
+        <text encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbk5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBleHBlY3QoY29tcG9uZW50Lm1hdGNoZXNFbGVtZW50KGV4cGVjdGVkSWNvbikpLnRvLmJlLnRydWUK</text>
@@ -306,9 +307,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25kaXRpb25TdGF0dXNJbmRpY2F0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbk5hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25kaXRpb25TdGF0dXNJbmRpY2F0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbk5hbWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -328,10 +329,12 @@
         <entry encoding="base64">XDxfcmVuZGVyQ2hpbGRyZW5cPg==</entry>
         <entry>ActiveEdgeIndicator</entry>
         <entry encoding="base64">XDxDb25kaXRpb25TdGF0dXNJbmRpY2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxhY3Rpb25PckNvbmRpdGlvbk5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>wk</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
