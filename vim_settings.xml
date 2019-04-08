@@ -52,6 +52,12 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActiveEdgeIndicator.js" timestamp="1554711652716">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/orderEquipmentCoordinatorReducer.js" timestamp="1553877404909">
         <mark key="[" line="26" column="88" />
         <mark key="]" line="26" column="100" />
@@ -72,6 +78,12 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/ActionOrConditionIcon.spec.js" timestamp="1554127613906">
         <mark key="'" line="81" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/enums/EdgeActionOrConditionType.js" timestamp="1554711615374">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/test/EdgeActionOrConditionDisplay.spec.js" timestamp="1554122319644">
         <mark key="[" line="0" column="96" />
@@ -130,6 +142,12 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionsOrConditions.js" timestamp="1554711783203">
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+        <mark key="." line="13" column="74" />
+      </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationView.spec.js" timestamp="1554111325193">
         <mark key="[" line="41" column="37" />
         <mark key="]" line="41" column="48" />
@@ -142,9 +160,9 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/enums/ConditionEvaluationResult.js" timestamp="1554710423056">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="15" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/enums/ConditionEvaluationResult.js" timestamp="1554711533215">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="3" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
@@ -299,7 +317,7 @@
         <text encoding="base64">XDxub0FjdGlvbkljb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLl9yZW5kZXJJY29uKCl9Cg==</text>
+        <text encoding="base64">LyoqCiAqIEVudW1lcmF0aW9uIG9mIHBvc3NpYmxlIHJlc3VsdHMgb2YgYSBjb25kaXRpb24gZXZhbHVhdGlvbi4KICogQGVudW0ge251bWJlcn0KICovCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICogQHR5cGUge3tGQUlMRUQ6IG51bWJlciwgU1VDQ0VTU0ZVTDogbnVtYmVyLCBOT1RfRVZBTFVBVEVEOiBudW1iZXJ9fQo=</text>
