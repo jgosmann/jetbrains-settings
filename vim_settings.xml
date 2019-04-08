@@ -142,6 +142,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/enums/ConditionEvaluationResult.js" timestamp="1554710423056">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeSummaryView.js" timestamp="1554199451558">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -213,17 +219,11 @@
         <mark key="." line="64" column="63" />
         <mark key="^" line="64" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActionOrConditionIcon.js" timestamp="1554282340693">
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1554286142458">
-        <mark key="[" line="55" column="54" />
-        <mark key="]" line="55" column="54" />
-        <mark key="^" line="54" column="11" />
-        <mark key="." line="55" column="54" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActionOrConditionIcon.js" timestamp="1554710472107">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="24" column="74" />
+        <mark key="." line="24" column="74" />
+        <mark key="^" line="24" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationsHeader.spec.js" timestamp="1554112425813">
         <mark key="[" line="30" column="24" />
@@ -290,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OndoaWxlICgpIA==</text>
+        <text>, one of 'ACTION', 'CONDITION'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OndoaWxlICgpIA==</text>
+        <text>, one of 'ACTION', 'CONDITION'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub0FjdGlvbkljb25cPg==</text>
@@ -302,31 +302,31 @@
         <text encoding="base64">ICAgICAgICAgIHt0aGlzLl9yZW5kZXJJY29uKCl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGljb25TdHlsaW5nID0gWwogICAgICBzdHlsZXMuYWN0aW9uT3JDb25kaXRpb25JY29uLAogICAgXQoK</text>
+        <text encoding="base64">ICogQHR5cGUge3tGQUlMRUQ6IG51bWJlciwgU1VDQ0VTU0ZVTDogbnVtYmVyLCBOT1RfRVZBTFVBVEVEOiBudW1iZXJ9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIWlzUm9vdEl0ZW0gJiYgdHlwZSA9PT0gRWRnZUFjdGlvbk9yQ29uZGl0aW9uVHlwZS5BQ1RJT04gJiYgc3R5bGVzLm5vQWN0aW9uSWNvbgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGljb25TdHlsaW5nID0gWwogICAgICBzdHlsZXMuYWN0aW9uT3JDb25kaXRpb25JY29uLAogICAgXQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghaXNSb290KQo=</text>
+        <text encoding="base64">ICAgICAgIWlzUm9vdEl0ZW0gJiYgdHlwZSA9PT0gRWRnZUFjdGlvbk9yQ29uZGl0aW9uVHlwZS5BQ1RJT04gJiYgc3R5bGVzLm5vQWN0aW9uSWNvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBub0FjdGlvbkljb246IHsKICAgIG1hcmdpbkxlZnQ6IDAsCiAgICBtYXJnaW5SaWdodDogMCwKICAgIGZsZXhCYXNpczogMAogIH0sCg==</text>
+        <text encoding="base64">ICAgIGlmICghaXNSb290KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge2Jvb2x9IGhhc0NoaWxkcmVuIC0gd2hldGhlciBhY3Rpb24vY29uZGl0aW9uIGhhcyBjaGlsZHJlbgo=</text>
+        <text encoding="base64">ICBub0FjdGlvbkljb246IHsKICAgIG1hcmdpbkxlZnQ6IDAsCiAgICBtYXJnaW5SaWdodDogMCwKICAgIGZsZXhCYXNpczogMAogIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NzcyguLi5pY29uU3R5bGluZyl9PgogICAgICAgIDxBY3Rpb25PckNvbmRpdGlvbkljb24KICAgICAgICAgIGlzUm9vdEl0ZW09e2lzUm9vdEl0ZW19CiAgICAgICAgICBlbmFibGVkPXtlbmFibGVkfQogICAgICAgICAgdHlwZT17dHlwZX0KICAgICAgICAgIGV2YWx1YXRpb25SZXN1bHQ9e2V2YWx1YXRpb25SZXN1bHR9Lz4KICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgogICAgY29uc3QgaWNvblN0eWxpbmcgPSBbCiAgICAgIHN0eWxlcy5hY3Rpb25PckNvbmRpdGlvbkljb24sCiAgICAgICFpc1Jvb3RJdGVtICYmIHR5cGUgPT09IEVkZ2VBY3Rpb25PckNvbmRpdGlvblR5cGUuQUNUSU9OICYmIHN0eWxlcy5ub0FjdGlvbkljb24KICAgIF0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgKiBAcGFyYW0ge2Jvb2x9IGhhc0NoaWxkcmVuIC0gd2hldGhlciBhY3Rpb24vY29uZGl0aW9uIGhhcyBjaGlsZHJlbgo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NzcyguLi5pY29uU3R5bGluZyl9PgogICAgICAgIDxBY3Rpb25PckNvbmRpdGlvbkljb24KICAgICAgICAgIGlzUm9vdEl0ZW09e2lzUm9vdEl0ZW19CiAgICAgICAgICBlbmFibGVkPXtlbmFibGVkfQogICAgICAgICAgdHlwZT17dHlwZX0KICAgICAgICAgIGV2YWx1YXRpb25SZXN1bHQ9e2V2YWx1YXRpb25SZXN1bHR9Lz4KICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgogICAgY29uc3QgaWNvblN0eWxpbmcgPSBbCiAgICAgIHN0eWxlcy5hY3Rpb25PckNvbmRpdGlvbkljb24sCiAgICAgICFpc1Jvb3RJdGVtICYmIHR5cGUgPT09IEVkZ2VBY3Rpb25PckNvbmRpdGlvblR5cGUuQUNUSU9OICYmIHN0eWxlcy5ub0FjdGlvbkljb24KICAgIF0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NzcyhzdHlsZXMuYWN0aW9uT3JDb25kaXRpb25OYW1lLCBlbmFibGVkID8gbnVsbCA6IHN0eWxlcy5hY3Rpb25PckNvbmRpdGlvbk5hbWVEaXNhYmxlZCl9PgogICAgICAgIHtuYW1lfQogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge2Jvb2x9IGhhc0NoaWxkcmVuIC0gd2hldGhlciBhY3Rpb24vY29uZGl0aW9uIGhhcyBjaGlsZHJlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,6 +366,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wk</entry>
         <entry>q</entry>
+        <entry>wo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
