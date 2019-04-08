@@ -2,84 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/SenderMock.cs" timestamp="1554188512544">
-        <mark key="'" line="126" column="4" />
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Dtos/ConditionWebDto.cs" timestamp="1554193438083">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Dtos/EvaluationResult.cs" timestamp="1554124299829">
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="126" column="4" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/SenderMock.cs" />
-    </jumps>
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNvdXJjZVN0YXRlID0gbmV3IFN0YXRlV2ViRHRvIHtEZXNjcmlwdGlvbiA9IGUuU291cmNlU3RhdGUuRGVzY3JpcHRpb24sIElkID0gZS5Tb3VyY2VTdGF0ZS5JZH0sCiAgICAgICAgICAgICAgICBUYXJnZXRTdGF0ZSA9IG5ldyBTdGF0ZVdlYkR0byB7RGVzY3JpcHRpb24gPSBlLkRlc3RpbmF0aW9uU3RhdGUuRGVzY3JpcHRpb24sIElkID0gZS5EZXN0aW5hdGlvblN0YXRlLklkfSwKICAgICAgICAgICAgICAgIENvbmRpdGlvbiA9IGNvbmRpdGlvblRvV2ViRHRvLk1hcFRvV2ViRHRvKGUuQ29uZGl0aW9uKSwKICAgICAgICAgICAgICAgIEFjdGlvbiA9IGFjdGlvblRvV2ViRHRvLk1hcFRvV2ViRHRvKGUuQWN0aW9uKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIExpc3Q8RXF1aXBtZW50Q29vcmRpbmF0aW9uV2ViRHRvPiB3ZWJEdG9zID0gbmV3IExpc3Q8RXF1aXBtZW50Q29vcmRpbmF0aW9uV2ViRHRvPigpOwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIExpc3Q8RXF1aXBtZW50Q29vcmRpbmF0aW9uV2ViRHRvPiB3ZWJEdG9zID0gbmV3IExpc3Q8RXF1aXBtZW50Q29vcmRpbmF0aW9uV2ViRHRvPigpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNvdXJjZVN0YXRlID0gbmV3IFN0YXRlV2ViRHRvIHtEZXNjfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIElDb25kaXRpb25NYXBwaW5nIGNvbmRpdGlvbk1hcHBpbmcsIElBY3Rpb25NYXBwaW5nIGFjdGlvbk1hcHBpbmcpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBwdXNoVGFzayA9IHNpZ25hbFJQdXNoQ2xpZW50LlB1c2hVcGRhdGVkRXF1aXBtZW50Q29vcmRpbmF0aW9ucyhuZXcgTGlzdDxFcXVpcG1lbnRDb29yZGluYXRpb25XZWJEdG8+IHt3ZWJEdG99KTsKICAgICAgICAgIFdhaXRGb3JUYXNrKHB1c2hUYXNrKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBwdXNoVGFzayA9IHNpZ25hbFJQdXNoQ2xpZW50LlB1c2hVcGRhdGVkRXF1aXBtZW50Q29vcmRpbmF0aW9ucyh3ZWJEdG9zKTsKICAgICAgICAgIFdhaXRGb3JUYXNrKHB1c2hUYXNrKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFNvdXJjZVN0YXRlID0gbmV3IFN0YXRlV2ViRHRvKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRWRnZXMgPSBjb29yZGluYXRpb25zLkZpcnN0KCkuCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>q</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
