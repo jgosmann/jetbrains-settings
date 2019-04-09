@@ -3,19 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/Configuration/OecConfigurationAlt.json" timestamp="1554801161834">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/SenderMock.cs" timestamp="1554717638843">
         <mark key="'" line="82" column="31" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges/Publisher/EquipmentCoordinationPublisher.cs" timestamp="1554726826161" />
       <file name="/Dummy.cs" timestamp="1554728266462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Services/ChannelToOldLms/Parser/ConditionParser.cs" timestamp="1554726217048" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/Configuration/OecConfiguration.json" timestamp="1554801131514">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/Controller.cs" timestamp="1554801032704">
+        <mark key="[" line="41" column="88" />
+        <mark key="]" line="41" column="88" />
+        <mark key="^" line="41" column="88" />
+        <mark key="." line="41" column="88" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Mapping/ConditionToWebDtoTest.cs" timestamp="1554729231852">
         <mark key="[" line="43" column="85" />
         <mark key="]" line="43" column="94" />
@@ -28,7 +44,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/ConditionActionFW/Conditions/EPOStateCompareByIDCondition.cs" timestamp="1554732507484" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Mapping/ConditionToWebDto.cs" timestamp="1554729256621">
         <mark key="[" line="37" column="47" />
         <mark key="]" line="37" column="47" />
@@ -50,10 +65,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conditionDto</text>
+        <text encoding="base64">R0w0JjU=</text>
       </register>
       <register name="-" type="4">
-        <text>conditionDto</text>
+        <text encoding="base64">R0w0JjU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRDb29yZGluYXRpb25TZXJ2aWNlXD4=</text>
@@ -110,6 +125,8 @@
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
