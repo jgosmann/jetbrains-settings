@@ -27,12 +27,12 @@
         <mark key="^" line="163" column="80" />
         <mark key="." line="163" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" timestamp="1554822246864">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" timestamp="1554823904146">
         <mark key="'" line="28" column="57" />
-        <mark key="[" line="5" column="64" />
-        <mark key="]" line="6" column="105" />
-        <mark key="." line="6" column="105" />
-        <mark key="^" line="6" column="105" />
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="27" />
+        <mark key="." line="34" column="27" />
+        <mark key="^" line="34" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1554819075509">
         <mark key="'" line="15" column="3" />
@@ -91,22 +91,22 @@
         <mark key="." line="6" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1554822829848">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="36" column="18" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1554822937864">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" timestamp="1554819392662">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" timestamp="1554823877328">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="71" />
-        <mark key="^" line="15" column="52" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1554717600522">
         <mark key="[" line="54" column="0" />
@@ -147,10 +147,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>center</text>
+        <text encoding="base64">eyA=</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text encoding="base64">eyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNoYW5nZVw+</text>
