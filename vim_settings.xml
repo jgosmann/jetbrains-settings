@@ -50,6 +50,11 @@
         <mark key="^" line="37" column="47" />
         <mark key="." line="37" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservice/LiveData/Process/Krones.Lms.LiveData.Process/Configuration/SignalR/SignalRConfiguration.json" timestamp="1554807618805">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="129" column="23" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/SenderMock.cs" />
@@ -65,10 +70,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">R0w0JjU=</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R0w0JjU=</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRDb29yZGluYXRpb25TZXJ2aWNlXD4=</text>
