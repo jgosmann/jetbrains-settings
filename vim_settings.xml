@@ -15,18 +15,6 @@
         <mark key="." line="44" column="23" />
         <mark key="^" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/OrderEquipmentCoordinator.js" timestamp="1554820133475">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/orderEquipmentCoordinatorReducer.spec.js" timestamp="1554821511186">
-        <mark key="[" line="163" column="16" />
-        <mark key="]" line="163" column="80" />
-        <mark key="^" line="163" column="80" />
-        <mark key="." line="163" column="80" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" timestamp="1554823904146">
         <mark key="'" line="28" column="57" />
         <mark key="[" line="34" column="26" />
@@ -41,11 +29,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Mapping/ConditionToWebDtoTest.cs" timestamp="1554729231852">
-        <mark key="[" line="43" column="85" />
-        <mark key="]" line="43" column="94" />
-        <mark key="^" line="43" column="94" />
-        <mark key="." line="43" column="94" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/MultilineErrorDisplay.spec.js" timestamp="1554971403212">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/actions/orderEquipmentCoordinatorActionCreators.js" timestamp="1554821204253">
         <mark key="[" line="5" column="23" />
@@ -53,22 +41,22 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Mapping/ConditionToWebDto.cs" timestamp="1554729256621">
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="37" column="47" />
-        <mark key="^" line="37" column="47" />
-        <mark key="." line="37" column="47" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/SinglelineErrorDisplay.spec.js" timestamp="1554973896305">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/MultilineErrorDisplay.js" timestamp="1554971882678">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/orderEquipmentCoordinatorReducer.js" timestamp="1554821273548">
         <mark key="[" line="17" column="58" />
         <mark key="]" line="17" column="58" />
         <mark key="." line="17" column="58" />
         <mark key="^" line="17" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/OrderEquipmentCoordinator.spec.js" timestamp="1554820223445">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1554823091931">
         <mark key="[" line="24" column="17" />
@@ -80,6 +68,47 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/SinglelineErrorDisplay.js" timestamp="1554973927728">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+        <mark key="^" line="14" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/test/ErrorInformation.spec.js" timestamp="1554971197531">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="76" />
+        <mark key="^" line="0" column="65" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/OrderEquipmentCoordinator.js" timestamp="1554820133475">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/orderEquipmentCoordinatorReducer.spec.js" timestamp="1554821511186">
+        <mark key="[" line="163" column="16" />
+        <mark key="]" line="163" column="80" />
+        <mark key="^" line="163" column="80" />
+        <mark key="." line="163" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Mapping/ConditionToWebDtoTest.cs" timestamp="1554729231852">
+        <mark key="[" line="43" column="85" />
+        <mark key="]" line="43" column="94" />
+        <mark key="^" line="43" column="94" />
+        <mark key="." line="43" column="94" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Mapping/ConditionToWebDto.cs" timestamp="1554729256621">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="37" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/OrderEquipmentCoordinator.spec.js" timestamp="1554820223445">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Dropdown/Dropdown.js" timestamp="1554822096583">
         <mark key="'" line="74" column="10" />
@@ -108,6 +137,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/ErrorInformation.js" timestamp="1554971007137">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="73" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1554717600522">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -119,6 +153,12 @@
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/ErrorDisplay.spec.js" timestamp="1554971124396">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="50" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -144,56 +184,62 @@
       <jump line="39" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Dropdown/Dropdown.js" />
       <jump line="74" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/Dropdown/Dropdown.js" />
       <jump line="27" column="57" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" />
+      <jump line="132" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationView.spec.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationView.spec.js" />
+      <jump line="127" column="44" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationView.spec.js" />
+      <jump line="126" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationView.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, __RewireAPI__</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>, __RewireAPI__</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNoYW5nZVw+</text>
+        <text encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IDMyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsZXhHcm93OiAyLAogICAgZmxleFNocmluazogMiwK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHsuLi5wcm9wc30K</text>
+      <register name="2" type="4">
+        <text encoding="base64">LnRvLnNhdGlzZnkoZGl2cyA9PiB7CiAgICAgIGRpdnMu</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRJbnN0YW5jZUlkIH0gZnJvbSAnLi4vLi4vc2VsZWN0b3JzL29yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3JTZWxlY3RvcnMnCg==</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vLi4vRXJyb3JEaXNwbGF5L011bHRpbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZWxlY3RlZEluc3RhbmNlSWQ6IGdldFNlbGVjdGVkSW5zdGFuY2VJZAo=</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vLi4vRXJyb3JEaXNwbGF5L011bHRpbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIElOU1RBTkNFX1NFTEVDVEVEOiBOVUxMLAo=</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vLi4vRXJyb3JEaXNwbGF5L011bHRpbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWxlCg==</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZUVycm9yRGlzcGxheSBmcm9tICcuLi9FcnJvckRpc3BsYXkvU2luZ2xlbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMTYK</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vU2luZ2xlbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vU2luZ2xlbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdpdmVuU3R5bGUgPSB7IHNvbWVBdHRyaWJ1dGU6ICdzb21lIHZhbHVlJyB9Cg==</text>
+        <text encoding="base64">TXVsdGlsaW5lRXJyb3JEaXNwbGF5LnNwZWMuanMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkNoYW5nZVw+</last-search>
+      <last-search encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNoYW5nZVw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</last-pattern>
+      <last-replace>Single</last-replace>
+      <last-substitute>Multi</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -205,8 +251,11 @@
         <entry>getSelectedEquipment</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RlZEVxdWlwbWVudElkXD4=</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
+        <entry>Multi</entry>
+        <entry encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zL011bHRpL1NpbmdsZS9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
