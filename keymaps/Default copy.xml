@@ -5,6 +5,8 @@
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
   <action id="EditorDeleteToWordStart" />
+  <action id="EditorLeft" />
+  <action id="EditorRight" />
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="m" />
   </action>
@@ -20,5 +22,7 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="Vcs.Log.GoToChild" />
+  <action id="Vcs.Log.GoToParent" />
   <action id="Vcs.UpdateProject" />
 </keymap>
