@@ -78,6 +78,11 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/test/ErrorInformation.spec.js" timestamp="1554971197531">
         <mark key="^" line="0" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/DbConnection.spec.js" timestamp="1554994226892">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="6" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/OrderEquipmentCoordinator.js" timestamp="1554820133475">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -183,7 +188,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">CiAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgIGRiQ29ubmVjdGlvbi51bm1vdW50KCkKICB9KQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -195,13 +200,13 @@
         <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IDMyLAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CiAgYWZ0ZXJFYWNoKGZ1bmN0aW9uICgpIHsKICAgIGRiQ29ubmVjdGlvbi51bm1vdW50KCkKICB9KQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgfSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">LnRvLnNhdGlzZnkoZGl2cyA9PiB7CiAgICAgIGRpdnMu</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vLi4vRXJyb3JEaXNwbGF5L011bHRpbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vLi4vRXJyb3JEaXNwbGF5L011bHRpbGluZUVycm9yRGlzcGxheScK</text>
@@ -210,16 +215,16 @@
         <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vLi4vRXJyb3JEaXNwbGF5L011bHRpbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFNpbmdsZUVycm9yRGlzcGxheSBmcm9tICcuLi9FcnJvckRpc3BsYXkvU2luZ2xlbGluZUVycm9yRGlzcGxheScK</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vLi4vRXJyb3JEaXNwbGF5L011bHRpbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vU2luZ2xlbGluZUVycm9yRGlzcGxheScK</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZUVycm9yRGlzcGxheSBmcm9tICcuLi9FcnJvckRpc3BsYXkvU2luZ2xlbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vU2luZ2xlbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TXVsdGlsaW5lRXJyb3JEaXNwbGF5LnNwZWMuanMK</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZWxpbmVFcnJvckRpc3BsYXkgZnJvbSAnLi4vU2luZ2xlbGluZUVycm9yRGlzcGxheScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
