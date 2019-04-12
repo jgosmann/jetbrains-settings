@@ -15,6 +15,13 @@
         <mark key="." line="44" column="23" />
         <mark key="^" line="44" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" timestamp="1555069878738">
+        <mark key="'" line="2" column="29" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="75" column="113" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" timestamp="1555052312940">
         <mark key="'" line="15" column="32" />
         <mark key="[" line="0" column="0" />
@@ -27,6 +34,13 @@
         <mark key="]" line="55" column="70" />
         <mark key="." line="55" column="70" />
         <mark key="^" line="55" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1554819075509">
+        <mark key="'" line="15" column="3" />
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/MultilineErrorDisplay.spec.js" timestamp="1554971403212">
         <mark key="[" line="4" column="10" />
@@ -51,11 +65,6 @@
         <mark key="]" line="45" column="52" />
         <mark key="^" line="45" column="52" />
         <mark key="." line="45" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/MultilineErrorDisplay.js" timestamp="1554971882678">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/orderEquipmentCoordinatorReducer.js" timestamp="1554997594358">
         <mark key="[" line="29" column="73" />
@@ -82,21 +91,17 @@
         <mark key="^" line="39" column="64" />
         <mark key="." line="39" column="64" />
       </file>
-      <file name="/Dummy.cs" timestamp="1554728266462">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/SinglelineErrorDisplay.js" timestamp="1554973927728">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="14" column="62" />
         <mark key="." line="14" column="62" />
         <mark key="^" line="14" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/DbConnection.spec.js" timestamp="1554994226892">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="39" column="6" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" timestamp="1555069743301">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+        <mark key="." line="22" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/OrderEquipmentCoordinator.js" timestamp="1554820133475">
         <mark key="[" line="12" column="18" />
@@ -143,16 +148,18 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1555069440911">
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="86" column="9" />
+        <mark key="]" line="86" column="37" />
+        <mark key="^" line="86" column="37" />
+        <mark key="." line="86" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Mapping/ConditionToWebDto.cs" timestamp="1554729256621">
         <mark key="[" line="37" column="47" />
         <mark key="]" line="37" column="47" />
         <mark key="^" line="37" column="47" />
         <mark key="." line="37" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/OrderEquipmentCoordinator.spec.js" timestamp="1554820223445">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/handlePushSaga.js" timestamp="1554996075235">
         <mark key="[" line="56" column="96" />
@@ -171,11 +178,6 @@
         <mark key="]" line="35" column="18" />
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1554822937864">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" timestamp="1555056280285">
         <mark key="'" line="7" column="2" />
@@ -233,58 +235,71 @@
       <jump line="7" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" />
+      <jump line="93" column="51" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="9" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="83" column="19" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="98" column="7" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="0" column="105" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="109" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="62" column="49" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="28" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="26" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="24" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="15" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="86" column="37" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="97" column="73" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="2" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/TransactionReportDetails.spec.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
+      <jump line="32" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZSA9IHsKICAgICAgICBhZGRpdGlvbmFsSW5mbzogW10sCiAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgZGF0YVN0YXRlOiAnZGF0YVN0YXRlJywKICAgICAgICBpZDogJ21zZ0lkJywKICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgcmVmZXJlbmNlSWQ6ICdyZWZJZCcsCiAgICAgICAgcmVzZW5kYWJsZTogZmFsc2UsCiAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgfQogICAgICBjb25zdCBnaXZlblN0YXRlID0gewogICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgY29tbW9uOiBpbml0aWFsQ29tbW9uU3RhdGUsCiAgICAgICAgICB0cmFuc2FjdGlvblJlcG9ydDogewogICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICB9LAogICAgICAgICAgbWVzc2FnZXNUYWJsZTogewogICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICAgICAgbWVzc2FnZXM6IFttZXNzYWdlXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>babel</text>
+        <text encoding="base64">XDxNZXNzYWdlc1RhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb21wb25lbnQuaXMoQnV0dG9uKSB8fCBjb21wb25lbnQuaXMoRWRpdFVzZXJCdXR0b24pIHx8IGNvbXBvbmVudC5pcyhEZWxldGVVc2VyQnV0dG9uKSB8fAogIHR5cGVJc0xpa2VCdXR0b24oY29tcG9uZW50LnR5cGUoKSkK</text>
+        <text encoding="base64">ICBjb21wb25lbnRUb1Nob3c6IHRyYW5zYWN0aW9uUmVwb3J0Q29tcG9uZW50cy5lbnRyeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBnaXZlblN0YXRlID0gewogICAgdjJJbnRlcmZhY2VNb25pdG9yaW5nOiB7CiAgICAgIG1lc3NhZ2VzVGFibGU6IHsKICAgICAgICBtZXNzYWdlczogW10KICAgICAgfQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZSA9IHsKICAgICAgICBhZGRpdGlvbmFsSW5mbzogW10sCiAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgZGF0YVN0YXRlOiAnZGF0YVN0YXRlJywKICAgICAgICBpZDogJ21zZ0lkJywKICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgcmVmZXJlbmNlSWQ6ICdyZWZJZCcsCiAgICAgICAgcmVzZW5kYWJsZTogZmFsc2UsCiAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgfQogICAgICBjb25zdCBnaXZlblN0YXRlID0gewogICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgY29tbW9uOiBpbml0aWFsQ29tbW9uU3RhdGUsCiAgICAgICAgICB0cmFuc2FjdGlvblJlcG9ydDogewogICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICB9LAogICAgICAgICAgbWVzc2FnZXNUYWJsZTogewogICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICAgICAgbWVzc2FnZXM6IFttZXNzYWdlXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW91bnRXaXRoUmVkdXggfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi90ZXN0VXRpbC90ZXN0VXRpbHMnCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uICgpIHsKICAgICAgY29uc3QgbWVzc2FnZSA9IHsKICAgICAgICBhZGRpdGlvbmFsSW5mbzogW10sCiAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgZGF0YVN0YXRlOiAnZGF0YVN0YXRlJywKICAgICAgICBpZDogJ21zZ0lkJywKICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgcmVmZXJlbmNlSWQ6ICdyZWZJZCcsCiAgICAgICAgcmVzZW5kYWJsZTogZmFsc2UsCiAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgfQogICAgICBjb25zdCBnaXZlblN0YXRlID0gewogICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgY29tbW9uOiBpbml0aWFsQ29tbW9uU3RhdGUsCiAgICAgICAgICB0cmFuc2FjdGlvblJlcG9ydDogewogICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICB9LAogICAgICAgICAgbWVzc2FnZXNUYWJsZTogewogICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICAgICAgbWVzc2FnZXM6IFttZXNzYWdlXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGZhbHNlKS50by5iZS50cnVlCg==</text>
+        <text encoding="base64">CiAgICAgIGl0KCdjb250YWlucyBhIEhpc3RvcnlEaWFsb2cgY29tcG9uZW50JywgZnVuY3Rpb24gKCkgewogICAgICAgIGV4cGVjdChyZXN1bHQuZmluZChIaXN0b3J5RGlhbG9nKSkudG8uYmUucHJlc2VudCgpCiAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb21wb25lbnQuaXMoQnV0dG9uKSwgY29tcG9uZW50LmlzKEVkaXRVc2VyQnV0dG9uKSwgY29tcG9uZW50LmlzKERlbGV0ZVVzZXJCdXR0b24pLCBjb21wb25lbnQudHlwZSgpKQo=</text>
+        <text encoding="base64">ICBjb25zdCBnaXZlblN0YXRlID0gewogICAgdjJJbnRlcmZhY2VNb25pdG9yaW5nOiB7CiAgICAgIG1lc3NhZ2VzVGFibGU6IHsKICAgICAgICBtZXNzYWdlczogW10KICAgICAgfQogICAgfQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGZhbHNlKS50by5iZS50cnVlCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbW91bnRXaXRoUmVkdXggfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi90ZXN0VXRpbC90ZXN0VXRpbHMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50LmZpbmQpCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGZhbHNlKS50by5iZS50cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0SW5zdGFuY2VzLCBnZXRTZWxlY3RlZEluc3RhbmNlSWQgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvb3JkZXJFcXVpcG1lbnRDb29yZGluYXRvclNlbGVjdG9ycycK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb21wb25lbnQuaXMoQnV0dG9uKSwgY29tcG9uZW50LmlzKEVkaXRVc2VyQnV0dG9uKSwgY29tcG9uZW50LmlzKERlbGV0ZVVzZXJCdXR0b24pLCBjb21wb25lbnQudHlwZSgpKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>[
-      { key: 0, label: 'Instance 0' },
-      { key: 1, label: 'Instance 1' }
-    ]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGZhbHNlKS50by5iZS50cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0cnJycnJycnIK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50LmZpbmQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>babel</last-search>
+      <last-search encoding="base64">XDxNZXNzYWdlc1RhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern>babel</last-pattern>
+      <last-pattern encoding="base64">XDxNZXNzYWdlc1RhYmxlXD4=</last-pattern>
       <last-replace>given</last-replace>
       <last-substitute>some</last-substitute>
       <last-dir>1</last-dir>
@@ -303,6 +318,11 @@
         <entry encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</entry>
         <entry>some</entry>
         <entry>babel</entry>
+        <entry encoding="base64">XDxnZXRDb21wb25lbnRUb1Nob3dcPg==</entry>
+        <entry encoding="base64">XDx0cmFuc2FjdGlvblJlcG9ydENvbXBvbmVudHNcPg==</entry>
+        <entry>History</entry>
+        <entry>rend</entry>
+        <entry encoding="base64">XDxNZXNzYWdlc1RhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL011bHRpL1NpbmdsZS9n</entry>
@@ -322,6 +342,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
