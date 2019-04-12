@@ -28,13 +28,6 @@
         <mark key="." line="55" column="70" />
         <mark key="^" line="55" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1554819075509">
-        <mark key="'" line="15" column="3" />
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/MultilineErrorDisplay.spec.js" timestamp="1554971403212">
         <mark key="[" line="4" column="10" />
         <mark key="]" line="4" column="18" />
@@ -153,12 +146,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" timestamp="1554824150509">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" timestamp="1555056280285">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="46" column="46" />
+        <mark key="]" line="46" column="46" />
+        <mark key="^" line="46" column="46" />
+        <mark key="." line="46" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1554717600522">
         <mark key="[" line="54" column="0" />
@@ -205,16 +198,18 @@
       <jump line="126" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/test/EquipmentCoordinationView.spec.js" />
       <jump line="34" column="25" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" />
       <jump line="15" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" />
+      <jump line="46" column="46" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" />
+      <jump line="7" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0SW5zdGFuY2VzLCBnZXRTZWxlY3RlZEluc3RhbmNlSWQgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvb3JkZXJFcXVpcG1lbnRDb29yZGluYXRvclNlbGVjdG9ycycK</text>
+      <register name="&quot;" type="4">
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</text>
+        <text>some</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiBudWxsLAogIHBsY0Nvbm5lY3RlZDogZmFsc2UsCg==</text>
@@ -256,11 +251,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</last-search>
+      <last-search>some</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</last-pattern>
-      <last-replace>Single</last-replace>
-      <last-substitute>Multi</last-substitute>
+      <last-pattern>some</last-pattern>
+      <last-replace>given</last-replace>
+      <last-substitute>some</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -275,9 +270,11 @@
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry>Multi</entry>
         <entry encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</entry>
+        <entry>some</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL011bHRpL1NpbmdsZS9n</entry>
+        <entry>s/some/given</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
