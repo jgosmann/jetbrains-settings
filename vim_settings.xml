@@ -76,6 +76,12 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/MessagesTableHeader.js" timestamp="1555068136835">
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="39" column="64" />
+        <mark key="^" line="39" column="64" />
+        <mark key="." line="39" column="64" />
+      </file>
       <file name="/Dummy.cs" timestamp="1554728266462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -109,6 +115,12 @@
         <mark key="]" line="69" column="48" />
         <mark key="." line="69" column="48" />
         <mark key="^" line="118" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/test/MessagesTableHeader.spec.js" timestamp="1555068248680">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/getOecRpcConnection.js" timestamp="1554995911368">
         <mark key="[" line="11" column="0" />
@@ -148,11 +160,11 @@
         <mark key="^" line="57" column="73" />
         <mark key="." line="57" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringUsers/test/UserList.spec.js" timestamp="1555061971917">
-        <mark key="[" line="117" column="48" />
-        <mark key="]" line="118" column="33" />
-        <mark key="^" line="118" column="33" />
-        <mark key="." line="118" column="33" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringUsers/test/UserList.spec.js" timestamp="1555067940172">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="140" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1554822829848">
         <mark key="[" line="35" column="17" />
@@ -224,48 +236,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>babel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiBudWxsLAogIHBsY0Nvbm5lY3RlZDogZmFsc2UsCg==</text>
+        <text encoding="base64">ICBjb21wb25lbnQuaXMoQnV0dG9uKSB8fCBjb21wb25lbnQuaXMoRWRpdFVzZXJCdXR0b24pIHx8IGNvbXBvbmVudC5pcyhEZWxldGVVc2VyQnV0dG9uKSB8fAogIHR5cGVJc0xpa2VCdXR0b24oY29tcG9uZW50LnR5cGUoKSkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCBnaXZlblN0YXRlID0gewogICAgdjJJbnRlcmZhY2VNb25pdG9yaW5nOiB7CiAgICAgIG1lc3NhZ2VzVGFibGU6IHsKICAgICAgICBtZXNzYWdlczogW10KICAgICAgfQogICAgfQogIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbW91bnRXaXRoUmVkdXggfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi90ZXN0VXRpbC90ZXN0VXRpbHMnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGZhbHNlKS50by5iZS50cnVlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb21wb25lbnQuaXMoQnV0dG9uKSwgY29tcG9uZW50LmlzKEVkaXRVc2VyQnV0dG9uKSwgY29tcG9uZW50LmlzKERlbGV0ZVVzZXJCdXR0b24pLCBjb21wb25lbnQudHlwZSgpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGZhbHNlKS50by5iZS50cnVlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50LmZpbmQpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgZ2V0SW5zdGFuY2VzLCBnZXRTZWxlY3RlZEluc3RhbmNlSWQgfSBmcm9tICcuLi8uLi9zZWxlY3RvcnMvb3JkZXJFcXVpcG1lbnRDb29yZGluYXRvclNlbGVjdG9ycycK</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>[
       { key: 0, label: 'Instance 0' },
       { key: 1, label: 'Instance 1' }
     ]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGl0cnJycnJycnIK</text>
-      </register>
-      <register name="4" type="4">
-        <text>{
-          
-        }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZFBsY0Nvbm5lY3RlZDogZmFsc2UsCiAgICAgICAgZXhwZWN0ZWRFcXVpcG1lbnRDb29yZGluYXRpb25zOiBudWxsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZVBheWxvYWRBcygnaW5zdGFuY2VzJyksCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGl0cnJycnJycnIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
