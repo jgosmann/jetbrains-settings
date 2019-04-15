@@ -15,8 +15,11 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" timestamp="1555333601454">
-        <mark key="'" line="137" column="6" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" timestamp="1555337403256">
+        <mark key="'" line="122" column="6" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/IConnectionState.cs" timestamp="1555332204753">
         <mark key="[" line="4" column="4" />
@@ -24,6 +27,7 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.ComMonitoring/Launcher/ComMonitoringModuleLauncher.cs" timestamp="1555337169122" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateProviderTest.cs" timestamp="1555332989256">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="20" />
@@ -43,12 +47,12 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" timestamp="1555333491178">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" timestamp="1555337281453">
         <mark key="'" line="59" column="6" />
-        <mark key="[" line="413" column="0" />
-        <mark key="]" line="425" column="5" />
+        <mark key="[" line="206" column="33" />
+        <mark key="]" line="206" column="33" />
         <mark key="^" line="60" column="51" />
-        <mark key="." line="60" column="51" />
+        <mark key="." line="206" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Infrastructure/Persistence/Krones.Lms.Infrastructure.Persistence.Hibernate/Transaction/HibernateTransactionManager.cs" timestamp="1555326019647">
         <mark key="[" line="133" column="0" />
@@ -61,6 +65,12 @@
         <mark key="]" line="2" column="63" />
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/Abstractions/IDbConnectionStatePublisher.cs" timestamp="1555336918306">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="/Dummy.cs" timestamp="1555324830602">
         <mark key="[" line="0" column="0" />
@@ -76,25 +86,24 @@
         <mark key="." line="7" column="47" />
         <mark key="^" line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Services/Launcher/OecLauncher.cs" timestamp="1555333267538">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Services/Launcher/OecLauncher.cs" timestamp="1555337336241">
         <mark key="'" line="2" column="18" />
-        <mark key="[" line="50" column="90" />
-        <mark key="]" line="51" column="81" />
-        <mark key="." line="51" column="81" />
-        <mark key="^" line="51" column="81" />
+        <mark key="[" line="51" column="57" />
+        <mark key="]" line="51" column="82" />
+        <mark key="." line="51" column="82" />
+        <mark key="^" line="51" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1555333311161">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="53" column="64" />
-        <mark key="^" line="53" column="64" />
-        <mark key="." line="53" column="64" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1555337225716">
+        <mark key="'" line="61" column="8" />
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="42" column="70" />
+        <mark key="." line="42" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStatePublisher.cs" timestamp="1555336389631">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStatePublisher.cs" timestamp="1555336882142">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="68" />
+        <mark key="^" line="40" column="68" />
+        <mark key="." line="40" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" timestamp="1555335912530">
         <mark key="'" line="18" column="46" />
@@ -163,11 +172,11 @@
       <jump line="137" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ionStateC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgU2ltdWxhdGVQdXNoRGF0YWJhc2VDb25uZWN0aW9uU3RhdGUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ionStateC</text>
+        <text>dbConnectionStateProvider</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRNZXNzYWdlVG9RdWV1ZVw+</text>
@@ -176,31 +185,34 @@
         <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgUmFpc2VzRXZlbnRJZkNvbm5lY3RlZFN0YXRlQ2hhbmdlcygpCiAgICB7CiAgICAgIGRlY29yYXRvci5Db25uZWN0ZWQuU2hvdWxkKCkuQmVUcnVlKCk7ICAvLyBjaGVjayBwcmUtY29uZGl0aW9uCiAgICAgIAogICAgICB2YXIgZXZlbnRIYW5kbGVyTW9jayA9IG5ldyBNb2NrPEV2ZW50SGFuZGxlcjxib29sPj4oKTsKICAgICAgZGVjb3JhdG9yLk9uQ29ubmVjdGlvblN0YXRlQ2hhbmdlZCArPSBldmVudEhhbmRsZXJNb2NrLk9iamVjdDsKICAgICAgCiAgICAgIHRyYW5zYWN0aW9uTWFuYWdlck1vY2suU2V0dXAobSA9PiBtLkJlZ2luVHJhbnNhY3Rpb24oKSkuVGhyb3dzPEV4Y2VwdGlvbj4oKTsKICAgICAgZGVjb3JhdG9yLkludm9raW5nKGQgPT4gZC5CZWdpblRyYW5zYWN0aW9uKCkpLlNob3VsZFRocm93PEV4Y2VwdGlvbj4oKTsKICAgICAgCiAgICAgIGV2ZW50SGFuZGxlck1vY2suVmVyaWZ5KG0gPT4gbShkZWNvcmF0b3IsIGZhbHNlKSwgVGltZXMuT25jZSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNhY3Rpb25NYW5hZ2VyTW9jay5TZXR1cChtID0+IG0uQmVnaW5UcmFuc2FjdGlvbigpKS5UaHJvd3M8RXhjZXB0aW9uPigpOwogICAgICBkZWNvcmF0b3IuSW52b2tpbmcoZCA9PiBkLkJlZ2luVHJhbnNhY3Rpb24oKSkuU2hvdWxkVGhyb3c8RXhjZXB0aW9uPigpOwogICAgICAK</text>
+        <text encoding="base64">ICAgICAgU2ltdWxhdGVQdXNoRGF0YWJhc2VDb25uZWN0aW9uU3RhdGUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICAgCiAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3RlZCA9IHZhbHVlOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBTaW11bGF0ZVB1c2hEYXRhYmFzZUNvbm5lY3Rpb25TdGF0ZSgpCiAgICB7CiAgICAgIC8vIGR1bW15IG1ldGhvZCB0byBoYXZlIHNvbWUgZGF0YSBhdmFpbGFibGUgaW4gdGhlIGZyb250ZW5kCiAgICAgIHZhciBwdXNoUmFuZG9taXplZERhdGFUaW1lciA9IG5ldyBTeXN0ZW0uVGltZXJzLlRpbWVyKDUwMDApOwogICAgICB2YXIgcmFuZCA9IG5ldyBSYW5kb20oKTsKCiAgICAgIHB1c2hSYW5kb21pemVkRGF0YVRpbWVyLkVsYXBzZWQgKz0gKG8sIGFyZ3MpID0+CiAgICAgIHsKICAgICAgICBMb2dnZXIuSW5mbygiUHVzaGluZyByYW5kb21pemVkIGRhdGFiYXNlIGNvbm5lY3Rpb24gc3RhdGUgZGF0YSB0byBMbXNPZWNIdWIiKTsKICAgICAgICBBZGRNZXNzYWdlVG9RdWV1ZShuZXcgRGF0YWJhc2VDb25uZWN0aW9uU3RhdGVNZXNzYWdlIHtDb25uZWN0ZWQgPSByYW5kLk5leHQoMikgPT0gMH0pOwogICAgICB9OwogICAgICBwdXNoUmFuZG9taXplZERhdGFUaW1lci5FbmFibGVkID0gdHJ1ZTsKICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5QdWJsaXNoKCkK</text>
+      <register name="4" type="4">
+        <text>,
+        dbConnectionStateProviderMock.Object</text>
+      </register>
+      <register name="5" type="4">
+        <text>,
+                  IDbConnectionStatePublisher dbConnectionStatePublisher</text>
+      </register>
+      <register name="6" type="4">
+        <text>,
+                  IDbConnectionStatePublisher dbConnectionStatePublisher)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbCBjb25uZWN0ZWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kYkNvbm5lY3Rpb25TdGF0ZVB1Ymxpc2hlciA9IGRiQ29ubmVjdGlvblN0YXRlUHVibGlzaGVyOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbCBDb25uZWN0ZWQKICAgIHsKICAgICAgZ2V0IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgSURiQ29ubmVjdGlvblN0YXRlUHVibGlzaGVyIGRiQ29ubmVjdGlvblN0YXRlUHVibGlzaGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgU2V0Q29ubmVjdGVkKGJvb2wgY29ubmVjdGVkKSAK</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
