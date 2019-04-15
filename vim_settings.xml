@@ -37,11 +37,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1555333057647">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1555335933285">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" timestamp="1555333491178">
         <mark key="'" line="59" column="6" />
@@ -65,11 +65,16 @@
       <file name="/Dummy.cs" timestamp="1555324830602">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateProvider.cs" timestamp="1555333048101">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateProvider.cs" timestamp="1555335237382">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/Abstractions/IConnectionState.cs" timestamp="1555336455876">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Services/Launcher/OecLauncher.cs" timestamp="1555333267538">
         <mark key="'" line="2" column="18" />
@@ -85,12 +90,18 @@
         <mark key="^" line="53" column="64" />
         <mark key="." line="53" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" timestamp="1555331911134">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStatePublisher.cs" timestamp="1555336389631">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" timestamp="1555335912530">
         <mark key="'" line="18" column="46" />
-        <mark key="[" line="61" column="42" />
-        <mark key="]" line="61" column="43" />
-        <mark key="." line="61" column="43" />
-        <mark key="^" line="61" column="43" />
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="86" column="60" />
+        <mark key="." line="86" column="60" />
+        <mark key="^" line="86" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -152,44 +163,44 @@
       <jump line="137" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgU2VuZGVyUHVzaGVzUGxjU3RhdGUoKQogICAgewogICAgICAvLyBBcnJhbmdlCiAgICAgIG1lc3NhZ2VRdWV1ZS5BZGQobmV3IFVwZGF0ZVBsY1N0YXRlTWVzc2FnZSB7UGxjQ29ubmVjdGVkID0gdHJ1ZX0pOwogICAgICBtZXNzYWdlUXVldWUuQWRkKG5ldyBVcGRhdGVQbGNTdGF0ZU1lc3NhZ2Uge1BsY0Nvbm5lY3RlZCA9IGZhbHNlfSk7CgogICAgICAvLyBBY3QKICAgICAgUnVuU2VuZGVySW5TZXBhcmF0ZVRocmVhZCgwLCAyLCAwKTsKCiAgICAgIC8vIEFzc2VydAogICAgICBwbGNTdGF0ZVdlYkR0b3MuU2VsZWN0KGR0byA9PiBkdG8uUGxjQ29ubmVjdGVkKS5TaG91bGQoKS5FcXVhbCh0cnVlLCBmYWxzZSk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ionStateC</text>
       </register>
       <register name="-" type="4">
-        <text>IConnectionState</text>
+        <text>ionStateC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRNZXNzYWdlVG9RdWV1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgU2VuZGVyUHVzaGVzUGxjU3RhdGUoKQogICAgewogICAgICAvLyBBcnJhbmdlCiAgICAgIG1lc3NhZ2VRdWV1ZS5BZGQobmV3IFVwZGF0ZVBsY1N0YXRlTWVzc2FnZSB7UGxjQ29ubmVjdGVkID0gdHJ1ZX0pOwogICAgICBtZXNzYWdlUXVldWUuQWRkKG5ldyBVcGRhdGVQbGNTdGF0ZU1lc3NhZ2Uge1BsY0Nvbm5lY3RlZCA9IGZhbHNlfSk7CgogICAgICAvLyBBY3QKICAgICAgUnVuU2VuZGVySW5TZXBhcmF0ZVRocmVhZCgwLCAyLCAwKTsKCiAgICAgIC8vIEFzc2VydAogICAgICBwbGNTdGF0ZVdlYkR0b3MuU2VsZWN0KGR0byA9PiBkdG8uUGxjQ29ubmVjdGVkKS5TaG91bGQoKS5FcXVhbCh0cnVlLCBmYWxzZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgUmFpc2VzRXZlbnRJZkNvbm5lY3RlZFN0YXRlQ2hhbmdlcygpCiAgICB7CiAgICAgIGRlY29yYXRvci5Db25uZWN0ZWQuU2hvdWxkKCkuQmVUcnVlKCk7ICAvLyBjaGVjayBwcmUtY29uZGl0aW9uCiAgICAgIAogICAgICB2YXIgZXZlbnRIYW5kbGVyTW9jayA9IG5ldyBNb2NrPEV2ZW50SGFuZGxlcjxib29sPj4oKTsKICAgICAgZGVjb3JhdG9yLk9uQ29ubmVjdGlvblN0YXRlQ2hhbmdlZCArPSBldmVudEhhbmRsZXJNb2NrLk9iamVjdDsKICAgICAgCiAgICAgIHRyYW5zYWN0aW9uTWFuYWdlck1vY2suU2V0dXAobSA9PiBtLkJlZ2luVHJhbnNhY3Rpb24oKSkuVGhyb3dzPEV4Y2VwdGlvbj4oKTsKICAgICAgZGVjb3JhdG9yLkludm9raW5nKGQgPT4gZC5CZWdpblRyYW5zYWN0aW9uKCkpLlNob3VsZFRocm93PEV4Y2VwdGlvbj4oKTsKICAgICAgCiAgICAgIGV2ZW50SGFuZGxlck1vY2suVmVyaWZ5KG0gPT4gbShkZWNvcmF0b3IsIGZhbHNlKSwgVGltZXMuT25jZSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUgo=</text>
+        <text encoding="base64">ICAgICAgdHJhbnNhY3Rpb25NYW5hZ2VyTW9jay5TZXR1cChtID0+IG0uQmVnaW5UcmFuc2FjdGlvbigpKS5UaHJvd3M8RXhjZXB0aW9uPigpOwogICAgICBkZWNvcmF0b3IuSW52b2tpbmcoZCA9PiBkLkJlZ2luVHJhbnNhY3Rpb24oKSkuU2hvdWxkVGhyb3c8RXhjZXB0aW9uPigpOwogICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNhY3Rpb25NYW5hZ2VyTW9jay5TZXR1cCgpCg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3RlZCA9IHZhbHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGRiQ29ubmVjdGlvblN0YXRlVHJhY2tpbmdEZWNvcmF0b3JGbHVlbnQgPSBuZXcgRGJDb25uZWN0aW9uU3RhdGVUcmFja2luZ0RlY29yYXRvcihmbHVlbnRMYXVuY2hlci5UcmFuc2FjdGlvbk1hbmFnZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5QdWJsaXNoKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbCBjb25uZWN0ZWQgPSB0cnVlOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbCBDb25uZWN0ZWQKICAgIHsKICAgICAgZ2V0IA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgU2V0Q29ubmVjdGVkKGJvb2wgY29ubmVjdGVkKSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
