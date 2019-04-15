@@ -3,37 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/AppLauncher.cs" timestamp="1555326495961">
-        <mark key="'" line="43" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555331996664">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnection/DbConnectionTrackingDecorator.cs" timestamp="1555329204030">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" timestamp="1555338313215">
-        <mark key="'" line="95" column="21" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="96" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/IConnectionState.cs" timestamp="1555332204753">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.ComMonitoring/Launcher/ComMonitoringModuleLauncher.cs" timestamp="1555337169122" />
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateProviderTest.cs" timestamp="1555332989256">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Manager/PushModuleManagerTest.cs" timestamp="1555342163567">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/UnitTest1.cs" timestamp="1555329415515" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateProvider.cs" timestamp="1555331788917">
@@ -42,17 +17,54 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1555335933285">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Launcher/PushModuleLauncher.cs" timestamp="1555342379932">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateProvider.cs" timestamp="1555335237382">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" timestamp="1555335912530">
+        <mark key="'" line="18" column="46" />
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="86" column="60" />
+        <mark key="." line="86" column="60" />
+        <mark key="^" line="86" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/AppLauncher.cs" timestamp="1555326495961">
+        <mark key="'" line="43" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnection/DbConnectionTrackingDecorator.cs" timestamp="1555329204030">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" timestamp="1555341955138">
+        <mark key="'" line="106" column="34" />
+        <mark key="[" line="128" column="49" />
+        <mark key="]" line="129" column="45" />
+        <mark key="." line="129" column="45" />
+        <mark key="^" line="129" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/IConnectionState.cs" timestamp="1555332204753">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateProviderTest.cs" timestamp="1555332989256">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" timestamp="1555340785007">
         <mark key="'" line="58" column="6" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Infrastructure/Persistence/Krones.Lms.Infrastructure.Persistence.Hibernate/Transaction/HibernateTransactionManager.cs" timestamp="1555326019647">
         <mark key="[" line="133" column="0" />
@@ -66,27 +78,19 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/Abstractions/IDbConnectionStatePublisher.cs" timestamp="1555336918306">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="45" />
-        <mark key="." line="2" column="45" />
-        <mark key="^" line="2" column="45" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/Abstractions/IDbConnectionStatePublisher.cs" timestamp="1555341182933">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStatePublisherTest.cs" timestamp="1555340685811">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStatePublisherTest.cs" timestamp="1555341093693">
         <mark key="'" line="43" column="82" />
-        <mark key="[" line="69" column="93" />
-        <mark key="]" line="69" column="96" />
-        <mark key="." line="69" column="96" />
-        <mark key="^" line="69" column="96" />
+        <mark key="[" line="104" column="7" />
+        <mark key="]" line="109" column="97" />
+        <mark key="." line="109" column="97" />
+        <mark key="^" line="109" column="97" />
         <mark key="o" line="43" column="27" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1555324830602">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateProvider.cs" timestamp="1555335237382">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/Abstractions/IConnectionState.cs" timestamp="1555336455876">
         <mark key="[" line="7" column="38" />
@@ -96,29 +100,16 @@
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Services/Launcher/OecLauncher.cs" timestamp="1555337336241">
         <mark key="'" line="2" column="18" />
-        <mark key="[" line="51" column="57" />
-        <mark key="]" line="51" column="82" />
-        <mark key="." line="51" column="82" />
-        <mark key="^" line="51" column="82" />
+        <mark key="[" line="11" column="57" />
+        <mark key="]" line="11" column="82" />
+        <mark key="." line="11" column="82" />
+        <mark key="^" line="11" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1555337225716">
-        <mark key="'" line="61" column="8" />
-        <mark key="[" line="42" column="70" />
-        <mark key="]" line="42" column="70" />
-        <mark key="." line="42" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStatePublisher.cs" timestamp="1555340617822">
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="37" column="40" />
-        <mark key="." line="37" column="40" />
-        <mark key="^" line="37" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" timestamp="1555335912530">
-        <mark key="'" line="18" column="46" />
-        <mark key="[" line="86" column="48" />
-        <mark key="]" line="86" column="60" />
-        <mark key="." line="86" column="60" />
-        <mark key="^" line="86" column="60" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStatePublisher.cs" timestamp="1555341152524">
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="22" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="43" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -180,55 +171,60 @@
       <jump line="137" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" />
       <jump line="95" column="21" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" />
       <jump line="43" column="82" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStatePublisherTest.cs" />
+      <jump line="76" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" />
+      <jump line="85" column="8" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" />
+      <jump line="106" column="34" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" />
+      <jump line="129" column="20" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Manager/PushModuleManagerTest.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Manager/PushModuleManagerTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGRiQ29ubmVjdGlvblN0YXRlUHJvdmlkZXJNb2NrID0gbmV3IE1vY2s8SURiQ29ubmVjdGlvblN0YXRlUHVibGlzaGVyPigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>IEquipmentCoordinationService</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>IEquipmentCoordinationService</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFcXVpcG1lbnRDb29yZGluYXRpb25IYXNDaGFuZ2VkTWVzc2FnZVw+</text>
+        <text>Regular</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZm9yZWFjaCAodmFyIG1vY2sgaW4gY29ubmVjdGlvblN0YXRlTW9ja3MpCiAgICAgIHsKICAgICAgICBtb2NrLlNldHVwKG0gPT4gbS5Db25uZWN0ZWQpLlJldHVybnModHJ1ZSk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmVnaXN0cnkuQWRkSW5zdGFuY2U8SUVxdWlwbWVudENvb3JkaW5hdGlvblNlcnZpY2U+KG9lY1JlZ2lzdHJ5LlJlc29sdmU8SUVxdWlwbWVudENvb3JkaW5hdGlvblNlcnZpY2U+KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGRiQ29ubmVjdGlvblN0YXRlUHJvdmlkZXJNb2NrID0gbmV3IE1vY2s8SURiQ29ubmVjdGlvblN0YXRlUHVibGlzaGVyPigpOwo=</text>
+        <text encoding="base64">ICAgICAgcmVnaXN0cnkuQWRkSW5zdGFuY2U8SUVxdWlwbWVudENvb3JkaW5hdGlvblNlcnZpY2U+KG9lY1JlZ2lzdHJ5LlJlc29sdmU8SURiQ29ubmVjdGlvblN0YXRlUHVibGlzaGVyPigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLkxtcy5PZWMuTW9kdWxlLkRiQ29ubmVjdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgcmVnaXN0cnkuQWRkSW5zdGFuY2U8SUVxdWlwbWVudENvb3JkaW5hdGlvblNlcnZpY2U+KG9lY1JlZ2lzdHJ5LlJlc29sdmU8SURiQ29ubmVjdGlvblN0YXRlUHVibGlzaGVyPigpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vdmVyYWxsQ29ubmVjdGlvblN0YXRlID0gdGhpcy5jb25uZWN0aW9uU3RhdGVzLkFsbChzID0+IHMuQ29ubmVjdGVkKTsK</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZVF1ZXVlTW9jay5WZXJpZnkobSA9PiBtLkFkZChJdC5Jc0FueTxGdWxsVXBkYXRlTWVzc2FnZT4oKSksIFRpbWVzLkV4YWN0bHkoMikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyYWxsQ29ubmVjdGlvblN0YXRlID0gY29ubmVjdGlvblN0YXRlcy5BbGwocyA9PiBzLkNvbm5lY3RlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZVF1ZXVlTW9jay5WZXJpZnkobSA9PiBtLkFkZChJdC5Jc0FueTxGdWxsVXBkYXRlTWVzc2FnZT4oKSksIFRpbWVzLk9uY2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZVF1ZXVlTW9jay5WZXJpZnkobSA9PiBtLkFkZChJdC5Jc0FueTxGdWxsVXBkYXRlTWVzc2FnZT4oKSksIFRpbWVzLk9uY2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBVcGRhdGVPdmVyYWxsQ29ubmVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgQWZ0ZXJTdGFydGluZ1RoZU1hbmFnZXJBTWVzc2FnZU9mVHlwZVRJc0FkZGVkVG9UaGVRdWV1ZUluaXRpYWxseUFuZFJlZ3VsYXJseTxEYXRhYmFzZUNvbm5lY3Rpb25TdGF0ZU1lc3NhZ2U+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG92ZXJhbGxDb25uZWN0aW9uU3RhdGUgPQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGFzeW5jIFRhc2sgQWZ0ZXJTdGFydGluZ1RoZU1hbmFnZXJBTWVzc2FnZU9mVHlwZVRJc0FkZGVkVG9UaGVRdWV1ZUluaXRpYWxseUFuZFJlZ3VsYXJseTxUPigpIHdoZXJlIFQgOiBJUXVldWVNZXNzYWdlCiAgICB7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgQWZ0ZXJTdGFydGluZ1RoZU1hbmFnZXJBTWVzc2FnZU9mVHlwZVRJc0FkZGVkVG9UaGVRdWV1ZUluaXRpYWxseUFuZFJlZ3VsYXJseTxGdWxsVXBkYXRlTWVzc2FnZT4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29ubmVjdGlvblN0YXRlTW9ja3NbMF0uU2V0dXAobSA9PiBtLkNvbm5lY3RlZCkuUmV0dXJucyhmYWxzZSk7CiAgICAgIGNvbm5lY3Rpb25TdGF0ZU1vY2tzWzFdLlNldHVwKG0gPT4gbS5Db25uZWN0ZWQpLlJldHVybnModHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gQXJyYW5nZQogICAgICAvLyBBY3QKICAgICAgYXdhaXQgcHVzaE1vZHVsZU1hbmFnZXIuU3RhcnQoKTsKCiAgICAgIC8vIEFzc2VydAogICAgICAvLyBJbml0aWFsbHkgYWRkIG1lc3NhZ2Ugb24gY29ubmVjdCB0byBodWIKICAgICAgbWVzc2FnZVF1ZXVlTW9jay5WZXJpZnkobSA9PiBtLkFkZChJdC5Jc0FueTxUPigpKSwgVGltZXMuT25jZSk7CiAgICAgIHRpbWVyRmFjdG9yeS5TbGVlcCg5LlNlY29uZHMoKSk7CiAgICAgIC8vIERvIG5vdCBhZGQgbWVzc2FnZSBiZWZvcmUgdGltZXIgaGFzIGVsYXBzZWQKICAgICAgbWVzc2FnZVF1ZXVlTW9jay5WZXJpZnkobSA9PiBtLkFkZChJdC5Jc0FueTxUPigpKSwgVGltZXMuT25jZSk7CiAgICAgIHRpbWVyRmFjdG9yeS5TbGVlcCgxLlNlY29uZHMoKSk7CiAgICAgIC8vIEFkZCBtZXNzYWdlIGFnYWluIHdoZW4gdGltZXIgaGFzIGVsYXBzZWQKICAgICAgbWVzc2FnZVF1ZXVlTW9jay5WZXJpZnkobSA9PiBtLkFkZChJdC5Jc0FueTxUPigpKSwgVGltZXMuRXhhY3RseSgyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFcXVpcG1lbnRDb29yZGluYXRpb25IYXNDaGFuZ2VkTWVzc2FnZVw+</last-search>
+      <last-search>Regular</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFcXVpcG1lbnRDb29yZGluYXRpb25IYXNDaGFuZ2VkTWVzc2FnZVw+</last-pattern>
+      <last-pattern>Regular</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -241,6 +237,8 @@
         <entry encoding="base64">XDx0aW1pbmdQcm92aWRlck1vY2tcPg==</entry>
         <entry encoding="base64">XDxBZGRNZXNzYWdlVG9RdWV1ZVw+</entry>
         <entry encoding="base64">XDxFcXVpcG1lbnRDb29yZGluYXRpb25IYXNDaGFuZ2VkTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxBZGRGdWxsVXBkYXRlTWVzc2FnZVRvUXVldWVcPg==</entry>
+        <entry>Regular</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
