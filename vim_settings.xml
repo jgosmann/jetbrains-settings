@@ -3,8 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.cs" timestamp="1555324830602">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" timestamp="1555315790863">
         <mark key="'" line="217" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1555325874070">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="19" />
+        <mark key="^" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Infrastructure/Persistence/Krones.Lms.Infrastructure.Persistence.Hibernate/Transaction/HibernateTransactionManager.cs" timestamp="1555326019647">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="132" column="8" />
+        <mark key="." line="133" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -13,8 +28,21 @@
       <jump line="207" column="17" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" />
       <jump line="213" column="51" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" />
       <jump line="217" column="11" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" />
+      <jump line="58" column="7" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Infrastructure/Persistence/Krones.Lms.Infrastructure.Persistence.Hibernate/Transaction/HibernateTransactionManager.cs" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
       <register name="/" type="4">
         <text>Run</text>
       </register>
@@ -30,13 +58,21 @@
       <history-search>
         <entry>Run</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
