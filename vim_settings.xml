@@ -23,11 +23,17 @@
         <mark key="^" line="49" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/UnitTest1.cs" timestamp="1555329415515" />
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1555330373104">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="46" />
-        <mark key="^" line="25" column="46" />
-        <mark key="." line="25" column="46" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateProvider.cs" timestamp="1555331788917">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1555331922410">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Sender/SenderTest.cs" timestamp="1555315790863">
         <mark key="'" line="217" column="11" />
@@ -45,12 +51,12 @@
         <mark key="^" line="132" column="8" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" timestamp="1555329732762">
-        <mark key="'" line="16" column="46" />
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="38" column="75" />
-        <mark key="." line="38" column="75" />
-        <mark key="^" line="38" column="75" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" timestamp="1555331911134">
+        <mark key="'" line="18" column="46" />
+        <mark key="[" line="61" column="42" />
+        <mark key="]" line="61" column="43" />
+        <mark key="." line="61" column="43" />
+        <mark key="^" line="61" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -106,19 +112,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>transactionManager</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>transactionManager</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>Service</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGRiQ29ubmVjdGlvblN0YXRlVHJhY2tpbmdEZWNvcmF0b3JGbHVlbnQgPSBuZXcgRGJDb25uZWN0aW9uU3RhdGVUcmFja2luZ0RlY29yYXRvcihmbHVlbnRMYXVuY2hlci5UcmFuc2FjdGlvbk1hbmFnZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgdHJhbnNhY3Rpb25NYW5hZ2VyTW9jay5TZXR1cCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGRiQ29ubmVjdGlvblN0YXRlVHJhY2tpbmdEZWNvcmF0b3JGbHVlbnQgPSBuZXcgRGJDb25uZWN0aW9uU3RhdGVUcmFja2luZ0RlY29yYXRvcihmbHVlbnRMYXVuY2hlci5UcmFuc2FjdGlvbk1hbmFnZXIpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
@@ -127,19 +133,19 @@
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LlBhc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLkJJVFMuRGF0YU1hcHBpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LlBhc3MoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFtTZXRVcF0KICAgIHB1YmxpYyB2b2lkIFNldHVwKCkgeyB9Cgo=</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLkJJVFMuRGF0YU1hcHBpbmc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgIFtTZXRVcF0KICAgIHB1YmxpYyB2b2lkIFNldHVwKCkgeyB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
