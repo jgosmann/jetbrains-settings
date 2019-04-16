@@ -59,6 +59,12 @@
         <mark key="^" line="45" column="56" />
         <mark key="." line="45" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1555401952059">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/orderEquipmentCoordinatorReducer.js" timestamp="1554997594358">
         <mark key="[" line="29" column="73" />
         <mark key="]" line="29" column="84" />
@@ -245,55 +251,62 @@
       <jump line="53" column="1" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/admin/js/components/RouteGraphsControl/test/RouteGraphControl.spec.js" />
       <jump line="18" column="62" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" />
       <jump line="7" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" />
+      <jump line="57" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="106" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="103" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="123" column="29" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBsdWdpbnM6IFsKICAgIF0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>output.path</text>
+        <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRUb1Nob3c6IHRyYW5zYWN0aW9uUmVwb3J0Q29tcG9uZW50cy5lbnRyeQo=</text>
+        <text encoding="base64">ICAgIG5ldyBDbGVhbldlYnBhY2tQbHVnaW4oeyB2ZXJib3NlOiB0cnVlIH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwppbXBvcnQgeyBpbml0aWFsU3RhdGUgYXMgaW5pdGlhbENvbW1vblN0YXRlIH0gZnJvbSAnLi4vLi4vLi4vcmVkdWNlcnMvY29tbW9uUmVkdWNlcicK</text>
+        <text encoding="base64">ICAgIHBsdWdpbnM6IFsKICAgIF0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZSA9IHsKICAgICAgICBhZGRpdGlvbmFsSW5mbzogW10sCiAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgZGF0YVN0YXRlOiAnZGF0YVN0YXRlJywKICAgICAgICBpZDogJ21zZ0lkJywKICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgcmVmZXJlbmNlSWQ6ICdyZWZJZCcsCiAgICAgICAgcmVzZW5kYWJsZTogZmFsc2UsCiAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgfQogICAgICBjb25zdCBnaXZlblN0YXRlID0gewogICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgY29tbW9uOiBpbml0aWFsQ29tbW9uU3RhdGUsCiAgICAgICAgICB0cmFuc2FjdGlvblJlcG9ydDogewogICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICB9LAogICAgICAgICAgbWVzc2FnZXNUYWJsZTogewogICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICAgICAgbWVzc2FnZXM6IFttZXNzYWdlXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">ICBwbHVnaW46Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uICgpIHsKICAgICAgY29uc3QgbWVzc2FnZSA9IHsKICAgICAgICBhZGRpdGlvbmFsSW5mbzogW10sCiAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgZGF0YVN0YXRlOiAnZGF0YVN0YXRlJywKICAgICAgICBpZDogJ21zZ0lkJywKICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgcmVmZXJlbmNlSWQ6ICdyZWZJZCcsCiAgICAgICAgcmVzZW5kYWJsZTogZmFsc2UsCiAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgfQogICAgICBjb25zdCBnaXZlblN0YXRlID0gewogICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgY29tbW9uOiBpbml0aWFsQ29tbW9uU3RhdGUsCiAgICAgICAgICB0cmFuc2FjdGlvblJlcG9ydDogewogICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICB9LAogICAgICAgICAgbWVzc2FnZXNUYWJsZTogewogICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICAgICAgbWVzc2FnZXM6IFttZXNzYWdlXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgbmV3IENsZWFuV2VicGFja1BsdWdpbih7IHZlcmJvc2U6IHRydWUgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIGl0KCdjb250YWlucyBhIEhpc3RvcnlEaWFsb2cgY29tcG9uZW50JywgZnVuY3Rpb24gKCkgewogICAgICAgIGV4cGVjdChyZXN1bHQuZmluZChIaXN0b3J5RGlhbG9nKSkudG8uYmUucHJlc2VudCgpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">Y29kZHJyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBnaXZlblN0YXRlID0gewogICAgdjJJbnRlcmZhY2VNb25pdG9yaW5nOiB7CiAgICAgIG1lc3NhZ2VzVGFibGU6IHsKICAgICAgICBtZXNzYWdlczogW10KICAgICAgfQogICAgfQogIH0K</text>
+        <text encoding="base64">aW1wb3J0IEhpc3RvcnlEaWFsb2cgZnJvbSAnLi4vLi4vTWVzc2FnZXNUYWJsZS9IaXN0b3J5RGlhbG9nJwppbXBvcnQgeyBpbml0aWFsU3RhdGUgYXMgaW5pdGlhbENvbW1vblN0YXRlIH0gZnJvbSAnLi4vLi4vLi4vcmVkdWNlcnMvY29tbW9uUmVkdWNlcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW91bnRXaXRoUmVkdXggfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi90ZXN0VXRpbC90ZXN0VXRpbHMnCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWVzc2FnZSA9IHsKICAgICAgICBhZGRpdGlvbmFsSW5mbzogW10sCiAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgZGF0YVN0YXRlOiAnZGF0YVN0YXRlJywKICAgICAgICBpZDogJ21zZ0lkJywKICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgcmVmZXJlbmNlSWQ6ICdyZWZJZCcsCiAgICAgICAgcmVzZW5kYWJsZTogZmFsc2UsCiAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgfQogICAgICBjb25zdCBnaXZlblN0YXRlID0gewogICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgY29tbW9uOiBpbml0aWFsQ29tbW9uU3RhdGUsCiAgICAgICAgICB0cmFuc2FjdGlvblJlcG9ydDogewogICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICB9LAogICAgICAgICAgbWVzc2FnZXNUYWJsZTogewogICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICAgICAgbWVzc2FnZXM6IFttZXNzYWdlXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGZhbHNlKS50by5iZS50cnVlCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uICgpIHsKICAgICAgY29uc3QgbWVzc2FnZSA9IHsKICAgICAgICBhZGRpdGlvbmFsSW5mbzogW10sCiAgICAgICAgY29tcG9uZW50SWQ6ICdjb21wb25lbnRJZCcsCiAgICAgICAgZGF0YVN0YXRlOiAnZGF0YVN0YXRlJywKICAgICAgICBpZDogJ21zZ0lkJywKICAgICAgICBuYW1lOiAnbmFtZScsCiAgICAgICAgcmVmZXJlbmNlSWQ6ICdyZWZJZCcsCiAgICAgICAgcmVzZW5kYWJsZTogZmFsc2UsCiAgICAgICAgdHJhbnNtaXNzaW9uczogW10KICAgICAgfQogICAgICBjb25zdCBnaXZlblN0YXRlID0gewogICAgICAgIHYySW50ZXJmYWNlTW9uaXRvcmluZzogewogICAgICAgICAgY29tbW9uOiBpbml0aWFsQ29tbW9uU3RhdGUsCiAgICAgICAgICB0cmFuc2FjdGlvblJlcG9ydDogewogICAgICAgICAgICBtZXNzYWdlczogW21lc3NhZ2VdCiAgICAgICAgICB9LAogICAgICAgICAgbWVzc2FnZXNUYWJsZTogewogICAgICAgICAgICBoaXN0b3J5RGlhbG9nT3BlbjogZmFsc2UsCiAgICAgICAgICAgIG1lc3NhZ2VIaXN0b3J5OiBbXSwKICAgICAgICAgICAgbWVzc2FnZXM6IFttZXNzYWdlXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb21wb25lbnQuaXMoQnV0dG9uKSwgY29tcG9uZW50LmlzKEVkaXRVc2VyQnV0dG9uKSwgY29tcG9uZW50LmlzKERlbGV0ZVVzZXJCdXR0b24pLCBjb21wb25lbnQudHlwZSgpKQo=</text>
+        <text encoding="base64">CiAgICAgIGl0KCdjb250YWlucyBhIEhpc3RvcnlEaWFsb2cgY29tcG9uZW50JywgZnVuY3Rpb24gKCkgewogICAgICAgIGV4cGVjdChyZXN1bHQuZmluZChIaXN0b3J5RGlhbG9nKSkudG8uYmUucHJlc2VudCgpCiAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGZhbHNlKS50by5iZS50cnVlCg==</text>
+        <text encoding="base64">ICBjb25zdCBnaXZlblN0YXRlID0gewogICAgdjJJbnRlcmZhY2VNb25pdG9yaW5nOiB7CiAgICAgIG1lc3NhZ2VzVGFibGU6IHsKICAgICAgICBtZXNzYWdlczogW10KICAgICAgfQogICAgfQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>output.path</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern>output.path</last-pattern>
+      <last-pattern>plugin</last-pattern>
       <last-replace>given</last-replace>
       <last-substitute>some</last-substitute>
       <last-dir>1</last-dir>
@@ -319,6 +332,7 @@
         <entry encoding="base64">XDxNZXNzYWdlc1RhYmxlXD4=</entry>
         <entry encoding="base64">XDxnaXZlbkluc3RhbmNlc1w+</entry>
         <entry>output.path</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL011bHRpL1NpbmdsZS9n</entry>
