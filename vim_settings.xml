@@ -158,11 +158,10 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/test/handlePushSaga.spec.js" timestamp="1555425064946">
-        <mark key="[" line="29" column="50" />
-        <mark key="]" line="29" column="50" />
-        <mark key="^" line="29" column="49" />
-        <mark key="." line="29" column="50" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/test/handlePushSaga.spec.js" timestamp="1555426604024">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1555069440911">
         <mark key="'" line="32" column="11" />
@@ -177,12 +176,12 @@
         <mark key="^" line="37" column="47" />
         <mark key="." line="37" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/handlePushSaga.js" timestamp="1555425833363">
-        <mark key="'" line="52" column="23" />
-        <mark key="[" line="49" column="41" />
-        <mark key="]" line="49" column="56" />
-        <mark key="^" line="49" column="56" />
-        <mark key="." line="49" column="56" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/handlePushSaga.js" timestamp="1555427628446">
+        <mark key="'" line="50" column="23" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="45" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringUsers/test/UserList.spec.js" timestamp="1555067940172">
         <mark key="[" line="119" column="0" />
@@ -330,44 +329,44 @@
       <jump line="53" column="23" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/handlePushSaga.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>updatePlcConnection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRTZWxlY3RlZEluc3RhbmNlSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9iamVjdC5mcm9tRW50cmllcyhfLnppcChtZXRob2RLZXlzLCBjaGFubmVscy5tYXAoY2hhbm5lbCA9PiBjaGFubmVsLnB1dCkpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd4JywgbWV0aG9kS2V5cy5tYXAoa2V5ID0+IGNoYW5uZWxzW2tleV0pKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY2xvc2VDaGFubmVscyA9IGZ1bmN0aW9uIChjaGFubmVscykgewogIHJldHVybiBtYXBZaWVsZChjaGFubmVscywgY2hhbm5lbCA9PiBjYWxsKFtjaGFubmVsLCBjaGFubmVsLmNsb3NlXSkpCn0K</text>
+        <text encoding="base64">Y29uc3QgdXBkYXRlRXF1aXBtZW50Q29vcmRpbmF0aW9ucyA9IGZ1bmN0aW9uKiAoY29vcmRpbmF0aW9ucykgewogIHlpZWxkIHB1dChvcmRlckVxdWlwbWVudENvb3JkaW5hdG9yQWN0aW9uQ3JlYXRvcnMudXBkYXRlZENvb3JkaW5hdGlvbkRhdGFSZWNlaXZlZChjb29yZGluYXRpb25zKSkKfQoKY29uc3QgdXBkYXRlT2VjSW5zdGFuY2VzID0gZnVuY3Rpb24qIChpbnN0YW5jZXMpIHsKICB5aWVsZCBwdXQob3JkZXJFcXVpcG1lbnRDb29yZGluYXRvckFjdGlvbkNyZWF0b3JzLm9lY0luc3RhbmNlc1JlY2VpdmVkKGluc3RhbmNlcykpCn0KCmNvbnN0IHVwZGF0ZVBsY0Nvbm5lY3Rpb24gPSBmdW5jdGlvbiogKHBsY0Nvbm5lY3Rpb24pIHsKICB5aWVsZCBwdXQob3JkZXJFcXVpcG1lbnRDb29yZGluYXRvckFjdGlvbkNyZWF0b3JzLnBsY0Nvbm5lY3Rpb25TdGF0dXNSZWNlaXZlZChwbGNDb25uZWN0aW9uKSkKfQoKY29uc3QgdXBkYXRlRGF0YWJhc2VDb25uZWN0aW9uU3RhdGUgPSBmdW5jdGlvbiogKGRhdGEpIHsKICB5aWVsZCBwdXQob3JkZXJFcXVpcG1lbnRDb29yZGluYXRvckFjdGlvbkNyZWF0b3JzLmRhdGFiYXNlQ29ubmVjdGlvblN0YXRlUmVjZWl2ZWQoZGF0YSkpCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IHVwZGF0ZUVxdWlwbWVudENvb3JkaW5hdGlvbnMgPSBmdW5jdGlvbiogKGNvb3JkaW5hdGlvbnMpIHsKICB5aWVsZCBwdXQob3JkZXJFcXVpcG1lbnRDb29yZGluYXRvckFjdGlvbkNyZWF0b3JzLnVwZGF0ZWRDb29yZGluYXRpb25EYXRhUmVjZWl2ZWQoY29vcmRpbmF0aW9ucykpCn0KCmNvbnN0IHVwZGF0ZU9lY0luc3RhbmNlcyA9IGZ1bmN0aW9uKiAoaW5zdGFuY2VzKSB7CiAgeWllbGQgcHV0KG9yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3JBY3Rpb25DcmVhdG9ycy5vZWNJbnN0YW5jZXNSZWNlaXZlZChpbnN0YW5jZXMpKQp9Cgpjb25zdCB1cGRhdGVQbGNDb25uZWN0aW9uID0gZnVuY3Rpb24qIChwbGNDb25uZWN0aW9uKSB7CiAgeWllbGQgcHV0KG9yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3JBY3Rpb25DcmVhdG9ycy5wbGNDb25uZWN0aW9uU3RhdHVzUmVjZWl2ZWQocGxjQ29ubmVjdGlvbikpCn0KCmNvbnN0IHVwZGF0ZURhdGFiYXNlQ29ubmVjdGlvblN0YXRlID0gZnVuY3Rpb24qIChkYXRhKSB7CiAgeWllbGQgcHV0KG9yZGVyRXF1aXBtZW50Q29vcmRpbmF0b3JBY3Rpb25DcmVhdG9ycy5kYXRhYmFzZUNvbm5lY3Rpb25TdGF0ZVJlY2VpdmVkKGRhdGEpKQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Q2hhbm5lbHMgPSBmdW5jdGlvbiAobWV0aG9kcykgewogIHJldHVybiBtYXBZaWVsZChtZXRob2RzLCBtID0+IGNhbGwoY2hhbm5lbCkpCn0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhJywgY2hhbm5lbHMpCiAgICBjb25zb2xlLmxvZygneCcsIG1ldGhvZEtleXMubWFwKChrZXksIGkpID0+IGNoYW5uZWxzW2ldKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmb3IgKGNvbnN0IGNoYW5uZWwgb2YgY2hhbm5lbHMpIHsKICAgIHlpZWxkIGNhbGwoW2NoYW5uZWwsIGNoYW5uZWwuY2xvc2VdKQogIH0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygneHh4JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9CiAgcmV0dXJuICdtdXUnCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2Vzc2lvbiBpZCcsIHNlc3Npb25JZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IG1ldGhvZHMubGVuZ3RoOyArK2kpIHsKICAgIGNvbnNvbGUubG9nKCduZXcgY2hhbm5lbCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2Vzc2lvbklkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VmZmVjdC5hcmdzJywgZWZmZWN0LmFyZ3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoW3VwZGF0ZUVxdWlwbWVudENvb3JkaW5hdGlvbnNDaGFubmVsLCB1cGRhdGVFcXVpcG1lbnRDb29yZGluYXRpb25zQ2hhbm5lbC5jbG9zZV0pCiAgICB5aWVsZCBjYWxsKFt1cGRhdGVPZWNJbnN0YW5jZXNDaGFubmVsLCB1cGRhdGVPZWNJbnN0YW5jZXNDaGFubmVsLmNsb3NlXSkKICAgIHlpZWxkIGNhbGwoW3VwZGF0ZVRpbWluZ0luZm9ybWF0aW9uQ2hhbm5lbCwgdXBkYXRlVGltaW5nSW5mb3JtYXRpb25DaGFubmVsLmNsb3NlXSkKICAgIHlpZWxkIGNhbGwoW3VwZGF0ZVBsY0Nvbm5lY3Rpb25DaGFubmVsLCB1cGRhdGVQbGNDb25uZWN0aW9uQ2hhbm5lbC5jbG9zZV0pCiAgICB5aWVsZCBjYWxsKFt1cGRhdGVEYXRhYmFzZUNvbm5lY3Rpb25TdGF0ZUNoYW5uZWwsIHVwZGF0ZURhdGFiYXNlQ29ubmVjdGlvblN0YXRlQ2hhbm5lbC5jbG9zZV0pCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnb2JqJywgT2JqZWN0LmZyb21FbnRyaWVzKF8uemlwKG1ldGhvZEtleXMsIGNoYW5uZWxzLm1hcChjaGFubmVsID0+IGNoYW5uZWwucHV0KSkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
