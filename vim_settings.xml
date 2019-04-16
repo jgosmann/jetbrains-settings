@@ -254,7 +254,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnaXZlbkluc3RhbmNlc1w+</text>
+        <text>output.path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb21wb25lbnRUb1Nob3c6IHRyYW5zYWN0aW9uUmVwb3J0Q29tcG9uZW50cy5lbnRyeQo=</text>
@@ -291,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnaXZlbkluc3RhbmNlc1w+</last-search>
+      <last-search>output.path</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnaXZlbkluc3RhbmNlc1w+</last-pattern>
+      <last-pattern>output.path</last-pattern>
       <last-replace>given</last-replace>
       <last-substitute>some</last-substitute>
       <last-dir>1</last-dir>
@@ -318,6 +318,7 @@
         <entry>rend</entry>
         <entry encoding="base64">XDxNZXNzYWdlc1RhYmxlXD4=</entry>
         <entry encoding="base64">XDxnaXZlbkluc3RhbmNlc1w+</entry>
+        <entry>output.path</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL011bHRpL1NpbmdsZS9n</entry>
