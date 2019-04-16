@@ -9,11 +9,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" timestamp="1554819072424">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="23" />
-        <mark key="." line="44" column="23" />
-        <mark key="^" line="44" column="23" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" timestamp="1555414414673">
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="61" />
+        <mark key="." line="99" column="61" />
+        <mark key="^" line="99" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" timestamp="1555313236002">
         <mark key="'" line="15" column="32" />
@@ -28,12 +28,12 @@
         <mark key="." line="55" column="70" />
         <mark key="^" line="55" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1554819075509">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1555415230149">
         <mark key="'" line="15" column="3" />
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="15" column="3" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/MultilineErrorDisplay.spec.js" timestamp="1554971403212">
         <mark key="[" line="4" column="10" />
@@ -106,6 +106,13 @@
         <mark key="^" line="24" column="2" />
         <mark key="." line="24" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/fonts.js" timestamp="1555416184472">
+        <mark key="'" line="29" column="3" />
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/OrderEquipmentCoordinator.js" timestamp="1554820133475">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -131,15 +138,12 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" timestamp="1555413404057">
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" timestamp="1555417090842">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="51" />
         <mark key="^" line="95" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/package.json" timestamp="1555059448290">
-        <mark key="'" line="0" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Mapping/ConditionToWebDtoTest.cs" timestamp="1554729231852">
         <mark key="[" line="43" column="85" />
@@ -198,11 +202,11 @@
         <mark key="^" line="10" column="86" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/UnavailableMessage.js" timestamp="1555414008976">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="40" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/UnavailableMessage.js" timestamp="1555416738152">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" timestamp="1555313521333">
         <mark key="'" line="7" column="8" />
@@ -210,6 +214,12 @@
         <mark key="]" line="46" column="46" />
         <mark key="^" line="46" column="46" />
         <mark key="." line="46" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/UnavailableMessage.spec.js" timestamp="1555415376434">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="41" />
+        <mark key="." line="29" column="41" />
+        <mark key="^" line="16" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1554717600522">
         <mark key="[" line="54" column="0" />
@@ -312,53 +322,50 @@
       <jump line="16" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" />
       <jump line="102" column="15" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" />
+      <jump line="18" column="13" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/UnavailableMessage.js" />
+      <jump line="25" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/UnavailableMessage.js" />
+      <jump line="26" column="18" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/UnavailableMessage.js" />
+      <jump line="29" column="3" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/fonts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3RydWN0dXJlZFNlbGVjdG9yIH0gZnJvbSAncmVzZWxlY3QnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRTZWxlY3RlZEluc3RhbmNlSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEluc3RhbmNlSWQ6IHNlbGVjdEluc3RhbmNlID8gcGF5bG9hZFswXS5pZCA6IHN0YXRlLnNlbGVjdGVkSW5zdGFuY2VJZCwKICAgICAgICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiBzZWxlY3RJbnN0YW5jZSA/IGluaXRpYWxTdGF0ZS5lcXVpcG1lbnRDb29yZGluYXRpb25zIDogc3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9ucywKICAgICAgICBwbGNDb25uZWN0ZWQ6IHNlbGVjdEluc3RhbmNlID8gaW5pdGlhbFN0YXRlLnBsY0Nvbm5lY3RlZCA6IHN0YXRlLnBsY0Nvbm5lY3RlZAo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHVuYXZhaWxhYmxlTWVzc2FnZSkudG8uY29udGFpbi50ZXh0KDxJbmZvTGFiZWwgdGV4dD0nbG9jYWxpemVkIGhlYWRpbmcnLz4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ck92ZXJ2aWV3LmRlZmF1bHRQcm9wcyA9IHsKICBpbnN0YW5jZUF2YWlsYWJsZTogZmFsc2UKfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3RydWN0dXJlZFNlbGVjdG9yIH0gZnJvbSAncmVzZWxlY3QnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluc3RhbmNlcyAmJiAneCcpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3RydWN0dXJlZFNlbGVjdG9yIH0gZnJvbSAncmVzZWxlY3QnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEluc3RhbmNlU2VsZWN0aW9uIGZyb20gJy4vSW5zdGFuY2VTZWxlY3Rpb24nCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3RydWN0dXJlZFNlbGVjdG9yIH0gZnJvbSAncmVzZWxlY3QnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IERiQ29ubmVjdGlvbiBmcm9tICcuL0RiQ29ubmVjdGlvbicK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IG1lbW8gfSBmcm9tICdyZWFjdCcK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEVxdWlwbWVudENvb3JkaW5hdGlvbnNUYWJsZSwgeyBlcXVpcG1lbnRDb29yZGluYXRpb25zVGFibGVGaXJzdFR3b1Jvd3NIZWlnaHQgfQogIGZyb20gJy4uL0VxdWlwbWVudENvb3JkaW5hdGlvbnNUYWJsZS9FcXVpcG1lbnRDb29yZGluYXRpb25zVGFibGUnCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgY3NzLCBTdHlsZVNoZWV0IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29tbW9uL2pzL3V0aWwvc3R5bGUnCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-          ...givenState,
-          selectedInstanceId: 'given id'
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMiwK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-          orderEquipmentCoordinator: {}
-          ...givenState,
-          selectedInstanceId: 'some non-existent id'
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC4uLmZvbnRzLmxhcmdlciwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1hcmdpblRkZAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGZvbnRTaXplIGZyb20K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -400,6 +407,7 @@
         <entry encoding="base64">JzwsJz5zL011bHRpL1NpbmdsZS9n</entry>
         <entry>s/some/given</entry>
         <entry>wc</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -426,6 +434,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
