@@ -16,12 +16,25 @@
         <mark key="^" line="130" column="8" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges.Tests/BusinessObjects/EquipmentCoordinatorTest.cs" timestamp="1555398795381">
+        <mark key="'" line="144" column="45" />
+        <mark key="[" line="86" column="69" />
+        <mark key="]" line="86" column="91" />
+        <mark key="." line="86" column="91" />
+        <mark key="^" line="86" column="91" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1555397688961">
         <mark key="'" line="40" column="13" />
         <mark key="[" line="39" column="8" />
         <mark key="]" line="39" column="74" />
         <mark key="^" line="39" column="74" />
         <mark key="." line="39" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges/BusinessObjects/EquipmentCoordinator.cs" timestamp="1555398509004">
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="66" column="79" />
+        <mark key="^" line="66" column="79" />
+        <mark key="." line="66" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Infrastructure/Persistence/Krones.Lms.Infrastructure.Persistence.Hibernate/Transaction/HibernateTransactionManager.cs" timestamp="1555396496971">
         <mark key="'" line="11" column="75" />
@@ -40,13 +53,19 @@
       <jump line="9" column="15" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/DataMapping/NHibernate/New/Transaction/HibernateTransactionManager.cs" />
       <jump line="39" column="13" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" />
       <jump line="60" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" />
+      <jump line="90" column="45" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges.Tests/BusinessObjects/EquipmentCoordinatorTest.cs" />
+      <jump line="113" column="45" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges.Tests/BusinessObjects/EquipmentCoordinatorTest.cs" />
+      <jump line="144" column="45" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges.Tests/BusinessObjects/EquipmentCoordinatorTest.cs" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgRXF1aXBtZW50Q29vcmRpbmF0b3JSYWlzZXNDb29yZGluYXRpb25IYXNDaGFuZ2VkRm9yRXhlY3V0aW9uVGhhdFRocm93cygpCiAgICB7CiAgICAgIC8vIEFycmFuZ2UKICAgICAgRXF1aXBtZW50Q29vcmRpbmF0aW9uSGFzQ2hhbmdlZE1lc3NhZ2UgbWVzc2FnZSA9IG51bGw7CiAgICAgIHZhciBlcXVpcG1lbnRDb29yZGluYXRpb25TZXJ2aWNlTW9jayA9IENyZWF0ZVNlcnZpY2VNb2NrV2hpY2hUaHJvd3NFcnJvckR1cmluZ0V4ZWN1dGlvbihvdXQgdmFyIGVycm9yTWVzc2FnZSwgb3V0IHZhciBjb29yZGluYXRpb25TdGF0ZSk7CiAgICAgIHZhciBlcXVpcG1lbnRDb29yZGluYXRvciA9IEJ1aWxkRXF1aXBtZW50Q29vcmRpbmF0b3IoZXF1aXBtZW50Q29vcmRpbmF0aW9uU2VydmljZU1vY2ssIG91dCBfLCBvdXQgdmFyIGVxdWlwbWVudCwgb3V0IF8sIG91dCBfKTsKICAgICAgdGhpcy5TdWJzY3JpYmU8RXF1aXBtZW50Q29vcmRpbmF0aW9uSGFzQ2hhbmdlZE1lc3NhZ2U+KHBheWxvYWQgPT4geyBtZXNzYWdlID0gcGF5bG9hZDsgfSk7CgogICAgICAvLyBBY3QKICAgICAgZXF1aXBtZW50Q29vcmRpbmF0b3IuU3RhcnRDb29yZGluYXRpb24oKTsKCiAgICAgIC8vIEFzc2VydAogICAgICBtZXNzYWdlLlNob3VsZCgpLk5vdEJlTnVsbCgpOwogICAgICBtZXNzYWdlLkVxdWlwbWVudENvb3JkaW5hdGlvbklkLlNob3VsZCgpLkJlKEVxdWlwbWVudENvb3JkaW5hdGlvbklkKTsKICAgICAgbWVzc2FnZS5MYXRlc3RDb29yZGluYXRpb25VcGRhdGVEdG8uRXF1aXBtZW50SWQuU2hvdWxkKCkuQmUoZXF1aXBtZW50LklkKTsKICAgICAgbWVzc2FnZS5MYXRlc3RDb29yZGluYXRpb25VcGRhdGVEdG8uRXF1aXBtZW50WERlc2NyaXB0aW9uLlNob3VsZCgpLkJlKGVxdWlwbWVudC5YRGVzY3JpcHRpb24pOwogICAgICBtZXNzYWdlLkxhdGVzdENvb3JkaW5hdGlvblVwZGF0ZUR0by5FcnJvckRlc2NyaXB0aW9uLlNob3VsZCgpLkJlKGVycm9yTWVzc2FnZSk7CiAgICAgIG1lc3NhZ2UuTGF0ZXN0Q29vcmRpbmF0aW9uVXBkYXRlRHRvLlN0YXRlSWQuU2hvdWxkKCkuQmUoY29vcmRpbmF0aW9uU3RhdGUuSWQpOwogICAgICBtZXNzYWdlLkxhdGVzdENvb3JkaW5hdGlvblVwZGF0ZUR0by5TdGF0ZURlc2NyaXB0aW9uLlNob3VsZCgpLkJlKGNvb3JkaW5hdGlvblN0YXRlLkRlc2NyaXB0aW9uKTsKICAgIH0K</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMb2dnZXIuRXJyb3IoIkNvdWxkIG5vdCBiZWdpbiBkYXRhYmFzZSB0cmFuc2FjdGlvbi4iLCBlKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuRXJyb3IoIkNvdWxkIG5vdCBiZWdpbiBkYXRhYmFzZSB0cmFuc2FjdGlvbi4iLCBlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>RaisesCoordinationHasChanged</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dXNpbmcgbG9nNG5ldDsK</text>
@@ -67,22 +86,23 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>RaisesCoordinationHasChanged</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWNvcmF0b3JcPg==</text>
+        <text encoding="base64">XDxDcmVhdGVTZXJ2aWNlTW9ja1doaWNoVGhyb3dzRXJyb3JEdXJpbmdFeGVjdXRpb25cPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWNvcmF0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxDcmVhdGVTZXJ2aWNlTW9ja1doaWNoVGhyb3dzRXJyb3JEdXJpbmdFeGVjdXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWNvcmF0b3JcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxDcmVhdGVTZXJ2aWNlTW9ja1doaWNoVGhyb3dzRXJyb3JEdXJpbmdFeGVjdXRpb25cPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxkZWNvcmF0b3JcPg==</entry>
+        <entry encoding="base64">XDxDcmVhdGVTZXJ2aWNlTW9ja1doaWNoVGhyb3dzRXJyb3JEdXJpbmdFeGVjdXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
