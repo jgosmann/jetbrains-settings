@@ -191,6 +191,13 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorSelectors.js" timestamp="1555409318142">
+        <mark key="'" line="45" column="1" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/UnavailableMessage.js" timestamp="1555407995976">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="33" />
@@ -210,8 +217,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" timestamp="1555051936625">
-        <mark key="[" line="3" column="22" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" timestamp="1555409531007">
+        <mark key="'" line="415" column="41" />
+        <mark key="[" line="425" column="43" />
+        <mark key="]" line="425" column="52" />
+        <mark key="." line="425" column="52" />
+        <mark key="^" line="425" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/ErrorDisplay.spec.js" timestamp="1554971124396">
         <mark key="[" line="0" column="50" />
@@ -293,55 +304,72 @@
       <jump line="0" column="66" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" />
       <jump line="6" column="54" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" />
       <jump line="9" column="62" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" />
+      <jump line="422" column="35" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" />
+      <jump line="6" column="30" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorSelectors.js" />
+      <jump line="42" column="1" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorSelectors.js" />
+      <jump line="412" column="41" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" />
+      <jump line="16" column="28" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiY=</text>
+        <text>{
+          ...givenState,
+          selectedInstanceId: 'given id'
+        }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiY=</text>
+        <text>givenState</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHlsZVw+</text>
+        <text encoding="base64">XDxnZXRTZWxlY3RlZEluc3RhbmNlSWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxlY3RlZEluc3RhbmNlSWQ6IHNlbGVjdEluc3RhbmNlID8gcGF5bG9hZFswXS5pZCA6IHN0YXRlLnNlbGVjdGVkSW5zdGFuY2VJZCwKICAgICAgICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiBzZWxlY3RJbnN0YW5jZSA/IGluaXRpYWxTdGF0ZS5lcXVpcG1lbnRDb29yZGluYXRpb25zIDogc3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9ucywKICAgICAgICBwbGNDb25uZWN0ZWQ6IHNlbGVjdEluc3RhbmNlID8gaW5pdGlhbFN0YXRlLnBsY0Nvbm5lY3RlZCA6IHN0YXRlLnBsY0Nvbm5lY3RlZAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZUF2YWlsYWJsZTogZmFsc2UK</text>
+      <register name="1" type="4">
+        <text>{
+          ...givenState,
+          selectedInstanceId: 'given id'
+        }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBzdHlsZToge30K</text>
+      <register name="2" type="4">
+        <text>{
+          orderEquipmentCoordinator: {}
+          ...givenState,
+          selectedInstanceId: 'some non-existent id'
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdHlsZTogUHJvcFR5cGVzLm9iamVjdAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBnZXRJbnN0YW5jZXMgPSBzdGF0ZSA9PiBzdGF0ZS5vcmRlckVxdWlwbWVudENvb3JkaW5hdG9yLmluc3RhbmNlcwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpdCgncmVuZGVycyBhbiBpbnN0YW5jZSBzZWxlY3Rpb24gY29tcG9uZW50JywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QocmVzdWx0KS50by5jb250YWluKDxJbnN0YW5jZVNlbGVjdGlvbi8+KQogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0KCdyZW5kJykK</text>
+        <text encoding="base64">ICBpbnN0YW5jZUF2YWlsYWJsZTogZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICD8ZGQK</text>
+        <text encoding="base64">ICBzdHlsZToge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEluc3RhbmNlSWQ6IHNlbGVjdEluc3RhbmNlID8gcGF5bG9hZFswXS5pZCA6IHN0YXRlLnNlbGVjdGVkSW5zdGFuY2VJZCwKICAgICAgICBlcXVpcG1lbnRDb29yZGluYXRpb25zOiBzZWxlY3RJbnN0YW5jZSA/IGluaXRpYWxTdGF0ZS5lcXVpcG1lbnRDb29yZGluYXRpb25zIDogc3RhdGUuZXF1aXBtZW50Q29vcmRpbmF0aW9ucywKICAgICAgICBwbGNDb25uZWN0ZWQ6IHNlbGVjdEluc3RhbmNlID8gaW5pdGlhbFN0YXRlLnBsY0Nvbm5lY3RlZCA6IHN0YXRlLnBsY0Nvbm5lY3RlZAo=</text>
+        <text encoding="base64">ICBzdHlsZTogUHJvcFR5cGVzLm9iamVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnN0IGNoYW5nZVNlbGVjdGVkSW5zdGFuY2UgPSBzZWxlY3RlZEluc3RhbmNlSWQgPT4gKHsKICBzZWxlY3RlZEluc3RhbmNlSWQsCiAgZXF1aXBtZW50Q29vcmRpbmF0aW9uczogaW5pdGlhbFN0YXRlLmVxdWlwbWVudENvb3JkaW5hdGlvbnMsCiAgcGxjQ29ubmVjdGVkOiBpbml0aWFsU3RhdGUucGxjQ29ubmVjdGVkCn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHlsZVw+</last-search>
+      <last-search encoding="base64">XDxnZXRTZWxlY3RlZEluc3RhbmNlSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHlsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTZWxlY3RlZEluc3RhbmNlSWRcPg==</last-pattern>
       <last-replace>given</last-replace>
       <last-substitute>some</last-substitute>
       <last-dir>1</last-dir>
@@ -349,8 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3Rpb25NYXBwaW5nXD4=</entry>
-        <entry encoding="base64">XDxlcXVpcG1lbnRDb29yZGluYXRpb25TZXJ2aWNlXD4=</entry>
         <entry>getSelectedEquipment</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RlZEVxdWlwbWVudElkXD4=</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
@@ -369,6 +395,8 @@
         <entry>INSTANCE</entry>
         <entry>selected</entry>
         <entry encoding="base64">XDxzdHlsZVw+</entry>
+        <entry>getSelectedInstanceId</entry>
+        <entry encoding="base64">XDxnZXRTZWxlY3RlZEluc3RhbmNlSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL011bHRpL1NpbmdsZS9n</entry>
@@ -394,6 +422,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
