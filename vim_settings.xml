@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1555487280131">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="27" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1555488873807">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" timestamp="1555414414673">
         <mark key="[" line="99" column="16" />
