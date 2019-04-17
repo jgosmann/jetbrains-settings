@@ -9,6 +9,16 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1555397688961">
+        <mark key="'" line="40" column="13" />
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="74" />
+        <mark key="^" line="39" column="74" />
+        <mark key="." line="39" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Infrastructure/Persistence/Krones.Lms.Infrastructure.Persistence.Hibernate/Transaction/HibernateTransactionManager.cs" timestamp="1555396496971">
+        <mark key="'" line="11" column="75" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App.Integration.Tests/PushModuleLauncherForTest.cs" timestamp="1555401521246">
         <mark key="[" line="68" column="94" />
         <mark key="]" line="68" column="94" />
@@ -24,28 +34,6 @@
         <mark key="]" line="131" column="0" />
         <mark key="^" line="130" column="8" />
         <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges.Tests/BusinessObjects/EquipmentCoordinatorTest.cs" timestamp="1555399718164">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="92" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1555397688961">
-        <mark key="'" line="40" column="13" />
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="74" />
-        <mark key="^" line="39" column="74" />
-        <mark key="." line="39" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges/BusinessObjects/EquipmentCoordinator.cs" timestamp="1555398509004">
-        <mark key="[" line="63" column="7" />
-        <mark key="]" line="66" column="79" />
-        <mark key="^" line="66" column="79" />
-        <mark key="." line="66" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Infrastructure/Persistence/Krones.Lms.Infrastructure.Persistence.Hibernate/Transaction/HibernateTransactionManager.cs" timestamp="1555396496971">
-        <mark key="'" line="11" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState.Tests/DbConnectionStateTrackingDecoratorTest.cs" timestamp="1555397579727">
         <mark key="'" line="60" column="6" />
@@ -128,6 +116,8 @@
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
