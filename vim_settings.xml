@@ -29,12 +29,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1555593026184">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1555595112288">
         <mark key="'" line="82" column="20" />
-        <mark key="[" line="164" column="19" />
-        <mark key="]" line="164" column="37" />
-        <mark key="^" line="164" column="37" />
-        <mark key="." line="164" column="37" />
+        <mark key="[" line="162" column="24" />
+        <mark key="]" line="162" column="24" />
+        <mark key="^" line="162" column="24" />
+        <mark key="." line="162" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/App.config" timestamp="1555586802175">
         <mark key="[" line="13" column="0" />
@@ -83,7 +83,7 @@
         <mark key="." line="68" column="94" />
         <mark key="^" line="68" column="94" />
       </file>
-      <file name="/Dummy.cs" timestamp="1555407568223">
+      <file name="/Dummy.cs" timestamp="1555593148617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/DataMapping/NHibernate/New/Transaction/HibernateTransactionManager.cs" timestamp="1555396818422">
@@ -166,43 +166,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>500</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Connection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgc3BjU3Vic2NyaWJlZFRvQm90aE9lY3MuU3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBUaHJlYWQuU2xlZXAoNTAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgVGhyZWFkLlNsZWVwKG1pbGxpc2Vjb25kc1RpbWVvdXQpOyAvLyBGSVhNRSBpcyB0aGVyZSBhIGJldHRlciB3YXkgdG8gZW5zdXJlIHN1YnNjcmlwdGlvbnMgZXhpc3Q/Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiYSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBIdWJDb25uZWN0aW9uIENvbm5lY3Rpb24geyBnZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gRklYTUUgc2hvdWxkIG5vdCBzdGFydCBiZWZvcmUgcHJveHkgY29uZmlndXJlZAo=</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImMiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgY29ubmVjdGlvbi5TdGFydChuZXcgVGVzdEh0dHBDbGllbnQodGVzdFNlcnZlci5IdHRwQ2xpZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgVGhyZWFkLlNsZWVwKG1pbGxpc2Vjb25kc1RpbWVvdXQpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLldhcC5JbnRlcmZhY2VzLkh0dHA7Cg==</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImEiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldC5TaWduYWxSLkNsaWVudC5IdWJzOwp1c2luZyBNaWNyb3NvZnQuQXNwTmV0LlNpZ25hbFIuSHViczsK</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImEiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZShncm91cE5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImEiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgieHh4Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImEiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -255,6 +255,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
