@@ -12,10 +12,18 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1555581827427">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/HubConnectionWithProxy.cs" timestamp="1555585333670">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1555585523715">
+        <mark key="[" line="127" column="6" />
+        <mark key="]" line="127" column="6" />
+        <mark key="." line="127" column="6" />
+        <mark key="^" line="127" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/App.config" timestamp="1555513589499">
         <mark key="[" line="26" column="238" />
@@ -119,13 +127,14 @@
       <jump line="99" column="24" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
       <jump line="106" column="24" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
       <jump line="114" column="29" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
+      <jump line="7" column="2" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/HubConnectionWithProxy.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29ubmVjdGlvbi5TCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="-" type="4">
-        <text>AutoReset</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRTZXNzaW9uSW5mb1w+</text>
@@ -134,31 +143,31 @@
         <text encoding="base64">ICAgICAgY3VycmVudE9lY0xpc3RTZXQuUmVzZXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29ubmVjdGlvbi5TCg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldC5TaWduYWxSLkh1YnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb2VjMS4K</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldC5TaWduYWxSLkNsaWVudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHByb3h5ID0gY29ubmVjdGlvbi5DcmVhdGVIdWJQcm94eShodWJOYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY3VycmVudE9lY0xpc3QuTGFzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgY29ubmVjdGlvbi5TCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY3VycmVudE9lY0xpc3QuTGFzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgb2VjMS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudE9lY0xpc3RTZXQuUmVzZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudE9lY0xpc3RTZXQuUmVzZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY3VycmVudE9lY0xpc3QuTGFzdCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY3VycmVudE9lY0xpc3QuTGFzdCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudE9lY0xpc3RTZXQuUmVzZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgY3VycmVudE9lY0xpc3RTZXQuUmVzZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
