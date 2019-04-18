@@ -29,12 +29,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1555595112288">
-        <mark key="'" line="82" column="20" />
-        <mark key="[" line="162" column="24" />
-        <mark key="]" line="162" column="24" />
-        <mark key="^" line="162" column="24" />
-        <mark key="." line="162" column="24" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1555596424095">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="117" column="42" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/App.config" timestamp="1555586802175">
         <mark key="[" line="13" column="0" />
@@ -145,7 +145,6 @@
       <jump line="106" column="24" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
       <jump line="114" column="29" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
       <jump line="7" column="2" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/HubConnectionWithProxy.cs" />
-      <jump line="106" column="16" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="122" column="26" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="133" column="24" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
@@ -163,55 +162,57 @@
       <jump line="78" column="15" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="80" column="30" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="82" column="20" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="106" column="6" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="105" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>updateOecInstancesMock.Object</text>
       </register>
       <register name="/" type="4">
-        <text>Connection</text>
+        <text encoding="base64">XDx1cGRhdGVPZWNJbnN0YW5jZXNNb2NrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiZiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBUaHJlYWQuU2xlZXAoNTAwKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiYSIpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHVwZGF0ZU9lY0luc3RhbmNlc01vY2sgPSBuZXcgTW9jazxBY3Rpb248TGlzdDxPZWNJbnN0YW5jZVdlYkR0bz4+PigpOwogICAgICB1cGRhdGVPZWNJbnN0YW5jZXNNb2NrLlNldHVwKG0gPT4gbShJdC5Jc0FueTxMaXN0PE9lY0luc3RhbmNlV2ViRHRvPj4oKSkpLkNhbGxiYWNrPExpc3Q8T2VjSW5zdGFuY2VXZWJEdG8+PihpbnN0YW5jZXMgPT4KICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBvZWNMaXN0LlJlc3VsdCA9IGluc3RhbmNlcy5TZWxlY3QoaSA9PiBpLk5hbWUpOwogICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImMiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgVGhyZWFkLlNsZWVwKG1pbGxpc2Vjb25kc1RpbWVvdXQpOwoK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgb2VjMi5TdGFydCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImEiKTsK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgb2VjMS5TdGFydCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImEiKTsK</text>
+        <text encoding="base64">ICAgICAgdmFyIG9lYzIgPSBDcmVhdGVMbXNPZWNIdWJDb25uZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImEiKTsK</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImMiKTsKICAgICAgYXdhaXQgVGFzay5EZWxheSg1MDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImEiKTsK</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Connection</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVPZWNJbnN0YW5jZXNNb2NrXD4=</last-search>
       <last-offset />
-      <last-pattern>Connection</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVPZWNJbnN0YW5jZXNNb2NrXD4=</last-pattern>
       <last-replace>Erdinger_prod</last-replace>
       <last-substitute>VorlageDB_V100</last-substitute>
       <last-dir>1</last-dir>
@@ -228,6 +229,7 @@
         <entry encoding="base64">XDxJc0Nvbm5lY3Rpb25TdHJpbmdWYWxpZFw+</entry>
         <entry encoding="base64">XDxHZXRTZXNzaW9uSW5mb1w+</entry>
         <entry>Connection</entry>
+        <entry encoding="base64">XDx1cGRhdGVPZWNJbnN0YW5jZXNNb2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1ZvcmxhZ2VEQl9WMTAwL0VyZGluZ2VyX3Byb2Q=</entry>
