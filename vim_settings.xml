@@ -17,24 +17,24 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/HubConnectionWithProxy.cs" timestamp="1555589285515">
-        <mark key="'" line="8" column="37" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="8" column="37" />
-        <mark key="." line="8" column="37" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/HubConnectionWithProxy.cs" timestamp="1555592771338">
+        <mark key="'" line="18" column="37" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="14" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/GroupNameManager.cs" timestamp="1555591708445">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1555592191741">
-        <mark key="'" line="160" column="23" />
-        <mark key="[" line="37" column="57" />
-        <mark key="]" line="37" column="84" />
-        <mark key="." line="37" column="84" />
-        <mark key="^" line="37" column="84" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1555593026184">
+        <mark key="'" line="82" column="20" />
+        <mark key="[" line="164" column="19" />
+        <mark key="]" line="164" column="37" />
+        <mark key="^" line="164" column="37" />
+        <mark key="." line="164" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/App.config" timestamp="1555586802175">
         <mark key="[" line="13" column="0" />
@@ -157,55 +157,61 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="8" column="37" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/HubConnectionWithProxy.cs" />
       <jump line="160" column="23" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="137" column="11" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="158" column="65" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="161" column="61" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="78" column="15" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="80" column="30" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="82" column="20" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new CultureInfo(&quot;en-GB&quot;)</text>
+        <text>500</text>
       </register>
       <register name="-" type="4">
-        <text>new CultureInfo(&quot;en-GB&quot;)</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRTZXNzaW9uSW5mb1w+</text>
+        <text>Connection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgieXl5eSIpOwo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgc3BjU3Vic2NyaWJlZFRvQm90aE9lY3MuU3RhcnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZShncm91cE5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgieHh4Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgVGhyZWFkLlNsZWVwKG1pbGxpc2Vjb25kc1RpbWVvdXQpOyAvLyBGSVhNRSBpcyB0aGVyZSBhIGJldHRlciB3YXkgdG8gZW5zdXJlIHN1YnNjcmlwdGlvbnMgZXhpc3Q/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJ5eXl5Iik7CiAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBIdWJDb25uZWN0aW9uIENvbm5lY3Rpb24geyBnZXQ7IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoc3BjU3Vic2NyaWJlZFRvQm90aE9lY3NEYXRhLkF3YWl0TmV4dChtaWxsaXNlY29uZHNUaW1lb3V0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gRklYTUUgc2hvdWxkIG5vdCBzdGFydCBiZWZvcmUgcHJveHkgY29uZmlndXJlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiaORoPyIpOwo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgY29ubmVjdGlvbi5TdGFydChuZXcgVGVzdEh0dHBDbGllbnQodGVzdFNlcnZlci5IdHRwQ2xpZW50KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJ3dGYiKTsK</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLldhcC5JbnRlcmZhY2VzLkh0dHA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZShncm91cCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldC5TaWduYWxSLkNsaWVudC5IdWJzOwp1c2luZyBNaWNyb3NvZnQuQXNwTmV0LlNpZ25hbFIuSHViczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgieCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZShncm91cE5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoInVpYWV1aWFldWlhZXVpYWVyZW5yYWVyYWVucmFuZWFlcm4iKTsKICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoZ3JvdXBOYW1lTWFuYWdlci5HZXRBbGxHcm91cE5hbWVzKCkuQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlLldyaXRlTGluZSgieHh4Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRTZXNzaW9uSW5mb1w+</last-search>
+      <last-search>Connection</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRTZXNzaW9uSW5mb1w+</last-pattern>
+      <last-pattern>Connection</last-pattern>
       <last-replace>Erdinger_prod</last-replace>
       <last-substitute>VorlageDB_V100</last-substitute>
       <last-dir>1</last-dir>
@@ -221,6 +227,7 @@
         <entry encoding="base64">XDxzZXNzaW9uUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxJc0Nvbm5lY3Rpb25TdHJpbmdWYWxpZFw+</entry>
         <entry encoding="base64">XDxHZXRTZXNzaW9uSW5mb1w+</entry>
+        <entry>Connection</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1ZvcmxhZ2VEQl9WMTAwL0VyZGluZ2VyX3Byb2Q=</entry>
