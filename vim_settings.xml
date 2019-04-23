@@ -15,11 +15,11 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556021078509">
-        <mark key="[" line="86" column="107" />
-        <mark key="]" line="86" column="106" />
-        <mark key="^" line="86" column="152" />
-        <mark key="." line="86" column="106" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556022437285">
+        <mark key="[" line="86" column="84" />
+        <mark key="]" line="86" column="94" />
+        <mark key="^" line="86" column="94" />
+        <mark key="." line="86" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" timestamp="1556009295134">
         <mark key="'" line="5" column="0" />
@@ -35,40 +35,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>OecClientConnectionId</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>OecClientConnectionId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFyIGh1YkNvbnRleHRMb2NhdG9yTW9jayA9IENyZWF0ZUh1YkNvbnRleHRNb2NrT2VjKG91dCBfKTsKICAgICAgdmFyIGdyb3VwTmFtZU1hbmFnZXJNb2NrID0gQ3JlYXRlR3JvdXBOYW1lTWFuYWdlck1vY2sob3V0IHZhciBzaWduYWxSR3JvdXBOYW1lc0ZvclNwYyk7CiAgICAgIHZhciBzcGNPZWNIdWIgPSBDcmVhdGVTcGNIdWIoQ3JlYXRlU2Vzc2lvblByb3ZpZGVyTW9jaygpLCBodWJDb250ZXh0TG9jYXRvck1vY2ssIGdyb3VwTmFtZU1hbmFnZXJNb2NrKTsKCiAgICAgIGF3YWl0IHNwY09lY0h1Yi5TdWJzY3JpYmVUb0luc3RhbmNlKG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gT2VjQ2xpZW50Q29ubmVjdGlvbklkfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgc3BjT2VjSHViLlN1YnNjcmliZVRvSW5zdGFuY2UobmV3IFNwY1N1YnNjcmlwdGlvbldlYkR0byB7SWQgPSBPZWNDbGllbnRDb25uZWN0aW9uSWR9KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwYy5TdWJzY3JpYmVUbyhpbnN0YW5jZS5HdWlkKTsKICAgICAgfQoKICAgICAgZm9yZWFjaCAodmFyIGluc3RhbmNlIGluIHNwYy5PZWNzLkF3YWl0TmV4dChtaWxsaXNlY29uZHNUaW1lb3V0KSkKICAgICAgewogICAgICAgIGF3YWl0IHNwYy5VbnN1YnNjcmliZUZyb20oaW5zdGFuY2UuR3VpZCk7CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwY1N1YnNjcmliZWRUb09lYzEuU3Vic2NyaWJlVG8ob2VjLkd1aWQpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwYy5TdWJzY3JpYmVUbyhpbnN0YW5jZS5HdWlkKTsKICAgICAgfQoKICAgICAgZm9yZWFjaCAodmFyIGluc3RhbmNlIGluIHNwYy5PZWNzLkF3YWl0TmV4dChtaWxsaXNlY29uZHNUaW1lb3V0KSkKICAgICAgewogICAgICAgIGF3YWl0IHNwYy5VbnN1YnNjcmliZUZyb20oaW5zdGFuY2UuR3VpZCk7CiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIJV0Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwY1N1YnNjcmliZWRUb09lYzEuU3Vic2NyaWJlVG8ob2VjLkd1aWQpOwogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
