@@ -3,18 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556010490027">
-        <mark key="'" line="161" column="1" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="133" column="85" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556011932528">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="168" column="97" />
+        <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestSpClient.cs" timestamp="1556010297492">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="21" column="12" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestSpClient.cs" timestamp="1556011512838">
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+        <mark key="^" line="26" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" timestamp="1556009295134">
         <mark key="'" line="5" column="0" />
@@ -29,40 +28,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgRmx1ZW50TkhpYmVybmF0ZS5VdGlsczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>SubscribeTo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBzcGNTdWJzY3JpYmVkVG9Cb3RoT2Vjcy5Db25uZWN0aW9uLlByb3h5Lkludm9rZSgic3Vic2NyaWJlVG9JbnN0YW5jZSIsIG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gb2VjLkd1aWR9KTsK</text>
+        <text encoding="base64">ICAgICAgVGFzay5XYWl0QWxsKHNwYy5PZWNzLkF3YWl0TmV4dChtaWxsaXNlY29uZHNUaW1lb3V0KS5TZWxlY3QoaW5zdGFuY2UgPT4gc3BjLlN1YnNjcmliZVRvKGluc3RhbmNlLkd1aWQpKS5Ub0FycmF5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgRmx1ZW50TkhpYmVybmF0ZS5VdGlsczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwYy5TdWJzY3JpYmVUbyhpbnN0YW5jZS5HdWlkKTsKICAgICAgfQoKICAgICAgZm9yZWFjaCAodmFyIGluc3RhbmNlIGluIHNwYy5PZWNzLkF3YWl0TmV4dChtaWxsaXNlY29uZHNUaW1lb3V0KSkKICAgICAgewogICAgICAgIGF3YWl0IHNwYy5VbnN1YnNjcmliZUZyb20oaW5zdGFuY2UuR3VpZCk7CiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwY1N1YnNjcmliZWRUb09lYzEuU3Vic2NyaWJlVG8ob2VjLkd1aWQpOwogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVHVwbGU8SHViQ29ubmVjdGlvbldpdGhQcm94eSwgRXZlbnRXYWl0SGFuZGxlPiBDcmVhdGVTcGNPZWNIdWJDb25uZWN0aW9uU3Vic2NyaWJpbmdUb09lY05hbWVzKElFbnVtZXJhYmxlPHN0cmluZz4gb2VjTmFtZXMpCiAgICB7CiAgICAgIHZhciBzcGMgPSBDcmVhdGVTcGNPZWNIdWJDb25uZWN0aW9uKCk7CgogICAgICB2YXIgc3Vic2NyaWJlZFdhaXRIYW5kbGUgPSBuZXcgRXZlbnRXYWl0SGFuZGxlKGZhbHNlLCBFdmVudFJlc2V0TW9kZS5BdXRvUmVzZXQpOwogICAgICBzcGMuUHJveHkuT248TGlzdDxPZWNJbnN0YW5jZVdlYkR0bz4+KCJVcGRhdGVPZWNJbnN0YW5jZXMiLCBhc3luYyBpbnN0YW5jZXMgPT4KICAgICAgewogICAgICAgIGZvcmVhY2ggKHZhciBpbnN0YW5jZVRvU3Vic2NyaWJlVG8gaW4gaW5zdGFuY2VzLldoZXJlKGkgPT4gb2VjTmFtZXMuQ29udGFpbnMoaS5OYW1lKSkpCiAgICAgICAgewogICAgICAgICAgYXdhaXQgc3BjLlByb3h5Lkludm9rZSgic3Vic2NyaWJlVG9JbnN0YW5jZSIsIG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gaW5zdGFuY2VUb1N1YnNjcmliZVRvLkd1aWR9KTsKICAgICAgICAgIHN1YnNjcmliZWRXYWl0SGFuZGxlLlNldCgpOwogICAgICAgIH0KICAgICAgfSk7CgogICAgICByZXR1cm4gVHVwbGUuQ3JlYXRlKHNwYywgc3Vic2NyaWJlZFdhaXRIYW5kbGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIJV0Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">KQogICAgICBmb3JlYWNoICh2YXIgb2VjIGluIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob2VjLk5hbWUgPT0gIk9FQyAxIikKICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwY1N1YnNjcmliZWRUb0JvdGhPZWNzLlN1YnNjcmliZVRvKG9lYy5HdWlkKTsKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBzcGNTdWJzY3JpYmVkVG9Cb3RoT2Vjcy5Db25uZWN0aW9uLlByb3h5Lkludm9rZSgic3Vic2NyaWJlVG9JbnN0YW5jZSIsIG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gb2VjLkd1aWR9KTsK</text>
+        <text encoding="base64">ICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvZWMyLlByb3h5Lkludm9rZSgicHVzaFBsY1N0YXRlIiwgbmV3IFBsY1N0YXRlV2ViRHRvIHtQbGNDb25uZWN0ZWQgPSB0cnVlfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -83,6 +82,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
