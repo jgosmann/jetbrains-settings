@@ -3,23 +3,55 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556001509508">
-        <mark key="[" line="149" column="19" />
-        <mark key="]" line="149" column="20" />
-        <mark key="." line="149" column="20" />
-        <mark key="^" line="149" column="20" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556003208589">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="161" column="6" />
+        <mark key="]" line="161" column="31" />
+        <mark key="^" line="161" column="31" />
+        <mark key="." line="161" column="31" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="102" column="12" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="162" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+    </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHggPSBDcmVhdGVTcGNPZWNIdWJDb25uZWN0aW9uU3Vic2NyaWJpbmdUb09lY05hbWVzKG5ld1tdIHsiT0VDIDEiLCAiT0VDIDIifSk7Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>10)</text>
+        <text>spcAndWaitHandleSubscribedToOec1.Item2</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICB4LlNlY29uZC5SZXNldCgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICBUaHJlYWQuU2xlZXAoNSk7IC8vIEZJWE1FIGZpbmQgYmV0dGVyIHNvbHV0aW9uIChpLmUuIHdhaXQgdW50aWwgc3Vic2NyaXB0aW9ucyBhcmUgZXN0YWJsaXNoZWQsIGJ1dCBubyBsb25nZXIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImRhbmciKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBUdXBsZTxIdWJDb25uZWN0aW9uV2l0aFByb3h5LCBFdmVudFdhaXRIYW5kbGU+KHNwYywgc3Vic2NyaWJlZFdhaXRIYW5kbGUpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNpbmcgQ2FzdGxlLkNvcmU7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJzdWIiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgeC5TZWNvbmQuUmVzZXQoKTsKICAgICAgeC5TZWNvbmQuV2FpdE9uZSgpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgc3Vic2NyaWJlZFdhaXRIYW5kbGUuV2FpdE9uZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>10)</text>
+        <text>spcAndWaitHandleSubscribedToOec1.Item2</text>
       </register>
     </registers>
     <search>
@@ -31,6 +63,10 @@
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
