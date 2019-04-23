@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556009616754">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="128" column="6" />
-        <mark key="]" line="128" column="13" />
-        <mark key="^" line="128" column="13" />
-        <mark key="." line="128" column="13" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556010490027">
+        <mark key="'" line="161" column="1" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="133" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestSpClient.cs" timestamp="1556009572265">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="8" column="51" />
-        <mark key="^" line="8" column="64" />
-        <mark key="." line="8" column="51" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestSpClient.cs" timestamp="1556010297492">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="21" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" timestamp="1556009295134">
         <mark key="'" line="5" column="0" />
@@ -25,43 +25,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="162" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" />
+      <jump line="164" column="1" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>oecList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgRmx1ZW50TkhpYmVybmF0ZS5VdGlsczsK</text>
       </register>
       <register name="-" type="4">
-        <text>oecList</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3BjLlByb3h5Lk9uPExpc3Q8T2VjSW5zdGFuY2VXZWJEdG8+PigiVXBkYXRlT2VjSW5zdGFuY2VzIiwgaW5zdGFuY2VzID0+IG9lY0xpc3QuUmVzdWx0ID0gaW5zdGFuY2VzLlNlbGVjdChpID0+IGkuTmFtZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBzcGNTdWJzY3JpYmVkVG9Cb3RoT2Vjcy5Db25uZWN0aW9uLlByb3h5Lkludm9rZSgic3Vic2NyaWJlVG9JbnN0YW5jZSIsIG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gb2VjLkd1aWR9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3BjLlByb3h5Lk9uPExpc3Q8T2VjSW5zdGFuY2VXZWJEdG8+PigiVXBkYXRlT2VjSW5zdGFuY2VzIiwgaW5zdGFuY2VzID0+IG9lY0xpc3QuUmVzdWx0ID0gaW5zdGFuY2VzLlNlbGVjdChpID0+IGkuTmFtZSkpOwo=</text>
+        <text encoding="base64">dXNpbmcgRmx1ZW50TkhpYmVybmF0ZS5VdGlsczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG9lY0xpc3QgPSBuZXcgUmVzdWx0QXdhaXRlcjxJRW51bWVyYWJsZTxzdHJpbmc+PigpOwoK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHggPSBDcmVhdGVTcGNPZWNIdWJDb25uZWN0aW9uU3Vic2NyaWJpbmdUb09lY05hbWVzKG5ld1tdIHsiT0VDIDEiLCAiT0VDIDIifSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICB4LlNlY29uZC5SZXNldCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVHVwbGU8SHViQ29ubmVjdGlvbldpdGhQcm94eSwgRXZlbnRXYWl0SGFuZGxlPiBDcmVhdGVTcGNPZWNIdWJDb25uZWN0aW9uU3Vic2NyaWJpbmdUb09lY05hbWVzKElFbnVtZXJhYmxlPHN0cmluZz4gb2VjTmFtZXMpCiAgICB7CiAgICAgIHZhciBzcGMgPSBDcmVhdGVTcGNPZWNIdWJDb25uZWN0aW9uKCk7CgogICAgICB2YXIgc3Vic2NyaWJlZFdhaXRIYW5kbGUgPSBuZXcgRXZlbnRXYWl0SGFuZGxlKGZhbHNlLCBFdmVudFJlc2V0TW9kZS5BdXRvUmVzZXQpOwogICAgICBzcGMuUHJveHkuT248TGlzdDxPZWNJbnN0YW5jZVdlYkR0bz4+KCJVcGRhdGVPZWNJbnN0YW5jZXMiLCBhc3luYyBpbnN0YW5jZXMgPT4KICAgICAgewogICAgICAgIGZvcmVhY2ggKHZhciBpbnN0YW5jZVRvU3Vic2NyaWJlVG8gaW4gaW5zdGFuY2VzLldoZXJlKGkgPT4gb2VjTmFtZXMuQ29udGFpbnMoaS5OYW1lKSkpCiAgICAgICAgewogICAgICAgICAgYXdhaXQgc3BjLlByb3h5Lkludm9rZSgic3Vic2NyaWJlVG9JbnN0YW5jZSIsIG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gaW5zdGFuY2VUb1N1YnNjcmliZVRvLkd1aWR9KTsKICAgICAgICAgIHN1YnNjcmliZWRXYWl0SGFuZGxlLlNldCgpOwogICAgICAgIH0KICAgICAgfSk7CgogICAgICByZXR1cm4gVHVwbGUuQ3JlYXRlKHNwYywgc3Vic2NyaWJlZFdhaXRIYW5kbGUpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICBUaHJlYWQuU2xlZXAoNSk7IC8vIEZJWE1FIGZpbmQgYmV0dGVyIHNvbHV0aW9uIChpLmUuIHdhaXQgdW50aWwgc3Vic2NyaXB0aW9ucyBhcmUgZXN0YWJsaXNoZWQsIGJ1dCBubyBsb25nZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImRhbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAob2VjLk5hbWUgPT0gIk9FQyAxIikKICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBUdXBsZTxIdWJDb25uZWN0aW9uV2l0aFByb3h5LCBFdmVudFdhaXRIYW5kbGU+KHNwYywgc3Vic2NyaWJlZFdhaXRIYW5kbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBzcGNTdWJzY3JpYmVkVG9Cb3RoT2Vjcy5Db25uZWN0aW9uLlByb3h5Lkludm9rZSgic3Vic2NyaWJlVG9JbnN0YW5jZSIsIG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gb2VjLkd1aWR9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQ2FzdGxlLkNvcmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
