@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556011932528">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestHttpClient.cs" timestamp="1556028950557">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556029212531">
+        <mark key="'" line="40" column="30" />
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
         <mark key="^" line="168" column="97" />
@@ -32,6 +36,9 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" />
       <jump line="164" column="1" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
       <jump line="170" column="62" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
+      <jump line="30" column="26" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestHttpClient.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestHttpClient.cs" />
+      <jump line="40" column="30" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -39,6 +46,9 @@
       </register>
       <register name="-" type="4">
         <text>OecClientConnectionId</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0ZXN0U2VydmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFyIGh1YkNvbnRleHRMb2NhdG9yTW9jayA9IENyZWF0ZUh1YkNvbnRleHRNb2NrT2VjKG91dCBfKTsKICAgICAgdmFyIGdyb3VwTmFtZU1hbmFnZXJNb2NrID0gQ3JlYXRlR3JvdXBOYW1lTWFuYWdlck1vY2sob3V0IHZhciBzaWduYWxSR3JvdXBOYW1lc0ZvclNwYyk7CiAgICAgIHZhciBzcGNPZWNIdWIgPSBDcmVhdGVTcGNIdWIoQ3JlYXRlU2Vzc2lvblByb3ZpZGVyTW9jaygpLCBodWJDb250ZXh0TG9jYXRvck1vY2ssIGdyb3VwTmFtZU1hbmFnZXJNb2NrKTsKCiAgICAgIGF3YWl0IHNwY09lY0h1Yi5TdWJzY3JpYmVUb0luc3RhbmNlKG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gT2VjQ2xpZW50Q29ubmVjdGlvbklkfSk7Cg==</text>
@@ -75,11 +85,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDx0ZXN0U2VydmVyXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx0ZXN0U2VydmVyXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDx0ZXN0U2VydmVyXD4=</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
