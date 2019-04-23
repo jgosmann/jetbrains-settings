@@ -3,12 +3,229 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1555488873807">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" timestamp="1555414414673">
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="61" />
+        <mark key="." line="99" column="61" />
+        <mark key="^" line="99" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" timestamp="1555313236002">
+        <mark key="'" line="15" column="32" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="29" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" timestamp="1556003208589">
         <mark key="'" line="162" column="0" />
         <mark key="[" line="161" column="6" />
         <mark key="]" line="161" column="31" />
         <mark key="^" line="161" column="31" />
         <mark key="." line="161" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/texts/textKeys.js" timestamp="1555415230149">
+        <mark key="'" line="15" column="3" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/MultilineErrorDisplay.spec.js" timestamp="1554971403212">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/actions/orderEquipmentCoordinatorActionCreators.js" timestamp="1554994888137">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/SinglelineErrorDisplay.spec.js" timestamp="1554973896305">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/components/DropdownMulti/MultiDownshift.js" timestamp="1555078722553">
+        <mark key="[" line="45" column="53" />
+        <mark key="]" line="45" column="56" />
+        <mark key="^" line="45" column="56" />
+        <mark key="." line="45" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/config/createWebpackConfig.js" timestamp="1555401952059">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/orderEquipmentCoordinatorReducer.js" timestamp="1555406920811">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="12" column="55" />
+        <mark key="^" line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/babel.config.js" timestamp="1555059805831">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1554823091931">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/MessagesTableHeader.js" timestamp="1555068136835">
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="39" column="64" />
+        <mark key="^" line="39" column="64" />
+        <mark key="." line="39" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/SinglelineErrorDisplay.js" timestamp="1554973927728">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+        <mark key="^" line="14" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/MessagesTable/test/MessagesTable.spec.js" timestamp="1555070865256">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="2" />
+        <mark key="^" line="24" column="2" />
+        <mark key="." line="24" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/fonts.js" timestamp="1555416184472">
+        <mark key="'" line="29" column="3" />
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/OrderEquipmentCoordinator.js" timestamp="1554820133475">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/config/config.js" timestamp="1554995883410">
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/reducers/test/orderEquipmentCoordinatorReducer.spec.js" timestamp="1555406090422">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="278" column="65" />
+        <mark key="]" line="278" column="70" />
+        <mark key="." line="278" column="70" />
+        <mark key="^" line="278" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" timestamp="1555417090842">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="95" column="11" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push.Tests/Mapping/ConditionToWebDtoTest.cs" timestamp="1554729231852">
+        <mark key="[" line="43" column="85" />
+        <mark key="]" line="43" column="94" />
+        <mark key="^" line="43" column="94" />
+        <mark key="." line="43" column="94" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Overview.spec.js" timestamp="1555412910975">
+        <mark key="'" line="45" column="52" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/TransactionReportDetails/TransactionReportDetails.js" timestamp="1555069440911">
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="86" column="9" />
+        <mark key="]" line="86" column="37" />
+        <mark key="^" line="86" column="37" />
+        <mark key="." line="86" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Mapping/ConditionToWebDto.cs" timestamp="1554729256621">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="37" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/handlePushSaga.js" timestamp="1555485307967">
+        <mark key="'" line="50" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/InterfaceMonitoringUsers/test/UserList.spec.js" timestamp="1555067940172">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="140" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1554822829848">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/orderEquipmentCoordinatorSelectors.js" timestamp="1555413305273">
+        <mark key="'" line="45" column="1" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="86" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/UnavailableMessage.js" timestamp="1555416738152">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" timestamp="1555313521333">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="46" column="46" />
+        <mark key="]" line="46" column="46" />
+        <mark key="^" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/www/index.html" timestamp="1556023401349">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/UnavailableMessage.spec.js" timestamp="1555415376434">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="41" />
+        <mark key="." line="29" column="41" />
+        <mark key="^" line="16" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Sender/Sender.cs" timestamp="1554717600522">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="80" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/selectors/test/orderEquipmentCoordinatorSelectors.spec.js" timestamp="1555413139157">
+        <mark key="'" line="415" column="41" />
+        <mark key="[" line="427" column="6" />
+        <mark key="]" line="437" column="66" />
+        <mark key="." line="437" column="66" />
+        <mark key="^" line="437" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/ErrorDisplay/test/ErrorDisplay.spec.js" timestamp="1554971124396">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="50" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -17,11 +234,20 @@
       <jump line="162" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>/</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRTZWxlY3RlZEluc3RhbmNlSWRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd4JywgbWV0aG9kS2V5cy5tYXAoa2V5ID0+IGNoYW5uZWxzW2tleV0pKQo=</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdmFyIHggPSBDcmVhdGVTcGNPZWNIdWJDb25uZWN0aW9uU3Vic2NyaWJpbmdUb09lY05hbWVzKG5ld1tdIHsiT0VDIDEiLCAiT0VDIDIifSk7Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>spcAndWaitHandleSubscribedToOec1.Item2</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICB4LlNlY29uZC5SZXNldCgpOwo=</text>
@@ -50,22 +276,71 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>spcAndWaitHandleSubscribedToOec1.Item2</text>
-      </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>getSelectedEquipment</entry>
+        <entry encoding="base64">XDxnZXRTZWxlY3RlZEVxdWlwbWVudElkXD4=</entry>
+        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
+        <entry>Multi</entry>
+        <entry encoding="base64">XDxTaW5nbGVsaW5lRXJyb3JEaXNwbGF5XD4=</entry>
+        <entry>some</entry>
+        <entry>babel</entry>
+        <entry encoding="base64">XDxnZXRDb21wb25lbnRUb1Nob3dcPg==</entry>
+        <entry encoding="base64">XDx0cmFuc2FjdGlvblJlcG9ydENvbXBvbmVudHNcPg==</entry>
+        <entry>History</entry>
+        <entry>rend</entry>
+        <entry encoding="base64">XDxNZXNzYWdlc1RhYmxlXD4=</entry>
+        <entry encoding="base64">XDxnaXZlbkluc3RhbmNlc1w+</entry>
+        <entry>output.path</entry>
+        <entry>plugin</entry>
+        <entry>INSTANCE</entry>
+        <entry>selected</entry>
+        <entry encoding="base64">XDxzdHlsZVw+</entry>
+        <entry>getSelectedInstanceId</entry>
+        <entry encoding="base64">XDxnZXRTZWxlY3RlZEluc3RhbmNlSWRcPg==</entry>
+      </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zL011bHRpL1NpbmdsZS9n</entry>
+        <entry>s/some/given</entry>
+        <entry>wc</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
