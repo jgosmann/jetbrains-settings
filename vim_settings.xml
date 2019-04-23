@@ -15,6 +15,12 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556021078509">
+        <mark key="[" line="86" column="107" />
+        <mark key="]" line="86" column="106" />
+        <mark key="^" line="86" column="152" />
+        <mark key="." line="86" column="106" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" timestamp="1556009295134">
         <mark key="'" line="5" column="0" />
       </file>
@@ -28,14 +34,14 @@
       <jump line="170" column="62" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>SubscribeTo</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgVGFzay5XYWl0QWxsKHNwYy5PZWNzLkF3YWl0TmV4dChtaWxsaXNlY29uZHNUaW1lb3V0KS5TZWxlY3QoaW5zdGFuY2UgPT4gc3BjLlN1YnNjcmliZVRvKGluc3RhbmNlLkd1aWQpKS5Ub0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGh1YkNvbnRleHRMb2NhdG9yTW9jayA9IENyZWF0ZUh1YkNvbnRleHRNb2NrT2VjKG91dCBfKTsKICAgICAgdmFyIGdyb3VwTmFtZU1hbmFnZXJNb2NrID0gQ3JlYXRlR3JvdXBOYW1lTWFuYWdlck1vY2sob3V0IHZhciBzaWduYWxSR3JvdXBOYW1lc0ZvclNwYyk7CiAgICAgIHZhciBzcGNPZWNIdWIgPSBDcmVhdGVTcGNIdWIoQ3JlYXRlU2Vzc2lvblByb3ZpZGVyTW9jaygpLCBodWJDb250ZXh0TG9jYXRvck1vY2ssIGdyb3VwTmFtZU1hbmFnZXJNb2NrKTsKCiAgICAgIGF3YWl0IHNwY09lY0h1Yi5TdWJzY3JpYmVUb0luc3RhbmNlKG5ldyBTcGNTdWJzY3JpcHRpb25XZWJEdG8ge0lkID0gT2VjQ2xpZW50Q29ubmVjdGlvbklkfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -44,25 +50,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwYy5TdWJzY3JpYmVUbyhpbnN0YW5jZS5HdWlkKTsKICAgICAgfQoKICAgICAgZm9yZWFjaCAodmFyIGluc3RhbmNlIGluIHNwYy5PZWNzLkF3YWl0TmV4dChtaWxsaXNlY29uZHNUaW1lb3V0KSkKICAgICAgewogICAgICAgIGF3YWl0IHNwYy5VbnN1YnNjcmliZUZyb20oaW5zdGFuY2UuR3VpZCk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwY1N1YnNjcmliZWRUb09lYzEuU3Vic2NyaWJlVG8ob2VjLkd1aWQpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIJV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KQogICAgICBmb3JlYWNoICh2YXIgb2VjIGluIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwY1N1YnNjcmliZWRUb0JvdGhPZWNzLlN1YnNjcmliZVRvKG9lYy5HdWlkKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwYy5TdWJzY3JpYmVUbyhpbnN0YW5jZS5HdWlkKTsKICAgICAgfQoKICAgICAgZm9yZWFjaCAodmFyIGluc3RhbmNlIGluIHNwYy5PZWNzLkF3YWl0TmV4dChtaWxsaXNlY29uZHNUaW1lb3V0KSkKICAgICAgewogICAgICAgIGF3YWl0IHNwYy5VbnN1YnNjcmliZUZyb20oaW5zdGFuY2UuR3VpZCk7CiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGF3YWl0IHNwY1N1YnNjcmliZWRUb09lYzEuU3Vic2NyaWJlVG8ob2VjLkd1aWQpOwogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvZWMyLlByb3h5Lkludm9rZSgicHVzaFBsY1N0YXRlIiwgbmV3IFBsY1N0YXRlV2ViRHRvIHtQbGNDb25uZWN0ZWQgPSB0cnVlfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIJV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -89,6 +95,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
