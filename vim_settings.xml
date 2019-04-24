@@ -10,11 +10,11 @@
         <mark key="^" line="37" column="28" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" timestamp="1556095767284">
-        <mark key="'" line="130" column="19" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" timestamp="1556097038901">
+        <mark key="'" line="94" column="45" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
         <mark key="^" line="132" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SignalRGroupNamesForSpc.cs" timestamp="1556095442160">
@@ -30,11 +30,11 @@
         <mark key="^" line="168" column="97" />
         <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556096426060">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556097275902">
         <mark key="'" line="189" column="22" />
-        <mark key="[" line="21" column="70" />
-        <mark key="]" line="21" column="75" />
-        <mark key="." line="21" column="75" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
         <mark key="^" line="21" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/ActiveCulturesManager.cs" timestamp="1556091107147">
@@ -56,12 +56,12 @@
         <mark key="^" line="148" column="63" />
         <mark key="." line="148" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" timestamp="1556095856239">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" timestamp="1556097013590">
         <mark key="'" line="84" column="22" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="115" column="87" />
-        <mark key="." line="116" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="103" column="36" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" timestamp="1556009295134">
         <mark key="'" line="5" column="0" />
@@ -140,55 +140,58 @@
       <jump line="199" column="107" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
       <jump line="231" column="107" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
       <jump line="189" column="22" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
+      <jump line="95" column="83" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
+      <jump line="13" column="24" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
+      <jump line="94" column="45" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBbVGVzdF0KICAgIHB1YmxpYyBhc3luYyBUYXNrIE9lY0NsaWVudENhbkNvbm5lY3RUb0xtc09lY0h1YlRlc3QoKQogICAgewogICAgICAvLyBBcnJhbmdlCiAgICAgIHZhciBhY3RpdmVDdWx0dXJlc01hbmFnZXJNb2NrID0gbmV3IE1vY2s8SUFjdGl2ZUN1bHR1cmVzTWFuYWdlcj4oKTsKICAgICAgdmFyIGxtc09lY1JlZ2lzdHJ5TW9jayA9IG5ldyBNb2NrPElMbXNPZWNSZWdpc3RyeT4oKTsKICAgICAgdmFyIGxtc09lY0h1YiA9IENyZWF0ZUxtc09lY0h1YihDcmVhdGVIdWJDb250ZXh0TW9ja09lYyhvdXQgXyksIGFjdGl2ZUN1bHR1cmVzTWFuYWdlck1vY2ssIGxtc09lY1JlZ2lzdHJ5TW9jayk7CgogICAgICAvLyBBY3QKICAgICAgYXdhaXQgbG1zT2VjSHViLk9uQ29ubmVjdGVkKCk7CgogICAgICAvLyBBc3NlcnQKICAgICAgdmFyIGdyb3VwcyA9ICgoR3JvdXBNYW5hZ2VyRm9yVGVzdClsbXNPZWNIdWIuR3JvdXBzKTsKICAgICAgZ3JvdXBzLkNhY2hlLlNob3VsZCgpLkhhdmVDb3VudCgxKTsKICAgICAgZ3JvdXBzLkNhY2hlLlNob3VsZCgpLkNvbnRhaW5LZXkoTG1zT2VjSHViLkdyb3VwTmFtZU9lY0NsaWVudHMpOwogICAgICBncm91cHMuQ2FjaGVbTG1zT2VjSHViLkdyb3VwTmFtZU9lY0NsaWVudHNdLkZpcnN0KCkuU2hvdWxkKCkuQmUoT2VjQ2xpZW50Q29ubmVjdGlvbklkKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>culture</text>
+        <text>Groups</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYWN0aXZlQ3VsdHVyZXNNYW5hZ2VyLkFkZENvbnN1bWVyT2ZDdWx0dXJlKENvbnRleHQuQ29ubmVjdGlvbklkLCBjdWx0dXJlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3VsdHVyZSA9ICJlbi1HQiI7Cg==</text>
+        <text encoding="base64">CiAgICBbVGVzdF0KICAgIHB1YmxpYyBhc3luYyBUYXNrIE9lY0NsaWVudENhbkNvbm5lY3RUb0xtc09lY0h1YlRlc3QoKQogICAgewogICAgICAvLyBBcnJhbmdlCiAgICAgIHZhciBhY3RpdmVDdWx0dXJlc01hbmFnZXJNb2NrID0gbmV3IE1vY2s8SUFjdGl2ZUN1bHR1cmVzTWFuYWdlcj4oKTsKICAgICAgdmFyIGxtc09lY1JlZ2lzdHJ5TW9jayA9IG5ldyBNb2NrPElMbXNPZWNSZWdpc3RyeT4oKTsKICAgICAgdmFyIGxtc09lY0h1YiA9IENyZWF0ZUxtc09lY0h1YihDcmVhdGVIdWJDb250ZXh0TW9ja09lYyhvdXQgXyksIGFjdGl2ZUN1bHR1cmVzTWFuYWdlck1vY2ssIGxtc09lY1JlZ2lzdHJ5TW9jayk7CgogICAgICAvLyBBY3QKICAgICAgYXdhaXQgbG1zT2VjSHViLk9uQ29ubmVjdGVkKCk7CgogICAgICAvLyBBc3NlcnQKICAgICAgdmFyIGdyb3VwcyA9ICgoR3JvdXBNYW5hZ2VyRm9yVGVzdClsbXNPZWNIdWIuR3JvdXBzKTsKICAgICAgZ3JvdXBzLkNhY2hlLlNob3VsZCgpLkhhdmVDb3VudCgxKTsKICAgICAgZ3JvdXBzLkNhY2hlLlNob3VsZCgpLkNvbnRhaW5LZXkoTG1zT2VjSHViLkdyb3VwTmFtZU9lY0NsaWVudHMpOwogICAgICBncm91cHMuQ2FjaGVbTG1zT2VjSHViLkdyb3VwTmFtZU9lY0NsaWVudHNdLkZpcnN0KCkuU2hvdWxkKCkuQmUoT2VjQ2xpZW50Q29ubmVjdGlvbklkKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGN1bHR1cmUgPSBHZXRDdWx0dXJlKCk7CiAgICAgIHJldHVybiAkIntuZXcgU2lnbmFsUkdyb3VwTmFtZXNGb3JTcGMoY3VsdHVyZSkuQnVpbGRHcm91cE5hbWUoKX0te3N1YnNjcmlwdGlvbldlYkR0by5JZH0iOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgb3ZlcnJpZGUgYXN5bmMgVGFzayBPbkNvbm5lY3RlZCgpCiAgICB7CiAgICAgIGF3YWl0IEdyb3Vwcy5BZGQoQ29udGV4dC5Db25uZWN0aW9uSWQsIEdyb3VwTmFtZU9lY0NsaWVudHMpOwogICAgICBMb2dnZXIuRGVidWcoJCJTdWNjZXNzZnVsbHkgYWRkZWQgY2xpZW50ICd7Q29udGV4dC5Db25uZWN0aW9uSWR9JyB0byBncm91cCAne0dyb3VwTmFtZU9lY0NsaWVudHN9JyIpOwogICAgICBhd2FpdCBiYXNlLk9uQ29ubmVjdGVkKCk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlQ3VsdHVyZXNNYW5hZ2VyLkFkZENvbnN1bWVyT2ZDdWx0dXJlKENvbnRleHQuQ29ubmVjdGlvbklkLCBjdWx0dXJlKTsK</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLkRlYnVnKCQiU3VjY2Vzc2Z1bGx5IGFkZGVkIGNsaWVudCAne0NvbnRleHQuQ29ubmVjdGlvbklkfScgdG8gZ3JvdXAgJ3tHcm91cE5hbWVPZWNDbGllbnRzfSciKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICQie25ldyBTaWduYWxSR3JvdXBOYW1lc0ZvclNwYyhjdWx0dXJlKS5CdWlsZEdyb3VwTmFtZSgpfS17Q29udGV4dC5Db25uZWN0aW9uSWR9IjsK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgR3JvdXBzLkFkZChDb250ZXh0LkNvbm5lY3Rpb25JZCwgR3JvdXBOYW1lT2VjQ2xpZW50cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZ3JvdXBOYW1lID0gQ29uc3RydWN0R3JvdXBOYW1lKGN1bHR1cmUpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBzdHJpbmcgR3JvdXBOYW1lT2VjQ2xpZW50cyA9ICJPZWNDbGllbnRzIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGdyb3VwTmFtZSA9ICQie25ldyBTaWduYWxSR3JvdXBOYW1lc0ZvclNwYyhDdWx0dXJlSW5mby5Ub1N0cmluZygpKS5CdWlsZEdyb3VwTmFtZSgpfS17T2VjQ2xpZW50Q29ubmVjdGlvbklkfSI7Cg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgbG1zSHViQ29udGV4dC5DbGllbnRzLkFsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGdyb3VwTmFtZSA9ICQie25ldyBTaWduYWxSR3JvdXBOYW1lc0ZvclNwYyhDdWx0dXJlSW5mby5Ub1N0cmluZygpKS5CdWlsZEdyb3VwTmFtZSgpfS17T2VjQ2xpZW50Q29ubmVjdGlvbklkfSI7Cg==</text>
+        <text encoding="base64">ICAgICAgY3VsdHVyZSA9ICJlbi1HQiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RyaW5nIEJ1aWxkR3JvdXBOYW1lKCkKICAgIHsKICAgICAgcmV0dXJuICQie0dyb3VwTmFtZUF1dGhlbnRpY2F0ZWRTcGNDbGllbnRzfS17Q3VsdHVyZX0te0Nvbm5lY3Rpb25JZH0iOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGN1bHR1cmUgPSBHZXRDdWx0dXJlKCk7CiAgICAgIHJldHVybiAkIntuZXcgU2lnbmFsUkdyb3VwTmFtZXNGb3JTcGMoY3VsdHVyZSkuQnVpbGRHcm91cE5hbWUoKX0te3N1YnNjcmlwdGlvbldlYkR0by5JZH0iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEJ1aWxkR3JvdXBOYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlQ3VsdHVyZXNNYW5hZ2VyLkFkZENvbnN1bWVyT2ZDdWx0dXJlKENvbnRleHQuQ29ubmVjdGlvbklkLCBjdWx0dXJlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>culture</last-search>
+      <last-search>Groups</last-search>
       <last-offset />
-      <last-pattern>culture</last-pattern>
+      <last-pattern>Groups</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -199,6 +202,9 @@
         <entry encoding="base64">XDxDb25zdHJ1Y3RHcm91cE5hbWVcPg==</entry>
         <entry encoding="base64">XDxDdWx0dXJlSW5mb1w+</entry>
         <entry>culture</entry>
+        <entry encoding="base64">XDxHcm91cE5hbWVPZWNDbGllbnRzXD4=</entry>
+        <entry>groups</entry>
+        <entry>Groups</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
