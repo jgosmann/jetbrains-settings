@@ -23,12 +23,12 @@
         <mark key="^" line="168" column="97" />
         <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556091845005">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556094035263">
         <mark key="'" line="21" column="58" />
-        <mark key="[" line="73" column="90" />
-        <mark key="]" line="73" column="96" />
-        <mark key="." line="73" column="96" />
-        <mark key="^" line="73" column="96" />
+        <mark key="[" line="291" column="30" />
+        <mark key="]" line="291" column="29" />
+        <mark key="." line="291" column="29" />
+        <mark key="^" line="291" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/ActiveCulturesManager.cs" timestamp="1556091107147">
         <mark key="[" line="67" column="0" />
@@ -59,12 +59,12 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" timestamp="1556009295134">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/ActiveCulturesManagerTest.cs" timestamp="1556090966326">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/ActiveCulturesManagerTest.cs" timestamp="1556093725279">
         <mark key="v" line="81" column="37" />
-        <mark key="[" line="95" column="45" />
-        <mark key="]" line="95" column="66" />
-        <mark key="^" line="95" column="66" />
-        <mark key="." line="95" column="66" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestHttpClient.cs" timestamp="1556028950557">
         <mark key="'" line="0" column="0" />
@@ -120,10 +120,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CultureInfo.ToString()</text>
+        <text>var groupName</text>
       </register>
       <register name="-" type="4">
-        <text>CultureInfo.ToString()</text>
+        <text>var groupName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDdWx0dXJlSW5mb1w+</text>
