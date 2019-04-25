@@ -10,6 +10,9 @@
         <mark key="^" line="37" column="28" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/colors.js" timestamp="1556179049688">
+        <mark key="'" line="159" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeDetails.js" timestamp="1556174396177">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="25" />
@@ -29,6 +32,19 @@
         <mark key="^" line="86" column="94" />
         <mark key="." line="86" column="94" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1556179161895">
+        <mark key="'" line="190" column="50" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="73" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="190" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/DetailsHeading.js" timestamp="1556179097063">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="76" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/ResultAwaiter.cs" timestamp="1556009295134">
         <mark key="'" line="5" column="0" />
       </file>
@@ -39,8 +55,15 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="68" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActiveEdgeIndicator.js" timestamp="1556176197575">
-        <mark key="'" line="34" column="6" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActiveEdgeIndicator.js" timestamp="1556179052561">
+        <mark key="'" line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1556179199946">
+        <mark key="'" line="13" column="56" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="73" />
+        <mark key="^" line="13" column="56" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestHttpClient.cs" timestamp="1556028950557">
         <mark key="'" line="0" column="0" />
@@ -70,6 +93,13 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/TimingInformationRow.js" timestamp="1556179066366">
+        <mark key="'" line="37" column="27" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="76" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="37" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="102" column="12" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
@@ -91,55 +121,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminPage/AdminPage.js" />
       <jump line="43" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminPage/AdminPage.js" />
       <jump line="34" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActiveEdgeIndicator.js" />
+      <jump line="35" column="11" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/TimingInformationRow.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/colors.js" />
+      <jump line="159" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/colors.js" />
+      <jump line="17" column="48" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActiveEdgeIndicator.js" />
+      <jump line="37" column="27" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/TimingInformationRow.js" />
+      <jump line="12" column="56" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" />
+      <jump line="190" column="50" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1lYXN1cmVtZW50cyBmcm9tICcuLi8uLi9zdHlsZS9tZWFzdXJlbWVudHMnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>closedWidth</text>
+        <text>'#5c6873'</text>
       </register>
       <register name="/" type="4">
-        <text>closedWidth</text>
+        <text encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3BjU3Vic2NyaWJlZFRvQm90aE9lY3MuQ29ubmVjdGlvbi5Qcm94eS5PbjxQbGNTdGF0ZVdlYkR0bz4oIlVwZGF0ZVBsY0Nvbm5lY3Rpb24iLCBkYXRhID0+IHNwY1N1YnNjcmliZWRUb0JvdGhPZWNzRGF0YS5SZXN1bHQgPSBkYXRhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1lYXN1cmVtZW50cyBmcm9tICcuLi8uLi9zdHlsZS9tZWFzdXJlbWVudHMnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEFkbWluTWVudSBmcm9tICcuLi9BZG1pbk1lbnUvQWRtaW5NZW51Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEFkbWluTWVudSBmcm9tICcuLi9BZG1pbk1lbnUvQWRtaW5NZW51Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNsb3NlZFdpZHRoID0gNzQK</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2xvYmFsQ29sb3JTdHlsZXMgfSBmcm9tICcuLi8uLi8uLi8uLi8uLi8uLi9jb21tb24vanMvc3R5bGUvY29sb3JzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5HbG9iYWxpemF0aW9uOwp1c2luZyBTeXN0ZW0uTGlucTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbG9ycwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>closedWidth</last-search>
+      <last-search encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</last-search>
       <last-offset />
-      <last-pattern>closedWidth</last-pattern>
+      <last-pattern encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -148,9 +186,11 @@
         <entry encoding="base64">XDx0ZXN0U2VydmVyXD4=</entry>
         <entry>closed</entry>
         <entry>closedWidth</entry>
+        <entry encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,6 +207,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
