@@ -79,6 +79,7 @@
         <mark key="." line="48" column="52" />
         <mark key="^" line="48" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Core/Host/App.config" timestamp="1556182102641" />
     </filemarks>
     <jumps>
       <jump line="102" column="12" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/IntegrationTest.cs" />
