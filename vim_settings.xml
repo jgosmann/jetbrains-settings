@@ -216,7 +216,7 @@
         <text encoding="base64">ICBkZXNjcmliZSgnZ2l2ZW4gaW5zdGFuY2VBdmFpbGFibGUgdHJ1ZScsIGZ1bmN0aW9uICgpIHsKICAgIGNvbnN0IGdpdmVuSW5zdGFuY2VBdmFpbGFibGUgPSB0cnVlCiAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -234,8 +234,8 @@
         <entry encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
