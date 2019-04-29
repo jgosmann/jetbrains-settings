@@ -9,11 +9,11 @@
         <mark key="." line="213" column="106" />
         <mark key="^" line="213" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556551853587">
-        <mark key="[" line="70" column="6" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="11" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556553972415">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="210" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateTrackingDecorator.cs" timestamp="1556282142405">
         <mark key="[" line="15" column="0" />
@@ -45,12 +45,12 @@
         <mark key="." line="99" column="104" />
         <mark key="^" line="99" column="104" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/SpcPushManagerTest.cs" timestamp="1556551904336">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/SpcPushManagerTest.cs" timestamp="1556553396484">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="153" column="6" />
-        <mark key="]" line="153" column="11" />
-        <mark key="^" line="153" column="11" />
-        <mark key="." line="153" column="11" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="183" column="20" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App/AppLauncher.cs" timestamp="1556290126397">
         <mark key="'" line="121" column="12" />
@@ -89,7 +89,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcPushManager.cs" timestamp="1556552647395">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcPushManager.cs" timestamp="1556553644671">
         <mark key="'" line="106" column="11" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -132,12 +132,11 @@
         <mark key="^" line="72" column="60" />
         <mark key="." line="72" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" timestamp="1556547895247">
-        <mark key="'" line="47" column="6" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="125" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" timestamp="1556553726798">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="60" column="125" />
+        <mark key="." line="18" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/LmsOecRegistryPushServiceTest.cs" timestamp="1556526928227">
         <mark key="[" line="50" column="20" />
@@ -170,11 +169,11 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" timestamp="1556552694933">
-        <mark key="'" line="93" column="26" />
-        <mark key="[" line="73" column="6" />
-        <mark key="]" line="73" column="11" />
-        <mark key="." line="73" column="11" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" timestamp="1556553768267">
+        <mark key="'" line="75" column="12" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
         <mark key="^" line="73" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.App.Component.Tests/EquipmentCoordinationComponentTest.cs" timestamp="1556287421628">
@@ -232,17 +231,16 @@
         <mark key="^" line="62" column="28" />
         <mark key="." line="62" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556552485089">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1556554009559">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" timestamp="1556539969567">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="66" column="5" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" timestamp="1556552899776">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Push/Manager/PushModuleManager.cs" timestamp="1556289987371">
         <mark key="'" line="90" column="8" />
@@ -288,10 +286,10 @@
         <mark key="." line="18" column="92" />
         <mark key="^" line="18" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Feature/LmsOecFeature.cs" timestamp="1556529560736">
-        <mark key="[" line="63" column="73" />
-        <mark key="]" line="63" column="73" />
-        <mark key="." line="63" column="73" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/Feature/LmsOecFeature.cs" timestamp="1556553937856">
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="28" />
+        <mark key="." line="69" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.DbConnectionState/DbConnectionStateDetector.cs" timestamp="1556277438702">
         <mark key="'" line="11" column="42" />
@@ -339,9 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="23" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
-      <jump line="87" column="12" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
-      <jump line="202" column="106" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
       <jump line="192" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
       <jump line="175" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
       <jump line="172" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
@@ -374,9 +369,7 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
       <jump line="28" column="21" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
-      <jump line="15" column="40" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
       <jump line="30" column="4" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
@@ -439,55 +432,60 @@
       <jump line="15" column="82" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcPushManager.cs" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcPushManager.cs" />
       <jump line="106" column="11" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcPushManager.cs" />
+      <jump line="115" column="6" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcPushManager.cs" />
+      <jump line="15" column="40" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
+      <jump line="19" column="40" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
+      <jump line="23" column="11" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/LmsOecHub.cs" />
+      <jump line="75" column="12" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOrderAndEquipmentCoordination/SignalR/SpcOecHub.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLldhcC5GZWF0dXJlcy5MbXNPZWMuRHRvczsK</text>
+      <register name="&quot;" type="4">
+        <text>Remove HubContextLocator where no longer needed</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>Remove HubContextLocator where no longer needed</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcGMyQ3VsdHVyZUFuZE9lY0Nvbm5lY3Rpb25zXD4=</text>
+        <text encoding="base64">XDxJbmZvcm1PZWNBYm91dE5ld1NwY1N1YnNjcmlwdGlvblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>var cultures</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLy8gQXJyYW5nZQogICAgICB2YXIgZ2l2ZW5PZWNDb25uZWN0aW9uSWQxID0gImdpdmVuIE9FQyBjb25uZWN0aW9uIGlkIDEiOwogICAgICB2YXIgZ2l2ZW5PZWNDb25uZWN0aW9uSWQyID0gImdpdmVuIE9FQyBjb25uZWN0aW9uIGlkIDIiOwogICAgICB2YXIgZ2l2ZW5TcGNDb25uZWN0aW9uSWQgPSAiZ2l2ZW4gU1BDIGNvbm5lY3Rpb24gaWQiOwogICAgICB2YXIgZ2l2ZW5DdWx0dXJlID0gImN1bHR1cmUiOwogICAgICB2YXIgcHVzaEFjdGlvbk1vY2sgPSBuZXcgTW9jazxGdW5jPElTcGNPZWNDbGllbnQsIHN0cmluZywgVGFzaz4+KCk7CgogICAgICB2YXIgc3BjUHVzaE1hbmFnZXIgPSBuZXcgU3BjUHVzaE1hbmFnZXIoaHViQ29udGV4dExvY2F0b3JNb2NrLk9iamVjdCk7CgogICAgICBhd2FpdCBzcGNQdXNoTWFuYWdlci5BZGRTcGNTdWJzY3JpcHRpb24oZ2l2ZW5TcGNDb25uZWN0aW9uSWQsIGdpdmVuT2VjQ29ubmVjdGlvbklkMSwgZ2l2ZW5DdWx0dXJlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLldhcC5GZWF0dXJlcy5MbXNPZWMuRHRvczsK</text>
+        <text encoding="base64">ICAgICAgdmFyIGh1YkNvbnRleHRMb2NhdG9yTW9jayA9IENyZWF0ZUh1YkNvbnRleHRNb2NrU3BjKG91dCB2YXIgaHViQ29udGV4dE1vY2spOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdmFyIGh1YkNvbnRleHRMb2NhdG9yTW9jayA9IENyZWF0ZUh1YkNvbnRleHRNb2NrU3BjKG91dCB2YXIgaHViQ29udGV4dE1vY2spOwo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGh1YkNvbnRleHRMb2NhdG9yTW9jayA9IENyZWF0ZUh1YkNvbnRleHRNb2NrU3BjKG91dCB2YXIgc3BjQ2xpZW50Q29udGV4dE1vY2spOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgU3BjQ3VsdHVyZUFuZE9lY0Nvbm5lY3Rpb25zRHRvCiAgewogICAgcHVibGljIHN0cmluZyBDdWx0dXJlIHsgZ2V0OyB9CiAgICBwcml2YXRlIHJlYWRvbmx5IEhhc2hTZXQ8c3RyaW5nPiBvZWNDb25uZWN0aW9uSWRzOwoKICAgIHB1YmxpYyBTcGNDdWx0dXJlQW5kT2VjQ29ubmVjdGlvbnNEdG8oc3RyaW5nIGN1bHR1cmUpCiAgICB7CiAgICAgIEN1bHR1cmUgPSBjdWx0dXJlOwogICAgICBvZWNDb25uZWN0aW9uSWRzID0gbmV3IEhhc2hTZXQ8c3RyaW5nPigpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIEFkZE9lY0Nvbm5lY3Rpb25JZChzdHJpbmcgb2VjQ29ubmVjdGlvbklkKQogICAgewogICAgICBvZWNDb25uZWN0aW9uSWRzLkFkZChvZWNDb25uZWN0aW9uSWQpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIFJlbW92ZU9lY0Nvbm5lY3Rpb25JZChzdHJpbmcgb2VjQ29ubmVjdGlvbklkKQogICAgewogICAgICBvZWNDb25uZWN0aW9uSWRzLlJlbW92ZShvZWNDb25uZWN0aW9uSWQpOwogICAgfQoKICAgIHB1YmxpYyBib29sIEhhc09lY0Nvbm5lY3Rpb25JZHMoKQogICAgewogICAgICByZXR1cm4gb2VjQ29ubmVjdGlvbklkcy5BbnkoKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGh1YkNvbnRleHRMb2NhdG9yTW9jayA9IG5ldyBNb2NrPElIdWJDb250ZXh0TG9jYXRvcj4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgU3BjQ3VsdHVyZUFuZE9lY0Nvbm5lY3Rpb25zRHRvCiAgewogICAgcHVibGljIHN0cmluZyBDdWx0dXJlIHsgZ2V0OyB9CiAgICBwcml2YXRlIHJlYWRvbmx5IEhhc2hTZXQ8c3RyaW5nPiBvZWNDb25uZWN0aW9uSWRzOwoKICAgIHB1YmxpYyBTcGNDdWx0dXJlQW5kT2VjQ29ubmVjdGlvbnNEdG8oc3RyaW5nIGN1bHR1cmUpCiAgICB7CiAgICAgIEN1bHR1cmUgPSBjdWx0dXJlOwogICAgICBvZWNDb25uZWN0aW9uSWRzID0gbmV3IEhhc2hTZXQ8c3RyaW5nPigpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIEFkZE9lY0Nvbm5lY3Rpb25JZChzdHJpbmcgb2VjQ29ubmVjdGlvbklkKQogICAgewogICAgICBvZWNDb25uZWN0aW9uSWRzLkFkZChvZWNDb25uZWN0aW9uSWQpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIFJlbW92ZU9lY0Nvbm5lY3Rpb25JZChzdHJpbmcgb2VjQ29ubmVjdGlvbklkKQogICAgewogICAgICBvZWNDb25uZWN0aW9uSWRzLlJlbW92ZShvZWNDb25uZWN0aW9uSWQpOwogICAgfQoKICAgIHB1YmxpYyBib29sIEhhc09lY0Nvbm5lY3Rpb25JZHMoKQogICAgewogICAgICByZXR1cm4gb2VjQ29ubmVjdGlvbklkcy5BbnkoKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGh1YkNvbnRleHRMb2NhdG9yTW9jayA9IG5ldyBNb2NrPElIdWJDb250ZXh0TG9jYXRvcj4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5odWJDb250ZXh0TG9jYXRvciA9IGh1YkNvbnRleHRMb2NhdG9yOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgSUh1YkNvbnRleHRMb2NhdG9yIGh1YkNvbnRleHRMb2NhdG9yOwo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">Cm9u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">STE5MjAwMi0xNTggSTE5MjAwMi02MjAgKiBNb3ZlIGxvY2tpbmcgaW50byBTcGNQdXNoTWFuYWdlcgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkNvbmN1cnJlbnQ7Cg==</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLldhcC5GZWF0dXJlcy5MbXNPZWMuRHRvczsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcGMyQ3VsdHVyZUFuZE9lY0Nvbm5lY3Rpb25zXD4=</last-search>
+      <last-search encoding="base64">XDxJbmZvcm1PZWNBYm91dE5ld1NwY1N1YnNjcmlwdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcGMyQ3VsdHVyZUFuZE9lY0Nvbm5lY3Rpb25zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxJbmZvcm1PZWNBYm91dE5ld1NwY1N1YnNjcmlwdGlvblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -498,14 +496,12 @@
         <entry>Factory</entry>
         <entry encoding="base64">XDxzcGNQdXNoTWFuYWdlclw+</entry>
         <entry>Translate</entry>
-        <entry encoding="base64">XDxJbmZvcm1PZWNBYm91dE5ld1NwY1N1YnNjcmlwdGlvblw+</entry>
         <entry>activeCulture</entry>
         <entry>TODO</entry>
         <entry>Verify</entry>
         <entry>GroupManager</entry>
         <entry encoding="base64">XDxncm91cE1hbmFnZXJNb2NrXD4=</entry>
         <entry>Group</entry>
-        <entry encoding="base64">XDxodWJDb250ZXh0TG9jYXRvclw+</entry>
         <entry encoding="base64">XDxodWJDb250ZXh0TG9jYXRvck1vY2tcPg==</entry>
         <entry encoding="base64">XDxDcmVhdGVIdWJDb250ZXh0TW9ja09lY1w+</entry>
         <entry>Sg</entry>
@@ -513,11 +509,14 @@
         <entry>hubContextLocatorMock</entry>
         <entry encoding="base64">XDxUcmFuc2xhdGVDb29yZGluYXRpb25zXD4=</entry>
         <entry encoding="base64">XDxzcGMyQ3VsdHVyZUFuZE9lY0Nvbm5lY3Rpb25zXD4=</entry>
+        <entry encoding="base64">XDxodWJDb250ZXh0TG9jYXRvclw+</entry>
+        <entry encoding="base64">XDxJbmZvcm1PZWNBYm91dE5ld1NwY1N1YnNjcmlwdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>wo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
