@@ -88,12 +88,6 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" timestamp="1556279381684">
-        <mark key="'" line="97" column="32" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/style/colors.js" timestamp="1556180899331">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="29" />
@@ -107,32 +101,19 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="68" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Details.js" timestamp="1556279379036">
-        <mark key="'" line="82" column="41" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="17" />
-        <mark key="." line="49" column="4" />
-        <mark key="^" line="49" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1556180949416">
         <mark key="'" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/handleHubMethodsSaga.js" timestamp="1556528751757">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/InstanceSelection.spec.js" timestamp="1556277858175">
         <mark key="[" line="48" column="66" />
         <mark key="]" line="49" column="64" />
         <mark key="^" line="49" column="64" />
         <mark key="." line="49" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/test/Details.spec.js" timestamp="1556279199038">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="57" column="5" />
-        <mark key="^" line="57" column="5" />
-        <mark key="." line="57" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/style/measurements.js" timestamp="1556175797327">
         <mark key="[" line="1" column="24" />
