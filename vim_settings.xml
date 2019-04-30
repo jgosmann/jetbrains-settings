@@ -9,12 +9,11 @@
         <mark key="^" line="82" column="22" />
         <mark key="." line="82" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" timestamp="1556619513590">
-        <mark key="'" line="48" column="11" />
-        <mark key="[" line="177" column="71" />
-        <mark key="]" line="177" column="77" />
-        <mark key="^" line="177" column="77" />
-        <mark key="." line="177" column="77" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" timestamp="1556623960375">
+        <mark key="'" line="49" column="11" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceForwardingToMiaTest.cs" timestamp="1556622307373">
         <mark key="[" line="45" column="50" />
@@ -40,12 +39,12 @@
         <mark key="^" line="186" column="24" />
         <mark key="." line="186" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" timestamp="1556619696935">
-        <mark key="'" line="104" column="33" />
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="68" />
-        <mark key="." line="41" column="68" />
-        <mark key="^" line="41" column="68" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" timestamp="1556623627972">
+        <mark key="'" line="101" column="33" />
+        <mark key="[" line="46" column="120" />
+        <mark key="]" line="46" column="120" />
+        <mark key="." line="46" column="120" />
+        <mark key="^" line="46" column="120" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" timestamp="1556622343150">
         <mark key="'" line="34" column="0" />
@@ -119,44 +118,44 @@
       <jump line="32" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>throw new System.NotImplementedException();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc3RyaW5nIHggPSBFbmNvZGluZy5BU0NJSS5HZXRTdHJpbmcoc3RyZWFtLlRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>throw new System.NotImplementedException();</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBhc3luYyBUYXNrIEJhdGNoUmVzZW5kKE1lc3NhZ2VRdWVyeUR0byBiYXRjaFJlc2VuZFF1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGNvbnRlbnQgPSBuZXcgU3RyZWFtQ29udGVudChzdHJlYW0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBvdmVycmlkZSBzdHJpbmcgRXhwZWN0ZWRDb250ZW50ID0+IHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgc3RyaW5nIHggPSBFbmNvZGluZy5BU0NJSS5HZXRTdHJpbmcoc3RyZWFtLlRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEh0dHBTdHJlYW0gc2VyaWFsaXplci47CiAgICAgIG5ldyBIdHRwU3RyZWFtCg==</text>
+        <text encoding="base64">Ly8gICAgICBzdHJpbmcgeCA9IGF3YWl0IGNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2VyaWFsaXplci5Xcml0ZU9iamVjdChyKTsK</text>
+        <text encoding="base64">ICAgICAgc3RyaW5nIHggPSBzdHJlYW0uVG9TdHJpbmcoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcXUK</text>
+        <text encoding="base64">ICAgICAgdmFyIGNvbnRlbnQgPSBuZXcgU3RyZWFtQ29udGVudChzdHJlYW0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLldhcC5TZXJ2aWNlcy5TcGNDb21tb24uU2VydmljZUJhc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGNvbnRlbnQgPSBuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLldlYjsK</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY29udGVudC5Ub1N0cmluZygpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vLyA8cmV0dXJucz48L3JldHVybnM+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">SHR0cE1ldGhvZC5QdXQuRXF1YWxzKG0uTWV0aG9kKQogICAgICAgICAgICAgICAgICAgICAgJiYgRXhwZWN0ZWRNaWFVcmkuRXF1YWxzKG0uUmVxdWVzdFVyaS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgICAgICAgJiYgRXhwZWN0ZWRDb250ZW50LkVxdWFscygobS5Db250ZW50ICE9IG51bGwpID8gbS5Db250ZW50LlRvU3RyaW5nKCkgOiAiIikKICAgICAgICAgICAgICAgICAgICAgICYmICJzZXNzaW9uLWlkIi5FcXVhbHMobS5IZWFkZXJzLkdldFZhbHVlcygiWC1Lcm9uZXMtQXV0aGVudGljYXRpb24iKS5TaW5nbGUoKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEl0LklzQW55PEh0dHBSZXF1ZXN0TWVzc2FnZT4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgbG9nNG5ldDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtID0+IEh0dHBNZXRob2QuUHV0LkVxdWFscyhtLk1ldGhvZCkKICAgICAgICAgICAgICAgICAgICAgICYmIEV4cGVjdGVkTWlhVXJpLkVxdWFscyhtLlJlcXVlc3RVcmkuVG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICYmIEV4cGVjdGVkQ29udGVudC5FcXVhbHMoKG0uQ29udGVudCAhPSBudWxsKSA/IG0uQ29udGVudC5Ub1N0cmluZygpIDogIiIpCiAgICAgICAgICAgICAgICAgICAgICAmJiAic2Vzc2lvbi1pZCIuRXF1YWxzKG0uSGVhZGVycy5HZXRWYWx1ZXMoIlgtS3JvbmVzLUF1dGhlbnRpY2F0aW9uIikuU2luZ2xlKCkpCiAgICAgICAgICBJdEV4cHIuSXNBbnk8SHR0cFJlcXVlc3RNZXNzYWdlPigpLCBJdEV4cHIuSXNBbnk8Q2FuY2VsbGF0aW9uVG9rZW4+KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
