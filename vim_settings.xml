@@ -14,6 +14,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceForwardingToMiaTest - Copy.cs" timestamp="1556615495729">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="24" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/Resend/ResendService.cs" timestamp="1556612880466">
         <mark key="[" line="34" column="28" />
         <mark key="]" line="34" column="52" />
@@ -24,6 +30,19 @@
         <mark key="[" line="17" column="25" />
         <mark key="]" line="17" column="26" />
         <mark key="." line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" timestamp="1556615954417">
+        <mark key="'" line="102" column="33" />
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="49" column="9" />
+        <mark key="." line="49" column="9" />
+        <mark key="^" line="49" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" timestamp="1556615066205">
+        <mark key="[" line="30" column="127" />
+        <mark key="]" line="30" column="127" />
+        <mark key="^" line="30" column="127" />
+        <mark key="." line="30" column="127" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Database/DatabaseConnection.config" timestamp="1556609745831">
         <mark key="[" line="8" column="87" />
@@ -45,53 +64,67 @@
         <mark key="]" line="38" column="59" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="26" column="50" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
+      <jump line="23" column="23" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
+      <jump line="99" column="33" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bSA9PiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bSA9PiA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAicmVjZWl2ZXIiKV0KICAgIHB1YmxpYyBzdHJpbmcgUmVjZWl2ZXIgeyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAibWVzc2FnZUZyb21EYXRlIildCiAgICBwdWJsaWMgc3RyaW5nIE1lc3NhZ2VEYXRlRnJvbSB7IGdldDsgc2V0OyB9CgogICAgW0RhdGFNZW1iZXIoTmFtZSA9ICJtZXNzYWdlVG9EYXRlIildCiAgICBwdWJsaWMgc3RyaW5nIE1lc3NhZ2VEYXRlVG8geyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAidHJhbnNtaXNzaW9uRnJvbURhdGUiKV0KICAgIHB1YmxpYyBzdHJpbmcgVHJhbnNtaXNzaW9uRGF0ZUZyb20geyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAidHJhbnNtaXNzaW9uVG9EYXRlIildCiAgICBwdWJsaWMgc3RyaW5nIFRyYW5zbWlzc2lvbkRhdGVUbyB7IGdldDsgc2V0OyB9CgogICAgW0RhdGFNZW1iZXIoTmFtZSA9ICJyZWZlcmVuY2VJZCIpXQogICAgcHVibGljIHN0cmluZyBSZWZlcmVuY2VJZCB7IGdldDsgc2V0OyB9CgogICAgW0RhdGFNZW1iZXIoTmFtZSA9ICJzZWFyY2hLZXl3b3JkIildCiAgICBwdWJsaWMgc3RyaW5nIFNlYXJjaEtleXdvcmQgeyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAibWVzc2FnZVN0YXRlcyIpXQogICAgcHVibGljIExpc3Q8c3RyaW5nPiBNZXNzYWdlU3RhdGVUZWNoRGVzY3MgeyBnZXQ7IHNldDsgfQo=</text>
+      <register name="/" type="4">
+        <text>service</text>
+      </register>
+      <register name="0" type="4">
+        <text>&quot;http://mia.host/MIA/AdditionalInfoRebuilderService/json/rebuildAdditionalInfo&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1FUy5LQmFzZS5Vc2VyTWFuYWdlbWVudDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBodHRwQ2xpZW50LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAic2VhcmNoS2V5d29yZCIpXQogICAgcHVibGljIHN0cmluZyBTZWFyY2hLZXl3b3JkIHsgZ2V0OyBzZXQ7IH0KCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNlcnZpY2UuQjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAidHJhbnNtaXNzaW9uRnJvbURhdGUiKV0KICAgIHB1YmxpYyBzdHJpbmcgVHJhbnNtaXNzaW9uRGF0ZUZyb20geyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAidHJhbnNtaXNzaW9uVG9EYXRlIildCiAgICBwdWJsaWMgc3RyaW5nIFRyYW5zbWlzc2lvbkRhdGVUbyB7IGdldDsgc2V0OyB9Cgo=</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLldhcC5GZWF0dXJlcy5JRmFjZU1vbml0b3JpbmcyLkludGVyZmFjZTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8c3lzdGVtLmRpYWdub3N0aWNzPgogICAgPHNvdXJjZXM+CiAgICAgIDxzb3VyY2UgbmFtZT0iU3lzdGVtLlNlcnZpY2VNb2RlbCIKICAgICAgICAgICAgICBzd2l0Y2hWYWx1ZT0iSW5mb3JtYXRpb24sIEFjdGl2aXR5VHJhY2luZyIKICAgICAgICAgICAgICBwcm9wYWdhdGVBY3Rpdml0eT0idHJ1ZSI+CiAgICAgICAgPGxpc3RlbmVycz4KICAgICAgICAgIDxhZGQgbmFtZT0idHJhY2VMaXN0ZW5lciIKICAgICAgICAgICAgICAgdHlwZT0iU3lzdGVtLkRpYWdub3N0aWNzLlhtbFdyaXRlclRyYWNlTGlzdGVuZXIiCiAgICAgICAgICAgICAgIGluaXRpYWxpemVEYXRhPSAiYzpcbG9nXFRyYWNlcy5zdmNsb2ciIC8+CiAgICAgICAgPC9saXN0ZW5lcnM+CiAgICAgIDwvc291cmNlPgogICAgPC9zb3VyY2VzPgogIDwvc3lzdGVtLmRpYWdub3N0aWNzPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSUludGVyZmFjZU1vbml0b3JpbmcyQWRtaW5BcGlTZXJ2aWNlIHNlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOyAvLyBUT0RPIGltcGxlbWVudCBhY3R1YWwgbG9naWMK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uTGlucTsKdXNpbmcgU3lzdGVtLkxpbnEuRXhwcmVzc2lvbnM7CnVzaW5nIFN5c3RlbS5OZXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlNlcnZpY2VNb2RlbC5XZWI7CnVzaW5nIFN5c3RlbS5UaHJlYWRpbmc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>service</last-search>
+      <last-offset />
+      <last-pattern>service</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>service</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
