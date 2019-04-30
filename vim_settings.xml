@@ -9,17 +9,19 @@
         <mark key="^" line="82" column="22" />
         <mark key="." line="82" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" timestamp="1556623960375">
-        <mark key="'" line="49" column="11" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" timestamp="1556625977487">
+        <mark key="'" line="176" column="13" />
+        <mark key="[" line="177" column="44" />
+        <mark key="]" line="177" column="44" />
+        <mark key="." line="177" column="44" />
+        <mark key="^" line="177" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceForwardingToMiaTest.cs" timestamp="1556622307373">
-        <mark key="[" line="45" column="50" />
-        <mark key="]" line="45" column="49" />
-        <mark key="." line="45" column="49" />
-        <mark key="^" line="45" column="49" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceForwardingToMiaTest.cs" timestamp="1556625925813">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="45" column="112" />
+        <mark key="]" line="45" column="112" />
+        <mark key="." line="45" column="112" />
+        <mark key="^" line="45" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceForwardingToMiaTest - Copy.cs" timestamp="1556616407912">
         <mark key="[" line="37" column="6" />
@@ -39,19 +41,19 @@
         <mark key="^" line="186" column="24" />
         <mark key="." line="186" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" timestamp="1556625509282">
-        <mark key="'" line="101" column="33" />
-        <mark key="[" line="104" column="5" />
-        <mark key="]" line="46" column="120" />
-        <mark key="." line="46" column="120" />
-        <mark key="^" line="46" column="120" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" timestamp="1556626218271">
+        <mark key="'" line="113" column="17" />
+        <mark key="[" line="109" column="72" />
+        <mark key="]" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+        <mark key="^" line="47" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" timestamp="1556622343150">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" timestamp="1556625890937">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="32" column="49" />
-        <mark key="]" line="32" column="51" />
-        <mark key="^" line="32" column="51" />
-        <mark key="." line="32" column="51" />
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="53" />
+        <mark key="^" line="32" column="53" />
+        <mark key="." line="32" column="53" />
       </file>
       <file name="/Dummy.cs" timestamp="1556612154245">
         <mark key="[" line="0" column="0" />
@@ -77,7 +79,8 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2AdminApiService.cs" timestamp="1556617238079">
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2AdminApiService.cs" timestamp="1556625659256">
+        <mark key="'" line="54" column="6" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="131" />
       </file>
@@ -110,16 +113,25 @@
     <jumps>
       <jump line="26" column="50" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
       <jump line="23" column="23" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
       <jump line="99" column="33" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
       <jump line="44" column="11" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" />
       <jump line="33" column="105" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/RestCallForwardingService.cs" />
       <jump line="15" column="4" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/RestCallForwardingService.cs" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
+      <jump line="106" column="39" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
+      <jump line="19" column="2" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
+      <jump line="108" column="5" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
+      <jump line="176" column="13" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" />
+      <jump line="501" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" />
+      <jump line="54" column="6" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2AdminApiService.cs" />
+      <jump line="112" column="17" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/AbstractForwardingToMiaTestFixture.cs" />
+      <jump line="45" column="23" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceForwardingToMiaTest.cs" />
+      <jump line="15" column="2" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceForwardingToMiaTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3RyaW5nIHggPSBFbmNvZGluZy5BU0NJSS5HZXRTdHJpbmcoc3RyZWFtLlRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJiYgRXhwZWN0ZWRDb250ZW50LkVxdWFscygobS5Db250ZW50ICE9IG51bGwpID8gbS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkuR2V0QXdhaXRlcigpLkdldFJlc3VsdCgpIDogIiIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -131,31 +143,31 @@
         <text encoding="base64">ICAgICAgdmFyIGNvbnRlbnQgPSBuZXcgU3RyZWFtQ29udGVudChzdHJlYW0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3RyaW5nIHggPSBFbmNvZGluZy5BU0NJSS5HZXRTdHJpbmcoc3RyZWFtLlRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJiYgRXhwZWN0ZWRDb250ZW50LkVxdWFscygobS5Db250ZW50ICE9IG51bGwpID8gbS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkuR2V0QXdhaXRlcigpLkdldFJlc3VsdCgpIDogIiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICBzdHJpbmcgeCA9IGF3YWl0IGNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
+        <text encoding="base64">ICAgICAgfQogICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgIHsKICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICB0aHJvdzsKICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3RyaW5nIHggPSBzdHJlYW0uVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGNvbnRlbnQgPSBuZXcgU3RyZWFtQ29udGVudChzdHJlYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgc3RyaW5nIHggPSBFbmNvZGluZy5BU0NJSS5HZXRTdHJpbmcoc3RyZWFtLlRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGNvbnRlbnQgPSBuCg==</text>
+        <text encoding="base64">Ly8gICAgICBzdHJpbmcgeCA9IGF3YWl0IGNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY29udGVudC5Ub1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgc3RyaW5nIHggPSBzdHJlYW0uVG9TdHJpbmcoKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">SHR0cE1ldGhvZC5QdXQuRXF1YWxzKG0uTWV0aG9kKQogICAgICAgICAgICAgICAgICAgICAgJiYgRXhwZWN0ZWRNaWFVcmkuRXF1YWxzKG0uUmVxdWVzdFVyaS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgICAgICAgJiYgRXhwZWN0ZWRDb250ZW50LkVxdWFscygobS5Db250ZW50ICE9IG51bGwpID8gbS5Db250ZW50LlRvU3RyaW5nKCkgOiAiIikKICAgICAgICAgICAgICAgICAgICAgICYmICJzZXNzaW9uLWlkIi5FcXVhbHMobS5IZWFkZXJzLkdldFZhbHVlcygiWC1Lcm9uZXMtQXV0aGVudGljYXRpb24iKS5TaW5nbGUoKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGNvbnRlbnQgPSBuZXcgU3RyZWFtQ29udGVudChzdHJlYW0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEl0LklzQW55PEh0dHBSZXF1ZXN0TWVzc2FnZT4oKQo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGNvbnRlbnQgPSBuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtID0+IEh0dHBNZXRob2QuUHV0LkVxdWFscyhtLk1ldGhvZCkKICAgICAgICAgICAgICAgICAgICAgICYmIEV4cGVjdGVkTWlhVXJpLkVxdWFscyhtLlJlcXVlc3RVcmkuVG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICYmIEV4cGVjdGVkQ29udGVudC5FcXVhbHMoKG0uQ29udGVudCAhPSBudWxsKSA/IG0uQ29udGVudC5Ub1N0cmluZygpIDogIiIpCiAgICAgICAgICAgICAgICAgICAgICAmJiAic2Vzc2lvbi1pZCIuRXF1YWxzKG0uSGVhZGVycy5HZXRWYWx1ZXMoIlgtS3JvbmVzLUF1dGhlbnRpY2F0aW9uIikuU2luZ2xlKCkpCiAgICAgICAgICBJdEV4cHIuSXNBbnk8SHR0cFJlcXVlc3RNZXNzYWdlPigpLCBJdEV4cHIuSXNBbnk8Q2FuY2VsbGF0aW9uVG9rZW4+KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoY29udGVudC5Ub1N0cmluZygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -185,6 +197,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
