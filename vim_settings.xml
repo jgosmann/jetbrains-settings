@@ -3,11 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/Resend/IResendService.cs" timestamp="1556611066571">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Database/DatabaseConnection.config" timestamp="1556609745831">
         <mark key="[" line="8" column="87" />
         <mark key="]" line="8" column="102" />
         <mark key="." line="8" column="102" />
         <mark key="^" line="8" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/Resend/BatchResendQueryDto.cs" timestamp="1556611068861">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/Resend/ResendService.cs" timestamp="1556611152267">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="37" column="35" />
+        <mark key="." line="37" column="35" />
+        <mark key="^" line="37" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MESERP/ERPAdapter/B2MMLOverNetworkShare/Configuration/Adapter/B2MMLNetworkShareConfiguration.config" timestamp="1556609916890">
         <mark key="[" line="17" column="25" />
@@ -17,14 +34,26 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>KR_IFACE</text>
+      <register name="0" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIE1pYS5JbnRlcmZhY2UuU2VydmljZS5XZWIuUmVzZW5kCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuOyAvLyBUT0RPIGltcGxlbWVudCBhY3R1YWwgbG9naWMK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuOyAvLyBUT0RPIGltcGxlbWVudCBhY3R1YWwgbG9naWMK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIE1pYS5TZXJ2aWNlLldlYi5SZXNlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>KR_IFACE</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
