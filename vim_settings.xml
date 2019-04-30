@@ -16,6 +16,9 @@
         <mark key="." line="181" column="81" />
         <mark key="^" line="181" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" timestamp="1556630856100">
+        <mark key="'" line="194" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceForwardingToMiaTest.cs" timestamp="1556625925813">
         <mark key="'" line="15" column="2" />
         <mark key="[" line="45" column="112" />
@@ -49,7 +52,7 @@
         <mark key="^" line="48" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2AdminApiServiceTest.cs" timestamp="1556625890937">
-        <mark key="'" line="112" column="0" />
+        <mark key="'" line="34" column="0" />
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="53" />
         <mark key="^" line="0" column="53" />
@@ -128,6 +131,8 @@
       <jump line="181" column="32" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" />
       <jump line="179" column="37" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
+      <jump line="349" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/SignalR/OecHubTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -203,7 +208,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
