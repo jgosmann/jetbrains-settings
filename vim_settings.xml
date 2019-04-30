@@ -3,11 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/Resend/IResendService.cs" timestamp="1556611066571">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="42" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="47" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/Resend/IResendService.cs" timestamp="1556612873680">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="45" />
+        <mark key="^" line="30" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/App.config" timestamp="1556612647443">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/Resend/ResendService.cs" timestamp="1556612880466">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="52" />
+        <mark key="." line="34" column="52" />
+        <mark key="^" line="34" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MESERP/ERPAdapter/B2MMLOverNetworkShare/Configuration/Adapter/B2MMLNetworkShareConfiguration.config" timestamp="1556609916890">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Database/DatabaseConnection.config" timestamp="1556609745831">
         <mark key="[" line="8" column="87" />
@@ -15,45 +31,60 @@
         <mark key="." line="8" column="102" />
         <mark key="^" line="8" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/Resend/BatchResendQueryDto.cs" timestamp="1556611068861">
+      <file name="/Dummy.cs" timestamp="1556612154245">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/Resend/ResendService.cs" timestamp="1556611152267">
-        <mark key="[" line="36" column="6" />
-        <mark key="]" line="37" column="35" />
-        <mark key="." line="37" column="35" />
-        <mark key="^" line="37" column="35" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/Resend/BatchResendQueryDto.cs" timestamp="1556613155070">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MESERP/ERPAdapter/B2MMLOverNetworkShare/Configuration/Adapter/B2MMLNetworkShareConfiguration.config" timestamp="1556609916890">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Interface/MessageQueryDto.cs" timestamp="1556613240538">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="38" column="59" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIE1pYS5JbnRlcmZhY2UuU2VydmljZS5XZWIuUmVzZW5kCg==</text>
+        <text encoding="base64">ICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAicmVjZWl2ZXIiKV0KICAgIHB1YmxpYyBzdHJpbmcgUmVjZWl2ZXIgeyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAibWVzc2FnZUZyb21EYXRlIildCiAgICBwdWJsaWMgc3RyaW5nIE1lc3NhZ2VEYXRlRnJvbSB7IGdldDsgc2V0OyB9CgogICAgW0RhdGFNZW1iZXIoTmFtZSA9ICJtZXNzYWdlVG9EYXRlIildCiAgICBwdWJsaWMgc3RyaW5nIE1lc3NhZ2VEYXRlVG8geyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAidHJhbnNtaXNzaW9uRnJvbURhdGUiKV0KICAgIHB1YmxpYyBzdHJpbmcgVHJhbnNtaXNzaW9uRGF0ZUZyb20geyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAidHJhbnNtaXNzaW9uVG9EYXRlIildCiAgICBwdWJsaWMgc3RyaW5nIFRyYW5zbWlzc2lvbkRhdGVUbyB7IGdldDsgc2V0OyB9CgogICAgW0RhdGFNZW1iZXIoTmFtZSA9ICJyZWZlcmVuY2VJZCIpXQogICAgcHVibGljIHN0cmluZyBSZWZlcmVuY2VJZCB7IGdldDsgc2V0OyB9CgogICAgW0RhdGFNZW1iZXIoTmFtZSA9ICJzZWFyY2hLZXl3b3JkIildCiAgICBwdWJsaWMgc3RyaW5nIFNlYXJjaEtleXdvcmQgeyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAibWVzc2FnZVN0YXRlcyIpXQogICAgcHVibGljIExpc3Q8c3RyaW5nPiBNZXNzYWdlU3RhdGVUZWNoRGVzY3MgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOyAvLyBUT0RPIGltcGxlbWVudCBhY3R1YWwgbG9naWMK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOyAvLyBUT0RPIGltcGxlbWVudCBhY3R1YWwgbG9naWMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIE1pYS5TZXJ2aWNlLldlYi5SZXNlbmQK</text>
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAic2VhcmNoS2V5d29yZCIpXQogICAgcHVibGljIHN0cmluZyBTZWFyY2hLZXl3b3JkIHsgZ2V0OyBzZXQ7IH0KCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAidHJhbnNtaXNzaW9uRnJvbURhdGUiKV0KICAgIHB1YmxpYyBzdHJpbmcgVHJhbnNtaXNzaW9uRGF0ZUZyb20geyBnZXQ7IHNldDsgfQoKICAgIFtEYXRhTWVtYmVyKE5hbWUgPSAidHJhbnNtaXNzaW9uVG9EYXRlIildCiAgICBwdWJsaWMgc3RyaW5nIFRyYW5zbWlzc2lvbkRhdGVUbyB7IGdldDsgc2V0OyB9Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8c3lzdGVtLmRpYWdub3N0aWNzPgogICAgPHNvdXJjZXM+CiAgICAgIDxzb3VyY2UgbmFtZT0iU3lzdGVtLlNlcnZpY2VNb2RlbCIKICAgICAgICAgICAgICBzd2l0Y2hWYWx1ZT0iSW5mb3JtYXRpb24sIEFjdGl2aXR5VHJhY2luZyIKICAgICAgICAgICAgICBwcm9wYWdhdGVBY3Rpdml0eT0idHJ1ZSI+CiAgICAgICAgPGxpc3RlbmVycz4KICAgICAgICAgIDxhZGQgbmFtZT0idHJhY2VMaXN0ZW5lciIKICAgICAgICAgICAgICAgdHlwZT0iU3lzdGVtLkRpYWdub3N0aWNzLlhtbFdyaXRlclRyYWNlTGlzdGVuZXIiCiAgICAgICAgICAgICAgIGluaXRpYWxpemVEYXRhPSAiYzpcbG9nXFRyYWNlcy5zdmNsb2ciIC8+CiAgICAgICAgPC9saXN0ZW5lcnM+CiAgICAgIDwvc291cmNlPgogICAgPC9zb3VyY2VzPgogIDwvc3lzdGVtLmRpYWdub3N0aWNzPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuOyAvLyBUT0RPIGltcGxlbWVudCBhY3R1YWwgbG9naWMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
       </register>
     </registers>
     <search>
@@ -65,6 +96,13 @@
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
