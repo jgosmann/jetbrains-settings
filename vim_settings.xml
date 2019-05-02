@@ -2,22 +2,86 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.DbConnectivity.Services/DbConnectivityChecker.cs" timestamp="1556791095895">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="22" column="55" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.DbConnectivity.Services.Tests/DbConnectivityCheckerTest.cs" timestamp="1556791063784">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="23" column="60" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.DbConnectivity.Services/Launcher/DbConnectivityLauncher.cs" timestamp="1556790928850">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkRhdGEuQ29tbW9uOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>DbConnectivityChecker</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmVnaXN0cnkuQWRkVHJhbnNpZW50PElEYkNvbm5lY3Rpdml0eUNoZWNrZXI+KHR5cGVvZiAoRGJDb25uZWN0aXZpdHlDaGVja2VyKSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkRhdGEuQ29tbW9uOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3Qgc3RyaW5nIEdpdmVuQ29ubmVjdGlvblN0cmluZyA9ICJnaXZlbiBjb25uZWN0aW9uIHN0cmluZyI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBEYkNvbm5lY3Rpdml0eVNlcnZpY2Uoc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcpIDogdGhpcyhuZXcgRGJDb25uZWN0aXZpdHlDaGVja2VyKGNvbm5lY3Rpb25TdHJpbmcpLCBuZXcgVGhyZWFkaW5nVGltZXJFdmVudFNvdXJjZSgpKSB7IH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmc7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jb25uZWN0aW9uU3RyaW5nID0gY29ubmVjdGlvblN0cmluZzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBEYkNvbm5lY3Rpdml0eUNoZWNrZXIoc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcpIDogdGhpcyhjb25uZWN0aW9uU3RyaW5nLCBuZXcgU3FsQ29ubmVjdGlvbkZhY3RvcnkoKSkgeyB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
