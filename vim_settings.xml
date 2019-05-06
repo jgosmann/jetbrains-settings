@@ -86,10 +86,16 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1557151288341">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/B2MMLInterfaceRepositoryTest.cs" timestamp="1557155548113">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1557154817950">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="50" />
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
@@ -135,43 +141,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SXQuSXM8TWVzc2FnZUZpbHRlckR0bz4oZHRvID0+CiAgICAgICAgICBkdG8uU3Vic2NyaWJlciA9PSAiZ2l2ZW4gc3Vic2NyaWJlciIKICAgICAgICAgICYmIGR0by5Db21wb25lbnRJZCA9PSAiZ2l2ZW4gY29tcG9uZW50IGlkIgogICAgICAgICAgJiYgZHRvLk1lc3NhZ2VEYXRlRnJvbS5FcXVhbHMoZ2l2ZW5Gcm9tRGF0ZSkKICAgICAgICAgICYmIGR0by5NZXNzYWdlRGF0ZVRvLkVxdWFscyhnaXZlblRvRGF0ZSkKICAgICAgICAgICYmIGR0by5NZXNzYWdlU3RhdGVzLlppcChnaXZlbk1lc3NhZ2VTdGF0ZXMsIChhLCBiKSA9PiBhID09IGIpLkFsbCh4ID0+IHgpCiAgICAgICAgICAp</text>
+        <text>&quot;GivenFilters&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Query</text>
+        <text>&quot;GivenFilters&quot;</text>
       </register>
       <register name="/" type="4">
         <text>FindRange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJUmVhZE9ubHlDb2xsZWN0aW9uPE1lc3NhZ2VEVE8+IEdldE1lc3NhZ2VEdG9zKE1lc3NhZ2VRdWVyeUR0byBxdWVyeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1lc3NhZ2VGaWx0ZXJEdG8ge1N1YnNjcmliZXIgPSAidGFyZ2V0IHN1YnNjcmliZXIifSwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">SXQuSXM8TWVzc2FnZUZpbHRlckR0bz4oZHRvID0+CiAgICAgICAgICBkdG8uU3Vic2NyaWJlciA9PSAiZ2l2ZW4gc3Vic2NyaWJlciIKICAgICAgICAgICYmIGR0by5Db21wb25lbnRJZCA9PSAiZ2l2ZW4gY29tcG9uZW50IGlkIgogICAgICAgICAgJiYgZHRvLk1lc3NhZ2VEYXRlRnJvbS5FcXVhbHMoZ2l2ZW5Gcm9tRGF0ZSkKICAgICAgICAgICYmIGR0by5NZXNzYWdlRGF0ZVRvLkVxdWFscyhnaXZlblRvRGF0ZSkKICAgICAgICAgICYmIGR0by5NZXNzYWdlU3RhdGVzLlppcChnaXZlbk1lc3NhZ2VTdGF0ZXMsIChhLCBiKSA9PiBhID09IGIpLkFsbCh4ID0+IHgpCiAgICAgICAgICAp</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGdpdmVuRnJvbURhdGUgPSBuZXcgRGF0ZVRpbWUoMjAwMSwgMSwgMSk7CiAgICAgIHZhciBnaXZlblRvRGF0ZSA9IG5ldyBEYXRlVGltZSgyMDAxLCAyLCAyKTsKICAgICAgdmFyIGdpdmVuTWVzc2FnZVN0YXRlcyA9IG5ldyBMaXN0PE1lc3NhZ2VTdGF0ZT4KICAgICAgewogICAgICAgICAgICAgIE1lc3NhZ2VTdGF0ZS5EYXRhSW5Qcm92aXNpb24sCiAgICAgICAgICAgICAgTWVzc2FnZVN0YXRlLldhaXRpbmdGb3JBY2tub3dsZWRnZQogICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIG5ldyBNZXNzYWdlRmlsdGVyRHRvIHtTdWJzY3JpYmVyID0gInRhcmdldCBzdWJzY3JpYmVyIn0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5TZXJ2aWNlLkR0bzsK</text>
+      <register name="3" type="4">
+        <text>[Values(
+            
+        )]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5TZXJ2aWNlLkR0bzsK</text>
+        <text encoding="base64">ICAgICAgdmFyIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bmV3IE1lc3NhZ2VGaWx0ZXJEdG8KICAgICAgewogICAgICAgICAgICAgIFN1YnNjcmliZXIgPSBxdWVyeS5TdWJzY3JpYmVyLAogICAgICAgICAgICAgIENvbXBvbmVudElkID0gcXVlcnkuQ29tcG9uZW50SWQsCiAgICAgICAgICAgICAgTWVzc2FnZURhdGVGcm9tID0gcXVlcnkuTWVzc2FnZURhdGVGcm9tLAogICAgICAgICAgICAgIE1lc3NhZ2VEYXRlVG8gPSBxdWVyeS5NZXNzYWdlRGF0ZVRvLAogICAgICAgICAgICAgIE1lc3NhZ2VTdGF0ZXMgPSBuZXcgTGlzdDxNZXNzYWdlU3RhdGU+KHF1ZXJ5Lk1lc3NhZ2VTdGF0ZXMpCiAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29udmVydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5TZXJ2aWNlLkR0bzsK</text>
+        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cmVwb3NpdG9yeSA9PiByZXBvc2l0b3J5LkZpbmRXaGVyZShJdC5JczxNZXNzYWdlRmlsdGVyRHRvPihkdG8gPT4gRXF1YWxzKAogICAgICAgICAgZHRvLlN1YnNjcmliZXIgPT0gImdpdmVuIHN1YnNjcmliZXIiCiAgICAgICAgICAmJiBkdG8uQ29tcG9uZW50SWQgPT0gImdpdmVuIGNvbXBvbmVudCBpZCIKICAgICAgICAgICYmIGR0by5NZXNzYWdlRGF0ZUZyb20uRXF1YWxzKGdpdmVuRnJvbURhdGUpCiAgICAgICAgICAmJiBkdG8uTWVzc2FnZURhdGVUby5FcXVhbHMoZ2l2ZW5Ub0RhdGUpCiAgICAgICAgICAmJiBkdG8uTWVzc2FnZVN0YXRlcy5FcXVhbHMoZ2l2ZW5NZXNzYWdlU3RhdGVzKSkp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1lc3NhZ2VTdGF0ZXMgPSBuZXcgTGlzdDxNZXNzYWdlU3RhdGU+KE1lc3NhZ2VTdGF0ZS5EYXRhSW5Qcm92aXNpb24sIE1lc3NhZ2VTdGF0ZS5XYWl0aW5nRm9yQWNrbm93bGVkZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5ldyBNZXNzYWdlIHtTdWJzY3JpYmVyID0gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -209,6 +217,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
