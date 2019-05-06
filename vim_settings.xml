@@ -35,6 +35,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/Configuration/CFWCodeMessages.cs" timestamp="1557127915903">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Microservices/OEC/Krones.Lms.Oec.Module.Edges/BusinessObjects/EquipmentCoordinator.cs" timestamp="1556807711670">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -52,14 +58,27 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/DataMapping/NHibernate/HibernateTransactionManager.cs" timestamp="1557127967559">
+        <mark key="'" line="56" column="10" />
+        <mark key="[" line="107" column="65" />
+        <mark key="]" line="107" column="65" />
+        <mark key="^" line="107" column="65" />
+        <mark key="." line="107" column="65" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="14" column="24" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/DataMapping/NHibernate/HibernateTransactionManager.cs" />
+      <jump line="54" column="10" filename="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/DataMapping/NHibernate/HibernateTransactionManager.cs" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;DB connection could not be established.&quot;</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;DB connection could not be established.&quot;</text>
+        <text encoding="base64">ICAg</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxDaGVja1dvcmtlclNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmVnaXN0cnkuQWRkVHJhbnNpZW50PElEYkNvbm5lY3Rpdml0eUNoZWNrZXI+KHR5cGVvZiAoRGJDb25uZWN0aXZpdHlDaGVja2VyKSk7Cg==</text>
@@ -96,11 +115,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxDaGVja1dvcmtlclNlcnZpY2VcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxDaGVja1dvcmtlclNlcnZpY2VcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxDaGVja1dvcmtlclNlcnZpY2VcPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>wa</entry>
         <entry>w</entry>
