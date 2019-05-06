@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/Dto/MessageFilterDto.cs" timestamp="1557151229816">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/Dto/MessageFilterDto.cs" timestamp="1557152185693">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="64" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageFilterDto.cs" timestamp="1557153830928">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/BaseTransmissionDTO.cs" timestamp="1557132243832" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/Configuration/CFWCodeMessages.cs" timestamp="1557127915903">
@@ -27,26 +33,34 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" timestamp="1557146013803">
-        <mark key="[" line="237" column="92" />
-        <mark key="]" line="237" column="92" />
-        <mark key="^" line="237" column="92" />
-        <mark key="." line="237" column="92" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" timestamp="1557154013766">
+        <mark key="[" line="165" column="72" />
+        <mark key="]" line="165" column="82" />
+        <mark key="." line="165" column="82" />
+        <mark key="^" line="165" column="82" />
+        <mark key="n" line="168" column="102" />
       </file>
       <file name="/Dummy.cs" timestamp="1557137277322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ResenderService.cs" timestamp="1557140307919">
-        <mark key="[" line="167" column="34" />
-        <mark key="]" line="167" column="44" />
-        <mark key="." line="167" column="44" />
-        <mark key="^" line="167" column="44" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ResenderService.cs" timestamp="1557153901467">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="101" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IResenderService.cs" timestamp="1557139880368">
-        <mark key="[" line="12" column="51" />
-        <mark key="]" line="12" column="51" />
-        <mark key="^" line="12" column="51" />
-        <mark key="." line="12" column="51" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/Dto/MessageQueryDto.cs" timestamp="1557152220651">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IResenderService.cs" timestamp="1557153862993">
+        <mark key="'" line="11" column="63" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Persistence/Hibernate/Mia.Persistence.Hibernate/Mapper/HibernateDataMapper.cs" timestamp="1557149458542">
         <mark key="[" line="126" column="43" />
@@ -73,11 +87,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1557151288341">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/DataMapping/NHibernate/HibernateTransactionManager.cs" timestamp="1557127967559">
         <mark key="'" line="56" column="10" />
@@ -117,46 +131,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" />
       <jump line="13" column="62" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLInterfaceRepository.cs" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" />
+      <jump line="12" column="63" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IResenderService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text encoding="base64">SXQuSXM8TWVzc2FnZUZpbHRlckR0bz4oZHRvID0+CiAgICAgICAgICBkdG8uU3Vic2NyaWJlciA9PSAiZ2l2ZW4gc3Vic2NyaWJlciIKICAgICAgICAgICYmIGR0by5Db21wb25lbnRJZCA9PSAiZ2l2ZW4gY29tcG9uZW50IGlkIgogICAgICAgICAgJiYgZHRvLk1lc3NhZ2VEYXRlRnJvbS5FcXVhbHMoZ2l2ZW5Gcm9tRGF0ZSkKICAgICAgICAgICYmIGR0by5NZXNzYWdlRGF0ZVRvLkVxdWFscyhnaXZlblRvRGF0ZSkKICAgICAgICAgICYmIGR0by5NZXNzYWdlU3RhdGVzLlppcChnaXZlbk1lc3NhZ2VTdGF0ZXMsIChhLCBiKSA9PiBhID09IGIpLkFsbCh4ID0+IHgpCiAgICAgICAgICAp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>Query</text>
       </register>
       <register name="/" type="4">
         <text>FindRange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJRW51bWVyYWJsZTxNZXNzYWdlRFRPPiBGaW5kV2hlcmUoTWVzc2FnZUZpbHRlckR0byBmaWx0ZXIpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJUmVhZE9ubHlDb2xsZWN0aW9uPE1lc3NhZ2VEVE8+IEdldE1lc3NhZ2VEdG9zKE1lc3NhZ2VRdWVyeUR0byBxdWVyeSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">SXQuSXM8TWVzc2FnZUZpbHRlckR0bz4oZHRvID0+CiAgICAgICAgICBkdG8uU3Vic2NyaWJlciA9PSAiZ2l2ZW4gc3Vic2NyaWJlciIKICAgICAgICAgICYmIGR0by5Db21wb25lbnRJZCA9PSAiZ2l2ZW4gY29tcG9uZW50IGlkIgogICAgICAgICAgJiYgZHRvLk1lc3NhZ2VEYXRlRnJvbS5FcXVhbHMoZ2l2ZW5Gcm9tRGF0ZSkKICAgICAgICAgICYmIGR0by5NZXNzYWdlRGF0ZVRvLkVxdWFscyhnaXZlblRvRGF0ZSkKICAgICAgICAgICYmIGR0by5NZXNzYWdlU3RhdGVzLlppcChnaXZlbk1lc3NhZ2VTdGF0ZXMsIChhLCBiKSA9PiBhID09IGIpLkFsbCh4ID0+IHgpCiAgICAgICAgICAp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGdpdmVuRnJvbURhdGUgPSBuZXcgRGF0ZVRpbWUoMjAwMSwgMSwgMSk7CiAgICAgIHZhciBnaXZlblRvRGF0ZSA9IG5ldyBEYXRlVGltZSgyMDAxLCAyLCAyKTsKICAgICAgdmFyIGdpdmVuTWVzc2FnZVN0YXRlcyA9IG5ldyBMaXN0PE1lc3NhZ2VTdGF0ZT4KICAgICAgewogICAgICAgICAgICAgIE1lc3NhZ2VTdGF0ZS5EYXRhSW5Qcm92aXNpb24sCiAgICAgICAgICAgICAgTWVzc2FnZVN0YXRlLldhaXRpbmdGb3JBY2tub3dsZWRnZQogICAgICB9Owo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5TZXJ2aWNlLkR0bzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgTWVzc2FnZUZpbHRlckR0bwogIHsKICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5TZXJ2aWNlLkR0bzsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBNZXNzYWdlRmlsdGVyRHRvCiAgICB7CiAgICAgIHB1YmxpYyBzdHJpbmcgU3Vic2NyaWJlciB7IGdldDsgc2V0OyB9CiAgICAgIHB1YmxpYyBzdHJpbmcgQ29tcG9uZW50SWQgeyBnZXQ7IHNldDsgfQogICAgICBwdWJsaWMgRGF0ZVRpbWUgTWVzc2FnZURhdGVGcm9tIHsgZ2V0OyBzZXQ7IH0KICAgICAgcHVibGljIERhdGVUaW1lIE1lc3NhZ2VEYXRlVG8geyBnZXQ7IHNldDsgfQogICAgICBwdWJsaWMgc3RyaW5nIFJlZmVyZW5jZUlkIHsgZ2V0OyBzZXQ7IH0KICAgICAgcHVibGljIElDb2xsZWN0aW9uPE1lc3NhZ2VTdGF0ZT4gTWVzc2FnZVN0YXRlVGVjaERlc2NzIHsgZ2V0OyBzZXQ7IH0KICAgIH0KCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">bmV3IE1lc3NhZ2VGaWx0ZXJEdG8KICAgICAgewogICAgICAgICAgICAgIFN1YnNjcmliZXIgPSBxdWVyeS5TdWJzY3JpYmVyLAogICAgICAgICAgICAgIENvbXBvbmVudElkID0gcXVlcnkuQ29tcG9uZW50SWQsCiAgICAgICAgICAgICAgTWVzc2FnZURhdGVGcm9tID0gcXVlcnkuTWVzc2FnZURhdGVGcm9tLAogICAgICAgICAgICAgIE1lc3NhZ2VEYXRlVG8gPSBxdWVyeS5NZXNzYWdlRGF0ZVRvLAogICAgICAgICAgICAgIE1lc3NhZ2VTdGF0ZXMgPSBuZXcgTGlzdDxNZXNzYWdlU3RhdGU+KHF1ZXJ5Lk1lc3NhZ2VTdGF0ZXMpCiAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIHN0cmluZyBSZWNlaXZlciB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5TZXJ2aWNlLkR0bzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">cmVwb3NpdG9yeSA9PiByZXBvc2l0b3J5LkZpbmRXaGVyZShJdC5JczxNZXNzYWdlRmlsdGVyRHRvPihkdG8gPT4gRXF1YWxzKAogICAgICAgICAgZHRvLlN1YnNjcmliZXIgPT0gImdpdmVuIHN1YnNjcmliZXIiCiAgICAgICAgICAmJiBkdG8uQ29tcG9uZW50SWQgPT0gImdpdmVuIGNvbXBvbmVudCBpZCIKICAgICAgICAgICYmIGR0by5NZXNzYWdlRGF0ZUZyb20uRXF1YWxzKGdpdmVuRnJvbURhdGUpCiAgICAgICAgICAmJiBkdG8uTWVzc2FnZURhdGVUby5FcXVhbHMoZ2l2ZW5Ub0RhdGUpCiAgICAgICAgICAmJiBkdG8uTWVzc2FnZVN0YXRlcy5FcXVhbHMoZ2l2ZW5NZXNzYWdlU3RhdGVzKSkp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnEuRXhwcmVzc2lvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE1lc3NhZ2VTdGF0ZXMgPSBuZXcgTGlzdDxNZXNzYWdlU3RhdGU+KE1lc3NhZ2VTdGF0ZS5EYXRhSW5Qcm92aXNpb24sIE1lc3NhZ2VTdGF0ZS5XYWl0aW5nRm9yQWNrbm93bGVkZ2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -176,6 +191,7 @@
       </history-search>
       <history-cmd>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -190,6 +206,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
