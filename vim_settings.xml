@@ -45,24 +45,24 @@
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLTransmissionRepository.cs" timestamp="1557218285965">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="126" />
-        <mark key="^" line="52" column="50" />
-        <mark key="." line="52" column="50" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLTransmissionRepository.cs" timestamp="1557220364573">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="13" />
+        <mark key="." line="44" column="13" />
+        <mark key="^" line="44" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/B2MMLTransmissionRepositoryTest.cs" timestamp="1557218058362">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/B2MMLTransmissionRepositoryTest.cs" timestamp="1557219719970">
         <mark key="'" line="9" column="9" />
-        <mark key="[" line="36" column="58" />
-        <mark key="]" line="36" column="58" />
-        <mark key="^" line="36" column="58" />
-        <mark key="." line="36" column="58" />
+        <mark key="[" line="85" column="62" />
+        <mark key="]" line="85" column="62" />
+        <mark key="." line="85" column="62" />
+        <mark key="^" line="85" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ResenderService.cs" timestamp="1557153901467">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="101" column="80" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ResenderService.cs" timestamp="1557220594841">
+        <mark key="[" line="108" column="73" />
+        <mark key="]" line="108" column="72" />
+        <mark key="." line="108" column="72" />
+        <mark key="^" line="108" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/Dto/MessageQueryDto.cs" timestamp="1557152220651">
         <mark key="[" line="9" column="43" />
@@ -177,11 +177,11 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLTransmissionRepository.cs" timestamp="1557218295317">
-        <mark key="[" line="12" column="119" />
-        <mark key="]" line="12" column="119" />
-        <mark key="." line="12" column="119" />
-        <mark key="^" line="12" column="119" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLTransmissionRepository.cs" timestamp="1557219827289">
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="11" column="70" />
+        <mark key="." line="11" column="70" />
+        <mark key="^" line="11" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/BaseTransmissionConverter.cs" timestamp="1557212087284">
         <mark key="[" line="42" column="4" />
@@ -214,43 +214,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>b2MMLInterfaceIds</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>b2MMLInterfaceIds</text>
       </register>
       <register name="/" type="4">
         <text>FindRange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJRW51bWVyYWJsZTxUcmFuc21pc3Npb25EVE8+IEZpbmRBbGxCeUIyTU1MSW50ZXJmYWNlSWRBbmRTZW5kZXIoSUVudW1lcmFibGU8bG9uZz4gYjJtbWxJbnRlcmZhY2VJZHMsIHN0cmluZyBzZW5kZXIpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gQXJyYW5nZQogICAgICB2YXIgZ2l2ZW5EYXRhID0gbmV3IExpc3Q8VHJhbnNtaXNzaW9uPiB7VHJhbnNtaXNzaW9uRXhwZWN0ZWRUb0JlUmV0dXJuZWQsIFRyYW5zbWlzc2lvbldpdGhBbm90aGVyU2VuZGVyLCBUcmFuc21pc3Npb25XaXRoQW5vdGhlck1lc3NhZ2VJZH07CiAgICAgIHZhciBnaXZlblJlc3VsdCA9IG5ldyBMaXN0PFRyYW5zbWlzc2lvbkRUTz4oKTsKCiAgICAgIGRhdGFNYXBwZXJNb2NrLlNldHVwKG0gPT4gbS5MaW5xU2Vzc2lvbigpKS5SZXR1cm5zKGdpdmVuRGF0YS5Bc1F1ZXJ5YWJsZSgpKTsKICAgICAgY29udmVydGVyTW9jay5TZXR1cChtID0+IG0uTWFwKEl0LklzQW55PElFbnVtZXJhYmxlPFRyYW5zbWlzc2lvbj4+KCkpKS5SZXR1cm5zKGdpdmVuUmVzdWx0KTsKICAgICAgCiAgICAgIC8vIEFjdAogICAgICB2YXIgYWN0dWFsUmVzdWx0ID0gcmVwb3NpdG9yeS5GaW5kQWxsQnlCMk1NTEludGVyZmFjZUlkQW5kU2VuZGVyKG5ldyBbXXtHaXZlbk1lc3NhZ2VJZH0sICJ0YXJnZXQgc2VuZGVyIik7CiAgICAgIAogICAgICAvLyBBc3NlcnQKICAgICAgY29udmVydGVyTW9jay5WZXJpZnkobSA9PiBtLk1hcChJdC5JczxJUXVlcnlhYmxlPFRyYW5zbWlzc2lvbj4+KAogICAgICAgICAgICAgIHF1ZXJ5YWJsZSA9PiBxdWVyeWFibGUuU2luZ2xlKCkgPT0gVHJhbnNtaXNzaW9uRXhwZWN0ZWRUb0JlUmV0dXJuZWQpKSwgVGltZXMuT25jZSk7CiAgICAgIGFjdHVhbFJlc3VsdC5TaG91bGQoKS5FcXVhbChnaXZlblJlc3VsdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBMaXN0PFRyYW5zbWlzc2lvbkRUTz4oKTsK</text>
+        <text encoding="base64">ICAgICAgSUVudW1lcmFibGU8PiBpZEJhdGNoOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLldlYi5VSS5XZWJDb250cm9sczsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaWRCYXRjaCA9IGIyTU1MSW50ZXJmYWNlSWRzLlRha2UoYmF0Y2hTaXplKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiMk1NTEludGVyZmFjZUlkcy5SZW1vdmVSYW5nZSgwLCBiYXRjaFNpemUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY291bnQgPSBiMk1NTEludGVyZmFjZUlkcy5Db3VudDsKICAgICAgICBpZiAoY291bnQgPCBiYXRjaFNpemUpCiAgICAgICAgICBiYXRjaFNpemUgPSBjb3VudDsKCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIHZhciByZXBvc2l0b3J5ID0gbmV3IEIyTU1MSW50ZXJmYWNlUmVwb3NpdG9yeShkYXRhTWFwcGVyTW9jay5PYmplY3QsIGNvbnZlcnRlck1vY2suT2JqZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY291bnQgPSBiMk1NTEludGVyZmFjZUlkcy5Db3VudDsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQgPCBiYXRjaFNpemUpCiAgICAgICAgICBiYXRjaFNpemUgPSBjb3VudDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGNvbnZlcnRlck1vY2sgPSBuZXcgTW9jazxJQ29udmVydGVyPE1lc3NhZ2UsIE1lc3NhZ2VEVE8+PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiMk1NTEludGVyZmFjZUlkcy5SZW1vdmVSYW5nZSgwLCBiYXRjaFNpemUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGRhdGFNYXBwZXJNb2NrID0gbmV3IE1vY2s8SURhdGFNYXBwZXI8TWVzc2FnZT4+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChsb25nIGkgPSAwOyBpIDwgYjJNTUxJbnRlcmZhY2VJZHMuQ291bnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
