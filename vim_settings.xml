@@ -49,10 +49,6 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActiveEdgeIndicator.js" timestamp="1556179052561">
         <mark key="'" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/DetailsPaperHeader.js" timestamp="1556180278733">
-        <mark key="'" line="56" column="0" />
-        <mark key="^" line="12" column="56" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestHttpClient.cs" timestamp="1556028950557">
         <mark key="'" line="0" column="0" />
       </file>
@@ -94,11 +90,23 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" timestamp="1557310500820">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/style/colors.js" timestamp="1556180899331">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="29" />
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/wapUrlHelper.js" timestamp="1557310580006">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="37" column="64" />
+        <mark key="^" line="37" column="64" />
+        <mark key="." line="37" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminPage/AdminPage.js" timestamp="1556175942767">
         <mark key="'" line="43" column="14" />
@@ -176,53 +184,55 @@
       <jump line="95" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFkdmFuY2VkUmV0cnlBY3Rpb25DcmVhdG9ycyBmcm9tICcuLi8uLi9hY3Rpb25zL2FkdmFuY2VkUmV0cnlBY3Rpb25DcmVhdG9ycycK</text>
+      <register name="&quot;" type="4">
+        <text>se-s-s-i-o-n_i-d</text>
       </register>
       <register name="-" type="4">
-        <text>{w}</text>
+        <text>se-s-s-i-o-n_i-d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</text>
+        <text>User</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICogQHByb3Age2Jvb2x9IGluc3RhbmNlQXZhaWxhYmxlIC0gV2hldGhlciB0aGUgc2VsZWN0ZWQgaW5zdGFuY2UgaXMgYXZhaWxhYmxlLiBOb3RoaW5nIHdpbGwgYmUgc2hvd24gaWYgaXQgaXMKICogICB1bmF2YWlsYWJsZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFkdmFuY2VkUmV0cnlBY3Rpb25DcmVhdG9ycyBmcm9tICcuLi8uLi9hY3Rpb25zL2FkdmFuY2VkUmV0cnlBY3Rpb25DcmVhdG9ycycK</text>
+        <text encoding="base64">ICBpdCgnc2V0cyBsb2FkZWQgdXNlcnMnLCBmdW5jdGlvbiAoKSB7CiAgICBleHBlY3RTYWdhVG8oKS5wdXQobm90aWZpY2F0aW9uc0FjdGlvbkNyZWF0b3JzLnNldFVzZXJzKFsxLCAyLCAzXSkpCiAgfSkKCiAgaXQoJ2FjdGl2YXRlcyB0aGUgdXNlcnMgc2VjdGlvbicsIGZ1bmN0aW9uICgpIHsKICAgIGV4cGVjdFNhZ2FUbygpLnB1dChjb21tb25BY3Rpb25DcmVhdG9ycy5zZWN0aW9uQWN0aXZhdGVkKEludGVyZmFjZU1vbml0b3JpbmdTZWN0aW9uLlVzZXJzKSkKICB9KQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB5aWVsZCBkZWxheSgxMDAwKQo=</text>
+        <text encoding="base64">ICAgICkpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtkZWxheX0gZnJvbSAncmVkdXgtc2FnYScK</text>
+      <register name="3" type="4">
+        <text>rs
+        ? { successful: true, data: users }
+        : { successful: false }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZUF2YWlsYWJsZToK</text>
+        <text encoding="base64">ICAgIHVzZXJzID0gWzEsIDIsIDNdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICBsZXQgdXNlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBzaGFsbG93KDxEZXRhaWxzIGluc3RhbmNlQXZhaWxhYmxlPXtnaXZlbkluc3RhbmNlQXZhaWxhYmxlfSkK</text>
+        <text encoding="base64">aW1wb3J0IGFkdmFuY2VkUmV0cnlBY3Rpb25DcmVhdG9ycyBmcm9tICcuLi8uLi9hY3Rpb25zL2FkdmFuY2VkUmV0cnlBY3Rpb25DcmVhdG9ycycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB5aWVsZCBkZWxheSgxMDAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZ2l2ZW5JbnN0YW5jZUF2YWlsYWJsZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">aW1wb3J0IHtkZWxheX0gZnJvbSAncmVkdXgtc2FnYScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbnN0YW5jZUF2YWlsYWJsZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</last-search>
+      <last-search>User</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</last-pattern>
+      <last-pattern>User</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -232,6 +242,8 @@
         <entry>closed</entry>
         <entry>closedWidth</entry>
         <entry encoding="base64">XDxnbG9iYWxDb2xvclN0eWxlc1w+</entry>
+        <entry>user</entry>
+        <entry>User</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
