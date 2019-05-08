@@ -3,25 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1556192921716">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/json/configuration.json" timestamp="1556194681162">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="7" />
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/startAdvancedRetrySaga.js" timestamp="1557315539387">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="95" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryComponentIdDropdown.js" timestamp="1557319340569">
+        <mark key="[" line="24" column="58" />
+        <mark key="]" line="24" column="58" />
+        <mark key="." line="24" column="58" />
+        <mark key="^" line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/advancedRetryActionCreators.js" timestamp="1557316811674">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="8" column="42" />
-        <mark key="^" line="8" column="42" />
-        <mark key="." line="8" column="42" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/actions/advancedRetryActionCreators.js" timestamp="1557317722400">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/InstanceSelection.js" timestamp="1556278295515">
         <mark key="[" line="22" column="46" />
@@ -35,11 +33,18 @@
         <mark key="^" line="86" column="94" />
         <mark key="." line="86" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/advancedRetrySelectors.js" timestamp="1557315833906">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="40" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/advancedRetrySelectors.js" timestamp="1557317830196">
+        <mark key="[" line="4" column="97" />
+        <mark key="]" line="4" column="97" />
+        <mark key="^" line="4" column="97" />
+        <mark key="." line="4" column="97" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderList/OrderList.js" timestamp="1556181670520">
+        <mark key="'" line="7" column="50" />
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/DetailsHeading.js" timestamp="1556179097063">
         <mark key="[" line="2" column="0" />
@@ -53,6 +58,12 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ActiveEdgeIndicator.js" timestamp="1556179052561">
         <mark key="'" line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Button.js" timestamp="1557318243925">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="39" column="17" />
+        <mark key="^" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/requestUsersSaga.js" timestamp="1557314290278">
         <mark key="'" line="10" column="34" />
         <mark key="[" line="12" column="0" />
@@ -61,17 +72,32 @@
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestHttpClient.cs" timestamp="1556028950557">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetrySendersDropdown.js" timestamp="1557319073745">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="83" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/LmsOec.Tests/Wap.Features.LmsOec.Tests/Integration/TestSpClient.cs" timestamp="1556011512838">
         <mark key="[" line="26" column="6" />
         <mark key="]" line="26" column="11" />
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/test/advancedRetryReducer.spec.js" timestamp="1557316856847">
-        <mark key="[" line="71" column="64" />
-        <mark key="]" line="71" column="68" />
-        <mark key="^" line="71" column="68" />
-        <mark key="." line="71" column="68" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminMenu/AdminMenu.js" timestamp="1556175826898">
+        <mark key="'" line="76" column="22" />
+        <mark key="[" line="76" column="11" />
+        <mark key="]" line="76" column="23" />
+        <mark key="." line="76" column="23" />
+        <mark key="^" line="76" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/DetailsPaper/TimingInformationRow.js" timestamp="1556179066366">
+        <mark key="'" line="37" column="27" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="76" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="37" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/interfaceMonitoringSaga.js" timestamp="1557316588380">
         <mark key="[" line="18" column="60" />
@@ -79,14 +105,14 @@
         <mark key="." line="18" column="68" />
         <mark key="^" line="18" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556528907991">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EquipmentCoordinationsTable/EquipmentCoordinationsTableRow.js" timestamp="1556180917846">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="2" column="37" />
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/test/advancedRetrySelectors.spec.js" timestamp="1557317979238">
+        <mark key="'" line="106" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/common/js/style/colors.js" timestamp="1556179049688">
         <mark key="'" line="159" column="9" />
@@ -97,11 +123,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" timestamp="1557315654142">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="34" column="44" />
-        <mark key="^" line="34" column="44" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" timestamp="1557317371134">
+        <mark key="'" line="2" column="31" />
+        <mark key="[" line="1" column="81" />
+        <mark key="]" line="2" column="81" />
+        <mark key="." line="2" column="81" />
+        <mark key="^" line="2" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/style/colors.js" timestamp="1556180899331">
         <mark key="[" line="1" column="20" />
@@ -109,17 +136,33 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryReceiversDropdown.js" timestamp="1557319785067">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="67" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/wapUrlHelper.js" timestamp="1557313742576">
         <mark key="[" line="100" column="27" />
         <mark key="]" line="101" column="19" />
         <mark key="^" line="101" column="19" />
         <mark key="." line="101" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryStartButton.js" timestamp="1557316685270">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="6" column="66" />
-        <mark key="." line="6" column="66" />
-        <mark key="^" line="6" column="66" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/components/AdminPage/AdminPage.js" timestamp="1556175942767">
+        <mark key="'" line="43" column="14" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="68" column="91" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryStartButton.js" timestamp="1557318617398">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/requestUsersSaga.spec.js" timestamp="1557317263193">
+        <mark key="'" line="29" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/config/config.js" timestamp="1557313666348">
         <mark key="[" line="9" column="39" />
@@ -127,13 +170,14 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryCancelButton.js" timestamp="1557318600798">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/ColumnLayout.js" timestamp="1556180949416">
         <mark key="'" line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/sagas/handleHubMethodsSaga.js" timestamp="1556528751757">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/test/wapUrlHelper.spec.js" timestamp="1557313703115">
         <mark key="'" line="36" column="8" />
@@ -144,17 +188,18 @@
         <mark key="^" line="49" column="64" />
         <mark key="." line="49" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/reducers/advancedRetryReducer.js" timestamp="1557316545842">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/admin/js/style/measurements.js" timestamp="1556175797327">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/EdgesTable/EdgeActionOrConditionDisplay.js" timestamp="1556180837261">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="226" column="18" />
+        <mark key="]" line="226" column="30" />
+        <mark key="." line="226" column="30" />
+        <mark key="^" line="226" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -193,55 +238,63 @@
       <jump line="95" column="32" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/order_equipment_coordinator/admin/js/components/OrderEquipmentCoordinator/Overview.js" />
       <jump line="36" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/util/test/wapUrlHelper.spec.js" />
       <jump line="10" column="34" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/requestUsersSaga.js" />
+      <jump line="53" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/requestUsersSaga.spec.js" />
+      <jump line="33" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/requestUsersSaga.spec.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/requestUsersSaga.spec.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" />
+      <jump line="42" column="31" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" />
+      <jump line="86" column="10" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/test/advancedRetrySelectors.spec.js" />
+      <jump line="8" column="24" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetrySendersDropdown.js" />
+      <jump line="0" column="9" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetrySendersDropdown.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU2VsZWN0b3IsIGNyZWF0ZVN0cnVjdHVyZWRTZWxlY3RvciB9IGZyb20gJ3Jlc2VsZWN0Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Resend</text>
+        <text encoding="base64">XDxjcmVhdGVTZWxlY3Rvclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVzY3JpYmUoJ29uIEFEVkFOQ0VEX1JFVFJZX1JFUVVFU1RFRCBhY3Rpb24nLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgY29uc3QgYWN0aW9uID0gYWR2YW5jZWRSZXRyeUFjdGlvbkNyZWF0b3JzLmFkdmFuY2VkUmV0cnlSZXF1ZXN0ZWQoKQoKICAgICAgICBkZXNjcmliZSgnZ2l2ZW4gYSBzdGF0ZScsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGNvbnN0IHN0YXRlID0gewogICAgICAgICAgICByZXF1ZXN0T25nb2luZzogZmFsc2UKICAgICAgICAgIH0KCiAgICAgICAgICBsZXQgbmV3U3RhdGUKCiAgICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgbmV3U3RhdGUgPSBhZHZhbmNlZFJldHJ5UmVkdWNlcihzdGF0ZSwgYWN0aW9uKQogICAgICAgICAgfSkKCiAgICAgICAgICBpdCgnc2V0cyByZXF1ZXN0T25nb2luZyB0byB0cnVlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBleHBlY3QobmV3U3RhdGUpLnRvLmhhdmUucHJvcGVydHkoJ3JlcXVlc3RPbmdvaW5nJywgdHJ1ZSkKICAgICAgICAgIH0pCiAgICAgICAgfSkKICAgICAgfSkK</text>
+      <register name="0" type="4">
+        <text>createMapStateToDropdownProps(getSenderNames, getSelectedSender)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpdCgnc2V0cyByZXF1ZXN0T25nb2luZyB0byB0cnVlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgCiAgICAgICAgfSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU2VsZWN0b3IsIGNyZWF0ZVN0cnVjdHVyZWRTZWxlY3RvciB9IGZyb20gJ3Jlc2VsZWN0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZU1hcFN0YXRlVG9Ecm9wZG93blByb3BzIGZyb20gJy4uL3V0aWwvY3JlYXRlTWFwU3RhdGVUb0Ryb3Bkb3duUHJvcHMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFNlbGVjdGVkUmVjZWl2ZXIgPSAoKSA9PiAiZHVtbXkgcmVjZWl2ZXIiCmV4cG9ydCBjb25zdCBnZXRTZWxlY3RlZEZyb21EYXRlID0gKCkgPT4gCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNSZXF1ZXN0T25nb2luZyB9IGZyb20gJy4uLy4uL3NlbGVjdG9ycy9hZHZhbmNlZFJldHJ5U2VsZWN0b3JzJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRSZWNlaXZlciwgaXNSZXF1ZXN0T25nb2luZyB9IGZyb20gJy4uLy4uL3NlbGVjdG9ycy9hZHZhbmNlZFJldHJ5U2VsZWN0b3JzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFNlbGVjdGVkRnJvbURhdGUgPSAoKSA9PiBuZXcgRGF0ZVRpbWUoIiIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZU1hcFN0YXRlVG9Ecm9wZG93blByb3BzIGZyb20gJy4uL3V0aWwvY3JlYXRlTWFwU3RhdGVUb0Ryb3Bkb3duUHJvcHMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi9zZWxlY3RvcnMvYWR2YW5jZWRSZXRyeVNlbGVjdG9ycycK</text>
+        <text encoding="base64">ICBjcmVhdGVNYXBTdGF0ZVRvRHJvcGRvd25Qcm9wcyhnZXRSZWNlaXZlck5hbWVzLCBnZXRTZWxlY3RlZFJlY2VpdmVyKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRDb21wb25lbnRJZCwgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi9zZWxlY3RvcnMvYWR2YW5jZWRSZXRyeVNlbGVjdG9ycycK</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU2VsZWN0b3IsIGNyZWF0ZVN0cnVjdHVyZWRTZWxlY3RvciB9IGZyb20gJ3Jlc2VsZWN0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0U2VsZWN0ZWRTZW5kZXIgfSBmcm9tICcuLi9zZWxlY3RvcnMvYWR2YW5jZWRSZXRyeVNlbGVjdG9ycycK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBib2R5T2JqZWN0ID0gZmlsdGVyCg==</text>
+        <text encoding="base64">ICBjcmVhdGVTdGF0ZVRvQ29tcG9uZW50SWREcm9wZG93blByb3BzTWFwcGVyKGdldFNlbGVjdGVkU2VuZGVyLCBnZXRTZWxlY3RlZENvbXBvbmVudElkKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Resend</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVTZWxlY3Rvclw+</last-search>
       <last-offset />
-      <last-pattern>Resend</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVTZWxlY3Rvclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -255,6 +308,8 @@
         <entry>User</entry>
         <entry encoding="base64">XDxwb3N0UmVzZW5kTWVzc2FnZVw+</entry>
         <entry>Resend</entry>
+        <entry encoding="base64">XDxleHBlY3RTYWdhVG9cPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVTZWxlY3Rvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -281,6 +336,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
