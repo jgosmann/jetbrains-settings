@@ -276,11 +276,12 @@
         <mark key="." line="12" column="72" />
         <mark key="^" line="12" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" timestamp="1557387829241">
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" timestamp="1557395011031">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+        <mark key="." line="9" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/BaseTransmissionConverter.cs" timestamp="1557212087284">
         <mark key="[" line="42" column="4" />
@@ -326,6 +327,7 @@
       <jump line="25" column="20" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/startAdvancedRetrySaga.js" />
       <jump line="32" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" />
       <jump line="64" column="37" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" />
+      <jump line="56" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
