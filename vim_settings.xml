@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/startAdvancedRetrySaga.js" timestamp="1557384257576" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageFilterDto.cs" timestamp="1557240056926">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="15" />
@@ -103,6 +102,11 @@
         <mark key="]" line="12" column="83" />
         <mark key="^" line="12" column="83" />
         <mark key="." line="12" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" timestamp="1557385069742">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IMessageStateConfService.cs" timestamp="1557238306822">
         <mark key="[" line="6" column="4" />
@@ -249,11 +253,11 @@
       <jump line="19" column="105" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Resend/ResendManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLkxpbnE7CnVzaW5nIFN5c3RlbS5UZXh0Owp1c2luZyBTeXN0ZW0uVGhyZWFkaW5nLlRhc2tzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>some error text</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEsxODIxODQtMyBLMTgyMTg0LTEyICogQWRkIG1ldGhvZCB0byBxdWVyeSBtZXNzYWdlcyBhY2NvcmRpbmcgdG8gZmlsdGVyIGNyaXRlcmlhIHRvIFJlc2VuZGVyU2VydmljZQ==</text>
+        <text>some error text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4bWxUcmFuc2Zvcm1hdGlvbkZhY3RvcnlcPg==</text>
