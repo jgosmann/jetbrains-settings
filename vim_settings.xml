@@ -70,8 +70,8 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1557482296469">
-        <mark key="'" line="180" column="87" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1557489556998">
+        <mark key="'" line="127" column="93" />
         <mark key="[" line="127" column="146" />
         <mark key="]" line="127" column="192" />
         <mark key="^" line="127" column="192" />
@@ -352,6 +352,9 @@
       <jump line="56" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" />
       <jump line="24" column="41" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" />
       <jump line="362" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" />
+      <jump line="62" column="59" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
+      <jump line="107" column="10" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
+      <jump line="127" column="93" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -361,7 +364,7 @@
         <text encoding="base64">ZmlsdGVyLk1lc3NhZ2VTdGF0ZXMuQ291bnQgPT0gMCB8fCA=</text>
       </register>
       <register name="/" type="4">
-        <text>Retry</text>
+        <text encoding="base64">XDxtaWFRdWV1ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW50ZXJmYWNlUmVwb3NpdG9yeU1vY2suU2V0dXAobSA9PiBtLkZpbmRXaGVyZShnaXZlbkZpbHRlciwgMCwgSXQuSXNBbnk8aW50PigpKSkuUmV0dXJucyhuZXcgTGlzdDxNZXNzYWdlRFRPPiB7Z2l2ZW5NZXNzYWdlfSk7CiAgICAgIGludGVyZmFjZVJlcG9zaXRvcnlNb2NrLlNldHVwKG0gPT4gbS5GaW5kV2hlcmUoZ2l2ZW5GaWx0ZXIsIEl0LklzPGxvbmc+KGkgPT4gaSA+IDApLCBJdC5Jc0FueTxpbnQ+KCkpKS5SZXR1cm5zKG5ldyBMaXN0PE1lc3NhZ2VEVE8+KCkpOwo=</text>
@@ -398,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Retry</last-search>
+      <last-search encoding="base64">XDxtaWFRdWV1ZVw+</last-search>
       <last-offset />
-      <last-pattern>Retry</last-pattern>
+      <last-pattern encoding="base64">XDxtaWFRdWV1ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -412,6 +415,8 @@
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDx4bWxUcmFuc2Zvcm1hdGlvbkZhY3RvcnlcPg==</entry>
         <entry>Retry</entry>
+        <entry>miaQueue</entry>
+        <entry encoding="base64">XDxtaWFRdWV1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
