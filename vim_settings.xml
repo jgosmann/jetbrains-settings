@@ -28,19 +28,7 @@
         <mark key="." line="53" column="91" />
         <mark key="^" line="53" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLTransmissionRepository.cs" timestamp="1557471522576">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="47" column="37" />
-        <mark key="^" line="47" column="37" />
-        <mark key="." line="47" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/B2MMLTransmissionRepositoryTest.cs" timestamp="1557219719970">
-        <mark key="'" line="9" column="9" />
-        <mark key="[" line="85" column="62" />
-        <mark key="]" line="85" column="62" />
-        <mark key="." line="85" column="62" />
-        <mark key="^" line="85" column="74" />
-      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLTransmissionRepository.cs" timestamp="1557472038538" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Persistence/Hibernate/Mia.Persistence.Hibernate/Base/BaseDataMapper.cs" timestamp="1557470311282">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="11" />
@@ -138,11 +126,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLTransmissionRepository.cs" timestamp="1557470441437">
-        <mark key="[" line="11" column="89" />
-        <mark key="]" line="11" column="89" />
-        <mark key="." line="11" column="89" />
-        <mark key="^" line="11" column="72" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Repository/Mia.Interface.Repository/IB2MMLTransmissionRepository.cs" timestamp="1557471818545">
+        <mark key="[" line="12" column="141" />
+        <mark key="]" line="12" column="141" />
+        <mark key="." line="12" column="141" />
+        <mark key="^" line="12" column="141" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/BaseTransmissionConverter.cs" timestamp="1557212087284">
         <mark key="[" line="42" column="4" />
@@ -242,11 +230,11 @@
         <mark key="^" line="35" column="89" />
         <mark key="." line="35" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Persistence/Mia.Interface.Persistence.Orm/Mapper/IDataMapper.cs" timestamp="1557470231412">
-        <mark key="[" line="19" column="101" />
-        <mark key="]" line="19" column="101" />
-        <mark key="^" line="19" column="101" />
-        <mark key="." line="19" column="101" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Persistence/Mia.Interface.Persistence.Orm/Mapper/IDataMapper.cs" timestamp="1557471958128">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="37" />
+        <mark key="^" line="19" column="37" />
+        <mark key="." line="19" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1557241226472">
         <mark key="[" line="0" column="7" />
@@ -342,43 +330,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, long firstTransmissionId</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>, long firstTransmissionId</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>Retry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJRW51bWVyYWJsZTxURG9tYWluT2JqZWN0PiBGaW5kUmFuZ2VXaGVyZShpbnQgZmlyc3QsIGludCBtYXhDb3VudCwgRXhwcmVzc2lvbjxGdW5jPFREb21haW5PYmplY3QsIGJvb2w+PiB3aGVyZUV4cHJlc3Npb24pCg==</text>
+        <text encoding="base64">ICAgICAgY29udmVydGVyTW9jay5WZXJpZnkoCiAgICAgICAgICAgICAgbSA9PiBtLk1hcChJdC5JczxJRW51bWVyYWJsZTxUcmFuc21pc3Npb24+PihxdWVyeWFibGUgPT4gcXVlcnlhYmxlLlNpbmdsZSgpID09IFRyYW5zbWlzc2lvbkV4cGVjdGVkVG9CZVJldHVybmVkKSksCiAgICAgICAgICAgICAgIFRpbWVzLk9uY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElFbnVtZXJhYmxlPFRyYW5zbWlzc2lvbkRUTz4gRmluZEFsbEJ5QjJNTUxJbnRlcmZhY2VJZHMoSUxpc3Q8bG9uZz4gYjJNTUxJbnRlcmZhY2VJZHMsIGxvbmcgZmlyc3RUcmFuc21pc3Npb25JZCwgaW50IHBhZ2VTaXplKTsK</text>
+        <text encoding="base64">ICAgICAgY29udmVydGVyTW9jay5WZXJpZnkoIG0gPT4gbS5NYXAoSXQuSXNBbnk8SUVudW1lcmFibGU8VHJhbnNtaXNzaW9uPj4oKSksIFRpbWVzLk9uY2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBMaXN0PFRyYW5zbWlzc2lvbkRUTz4oKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRyYW5zYWN0aW9uTWFuYWdlci5DdXJyZW50U2Vzc2lvbi5RdWVyeU92ZXI8VERvbWFpbk9iamVjdD4oKS5PcmRlckJ5KHIgPT4gci5JRCkuQXNjLlNraXAoZmlyc3QpLlRha2UobWF4Q291bnQpLkxpc3QoKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">MgogICAgICAgICAgICAgICAgICAgICAgICAgICAmJiBxdWVyeWFibGUuQ29udGFpbnMo</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFic3RyYWN0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBuZXdTdGF0ZQoK</text>
+        <text encoding="base64">ICAgIElFbnVtZXJhYmxlPFRyYW5zbWlzc2lvbkRUTz4gRmluZEFsbEJ5QjJNTUxJbnRlcmZhY2VJZHMoSUxpc3Q8bG9uZz4gYjJNTUxJbnRlcmZhY2VJZHMsIGxvbmcgZmlyc3RUcmFuc21pc3Npb25JZCwgaW50IHBhZ2VTaXplKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGFjdGlvbiA9IGFkdmFuY2VkUmV0cnlBY3Rpb25DcmVhdG9ycy5hZHZhbmNlZFJldHJ5UmVxdWVzdEZpbmlzaGVkKEFkdmFuY2VkUmV0cnlFcnJvcnMuR0VORVJJQ19FUlJPUikKCiAgICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgbmV3U3RhdGUgPSBhZHZhbmNlZFJldHJ5UmVkdWNlcihzdGF0ZSwgYWN0aW9uKQogICAgICAgICAgfSkKCiAgICAgICAgICBpdCgnc2V0cyByZXF1ZXN0T25nb2luZyB0byBmYWxzZScsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgZXhwZWN0KG5ld1N0YXRlKS50by5oYXZlLnByb3BlcnR5KCdyZXF1ZXN0T25nb2luZycsIGZhbHNlKQogICAgICAgICAgfSkKCiAgICAgICAgICBpdCgnc2V0cyB0aGUgZXJyb3IgZnJvbSB0aGUgcGF5bG9hZCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgZXhwZWN0KG5ld1N0YXRlKS50by5oYXZlLnByb3BlcnR5KCdlcnJvcicsIEFkdmFuY2VkUmV0cnlFcnJvcnMuR0VORVJJQ19FUlJPUikKICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRyYW5zYWN0aW9uTWFuYWdlci5DdXJyZW50U2Vzc2lvbi5RdWVyeU92ZXI8VERvbWFpbk9iamVjdD4oKS5PcmRlckJ5KHIgPT4gci5JRCkuQXNjLlNraXAoZmlyc3QpLlRha2UobWF4Q291bnQpLkxpc3QoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhY3Rpb24gPSBhZHZhbmNlZFJldHJ5QWN0aW9uQ3JlYXRvcnMuYWR2YW5jZWRSZXRyeVJlcXVlc3RGaW5pc2hlZChBZHZhbmNlZFJldHJ5RXJyb3JzLkdFTkVSSUNfRVJST1IpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBuZXdTdGF0ZQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -402,8 +390,8 @@
       </history-search>
       <history-cmd>
         <entry>wa</entry>
-        <entry>q</entry>
         <entry>wo</entry>
+        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
@@ -431,6 +419,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
