@@ -257,6 +257,13 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1557474287028">
+        <mark key="'" line="24" column="41" />
+        <mark key="[" line="39" column="68" />
+        <mark key="]" line="39" column="95" />
+        <mark key="^" line="39" column="95" />
+        <mark key="." line="39" column="95" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageStateConf.cs" timestamp="1557226903525">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="30" />
@@ -327,6 +334,7 @@
       <jump line="32" column="14" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" />
       <jump line="64" column="37" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/sagas/test/startAdvancedRetrySaga.spec.js" />
       <jump line="56" column="4" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/texts/textKeys.js" />
+      <jump line="24" column="41" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
