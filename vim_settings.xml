@@ -172,12 +172,12 @@
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" timestamp="1557742489672">
-        <mark key="'" line="82" column="36" />
-        <mark key="[" line="53" column="57" />
-        <mark key="]" line="53" column="66" />
-        <mark key="." line="53" column="66" />
-        <mark key="^" line="53" column="66" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" timestamp="1557745176078">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="92" column="5" />
+        <mark key="]" line="93" column="3" />
+        <mark key="^" line="93" column="3" />
+        <mark key="." line="93" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageFilterDto.cs" timestamp="1557240056926">
         <mark key="[" line="13" column="12" />
@@ -374,13 +374,14 @@
       <jump line="127" column="93" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
       <jump line="68" column="4" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
       <jump line="72" column="36" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" />
+      <jump line="74" column="4" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>&quot;http://localhost:8088/MIA/ResendService/json/batchResend&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZWRpYVR5cGVIZWFkZXJWYWx1ZVw+</text>
@@ -389,34 +390,31 @@
         <text encoding="base64">ICAgICAgSVNlc3Npb25GYWN0b3J5IHNlc3Npb25GYWN0b3J5ID0gaGliZXJuYXRlQ2ZnLkJ1aWxkU2Vzc2lvbkZhY3RvcnkoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGh0dHBDbGllbnQgPSBuZXcgSHR0cENsaWVudCgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>new StringContent(@&quot;{
-          &quot;&quot;sender&quot;&quot;: &quot;&quot;target sender&quot;&quot;,
-          &quot;&quot;messageStates&quot;&quot;: [&quot;&quot;target message state&quot;&quot;]
-      }&quot;)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdXNpbmcgKHZhciBsb2NhbFNlc3Npb24gPSBzZXNzaW9uRmFjdG9yeS5PcGVuU2Vzc2lvbigpKQogICAgICB7CiAgICAgICAgbG9jYWxTZXNzaW9uLlNhdmUobmV3IE1lc3NhZ2VTdGF0ZUNvbmYge1RlY2hEZXNjID0gInRhcmdldCBtZXNzYWdlIHN0YXRlIn0pOwogICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5EZWZhdWx0UmVxdWVzdEhlYWRlcnMuQ29udGVudAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICIibWVzc2FnZUZyb21EYXRlIiI6ICIiIiIsCiAgICAgICAgICAiIm1lc3NhZ2VUb0RhdGUiIjogIiIiIgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0cmluZyBVcmwgeyBnZXQgPT4gJCIiOyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuTGF1bmNoZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdXNpbmcgKCkKICAgICAgewoKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
