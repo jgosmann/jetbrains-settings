@@ -43,8 +43,8 @@
         <mark key="." line="49" column="66" />
         <mark key="^" line="49" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Persistence/Hibernate/Mia.Persistence.Hibernate/Base/BaseDataMapper.cs" timestamp="1557470311282">
-        <mark key="^" line="0" column="141" />
+      <file name="/Dummy.cs" timestamp="1557755151945">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/Dto/MessageQueryDto.cs" timestamp="1557152220651">
         <mark key="[" line="9" column="43" />
@@ -131,12 +131,12 @@
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" timestamp="1557753185751">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="44" column="5" />
-        <mark key="." line="44" column="5" />
-        <mark key="^" line="44" column="5" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" timestamp="1557755207768">
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="89" column="7" />
+        <mark key="]" line="90" column="35" />
+        <mark key="." line="90" column="35" />
+        <mark key="^" line="90" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageFilterDto.cs" timestamp="1557240056926">
         <mark key="[" line="13" column="12" />
@@ -330,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5EZWZhdWx0UmVxdWVzdEhlYWRlcnMuQWRkKCJYLUtyb25lcy1BdXRoZW50aWNhdGlvbiIsICIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.SendDocumentTo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWFRdWV1ZVw+</text>
@@ -342,31 +342,34 @@
         <text encoding="base64">ICAgICAgICBsb2NhbFNlc3Npb24uRGVsZXRlKCJmcm9tIE1lc3NhZ2VTdGF0ZUNvbmYiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5EZWZhdWx0UmVxdWVzdEhlYWRlcnMuQWRkKCJYLUtyb25lcy1BdXRoZW50aWNhdGlvbiIsICIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvY2FsU2Vzc2lvbi5TYXZlKG9iaik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIAo=</text>
+      <register name="4" type="4">
+        <text>new SendDocumentToElementCollection {new SendAdapterElement
+      {
+
+      }}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvY2FsU2Vzc2lvbi5GbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgbWlhQ29uZmlndXJhdGlvblNlY3Rpb24uU2VuZERvY3VtZW50VG8gPSBuZXcgU2VuZERvY3VtZW50VG9FbGVtZW50Q29sbGVjdGlvbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbFNlc3Npb24uU2F2ZShuZXcgTWVzc2FnZVN0YXRlQ29uZiB7VGVjaERlc2MgPSAidGFyZ2V0IG1lc3NhZ2Ugc3RhdGUifSwgKGxvbmcpIE1lc3NhZ2VTdGF0ZS5Db21wbGV0ZWx5UHJvY2Vzc2VkKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWlhQ29uZmlndXJhdGlvblNlY3Rpb24uU2VuZERvY3VtZW50VG8uQWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBpbnRlcm5hbCBjbGFzcyBUZXN0U2VuZGVyIDogSVNlbmRlcgogIHsKICAgIAogIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5EZWZhdWx0UmVxdWVzdEhlYWRlcnMuQWRkKCJYLUtyb25lcy1BdXRoZW50aWNhdGlvbiIsICIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
