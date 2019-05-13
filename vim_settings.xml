@@ -21,12 +21,12 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/Resend/ResendService.cs" timestamp="1557240067361">
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/Resend/ResendService.cs" timestamp="1557742291663">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="53" column="83" />
-        <mark key="]" line="53" column="91" />
-        <mark key="." line="53" column="91" />
-        <mark key="^" line="53" column="91" />
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+        <mark key="^" line="49" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" timestamp="1557482273224">
         <mark key="'" line="368" column="0" />
@@ -171,6 +171,13 @@
         <mark key="]" line="24" column="7" />
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" timestamp="1557742489672">
+        <mark key="'" line="82" column="36" />
+        <mark key="[" line="53" column="57" />
+        <mark key="]" line="53" column="66" />
+        <mark key="." line="53" column="66" />
+        <mark key="^" line="53" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageFilterDto.cs" timestamp="1557240056926">
         <mark key="[" line="13" column="12" />
@@ -366,56 +373,60 @@
       <jump line="107" column="10" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
       <jump line="127" column="93" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
       <jump line="68" column="4" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" />
+      <jump line="72" column="36" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>sessionFactory</text>
+        <text encoding="base64">XDxNZWRpYVR5cGVIZWFkZXJWYWx1ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgSVNlc3Npb25GYWN0b3J5IHNlc3Npb25GYWN0b3J5ID0gaGliZXJuYXRlQ2ZnLkJ1aWxkU2Vzc2lvbkZhY3RvcnkoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuTGF1bmNoZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdXNpbmcgKCkKICAgICAgewoKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWRhcHRlckNvbmZpZ3VyYXRpb24gPSBuZXcgTW9jazxJQWRhcHRlckNvbmZpZ3VyYXRpb24+KCk7CiAgICAgICAgYWRhcHRlckNvbmZpZ3VyYXRpb24uU2V0dXAobSA9PiBtLk1pYUNvbmZpZykuUmV0dXJucyhuZXcgTWlhQ29uZmlndXJhdGlvblNlY3Rpb24oKSk7CiAgICAgICAgdmFyIHdlYkNvbmZpZ3V0YXJpb24gPSBuZXcgTW9jazxJV2ViQ29uZmlndXJhdGlvbj4oKTsKICAgICAgICB3ZWJDb25maWd1dGFyaW9uLlNldHVwKG0gPT4gbS5Qcm90b2NvbCkuUmV0dXJucygiaHR0cCIpOwogICAgICAgIHdlYkNvbmZpZ3V0YXJpb24uU2V0dXAobSA9PiBtLkJhc2VBZHJlc3MpLlJldHVybnMoImxvY2FsaG9zdCIpOwogICAgICAgIHdlYkNvbmZpZ3V0YXJpb24uU2V0dXAobSA9PiBtLlBvcnQpLlJldHVybnMoIjgwODgiKTsKICAgICAgICB2YXIgbWlhTGF1bmNoZXIgPSBuZXcgTWlhTGF1bmNoZXIoKTsKICAgICAgICBtaWFMYXVuY2hlci5TdGFydE1pYUNvcmUoYWRhcHRlckNvbmZpZ3VyYXRpb24uT2JqZWN0LCBzZXNzaW9uRmFjdG9yeSk7CiAgICAgICAgbWlhTGF1bmNoZXIuU3RhcnRNaWFXZWIod2ViQ29uZmlndXRhcmlvbi5PYmplY3QpOwo=</text>
+      <register name="5" type="4">
+        <text>new StringContent(@&quot;{
+          &quot;&quot;sender&quot;&quot;: &quot;&quot;target sender&quot;&quot;,
+          &quot;&quot;messageStates&quot;&quot;: [&quot;&quot;target message state&quot;&quot;]
+      }&quot;)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaHR0cENsaWVudC5EZWZhdWx0UmVxdWVzdEhlYWRlcnMuQ29udGVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICIibWVzc2FnZUZyb21EYXRlIiI6ICIiIiIsCiAgICAgICAgICAiIm1lc3NhZ2VUb0RhdGUiIjogIiIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgSVNlc3Npb24gPSBBcGFjaGUuTk1TLklTZXNzaW9uOwo=</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuTGF1bmNoZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU2NoZW1hRXhwb3J0KGhpYmVybmF0ZUNmZykuRXhlY3V0ZShmYWxzZSwgdHJ1ZSwgZmFsc2UsIHNlc3Npb24uQ29ubmVjdGlvbiwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdXNpbmcgKCkKICAgICAgewoKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sessionFactory</last-search>
+      <last-search encoding="base64">XDxNZWRpYVR5cGVIZWFkZXJWYWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>sessionFactory</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxNZWRpYVR5cGVIZWFkZXJWYWx1ZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -429,6 +440,7 @@
         <entry>miaQueue</entry>
         <entry encoding="base64">XDxtaWFRdWV1ZVw+</entry>
         <entry>sessionFactory</entry>
+        <entry encoding="base64">XDxNZWRpYVR5cGVIZWFkZXJWYWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
