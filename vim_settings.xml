@@ -98,6 +98,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/ISenderService.cs" timestamp="1557825154335">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IMessageStateConfService.cs" timestamp="1557238306822">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="48" />
@@ -176,6 +182,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/Sender/ISenderServiceWeb.cs" timestamp="1557825114609">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageAdditionalInfo.hbm.xml" timestamp="1557499179549">
         <mark key="[" line="4" column="50" />
         <mark key="]" line="4" column="51" />
@@ -193,6 +205,12 @@
         <mark key="]" line="53" column="9" />
         <mark key="." line="53" column="9" />
         <mark key="^" line="53" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/SenderService.cs" timestamp="1557825169187">
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="11" />
+        <mark key="^" line="62" column="11" />
+        <mark key="." line="62" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageStateConf.cs" timestamp="1557226903525">
         <mark key="[" line="2" column="27" />
@@ -235,6 +253,12 @@
         <mark key="]" line="33" column="99" />
         <mark key="^" line="33" column="99" />
         <mark key="." line="33" column="99" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/Sender/SenderServiceWeb.cs" timestamp="1557825141724">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Manager/Mia.Interface.Manager/IResendManager.cs" timestamp="1557242205493">
         <mark key="[" line="0" column="0" />
@@ -333,10 +357,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rigin/develop</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>rigin/develop</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWFRdWV1ZVw+</text>
@@ -408,6 +432,7 @@
         <entry>wc</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>^</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
