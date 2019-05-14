@@ -34,14 +34,6 @@
         <mark key="." line="49" column="32" />
         <mark key="^" line="49" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" timestamp="1557482273224">
-        <mark key="'" line="368" column="0" />
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="35" column="13" />
-        <mark key="." line="35" column="13" />
-        <mark key="n" line="170" column="102" />
-        <mark key="^" line="35" column="13" />
-      </file>
       <file name="/UrlBuilderTest.cs" timestamp="1557828396910" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLTransmissionRepository.cs" timestamp="1557476813969">
         <mark key="[" line="49" column="34" />
@@ -231,11 +223,11 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/B2MMLInterfaceRepositoryTest.cs" timestamp="1557474902914">
-        <mark key="[" line="133" column="73" />
-        <mark key="]" line="133" column="74" />
-        <mark key="." line="133" column="74" />
-        <mark key="^" line="125" column="68" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Repository/Hibernate/B2MMLInterfaceRepositoryTest.cs" timestamp="1557832084700">
+        <mark key="[" line="154" column="8" />
+        <mark key="]" line="154" column="13" />
+        <mark key="." line="154" column="13" />
+        <mark key="^" line="154" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" timestamp="1557827704137">
         <mark key="'" line="24" column="41" />
@@ -364,11 +356,11 @@
       <jump line="254" column="10" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.ToString()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgQXNzZXJ0LlRoYXQocmVzdWx0LCBIYXMuQ291bnQuRXF1YWxUbyg0KSk7CiAgICAgIEFzc2VydC5UaGF0KHJlc3VsdFswXS5JdGVtMSwgSXMuRXF1YWxUbygic29tZSBzdWJzY3JpYmVyIDEiKSk7CiAgICAgIEFzc2VydC5UaGF0KHJlc3VsdFswXS5JdGVtMiwgSXMuRXF1YWxUbygic29tZSBjb21wb25lbnQgaWQgMSIpKTsKICAgICAgQXNzZXJ0LlRoYXQocmVzdWx0WzFdLkl0ZW0xLCBJcy5FcXVhbFRvKCJzb21lIHN1YnNjcmliZXIgMiIpKTsKICAgICAgQXNzZXJ0LlRoYXQocmVzdWx0WzFdLkl0ZW0yLCBJcy5FcXVhbFRvKCJzb21lIGNvbXBvbmVudCBpZCAxIikpOwogICAgICBBc3NlcnQuVGhhdChyZXN1bHRbMl0uSXRlbTEsIElzLkVxdWFsVG8oInNvbWUgc3Vic2NyaWJlciAyIikpOwogICAgICBBc3NlcnQuVGhhdChyZXN1bHRbMl0uSXRlbTIsIElzLkVxdWFsVG8oInNvbWUgY29tcG9uZW50IGlkIDIiKSk7CiAgICAgIEFzc2VydC5UaGF0KHJlc3VsdFszXS5JdGVtMSwgSXMuRXF1YWxUbygic29tZSBzdWJzY3JpYmVyIDIiKSk7CiAgICAgIEFzc2VydC5UaGF0KHJlc3VsdFszXS5JdGVtMiwgSXMuRXF1YWxUbygic29tZSBjb21wb25lbnQgaWQgMiIpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.ToString()</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWFRdWV1ZVw+</text>
@@ -383,31 +375,31 @@
       }&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgbG9nNG5ldC5SZXBvc2l0b3J5LkhpZXJhcmNoeTsK</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LlRoYXQocmVzdWx0LCBIYXMuQ291bnQuRXF1YWxUbyg0KSk7CiAgICAgIEFzc2VydC5UaGF0KHJlc3VsdFswXS5JdGVtMSwgSXMuRXF1YWxUbygic29tZSBzdWJzY3JpYmVyIDEiKSk7CiAgICAgIEFzc2VydC5UaGF0KHJlc3VsdFswXS5JdGVtMiwgSXMuRXF1YWxUbygic29tZSBjb21wb25lbnQgaWQgMSIpKTsKICAgICAgQXNzZXJ0LlRoYXQocmVzdWx0WzFdLkl0ZW0xLCBJcy5FcXVhbFRvKCJzb21lIHN1YnNjcmliZXIgMiIpKTsKICAgICAgQXNzZXJ0LlRoYXQocmVzdWx0WzFdLkl0ZW0yLCBJcy5FcXVhbFRvKCJzb21lIGNvbXBvbmVudCBpZCAxIikpOwogICAgICBBc3NlcnQuVGhhdChyZXN1bHRbMl0uSXRlbTEsIElzLkVxdWFsVG8oInNvbWUgc3Vic2NyaWJlciAyIikpOwogICAgICBBc3NlcnQuVGhhdChyZXN1bHRbMl0uSXRlbTIsIElzLkVxdWFsVG8oInNvbWUgY29tcG9uZW50IGlkIDIiKSk7CiAgICAgIEFzc2VydC5UaGF0KHJlc3VsdFszXS5JdGVtMSwgSXMuRXF1YWxUbygic29tZSBzdWJzY3JpYmVyIDIiKSk7CiAgICAgIEFzc2VydC5UaGF0KHJlc3VsdFszXS5JdGVtMiwgSXMuRXF1YWxUbygic29tZSBjb21wb25lbnQgaWQgMiIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgVGFzay5EZWxheSg1MDApOwo=</text>
+        <text encoding="base64">dXNpbmcgbG9nNG5ldC5SZXBvc2l0b3J5LkhpZXJhcmNoeTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYXdhaXQgVGFzay5EZWxheSg1MDApOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgVGhyZWFkLlNsZWVwKDUwMCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LlNob3VsZEJlRXF1aXZhbGVudFRvKG5ldyBMaXN0PFhtbERvY3VtZW50PgogICAgICB7CiAgICAgICAgICAgICAgIjx4bWwiCiAgICAgIH0pOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBYbWxEb2N1bWVudC4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">U2V0VXAoKQogICAgewogICAgICBQcm92aWRlVGVzdERhdGEoKTsKICAgICAgCiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFic3RyYWN0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
