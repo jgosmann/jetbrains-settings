@@ -15,11 +15,11 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageStateConfConverter.cs" timestamp="1557908084746">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Converter/MessageStateConfConverter.cs" timestamp="1557908164455">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="42" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/Framework/CFW/Source/Configuration/CFWCodeMessages.cs" timestamp="1557127915903">
         <mark key="[" line="20" column="18" />
@@ -32,6 +32,13 @@
         <mark key="]" line="8" column="42" />
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web.Tests/MessageStates/SenderServiceWebTest.cs" timestamp="1557909169163">
+        <mark key="'" line="23" column="36" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="49" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLTransmissionRepository.cs" timestamp="1557476813969">
         <mark key="[" line="49" column="34" />
@@ -56,6 +63,12 @@
         <mark key="]" line="7" column="46" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1557909442811">
+        <mark key="[" line="194" column="64" />
+        <mark key="]" line="194" column="114" />
+        <mark key="^" line="194" column="114" />
+        <mark key="." line="194" column="114" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageStateConfService.cs" timestamp="1557907981031">
         <mark key="[" line="20" column="6" />
@@ -125,11 +138,15 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageStateConf.hbm.xml" timestamp="1557238954872">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="3" column="68" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageStateConf.hbm.xml" timestamp="1557908142068">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/Sender/SenderServiceWeb.cs" timestamp="1557908681721">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Manager/Mia.Interface.Manager/IResendManager.cs" timestamp="1557242205493">
         <mark key="[" line="0" column="0" />
@@ -155,6 +172,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="33" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web/MessageStates/MessageStatesServiceWeb.cs" timestamp="1557908778640">
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Process/Mia.Process.Application/Configuration/Hibernate/Hibernate_IFACE.cfg.xml" timestamp="1557904092046">
         <mark key="[" line="12" column="32" />
@@ -265,11 +288,26 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="61" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/Sender/ISenderServiceWeb.cs" timestamp="1557908288164">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="15" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/UnitTest1.cs" timestamp="1557737017641">
         <mark key="[" line="53" column="4" />
         <mark key="]" line="53" column="9" />
         <mark key="." line="53" column="9" />
         <mark key="^" line="53" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/MessageStates/MessageStateWebDto.cs" timestamp="1557908463971">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service.Web/MessageStates/IMessageStatesServiceWeb.cs" timestamp="1557908503645">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/Model/MessageStateConf.cs" timestamp="1557908103444">
         <mark key="[" line="5" column="48" />
@@ -407,46 +445,47 @@
       <jump line="0" column="7" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/test/Infobox.spec.js" />
       <jump line="2" column="3" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" />
       <jump line="60" column="68" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Repository/Hibernate/Mia.Repository.Hibernate/B2MMLInterfaceRepository.cs" />
+      <jump line="25" column="36" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web.Tests/MessageStates/SenderServiceWebTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Item2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbmZvYm94XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqKiBFcnJvcmJveCAqKiovCi5pbnRlcmZhY2UtbW9uaXRvcmluZyAuZXJyb3ItYm94IHsKICAgIG1hcmdpbjogMTBweDsKICAgIHBhZGRpbmc6IDE2cHg7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMTc2LDM1LDQyKTsKICAgIGNvbG9yOiB3aGl0ZTsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgTWVzc2FnZVN0YXRlQ29uZkRUTyB7VGVjaERlc2MgPSAidGVjaGRlc2MgMSIsIFhEZXNjcmlwdGlvbiA9ICJ4ZGVzY3JpcHRpb24gMSIsIFJlc2VuZGFibGUgPSB0cnVlfSwKICAgICAgICAgICAgICBuZXcgTWVzc2FnZVN0YXRlQ29uZkRUTyB7VGVjaERlc2MgPSAidGVjaGRlY3MgMiIsIFhEZXNjcmlwdGlvbiA9ICJ4ZGVzY3JpcHRpb24gMiIsIFJlc2VuZGFibGUgPSBmYWxzZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgS3JvbmVzLk1pYS5JbnRlcmZhY2UuRHRvOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgcHVibGljIGNsYXNzIE1lc3NzYWdlU3RhdGVXZWJEdG8geyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgU2VuZGVyRHRvIHtOYW1lID0gIkR1bW15IHNlbmRlciAxIiwgQ29tcG9uZW50SWRzID0gbmV3W10geyJDb21wb25lbnQgaWQgMTEiLCAiQ29tcG9uZW50IGlkIDEyIn19LAogICAgICAgICAgICAgIG5ldyBTZW5kZXJEdG8ge05hbWUgPSAiRHVtbXkgc2VuZGVyIDIiLCBDb21wb25lbnRJZHMgPSBuZXdbXSB7IkNvbXBvbmVudCBpZCAyMSIsICJDb21wb25lbnQgaWQgMjIifX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuVG9MaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgc2VuZGVyU2VydmljZU1vY2suU2V0dXAobW9jayA9PiBtb2NrLkdldFNlbmRlcnMoKSkuUmV0dXJucyhuZXcgTGlzdDxTZW5kZXJEdG8+CiAgICAgIHsKICAgICAgICBuZXcgU2VuZGVyRHRvIHtOYW1lID0gIkR1bW15IHNlbmRlciAxIiwgQ29tcG9uZW50SWRzID0gbmV3IExpc3Q8c3RyaW5nPiB7IkNvbXBvbmVudCBpZCAxMSIsICJDb21wb25lbnQgaWQgMTIifX0sCiAgICAgICAgbmV3IFNlbmRlckR0byB7TmFtZSA9ICJEdW1teSBzZW5kZXIgMiIsIENvbXBvbmVudElkcyA9IG5ldyBMaXN0PHN0cmluZz4geyJDb21wb25lbnQgaWQgMjEiLCAiQ29tcG9uZW50IGlkIDIyIn19CiAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuVG9MaXN0KCkK</text>
+        <text encoding="base64">dXNpbmcgTWlhLlNlcnZpY2UuV2ViLlNlbmRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuVG9MaXN0KCkK</text>
+        <text encoding="base64">dXNpbmcgTWlhLkludGVyZmFjZS5TZXJ2aWNlLldlYi5NZXNzYWdlU3RhdGVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuU2VsZWN0KGdyb3VwID0+IG5ldyBTZW5kZXJEdG8ge05hbWUgPSBncm91cC5LZXksIENvbXBvbmVudElkcyA9IGdyb3VwLldoZXJlKGNvbXBvbmVudElkID0+IGNvbXBvbmVudElkICE9IG51bGwpLkRpc3RpbmN0KCkuVG9MaXN0KCl9KTsK</text>
+        <text encoding="base64">ICAgICAgc2VuZGVyU2VydmljZU1vY2sgPSBuZXcgTW9jazxJU2VuZGVyU2VydmljZT4oKTsKICAgICAgc2VuZGVyU2VydmljZVdlYiA9IG5ldyBTZW5kZXJTZXJ2aWNlV2ViKHNlbmRlclNlcnZpY2VNb2NrLk9iamVjdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuR3JvdXBCeShtc2cgPT4gbXNnLlN1YnNjcmliZXIsIG1zZyA9PiBtc2cuQ29tcG9uZW50SWQpCg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
