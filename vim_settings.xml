@@ -38,6 +38,12 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" timestamp="1557914559547">
+        <mark key="[" line="218" column="47" />
+        <mark key="]" line="209" column="5" />
+        <mark key="." line="209" column="5" />
+        <mark key="^" line="209" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service.Web.Tests/MessageStates/SenderServiceWebTest.cs" timestamp="1557909169163">
         <mark key="'" line="23" column="36" />
         <mark key="[" line="1" column="0" />
@@ -65,6 +71,12 @@
         <mark key="]" line="6" column="46" />
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IResenderService.cs" timestamp="1557913722194">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Service/Mia.Interface.Service/IMessageStateConfService.cs" timestamp="1557907943159">
         <mark key="[" line="6" column="3" />
@@ -238,6 +250,12 @@
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ResenderService.cs" timestamp="1557914210559">
+        <mark key="[" line="100" column="68" />
+        <mark key="]" line="100" column="86" />
+        <mark key="^" line="100" column="86" />
+        <mark key="." line="100" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" timestamp="1557845377610">
         <mark key="[" line="4" column="0" />
@@ -459,22 +477,34 @@
       <jump line="146" column="17" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbmZvYm94XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3Qgc3RyaW5nIEdpdmVuTWlhU2VuZGVyc1VyaSA9ICJodHRwOi8vbWlhLmhvc3QvTUlBL1NlbmRlclNlcnZpY2VXZWIvanNvbi9zZW5kZXJzIjsK</text>
+        <text encoding="base64">ICAgICAgUHJvdmlkZUNvbXBsZXRlZER1bW15VHJhbnNtaXNzaW9uKDExLCAxKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGdpdmVuTWVzc2FnZSA9IFByb3ZpZGVDb21wbGV0ZWREdW1teU1lc3NhZ2UoZ2l2ZW5NZXNzYWdlSWQpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaW50ZXJmYWNlUmVwb3NpdG9yeU1vY2suU2V0dXAobSA9PiBtLkZpbmRXaGVyZVJhbmdlKEl0LklzQW55PE1lc3NhZ2VGaWx0ZXJEdG8+KCksIDAsIEl0LklzQW55PGludD4oKSkpLlJldHVybnMobmV3IExpc3Q8TWVzc2FnZURUTz4ge2dpdmVuTWVzc2FnZSwgZ2l2ZW5NZXNzYWdlfSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtZXNzYWdlRXhwZWN0ZWRUb0JlUmVzZXQuQWRkaXRpb25hbEluZm9zLlNob3VsZCgpLkJlRW1wdHkoKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>new Transmission
                 {
                         MessageId = 1,
@@ -485,26 +515,14 @@
                         OriginalAcknowledge = &quot;original acknowledge&quot;
                 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">bmV3IE1lc3NhZ2UKICAgICAgICB7CiAgICAgICAgICAgICAgICBJRCA9IDEsCiAgICAgICAgICAgICAgICBTdWJzY3JpYmVyID0gInRhcmdldCBzZW5kZXIiLAogICAgICAgICAgICAgICAgQ3JlYXRlVGltZSA9IFRhcmdldERhdGUsCiAgICAgICAgICAgICAgICBNZXNzYWdlU3RhdGUgPSBNZXNzYWdlU3RhdGUuRXJyb3JJblByb2Nlc3NpbmdPckVkaXRpbmcsCiAgICAgICAgICAgICAgICBSZXR1cm5NZXNzYWdlID0gInJldHVybiBtZXNzYWdlIiwKICAgICAgICAgICAgICAgIEIyTU1MQ29udGVudCA9ICI8eG1sPjx0YXJnZXQgLz48L3htbD4iCiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBNZXNzYWdlCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElEID0gMSwKICAgICAgICAgICAgICAgICAgICAgICAgU3Vic2NyaWJlciA9ICJ0YXJnZXQgc2VuZGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlVGltZSA9IFRhcmdldERhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIE1lc3NhZ2VTdGF0ZSA9IE1lc3NhZ2VTdGF0ZS5FcnJvckluUHJvY2Vzc2luZ09yRWRpdGluZywKICAgICAgICAgICAgICAgICAgICAgICAgUmV0dXJuTWVzc2FnZSA9ICJyZXR1cm4gbWVzc2FnZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIEIyTU1MQ29udGVudCA9ICI8eG1sPjx0YXJnZXQgLz48L3htbD4iCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBbVGVzdF0KICAgIHB1YmxpYyB2b2lkIFRlc3RHZXRNZXNzYWdlU3RhdGVzKCkKICAgIHsKICAgICAgdmFyIHJldHVybmVkTWVzc2FnZVN0YXRlcyA9IGludGVyZmFjZU1vbml0b3JpbmcyQXBpU2VydmljZS5HZXRNZXNzYWdlU3RhdGVzKCk7CgogICAgICB2YXIgZXhwZWN0ZWRNZXNzYWdlU3RhdGVzID0gbmV3IExpc3Q8TWVzc2FnZVN0YXRlRHRvPgogICAgICB7CiAgICAgICAgbmV3IE1lc3NhZ2VTdGF0ZUR0bwogICAgICAgIHsKICAgICAgICAgIFRlY2hkZXNjID0gIiNFUlJPUiIsCiAgICAgICAgICBMYWJlbCA9ICJFcnJvciIsCiAgICAgICAgICBSZXNlbmRhYmxlID0gdHJ1ZQogICAgICAgIH0sCiAgICAgICAgbmV3IE1lc3NhZ2VTdGF0ZUR0bwogICAgICAgIHsKICAgICAgICAgIFRlY2hkZXNjID0gIiNQUk9DRVNTRUQiLAogICAgICAgICAgTGFiZWwgPSAiU3VjY2Vzc2Z1bCIsCiAgICAgICAgICBSZXNlbmRhYmxlID0gZmFsc2UKICAgICAgICB9CiAgICAgIH07CgogICAgICByZXR1cm5lZE1lc3NhZ2VTdGF0ZXMuU2hvdWxkQmVFcXVpdmFsZW50VG8oZXhwZWN0ZWRNZXNzYWdlU3RhdGVzKTsKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIHZhciByZXN1bHRDb250ZW50ID0gbmV3IFN0cmVhbVJlYWRlcihyZXN1bHQpLlJlYWRUb0VuZCgpOwogICAgICByZXN1bHRDb250ZW50LlNob3VsZCgpLkJlKEdpdmVuRm9yd2FyZFNlcnZpY2VSZXNwb25zZUNvbnRlbnQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG1lc3NhZ2VTdGF0ZXMgPSBuZXcgTGlzdDxJZmFjZU1lc3NhZ2VTdGF0ZT4KICAgICAgewogICAgICAgICAgICAgIG5ldyBJZmFjZU1lc3NhZ2VTdGF0ZQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgIFRlY2hEZXNjID0gIiNTVEFURTEiLAogICAgICAgICAgICAgICAgICAgICAgWERlc2NyaXB0aW9uID0gbmV3IFRyYW5zbGF0aW9ucygiPHhtbD48ZGUtREU+U3RhdGUxLURFPC9kZS1ERT48ZW4tR0I+U3RhdGUxLUVOPC9lbi1HQj48L3htbD4iKSwKICAgICAgICAgICAgICAgICAgICAgIFJlc2VuZGFibGUgPSB0cnVlCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICBuZXcgSWZhY2VNZXNzYWdlU3RhdGUKICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICBUZWNoRGVzYyA9ICIjU1RBVEUyIiwKICAgICAgICAgICAgICAgICAgICAgIFhEZXNjcmlwdGlvbiA9IG5ldyBUcmFuc2xhdGlvbnMoIjx4bWw+PGRlLURFPlN0YXRlMi1ERTwvZGUtREU+PGVuLUdCPlN0YXRlMi1FTjwvZW4tR0I+PC94bWw+IiksCiAgICAgICAgICAgICAgICAgICAgICBSZXNlbmRhYmxlID0gZmFsc2UKICAgICAgICAgICAgICB9CiAgICAgIH07CgogICAgICBpZmFjZU1lc3NhZ2VTdGF0ZVJlcG9zaXRvcnlNb2NrLlNldHVwKHAgPT4gcC5HZXRNZXNzYWdlU3RhdGVzKCkpLlJldHVybnMobWVzc2FnZVN0YXRlcy5Bc1F1ZXJ5YWJsZSgpKTsKCiAgICAgIHZhciByZXN1bHQgPSBzZXJ2aWNlLkdldE1lc3NhZ2VTdGF0ZXMoKTsKCiAgICAgIHJlc3VsdC5TaG91bGRCZUVxdWl2YWxlbnRUbygKICAgICAgICAgICAgICBuZXcgTGlzdDxNZXNzYWdlU3RhdGVEdG8+CiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgbmV3IE1lc3NhZ2VTdGF0ZUR0bwogICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZWNoZGVzYyA9ICIjU1RBVEUxIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGFiZWwgPSAiU3RhdGUxLUVOIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUmVzZW5kYWJsZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICBuZXcgTWVzc2FnZVN0YXRlRHRvCiAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRlY2hkZXNjID0gIiNTVEFURTIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMYWJlbCA9ICJTdGF0ZTItRU4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSZXNlbmRhYmxlID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Igo=</text>
+        <text encoding="base64">CiAgICBbVGVzdF0KICAgIHB1YmxpYyB2b2lkIFRlc3RHZXRNZXNzYWdlU3RhdGVzKCkKICAgIHsKICAgICAgdmFyIHJldHVybmVkTWVzc2FnZVN0YXRlcyA9IGludGVyZmFjZU1vbml0b3JpbmcyQXBpU2VydmljZS5HZXRNZXNzYWdlU3RhdGVzKCk7CgogICAgICB2YXIgZXhwZWN0ZWRNZXNzYWdlU3RhdGVzID0gbmV3IExpc3Q8TWVzc2FnZVN0YXRlRHRvPgogICAgICB7CiAgICAgICAgbmV3IE1lc3NhZ2VTdGF0ZUR0bwogICAgICAgIHsKICAgICAgICAgIFRlY2hkZXNjID0gIiNFUlJPUiIsCiAgICAgICAgICBMYWJlbCA9ICJFcnJvciIsCiAgICAgICAgICBSZXNlbmRhYmxlID0gdHJ1ZQogICAgICAgIH0sCiAgICAgICAgbmV3IE1lc3NhZ2VTdGF0ZUR0bwogICAgICAgIHsKICAgICAgICAgIFRlY2hkZXNjID0gIiNQUk9DRVNTRUQiLAogICAgICAgICAgTGFiZWwgPSAiU3VjY2Vzc2Z1bCIsCiAgICAgICAgICBSZXNlbmRhYmxlID0gZmFsc2UKICAgICAgICB9CiAgICAgIH07CgogICAgICByZXR1cm5lZE1lc3NhZ2VTdGF0ZXMuU2hvdWxkQmVFcXVpdmFsZW50VG8oZXhwZWN0ZWRNZXNzYWdlU3RhdGVzKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
