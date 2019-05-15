@@ -447,7 +447,7 @@
         <text encoding="base64">ICAgICAgY2xhc3MK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -479,9 +479,9 @@
         <entry>wc</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>^</entry>
-        <entry>qa</entry>
         <entry>wk</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
