@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/ComponentTests/IFaceMonitoring2ComponentTest.cs" timestamp="1557911381080">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Infobox.js" timestamp="1557845195876">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="21" />
@@ -116,13 +111,11 @@
         <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" timestamp="1557918675116">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="536" column="26" />
-        <mark key="]" line="536" column="38" />
-        <mark key="^" line="536" column="38" />
-        <mark key="." line="536" column="38" />
+        <mark key="[" line="526" column="26" />
+        <mark key="]" line="526" column="38" />
+        <mark key="^" line="526" column="38" />
+        <mark key="." line="526" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/AtviseIntegration/ValuePush/AtviseHub.cs" timestamp="1558338536608" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" timestamp="1557844998772">
         <mark key="[" line="469" column="96" />
         <mark key="]" line="469" column="96" />
@@ -236,7 +229,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-        <mark key="^" line="164" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageFilterDto.cs" timestamp="1557240056926">
         <mark key="[" line="13" column="12" />
@@ -348,12 +340,6 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Interface/IInterfaceMonitoring2ApiService.cs" timestamp="1557918462379">
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="15" />
-        <mark key="." line="113" column="15" />
-        <mark key="^" line="113" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/UnitTest1.cs" timestamp="1557737017641">
         <mark key="[" line="53" column="4" />
