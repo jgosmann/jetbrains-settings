@@ -96,6 +96,9 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/www/modules/visualisation/js/util/wapApi.js" timestamp="1558338928180">
+        <mark key="'" line="44" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1557909442811">
         <mark key="[" line="194" column="64" />
         <mark key="]" line="194" column="114" />
@@ -496,6 +499,7 @@
       <jump line="278" column="0" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" />
       <jump line="146" column="17" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/_Solutions/Mia.IntegrationTests/BatchResendTest.cs" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" />
+      <jump line="44" column="35" filename="$USER_HOME$/Documents/mes-clone/dev/src/SPC/SitePilot/www/modules/visualisation/js/util/wapApi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -505,7 +509,7 @@
         <text encoding="base64">ID09IG51bGw=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbmZvYm94XD4=</text>
+        <text encoding="base64">XDxwdXNoQ2FsbGJhY2tBdHZpc2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuUmV0dXJuc0FzeW5jKG5ldyBIdHRwUmVzcG9uc2VNZXNzYWdle0NvbnRlbnQgPSBuZXcgU3RyaW5nQ29udGVudChHaXZlbkZvcndhcmRTZXJ2aWNlUmVzcG9uc2VDb250ZW50KX0pOwoKICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IHNlcnZpY2UuR2V0U2VuZGVycygpOwogICAgICAKICAgICAgdmFyIHJlc3VsdENvbnRlbnQgPSBuZXcgU3RyZWFtUmVhZGVyKHJlc3VsdCkuUmVhZFRvRW5kKCk7CiAgICAgIHJlc3VsdENvbnRlbnQuU2hvdWxkKCkuQmUoR2l2ZW5Gb3J3YXJkU2VydmljZVJlc3BvbnNlQ29udGVudCk7Cg==</text>
@@ -542,10 +546,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbmZvYm94XD4=</last-search>
+      <last-search encoding="base64">XDxwdXNoQ2FsbGJhY2tBdHZpc2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbmZvYm94XD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxwdXNoQ2FsbGJhY2tBdHZpc2VcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -562,6 +566,7 @@
         <entry encoding="base64">XDxtaWFRdWV1ZVw+</entry>
         <entry>value</entry>
         <entry encoding="base64">XDxJbmZvYm94XD4=</entry>
+        <entry encoding="base64">XDxwdXNoQ2FsbGJhY2tBdHZpc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
