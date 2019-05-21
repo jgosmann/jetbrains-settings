@@ -98,7 +98,6 @@
         <mark key="^" line="273" column="29" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/AtviseIntegration/Services/Authorization/AtviseAuthenticationService.cs" timestamp="1558366135833" />
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Launcher/Mia.Launcher/MiaLauncher.cs" timestamp="1557909442811">
         <mark key="[" line="194" column="64" />
         <mark key="]" line="194" column="114" />
@@ -112,10 +111,10 @@
         <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2.Tests/Services/InterfaceMonitoring2ApiServiceTest.cs" timestamp="1557918675116">
-        <mark key="[" line="526" column="26" />
-        <mark key="]" line="526" column="38" />
-        <mark key="^" line="526" column="38" />
-        <mark key="." line="526" column="38" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/test/advancedRetrySelectors.spec.js" timestamp="1558359023465">
         <mark key="'" line="23" column="0" />
@@ -226,11 +225,6 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/IFaceMonitoring2/Services/InterfaceMonitoring2ApiService.cs" timestamp="1557918447342">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Interface/Dto/Mia.Interface.Dto/MessageFilterDto.cs" timestamp="1557240056926">
         <mark key="[" line="13" column="12" />
