@@ -247,7 +247,6 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/mes-clone/dev/src/Wap/Features/AtviseIntegration/Services/Authorization/LicenseCalculator.cs" timestamp="1558433181795" />
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/advancedRetrySelectors.js" timestamp="1558358745640">
         <mark key="'" line="28" column="21" />
         <mark key="[" line="29" column="0" />
@@ -278,12 +277,6 @@
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/ResenderService.cs" timestamp="1557914210559">
-        <mark key="[" line="100" column="68" />
-        <mark key="]" line="100" column="86" />
-        <mark key="^" line="100" column="86" />
-        <mark key="." line="100" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" timestamp="1557845377610">
         <mark key="[" line="4" column="0" />
