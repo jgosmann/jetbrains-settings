@@ -206,6 +206,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Features/AtviseIntegration/Configuration/AtviseProjectsConfiguration.xml" timestamp="1559038330950">
+        <mark key="[" line="1" column="104" />
+        <mark key="]" line="1" column="104" />
+        <mark key="." line="1" column="104" />
+        <mark key="^" line="1" column="86" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Framework/Source/Service/ProductionOrdering/ProductionOrderPlanningService.cs" timestamp="1558429102475">
         <mark key="[" line="1221" column="10" />
         <mark key="]" line="1221" column="10" />
@@ -540,10 +546,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, Resendable = true</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>, Resendable = true</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc21pc3Npb25TdGF0ZVJlcG9zaXRvcnlNb2NrXD4=</text>
