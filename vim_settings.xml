@@ -57,6 +57,12 @@
         <mark key="." line="5" column="72" />
         <mark key="^" line="5" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderForm/OrderForm.js" timestamp="1559130435194">
+        <mark key="[" line="92" column="40" />
+        <mark key="]" line="92" column="59" />
+        <mark key="^" line="92" column="59" />
+        <mark key="." line="92" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" timestamp="1558966506624">
         <mark key="'" line="276" column="6" />
         <mark key="[" line="361" column="146" />
@@ -322,6 +328,13 @@
         <mark key="." line="99" column="118" />
         <mark key="^" line="99" column="118" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1559131097877">
+        <mark key="'" line="22" column="100" />
+        <mark key="[" line="22" column="101" />
+        <mark key="]" line="22" column="109" />
+        <mark key="^" line="22" column="109" />
+        <mark key="." line="22" column="109" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" timestamp="1557845377610">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="43" />
@@ -447,12 +460,8 @@
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/Wap/Interfaces/ProductionStates/ProductionStateDto.cs" timestamp="1559042449065" />
     </filemarks>
     <jumps>
-      <jump line="19" column="105" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Manager/Mia.Manager/Resend/ResendManager.cs" />
-      <jump line="166" column="5" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/test/advancedRetrySelectors.spec.js" />
-      <jump line="7" column="92" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/selectors/advancedRetrySelectors.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
       <jump line="12" column="72" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
       <jump line="24" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" />
@@ -550,13 +559,16 @@
       <jump line="37" column="102" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" />
       <jump line="244" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" />
       <jump line="276" column="6" filename="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Test/Mia.Test/Service/ResenderServiceTest.cs" />
+      <jump line="20" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
+      <jump line="22" column="100" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
+      <jump line="52" column="3" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc21pc3Npb25TdGF0ZVJlcG9zaXRvcnlNb2NrXD4=</text>
@@ -565,31 +577,31 @@
         <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgUmVzZW5kTWVzc2FnZXNSZXNldHNTZWxlY3RlZEFzc29jaWF0ZWRUcmFuc21pc3Npb25zSWZSZWNlaXZlcklzR2l2ZW4oKQogICAgewogICAgICB2YXIgZ2l2ZW5GaWx0ZXIgPSBuZXcgTWVzc2FnZUZpbHRlckR0bygpOwogICAgICB2YXIgZ2l2ZW5SZWNlaXZlciA9ICJnaXZlbiByZWNlaXZlciI7CgogICAgICB2YXIgZ2l2ZW5NZXNzYWdlSWQgPSAyMDAwOwogICAgICB2YXIgZ2l2ZW5UcmFuc21pc3Npb25JZHMgPSBuZXdbXSB7MjAwMSwgMjAwMn07CiAgICAgIHZhciBnaXZlbk1lc3NhZ2UgPSBQcm92aWRlQ29tcGxldGVkRHVtbXlNZXNzYWdlKGdpdmVuTWVzc2FnZUlkKTsKICAgICAgaW50ZXJmYWNlUmVwb3NpdG9yeU1vY2suU2V0dXAobSA9PiBtLkZpbmRXaGVyZVJhbmdlKGdpdmVuRmlsdGVyLCAwLCBJdC5Jc0FueTxpbnQ+KCkpKS5SZXR1cm5zKG5ldyBMaXN0PE1lc3NhZ2VEVE8+IHtnaXZlbk1lc3NhZ2V9KTsKICAgICAgaW50ZXJmYWNlUmVwb3NpdG9yeU1vY2suU2V0dXAobSA9PiBtLkZpbmRXaGVyZVJhbmdlKGdpdmVuRmlsdGVyLCBJdC5Jczxsb25nPihpID0+IGkgPiAwKSwgSXQuSXNBbnk8aW50PigpKSkuUmV0dXJucyhuZXcgTGlzdDxNZXNzYWdlRFRPPigpKTsKCiAgICAgIHZhciB0cmFuc21pc3Npb25zID0gZ2l2ZW5UcmFuc21pc3Npb25JZHMuU2VsZWN0KGlkID0+IFByb3ZpZGVDb21wbGV0ZWREdW1teVRyYW5zbWlzc2lvbihpZCwgZ2l2ZW5NZXNzYWdlSWQpKS5Ub0xpc3QoKTsKICAgICAgdHJhbnNtaXNzaW9ucy5GaXJzdCgpLlNlbmRlciA9IGdpdmVuUmVjZWl2ZXI7ICAvLyBXaGF0IHRoZSBNSUEgcmVnYXJkcyBhcyBhIHJlY2VpdmVyIGlzIGEgc2VuZGVyIGZyb20gdGhlIHZpZXdwb2ludCBvZiBhIHRyYW5zbWlzc2lvbgogICAgICB0cmFuc21pc3Npb25SZXBvc2l0b3J5TW9jawogICAgICAgICAgICAgIC5TZXR1cChtID0+IG0uRmluZEFsbEJ5QjJNTUxJbnRlcmZhY2VJZHNBbmRSZWNlaXZlcigKICAgICAgICAgICAgICAgICAgICAgIEl0LklzPElMaXN0PGxvbmc+PihsaXN0ID0+IGxpc3QuU2luZ2xlKCkgPT0gZ2l2ZW5NZXNzYWdlSWQpLAogICAgICAgICAgICAgICAgICAgICAgZ2l2ZW5SZWNlaXZlcikpCiAgICAgICAgICAgICAgLlJldHVybnMobmV3IExpc3Q8VHJhbnNtaXNzaW9uRFRPPiB7dHJhbnNtaXNzaW9ucy5GaXJzdCgpfSk7CiAgICAgIHRyYW5zbWlzc2lvblN0YXRlUmVwb3NpdG9yeU1vY2suU2V0dXAobSA9PiBtLkZpbmRSZXNlbmRhYmxlcygpKQogICAgICAgICAgICAgIC5SZXR1cm5zKG5ld1tdIHtuZXcgVHJhbnNtaXNzaW9uU3RhdGVDb25mRFRPIHtJRCA9IChsb25nKSBUcmFuc21pc3Npb25TdGF0ZS5Db21wbGV0ZWRTdWNjZXNzZnVsbHl9fSk7CgogICAgICByZXNlbmRlclNlcnZpY2UuUmVzZW5kTWVzc2FnZXMoZ2l2ZW5GaWx0ZXIsIGdpdmVuUmVjZWl2ZXIpOwoKICAgICAgdHJhbnNtaXNzaW9uUmVwb3NpdG9yeU1vY2suVmVyaWZ5KAogICAgICAgICAgICAgIG0gPT4gbS5VcGRhdGUoSXQuSXM8TGlzdDxUcmFuc21pc3Npb25EVE8+PigKICAgICAgICAgICAgICAgICAgICAgIGxpc3QgPT4gbGlzdC5TaW5nbGUoKS5TZW5kZXIgPT0gZ2l2ZW5SZWNlaXZlciAmJiBJc1RyYW5zbWlzc2lvblJlc2V0KGxpc3QuU2luZ2xlKCkpKSksCiAgICAgICAgICAgICAgVGltZXMuT25jZSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgVHJhbnNtaXNzaW9uU3RhdGVDb25mRFRPIHtJRCA9IChsb25nKSBUcmFuc21pc3Npb25TdGF0ZS5Db21wbGV0ZWRTdWNjZXNzZnVsbHksIFJlc2VuZGFibGUgPSBmYWxzZX0K</text>
+        <text encoding="base64">aW1wb3J0IEZvY3VzTG9jayBmcm9tICdyZWFjdC1mb2N1cy1sb2NrJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNtaXNzaW9ucy5GaXJzdCgpLlNlbmRlciA9IGdpdmVuUmVjZWl2ZXI7ICAvLyBXaGF0IHRoZSBNSUEgcmVnYXJkcyBhcyBhIHJlY2VpdmVyIGlzIGEgc2VuZGVyIGZyb20gdGhlIHZpZXdwb2ludCBvZiBhIHRyYW5zbWlzc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgVHJhbnNtaXNzaW9uU3RhdGVDb25mRFRPIHtJRCA9IChsb25nKSBUcmFuc21pc3Npb25TdGF0ZS5Db21wbGV0ZWRTdWNjZXNzZnVsbHksIFJlc2VuZGFibGUgPSBmYWxzZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRyYW5zbWlzc2lvbnMgPSBnaXZlblRyYW5zbWlzc2lvbklkcy5TZWxlY3QoaWQgPT4gUHJvdmlkZUNvbXBsZXRlZER1bW15VHJhbnNtaXNzaW9uKGlkLCBnaXZlbk1lc3NhZ2VJZCkpLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgdHJhbnNtaXNzaW9ucy5GaXJzdCgpLlNlbmRlciA9IGdpdmVuUmVjZWl2ZXI7ICAvLyBXaGF0IHRoZSBNSUEgcmVnYXJkcyBhcyBhIHJlY2VpdmVyIGlzIGEgc2VuZGVyIGZyb20gdGhlIHZpZXdwb2ludCBvZiBhIHRyYW5zbWlzc2lvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGdpdmVuVHJhbnNtaXNzaW9uSWRzID0gbmV3W10gezIwMDEsIDIwMDJ9Owo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHRyYW5zbWlzc2lvbnMgPSBnaXZlblRyYW5zbWlzc2lvbklkcy5TZWxlY3QoaWQgPT4gUHJvdmlkZUNvbXBsZXRlZER1bW15VHJhbnNtaXNzaW9uKGlkLCBnaXZlbk1lc3NhZ2VJZCkpLlRvTGlzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgdmFyIGdpdmVuVHJhbnNtaXNzaW9uSWRzID0gbmV3W10gezIwMDEsIDIwMDJ9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUcmFuc21pc3Npb25TdGF0ZUNvbmYKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICBJRCA9IChsb25nKSBUcmFuc21pc3Npb25TdGF0ZS5Db21wbGV0ZWRXaXRoRXJyb3JzLAogICAgICAgICAgICAgICAgICAgICAgIFJlc2VuZGFibGUgPSB0cnVlCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGdpdmVuVHJhbnNtaXNzaW9uSWRzID0gbmV3W10gezIwMDEsIDIwMDJ9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50cmFuc21pc3Npb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUcmFuc21pc3Npb25TdGF0ZUNvbmYKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICBJRCA9IChsb25nKSBUcmFuc21pc3Npb25TdGF0ZS5Db21wbGV0ZWRXaXRoRXJyb3JzLAogICAgICAgICAgICAgICAgICAgICAgIFJlc2VuZGFibGUgPSB0cnVlCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgSUVudW1lcmFibGU8TWVzc2FnZVN0YXRlQ29uZkRUTz4gRmluZEFsbCgpCiAgICB7CiAgICAgIHJldHVybiBDb252ZXJ0ZXIuTWFwKERhdGFNYXBwZXIuTGlucVNlc3Npb24oKS5Ub0xpc3QoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50cmFuc21pc3Npb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElFbnVtZXJhYmxlPE1lc3NhZ2VTdGF0ZUNvbmZEVE8+IEZpbmRBbGwoKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgSUVudW1lcmFibGU8TWVzc2FnZVN0YXRlQ29uZkRUTz4gRmluZEFsbCgpCiAgICB7CiAgICAgIHJldHVybiBDb252ZXJ0ZXIuTWFwKERhdGFNYXBwZXIuTGlucVNlc3Npb24oKS5Ub0xpc3QoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
