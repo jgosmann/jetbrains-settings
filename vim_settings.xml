@@ -9,6 +9,9 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" timestamp="1559134414690">
+        <mark key="'" line="28" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/UIControls/Infobox.js" timestamp="1557845195876">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="21" />
@@ -126,6 +129,9 @@
         <mark key="]" line="1560" column="62" />
         <mark key="^" line="1560" column="62" />
         <mark key="." line="1560" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_management.xliff" timestamp="1559134421590">
+        <mark key="'" line="135" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/LMS/LMS/Interfaces/MainInterfaceApplication/Service/Mia.Service/MessageStateConfService.cs" timestamp="1557907981031">
         <mark key="[" line="20" column="6" />
@@ -328,13 +334,6 @@
         <mark key="." line="99" column="118" />
         <mark key="^" line="99" column="118" />
       </file>
-      <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" timestamp="1559131097877">
-        <mark key="'" line="22" column="100" />
-        <mark key="[" line="22" column="101" />
-        <mark key="]" line="22" column="109" />
-        <mark key="^" line="22" column="109" />
-        <mark key="." line="22" column="109" />
-      </file>
       <file name="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" timestamp="1557845377610">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="43" />
@@ -462,12 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
-      <jump line="12" column="72" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/v2_interface_monitoring.xliff" />
-      <jump line="24" column="8" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" />
-      <jump line="21" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" />
       <jump line="28" column="110" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/test/AdvancedRetryErrorMessage.spec.js" />
       <jump line="25" column="38" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/AdvancedRetryErrorMessage.js" />
       <jump line="61" column="50" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/v2_interface_monitoring/js/components/AdvancedRetryDetails/test/AdvancedRetryErrorMessage.spec.js" />
@@ -562,6 +555,12 @@
       <jump line="20" column="12" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
       <jump line="22" column="100" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
       <jump line="52" column="3" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/src/modules/lms_order_management/js/components/OrderOverview/OrderOverview.js" />
+      <jump line="5" column="55" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" />
+      <jump line="26" column="113" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" />
+      <jump line="27" column="16" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" />
+      <jump line="28" column="16" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_equipment_coordinator.xliff" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_management.xliff" />
+      <jump line="135" column="79" filename="$USER_HOME$/Documents/mes/dev/src/SPC/SitePilot/www/translations/order_management.xliff" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -571,7 +570,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc21pc3Npb25TdGF0ZVJlcG9zaXRvcnlNb2NrXD4=</text>
+        <text>Name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgUmVzZW5kTWVzc2FnZXNSZXNldHNTZWxlY3RlZEFzc29jaWF0ZWRUcmFuc21pc3Npb25zSWZSZWNlaXZlcklzR2l2ZW4oKQogICAgewogICAgICB2YXIgZ2l2ZW5GaWx0ZXIgPSBuZXcgTWVzc2FnZUZpbHRlckR0bygpOwogICAgICB2YXIgZ2l2ZW5SZWNlaXZlciA9ICJnaXZlbiByZWNlaXZlciI7CgogICAgICB2YXIgZ2l2ZW5NZXNzYWdlSWQgPSAyMDAwOwogICAgICB2YXIgZ2l2ZW5UcmFuc21pc3Npb25JZHMgPSBuZXdbXSB7MjAwMSwgMjAwMn07CiAgICAgIHZhciBnaXZlbk1lc3NhZ2UgPSBQcm92aWRlQ29tcGxldGVkRHVtbXlNZXNzYWdlKGdpdmVuTWVzc2FnZUlkKTsKICAgICAgaW50ZXJmYWNlUmVwb3NpdG9yeU1vY2suU2V0dXAobSA9PiBtLkZpbmRXaGVyZVJhbmdlKGdpdmVuRmlsdGVyLCAwLCBJdC5Jc0FueTxpbnQ+KCkpKS5SZXR1cm5zKG5ldyBMaXN0PE1lc3NhZ2VEVE8+IHtnaXZlbk1lc3NhZ2V9KTsKICAgICAgaW50ZXJmYWNlUmVwb3NpdG9yeU1vY2suU2V0dXAobSA9PiBtLkZpbmRXaGVyZVJhbmdlKGdpdmVuRmlsdGVyLCBJdC5Jczxsb25nPihpID0+IGkgPiAwKSwgSXQuSXNBbnk8aW50PigpKSkuUmV0dXJucyhuZXcgTGlzdDxNZXNzYWdlRFRPPigpKTsKCiAgICAgIHZhciB0cmFuc21pc3Npb25zID0gZ2l2ZW5UcmFuc21pc3Npb25JZHMuU2VsZWN0KGlkID0+IFByb3ZpZGVDb21wbGV0ZWREdW1teVRyYW5zbWlzc2lvbihpZCwgZ2l2ZW5NZXNzYWdlSWQpKS5Ub0xpc3QoKTsKICAgICAgdHJhbnNtaXNzaW9ucy5GaXJzdCgpLlNlbmRlciA9IGdpdmVuUmVjZWl2ZXI7ICAvLyBXaGF0IHRoZSBNSUEgcmVnYXJkcyBhcyBhIHJlY2VpdmVyIGlzIGEgc2VuZGVyIGZyb20gdGhlIHZpZXdwb2ludCBvZiBhIHRyYW5zbWlzc2lvbgogICAgICB0cmFuc21pc3Npb25SZXBvc2l0b3J5TW9jawogICAgICAgICAgICAgIC5TZXR1cChtID0+IG0uRmluZEFsbEJ5QjJNTUxJbnRlcmZhY2VJZHNBbmRSZWNlaXZlcigKICAgICAgICAgICAgICAgICAgICAgIEl0LklzPElMaXN0PGxvbmc+PihsaXN0ID0+IGxpc3QuU2luZ2xlKCkgPT0gZ2l2ZW5NZXNzYWdlSWQpLAogICAgICAgICAgICAgICAgICAgICAgZ2l2ZW5SZWNlaXZlcikpCiAgICAgICAgICAgICAgLlJldHVybnMobmV3IExpc3Q8VHJhbnNtaXNzaW9uRFRPPiB7dHJhbnNtaXNzaW9ucy5GaXJzdCgpfSk7CiAgICAgIHRyYW5zbWlzc2lvblN0YXRlUmVwb3NpdG9yeU1vY2suU2V0dXAobSA9PiBtLkZpbmRSZXNlbmRhYmxlcygpKQogICAgICAgICAgICAgIC5SZXR1cm5zKG5ld1tdIHtuZXcgVHJhbnNtaXNzaW9uU3RhdGVDb25mRFRPIHtJRCA9IChsb25nKSBUcmFuc21pc3Npb25TdGF0ZS5Db21wbGV0ZWRTdWNjZXNzZnVsbHl9fSk7CgogICAgICByZXNlbmRlclNlcnZpY2UuUmVzZW5kTWVzc2FnZXMoZ2l2ZW5GaWx0ZXIsIGdpdmVuUmVjZWl2ZXIpOwoKICAgICAgdHJhbnNtaXNzaW9uUmVwb3NpdG9yeU1vY2suVmVyaWZ5KAogICAgICAgICAgICAgIG0gPT4gbS5VcGRhdGUoSXQuSXM8TGlzdDxUcmFuc21pc3Npb25EVE8+PigKICAgICAgICAgICAgICAgICAgICAgIGxpc3QgPT4gbGlzdC5TaW5nbGUoKS5TZW5kZXIgPT0gZ2l2ZW5SZWNlaXZlciAmJiBJc1RyYW5zbWlzc2lvblJlc2V0KGxpc3QuU2luZ2xlKCkpKSksCiAgICAgICAgICAgICAgVGltZXMuT25jZSk7CiAgICB9Cg==</text>
@@ -608,9 +607,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc21pc3Npb25TdGF0ZVJlcG9zaXRvcnlNb2NrXD4=</last-search>
+      <last-search>Name</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc21pc3Npb25TdGF0ZVJlcG9zaXRvcnlNb2NrXD4=</last-pattern>
+      <last-pattern>Name</last-pattern>
       <last-replace>Transmission</last-replace>
       <last-substitute>Message</last-substitute>
       <last-dir>1</last-dir>
@@ -618,7 +617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FindRange</entry>
         <entry encoding="base64">XDx0cmFuc21pc2lzb25XaXRoTWVzc2FnZVJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDx4bWxUcmFuc2Zvcm1hdGlvbkZhY3RvcnlcPg==</entry>
@@ -638,6 +636,7 @@
         <entry encoding="base64">XDxUcmFuc21pc3Npb25TdGF0ZUNvbmZcPg==</entry>
         <entry encoding="base64">XDxnaXZlblRyYW5zbWlzc2lvbklkc1w+</entry>
         <entry encoding="base64">XDx0cmFuc21pc3Npb25TdGF0ZVJlcG9zaXRvcnlNb2NrXD4=</entry>
+        <entry>Name</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
